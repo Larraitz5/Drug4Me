@@ -1,0 +1,8 @@
+> No clinically relevant interaction of co -administered chemotherapy on bevacizumab pharmacokinetics was observed based on the results of population pharmacokinetic analyses. There were neither statistically significant nor clinically relevant differences in bevacizumab clearance in patients receiv ing bevacizumab monotherapy compared to patients receiving bevacizumab in combination with interferon alfa -2a, ERLOTINIB or chemotherapies (IFL, 5-FU/LV, CARBOPLATIN/PACLITAXEL, CAPECITABINE, DOXORUBICIN or CISPLATIN/GEMCITABINE). 
+> Combination of bevacizumab and SUNITINIB malate 
+> In two clinical trials of metastatic renal cell carcinoma, microangiopathic haemolytic anaemia (MAHA) was reported in 7 of 19 patients treated with bevacizumab (10  mg/kg every two weeks) and SUNITINIB malate (50  mg daily) combination. 
+> Combination with PLATINUM - or taxane- based therapies (see sections 4.4 and 4.8) 
+> Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with PLATINUM- or taxane -based therapies in the treatment of NSCLC and m
+> The safety and efficacy of concomitant administration of RADIOTHERAPY and bevacizumab has not been established.
+> EGFR MONOCLONAL ANTIBODIES in combination with bevacizumab chemotherapy regimens
+> CRC suggest that the use of anti -EGFR MONOCLONAL ANTIBODIES PANITUMUMAB and CETUXIMAB, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.

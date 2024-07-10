@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No in vivo  interaction studies have been performed. 
+ In radioligand binding assays using a broad panel of animal and human receptors, ion channels and transporters no significant binding was found.  
+ In vitro  studies using human liver microsomes did not indicate any potential to inhibit the cytochrome P450 enzyme system.  
+ 

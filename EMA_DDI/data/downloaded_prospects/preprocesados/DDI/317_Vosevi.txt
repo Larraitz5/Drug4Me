@@ -1,0 +1,160 @@
+> VELPATASVIR  and VOXILAPREVIR are  inhibitor s of drug transporter s P-gp, breast cancer resistance protein (BCRP), organic anion- transporting polypeptide ( OATP ) 1B1 and OATP1B3. Co -administration of VOSEVI  with medicinal products that are substrates of these transporters  may increase the exposure of such medicinal products . Medic inal products that are sensitive substrates of these transporters and for which elevated plasma levels are associated with serious event s are contraindicated (see Table 2). DABIGATRAN ETEXILATE (P -gp substrate) and ROSUVASTATIN (OATP1B and BCRP subst rate) are contraindicated (see s ection  4.3 and Table  2). 
+> Medicinal products that may decrease plasma exposure of VOSEVI  Medicinal products that are strong inducers of P -gp and/or strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g. CARBAMAZEPINE, PHENOBARBITAL, PHENYTOIN, rifampicin, RIFABUTIN and St. John’s wort)  may decrease plasma concentrations of SOFOSBUVIR , VELPATASVIR and/or VOXILAPREVIR  leading to reduced therapeutic effect of VOSEVI . The use of such medicinal products with VOSEVI  is contraindicated (see section  4.3 and Table 2).
+> Medicinal products that are moderate P -gp inducers and/or moderate CYP inducers (e.g. EFAVIRENZ, MODAFINIL , OXCARBAZEPINE or RIFAPENTINE ) may decrease SOFOSBUVIR , VELPATASVIR and/or VOXILAPREVIR plasma concentrations  leading to reduced therapeutic effect of VOSEVI . Co-administration with such medicinal products is not recommended with VOSEVI  (see section  4.4 and Table  2).
+> Medicinal products that may increase plasma exposure of VOSEVI  Co-administration with medicinal products that inhibit P -gp or BCRP may increase SOFOSBUVIR , VELPATASVIR  or VOXILAPREVIR  plasma concentrations . Medicinal products that inhibit  OATP 1B, CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration s of VELPATASVIR  or VOXILAPREVIR . The use of strong inhibitors of OATP 1B (e.g. CICLOSPORIN)  with VOSEVI  is not recommended  (see section  4.4 and Table  2). Clinically significant medicinal product interactions with VOSEVI  mediated by P-gp, BCRP  and CYP  inhibitors  are not expected . VOSEVI  may be c o-admi nistered with P -gp, BCRP  and CYP inhibitors. 
+> Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin ACID REDUCING AGENTS  ANTACIDS  e.g. ALUMINIUM or MAGNESIUM HYDROXIDE; CALCIUM CARBONATE 
+> H  decreases VELPATASVIR solubility ) Interaction not studied.  Expected : 
+↔ SOFOSBUVIR  
+↓ VELPATASVIR  
+↔ VOXILAPREVIR  It is recommended to separate antacid and VOSEVI  administration by 4 hours. H2-RECEPTOR ANTAGONISTS  FAMOTIDINE  (40 mg single dose ) + SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400/ 100/100 mg single dose)c
+> H  decreases VELPATASVIR solubility ) Observed:  SOFOSBUVIR   
+↔  
+↔  H2-RECEPTOR ANTAGONISTS may be administered simultaneously with or staggered from VOSEVI  at a dose that does not exceed doses comparable with FAMOTIDINE 
+40 mg twice daily.  VELPATASVIR  ↔ ↔  VOXILAPREVIR  ↔ ↔  8 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin FAMOTIDINE  (40 mg single dose) + SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400/ 100/ 
+100 mg single dose)c
+> H  decreases VELPATASVIR solubility )
+> H  decreases VELPATASVIR solubility ) Observed:  SOFOSBUVIR   
+↓ 
+0.77 (0.65, 
+0.91)   
+↓ 
+0.73 (0.67, 
+0.79)   PROTON PUMP INHIBITORS may be administered with VOSEVI  at a dose that does not exceed doses comparable with OMEPRAZOLE 
+20 mg.  VELPATASVIR  ↓ 
+0.43 (0.38, 
+0.49)  ↓ 
+0.46 (0.41, 
+0.52)   VOXILAPREVIR  ↓ 
+0.76 (0.69, 0.85)  ↔  OMEPRAZOLE  (20 mg once daily) + SOFOSBUVIR/ VELPATASVIR/ VOXILAPREVIR (400/ 100/ 
+100 mg single dose)c
+> H  decreases VELPATASVIR solubility ) Observed:  SOFOSBUVIR   
+↔  
+↔  VELPATASVIR  ↓ 
+0.49 (0.43, 
+0.55)  ↓ 
+0.49 (0.43, 
+0.55)   VOXILAPREVIR  ↔ ↔  ANTIARRHYTHMICS  AMIODARONE  Effect on AMIODARONE, VOXILAPREVIR, VELPATASVIR, and SOFOSBUVIR concentrations unknown. Coadministration of AMIODARONE with a SOFOSBUVIR -containing regimen may result in serious symptomatic bradycardia.  Use only if no other alternative is available.  Close monitoring is recommended if this medicinal product is administered with VOSEVI  (see sections  4.4 and 4.8).  9 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin DIGOXIN  Interaction only studied with VELPATASVIR.  Expected:  
+↔ SOFOSBUVIR  
+↔ VOXILAPREVIR  Co-administration of VOSEVI  with DIGOXIN may increase the concentration of DIGOXIN. Caution is warranted and therapeutic concentration monitoring of DIGOXIN is recommended.  DIGOXIN (0.25  mg single dose)e + VELPATASVIR (100 mg single dose) 
+> (Inhibition of OATP1B1)  Interaction not studied . Expected:  
+↑ EDOXABAN (active metabolite)  
+↔ SOFOSBUVIR  
+↔ VELPATASVIR  
+↔ VOXILAPREVIR  Co-administration of VOSEVI  with EDOXABAN is not recommended. Should direct Xa inhibitor use be deemed  necessary, apixab an or RIVAROXABAN may be considered.  VITAMIN K ANTAGONISTS 
+>  10 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin ANTIFUNGALS  KETOCONAZOLE 
+> (Inhibition of CYP3A)  Interaction only studied with v oxilaprevir . Expected:  
+↔ SOFOSBUVIR  
+↑ VELPATASVIR  No dose adjustment of VOSEVI  or VORICONAZOLE is required.  VORICONAZOLE (200 mg twice daily)  + VOXILAPREVIR (100 mg single dose)f Observed:  VOXILAPREVIR   
+↔  
+↑ 
+1.84 (1.66, 
+2.03)   11 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin ANTIMYCOBACTERIALS  Rifampicin (single dose) 
+> (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ SOFOSBUVIR  
+↓ VELPATASVIR  
+↓ VOXILAPREVIR  Co-administration of VOSEVI  with RIFAPENTINE is not recommended (see section  4.4). HIV ANTIVIRAL AGENTS: REVERSE TRANSCRIPTASE INHIBITORS  TENOFOVIR DISOPROXIL FUMARATE 
+> (Inhibition of P -gp) VOSEVI  has been shown to increase TENOFOVIR exposure (P -gp inhibition). There was an increase in TENOFOVIR exposure (AUC and C max) of around 40% during co-treatment with VOSEVI  and DARUNAVIR + RITONAVIR + TENOFOVIR DISOPROXIL FUMARATE/EMTRICITABINE. 
+> Patients receiving TENOFOVIR DISOPROXIL FUMARATE and VOSEVI  concomitantly should be monitored for adverse reactions associated with TENOFOVIR DISOPROXIL FUMARATE. Refer to the TENOFOVIR DISOPROXIL FUMARATE -containing product’s Summary of Product Characteri stics for recommendations on renal monitoring (see section  4.4). 12 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin EFAVIRENZ/EMTRICITABINE/ TENOFOVIR DISOPROXIL FUMARATE (600/200/300 mg once daily)g + SOFOSBUVIR/ VELPATASVIR (400/100 mg once daily)f, h
+> (Induction of CYPs)  Interaction only studied with SOFOSBUVIR/VELPATASVIR  Expected:  
+↓ VOXILAPREVIR  Co-administration of VOSEVI  with EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE is not recommended (see section  4.4). Observed:  EFAVIRENZ   
+↔  
+↔  
+↔ SOFOSBUVIR  ↑ 
+1.38 (1.14, 
+1.67)  ↔  VELPATASVIR  ↓ 
+0.53 (0.43, 
+0.64)  ↓ 
+0.47 (0.39, 
+0.57)  ↓ 
+0.43 (0.36, 
+0.52)  EMTRICITABINE/RILPIVIRINE/ TENOFOVIR ALAFENAMIDE (200/25/25 mg once daily)i 
++ SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400/100/ 
+100 mg once daily)  + VOXILAPREVIR (100 mg once daily)f Observed:  RILPIVIRINE   
+↔  
+↔  
+↔ No dose adjustment of VOSEVI  or EMTRICITABINE/RILPIVIRINE/TENOFOVIR ALAFENAMIDE is required.  SOFOSBUVIR  ↔ ↔  VELPATASVIR  ↔ ↔ ↔ VOXILAPREVIR  ↔ ↔ ↔ HIV ANTIVIRAL AGENTS: HIV PROTEASE INHIBITORS  ATAZANAVIR  boosted with RITONAVIR (300 + 100 mg single dose)  + SOFOSBUVIR/ VELPATASVIR/VOXILAPREVIR (400/100/100 mg single dose)f
+> Expected:  
+↔ ATAZANAVIR  
+↔ RITONAVIR  Co-administration of VOSEVI  with ATAZANAVIR is expected to increase the concentration of VOXILAPREVIR. Co-administration of VOSEVI  with ATAZANAVIR -containing regimens is not recommended.  Observed:  SOFOSBUVIR   
+↑ 
+1.29 (1.09, 
+1.52)   
+↑ 
+1.40 (1.25, 
+1.57)   VELPATASVIR  ↑ 
+1.29 (1.07, 
+1.56)  ↑ 
+1.93 (1.58, 
+2.36)   VOXILAPREVIR  ↑ 
+4.42 (3.65, 
+5.35)  ↑ 
+4.31 (3.76, 
+4.93)   13 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin DARUNAVIR  boosted with RITONAVIR (800 + 100 mg once daily) + EMTRICITABINE/ TENOFOVIR DISOPROXIL FUMARATE (200/300 mg once daily)j + SOFOSBUVIR/ VELPATASVIR/VOXILAPREVIR (400/100/100 mg once daily) + VOXILAPREVIR (100 mg once daily)f
+> (Inhibition of OATP1B)  Interaction not studied.  Expected:  
+↔ LOPINAVIR  
+↔ SOFOSBUVIR  
+↔ VELPATASVIR  
+↑ VOXILAPREVIR  Co-administration of VOSEVI  with LOPINAVIR -containing regimens is not recommended.  HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS  RALTEGRAVIR (400 mg twice daily)k + EMTRICITABINE/ TENOFOVIR DISOPROXIL FUMARATE (200/300 mg once daily)j + SOFOSBUVIR/ VELPATASVIR (400/100 mg once daily)f, h Interaction only studied with SOFOSBUVIR/VELPATASVIR  Expected:  
+↔ VOXILAPREVIR  No dose adjustment of VOSEVI , RALTEGRAVIR or EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE is required.  Observed:  RALTEGRAVIR   
+↔  
+↔  
+↓ 
+0.79 (0.42, 
+1.48)  SOFOSBUVIR  ↔ ↔  VELPATASVIR  ↔ ↔ ↔ 14 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin ELVITEGRAVIR /COBICISTAT/ EMTRICITABINE/TENOFOVIR ALAFENAMIDE FUMARATE (150/150/200/10 mg once daily)l + SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400/100/ 
+100 mg once daily) + VOXILAPREVIR (100 mg once daily)f
+> A REDUCTASE INHIBITORS  ATORVASTATIN  Interaction only studied with SOFOSBUVIR/ VELPATASVIR.  Expected:  
+↔ VOXILAPREVIR  ATORVASTATIN may be administered with VOSEVI  at a dose that does not exceed ATORVASTATIN 20  mg. ATORVASTATIN (40  mg single dose) + SOFOSBUVIR/ VELPATASVIR (400/100 mg once daily)f Observed:  ATORVASTATIN  ↑ 
+1.7 (1.5, 
+1.9) ↑ 
+1.5 (1.5, 
+1.6)  15 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin ROSUVASTATIN  Effect on SOFOSBUVIR, VELPATASVIR and VOXILAPREVIR not studied.  Expected:  
+↔ SOFOSBUVIR  
+↔ VELPATASVIR  
+↔ VOXILAPREVIR  VOSEVI is contraindicated with ROSUVASTATIN (see section  4.3). ROSUVASTATIN (10  mg single dose) + SOFOSBUVIR/ VELPATASVIR/VOXILAPREVIR (400/100/100 mg once daily ) + VOXILAPREVIR (100 mg once daily )f
+> A reductase inhibitors. Co -administr ation  with VOSEVI  is not recommended . NARCOTIC ANALGESICS  METHADONE  Interaction only studied with SOFOSBUVIR  Expected:  
+↔ VELPATASVIR  
+↔ VOXILAPREVIR  No dose adjustment of VOSEVI  or METHADONE is required.  METHADONE  (METHADONE maintenance therapy [30 to 130 mg daily]) + SOFOSBUVIR (400 mg once daily)f Observed:  R-METHADONE   
+↔  
+↔  
+↔ S-METHADONE  ↔ ↔ ↔ SOFOSBUVIR  ↔ ↑ 
+1.30 (1.00, 
+1.69)   16 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with VOSEVI  Active  Cmax AUC  Cmin IMMUNOSUPPRESSANTS  CICLOSPORIN  (600 mg single dose)f + SOFOSBUVIR (400 mg single dose)e
+> (Inhibition of OATP1B or P-gp or BCRP)  Observed:  CICLOSPORIN   
+↔  
+↔  Co-administration of VOSEVI  with CICLOSPORIN is not recommended (see section  4.4). SOFOSBUVIR  ↑ 
+2.54 (1.87, 
+3.45)  ↑ 
+4.53 (3.26, 
+6.30)   CICLOSPORIN  (600 mg single dose)e + VELPATASVIR (100  mg single dose)f CICLOSPORIN  ↔ ↓ 
+0.88 (0.78, 
+1.0)  VELPATASVIR  ↑ 
+1.56 (1.22, 
+2.01)  ↑ 
+2.03 (1.51, 
+2.71)   CICLOSPORIN  (600 mg single dose)e + VOXILAPREVIR (100 mg single dose)f CICLOSPORIN  ↔ ↔  VOXILAPREVIR  ↑ 
+19.0 (14.1, 
+25.6)  ↑ 
+9.4 (7.4, 
+12.0)   TACROLIMUS  Effect on VELPATASVIR or VOXILAPREVIR exposure not studied.  Expected:  
+↔ VELPATASVIR  
+↔ VOXILAPREVIR  No dose adjustment of VOSEVI  or TACROLIMUS is required  at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of TACROLIMUS may be required . TACROLIMUS (5  mg single dose)e + SOFOSBUVIR (400 mg single dose)f Observed:  TACROLIMUS   
+↓ 
+0.73 (0.59, 
+0.90)   
+↑ 
+1.09 (0.84, 
+1.40)   SOFOSBUVIR  ↓ 
+0.97 (0.65, 
+1.43)  ↑ 
+1.13 (0.81, 
+1.57)   HORMONAL  CONTRACEPTIVES  Oral n orgestimate /ETHINYL ESTRADIOL (NORGESTIMATE 0.180 mg/0.215 mg/0.25 mg
+/ETHINYL ESTRADIOL 0.025 mg) + SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400/100/ 
+100 mg once daily) + VOXILAPREVIR (100 mg once daily)f Observed:  NORELGESTROMIN  
+↔  
+↔  
+↔ VOSEVI  is contraindicated with ETHINYL ESTRADIOL -containing medicinal products (see section  4.3). Alternative methods of contraception (e.g. progestin only contraception or non-hormonal methods) should be considered. NORGESTREL  ↔ ↔ ↔ ETHINYL ESTRADIOL  ↔ ↔ ↔ STIMULANTS  MODAFINIL 
+> (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↔ MODAFINIL  
+↓ SOFOSBUVIR  
+↓ VELPATASVIR  
+↓ VOXILAPREVIR  Co-administration of VOSEVI  with MODAFINIL is not recommended (see section  4.4). a. Mean ratio (90%  CI) of co -administered drug pharmacokinetics of study medicinal products alone or in combination. No effect  = 1.00.  b. All interaction studies conducted in healthy volunteers.  c. Lack of pharmacokinetics interaction lower bound 70%.  d. These are medicinal products within class where similar interactions could be predicted.  e. Bioequivalence/Equivalence boundary 80 -125%.  f. Lack of pharmacokinetics interaction bounds 70 -143%.  g. Administered as EFAVIRENZ, EMTRICITABINE and TENOFOVIR DF fixed -dose combination.  17 h. Administered as SOFOSBUVIR, VELPATASVIR fixed- dose combination.  i. Administered as emtricitabi ne, RILPIVIRINE, and TENOFOVIR ALAFENAMIDE fixed- dose combination.  j. Administered as EMTRICITABINE, TENOFOVIR DISOPROXIL FUMARATE fixed- dose combination.  k. Lack of pharmacokinetics interaction bounds 50 -200%.  l. Administered as ELVITEGRAVIR, COBICISTAT, EMTRICITABINE and TENOFOVIR ALAFENAMIDE fixed -dose combination. 

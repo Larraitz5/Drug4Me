@@ -1,0 +1,16 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Clinically significant drug interactions mediated by fluticasone furoate/vilanterol at clinical doses are considered unlikely due to the low plasma concentrations achieved after inhaled dosing.  
+ Interaction with bet a-blockers  
+ Beta
+2-adrenergic blockers may weaken or antagonise the effect of beta 2-adrenergic agonists. Concurrent use of both non -selective and selective beta 2-adrenergic blockers should be avoided unless there are compelling reasons for their use . 
+ Inter action with CYP3A4 inhibitors  
+ Fluticasone furoate and vilanterol are both rapidly cleared by extensive first pass metabolism mediat ed by the liver enzyme CYP3A4.  
+ Caution is advised when co -administering with strong CYP 3A4 inhibitors (e.g. ketoconazole, ritonavir, cobicistat -containing products) as there is potential for increased systemic exposure to both fluticasone furoate and vilanterol. Co- administration shoul d be avoided unless the benefit outweighs the increased risk of systemic corticosteroid undesirable effects, in which case patients should be monitored for systemic corticosteroid undesirable  effects. A repeat dose CYP3A4 drug interaction study was perform ed in healthy subjects with the fluticasone furoate/vilanterol combination (184/22 micrograms) and the strong CYP3A4 inhibitor ketoconazole (400 mg). Co- administration increased mean fluticasone furoate AUC (024) and C max by 36% and 33%, respectively. The i ncrease in fluticasone furoate exposure was associated with a 27% reduction in 0- 24 hours weighted mean serum cortisol.  Co-administration increased mean vilanterol AUC (0-t) and C max 65% and 22%, 9 respectively.  The increase in vilanterol exposure was not associated with an increase in beta 2-agonist related systemic effects on heart rate, blood potassium or QTc 
+ F interval.   
+ Interaction with P -glycoprotein inhibitors  
+ Fluticasone furoate and vilanterol are both substrates of P -glycoprotein (P -gp). A clinical pharmacology study in healthy subjects with co- administered vilanterol and the potent P -gp and moderate CYP3A4 inhibitor verapamil did not show any significant effect on the pharmacokinetics of vilanterol. Clinical pharmacology studies with a spec ific P -gp inhibitor and fluticasone furoate have not been conducted.  
+ Sympathomimetic medicinal products  
+ Concomitant administration of other sympathomimetic medicinal products (alone or as part of combination therapy) may potentiate the adverse reactions of fluticasone furoate/vilanterol. Relvar Ellipta should not be used in conjunction with other long- acting beta 2-adrenergic agonists or medicinal products containing long- acting beta 2-adrenergic agonists.  
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

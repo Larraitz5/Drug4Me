@@ -1,0 +1,81 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ Biktarvy sh ould not be administered concomitantly with medicinal products containing tenofovir alafenamide, tenofovir disoproxil, lamivudine or adefovir dipivoxil used for the treatment of HBV  infection.  
+ Bictegravir  
+ Bictegravir  is a substrate of CYP3A and UGT1A1.   Co-admin istration of bictegravir and medicinal products that potent ly induce both CYP3A and UGT1A1, such as rifamp icin or St.  John’s wort , may significantly decrease plasma concentrations of bictegravir , which may result in a loss of  therapeutic effect of Biktarvy  and development of resistance , therefore  co-administration is contraindicated  (see section  4.3).  Co-administration of bictegravir with medicinal products that potently inhibit both CYP3A and UGT1A1, such as atazanavir, may significantly increase plasma concentrations of bictegravir, therefore co-administration is not recommended.  
+ Bictegravir is both a P-gp and a BCRP substrate.  The clinical relevance of this feature is not established.  Therefore, caution is recommended when bictegravir is combined with medicinal products  known to inhibit P -gp and/or BCRP (e.g. macrolides, ciclosporin, verapamil, drone darone, glecaprevir/pibrentasvir) (see also table below).  
+ Bictegravir  inhibits organic cation transporter  2 (OCT2) and multidrug and toxin extrusion transporter  1 (MATE1) in vitro .  Co-administration of Biktarvy  with the OCT2 and MATE1 substrate metformin did not result in a clinically significant increase in metformin exposure.   Biktarvy  may be co-administered with substrates of OCT2 and MATE1.  
+ Bictegravir  is not an inhibitor or inducer of CYP in vivo. 
+ Emtricitabine  
+ In vitro  and clinical pharmacokinetic drug -drug interaction studies have shown that the potential for CYP -mediated interactions involving emtricitabine  with other medicinal products is low.   Co-administration of emtricitabine  with medicinal products  that are eliminated by active tubular secretion may increase concentrations of emtricitabine , and/or the co -administered medicinal product .  Medicinal products  that decrease renal function may increase concentrations of emtricitabine . 
+ Tenofovir alafenamide  
+ Tenofovir alafenamide is transported by P -glycoprotein (P -gp) and breast cancer resistance protein (BCRP ).  Co-administration of Biktarvy  with m edicinal products that strongly affect P -gp and BCRP  
+7 activity may lead to changes in teno fovir alafenamide absorption.   Medicinal products that induce P-gp activity (e.g. rifabutin, carbam azepine, phenobarbital)  are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of tenofovir alafenamide, which may lead to loss of therapeutic effect of Biktarvy  and development of resistance.   Co-administration of Biktarvy  with other medicinal products that inhibit P -gp and BCRP  may increase the absorption and plasma concentration of tenofovir alafenamide.  
+ Tenofovir alafenamide is not an inhibitor or inducer of CYP3A  in vivo. 
+ Other interactions  
+ Interactions  between Biktarvy  or its individual component(s) and co -administered medicinal products are listed in Table  1 below (increase is indicated as “↑”, decrease as “↓” and no change as “↔” ; all No Effect Boundaries are 70% -143% ).  
+ Table  1: Interactions between  Biktarvy  or its  individual component (s) and other medicinal products  
+ Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  HERBAL PRODUCTS  St. John’s wort ( Hypericum perforatum ) 
+ (Induction of CYP3A , UGT1A1,  and P -gp) Interaction not studied with any of the components of Biktarvy . Co-administration may decrease bictegravir and tenofovir alafenamide plasma concentrations.  Co-administration with St . John ’s wort is contraindicated , due to the effect of St . John’s wort on t he bictegravir component of Biktarvy . ANTI -INFECTIVES  Antimycobacterials  Rifampicin (600  mg once daily),  Bictegravir1 
+ (Induction of CYP3A, UGT1A1, and P -gp) Bictegravir:  AUC: ↓  75% Cmax: ↓ 28% 
+ Interaction not studied with tenofovir alafenamide.    Co-administration of rifampicin may decrease tenofovir alafenamide plasma concentrations.  Co-administration is contraindicated due to the effect of rifampicin on the bictegravir component of Biktarvy . Rifabutin (300  mg once daily),  Bictegravir1 
+ (Induction of CYP3A and P -gp) Bictegravir:  AUC: ↓  38% Cmin: ↓ 56% Cmax: ↓ 20% 
+ Interaction not studied with tenofovir alafenamide.  Co-administration of rifabutin may decrease tenofovir alafenamide plasma concen trations.  Co-administration is not recommended  due to the expected decrease of tenofovir alafenamide .  
+8 Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  Rifapentine  
+ (Induction of CYP3A and P -gp) Interaction not studied with any of the components of Biktarvy . Co-administration of rifapentine may decrease bictegravir and tenofovir alafenamide plasma concentrations.  Co-administration is not recommended.  HIV -1 antiviral agents  Atazanavir (300  mg once daily), Cobicistat (150  mg once daily),  Bictegravir1 
+ (Inhibition of CYP3A, UGT1A1, and P -gp/BCRP)  Bictegravir:  AUC: ↑  306%  Cmax: ↔ Co-administration is not recommended.  Atazanavir (400  mg once daily), Bictegravir1 
+ (Inhibition of CYP3A and UGT1A1)  Bictegravir:  AUC: ↑  315%  Cmax: ↔ Hepatitis  C virus antiviral agents  Ledipasvir/Sofosbuvir (90 mg/400  mg once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide2 Bictegravir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Emtricitabine:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Tenofovir alafenamide:  AUC: ↔ Cmax: ↔ 
+ Ledipasvir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Sofosbuvir:  AUC: ↔ Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔ Cmin: ↔ Cmax: ↔ No dose adjustment is required upon co -administration .  
+9 Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  Sofosbuvir/Velpatasvir/ Voxilaprevir (400/100/100  + 100 mg3 once daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide  
+ (Inhibition of P -gp/BCRP)  Bictegravir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Emtricitabine:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Tenofovir alafenamide:  AUC: ↑  57% Cmax: ↑ 28% 
+ Sofosbuvir:  AUC: ↔ Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Velpatasvir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Voxilaprevir:  AUC: ↔ Cmin: ↔ Cmax: ↔ No dose adjustment is required upon co -administration . Antifungals  Voriconazole (300  mg twice daily),  Bictegravir1 
+ (Inhibition of CYP3A)  Bictegravir:  AUC: ↑  61% Cmax: ↔ No dose adjustment is required upon co -administration . Itraconazole  Posaconazole  
+ (Inhibition of P -gp/BCRP)  Interaction not studied with any of the components of Biktarvy .  Co-administration of itraconazole or posaconazole may increase bictegravir  plasma concentrations.  Macrolides  Azithromycin  Clarithromycin  
+ (Inhibition of P -gp) Interaction not studied.  Co-administration of azithromycin or clarithromycin may increase bictegravir plasma concentrations.  Caution is recommended due to the potential effect of these medicinal products  on the bictegravir component of Biktarvy.  
+ ANTICON VULSANTS  Carbamazepine (titrated from 
+100 mg to 300  mg twice a day), Emtricitabine/Tenofovir alafenamide4 
+ (Induction of CYP3A, UGT1A1, and P -gp) Tenofovir alafenamide:  AUC: ↓  54% Cmax: ↓ 57% 
+ Interaction not studied with bictegravir.  Co-administration of carbamazepine may decrease bictegravir  plasma concentrations.  Co-administration is not recommended .  
+10 Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  Oxcarbazepine  Phenobarbital  Phenytoin  
+ (Induction of CYP3A, UGT1A1, and P -gp) Interaction not studied with any of the components of Biktarvy . Co-administration of oxcarbazepine, phenobarbital, or phenytoin may decrease bictegravir  and tenofovir alafenamide plasma concentrations.  Co-administration is not recommended . ANTACIDS, SUPPL EMENTS AND BUFFERED MEDICINES  Magnesium/aluminium -containing antacid suspension  (20 m 
+ L single dose5), Bictegravir  
+ (Chelation with polyvalent cations)  Bictegravir (antacid suspension 
+2 hours prior, fasted):  AUC: ↓  52% Cmax: ↓ 58% 
+ Bictegravir (antacid suspension after 2  hours, fasted):  AUC: ↔ Cmax: ↔ 
+ Bictegravir (simultaneous administration, fasted):  AUC: ↓  79% Cmax: ↓ 80% 
+ Bictegravir (simultaneous administration with food):  AUC: ↓  47% Cmax: ↓ 49% Biktarvy  should not be taken simultaneously  with supplements containing magnesium and/or aluminium due to the expected substantial decrease of bictegravir  exposure (see section  4.4). 
+ Biktarvy should be administered at least 2  hours before, or with food 
+2 hours af ter antacids containing magnesium and/or aluminium.  Ferrous fumarate (324  mg single dose) , Bictegravir  
+ (Chelation with polyvalent cations)  Bictegravir (simultaneous administration, fasted):  AUC: ↓  63% Cmax: ↓ 71% 
+ Bictegravir (simultaneous administration with food):  AUC: ↔ Cmax: ↓ 25% Biktarvy should be administered at least 2  hours  before iron supplements, or taken together with food. Calcium carbonate (1 ,200 mg single dose) , Bictegravir  
+ (Chelation with polyvalent cations)  Bictegravir  (simultaneous administration, fasted):  AUC: ↓  33% Cmax: ↓ 42% 
+ Bictegravir (simultaneous administration with food):  AUC: ↔ Cmax: ↔ Biktarvy and calcium -containing supplements can be taken together, without regard to food.  Sucralfate  
+ (Chelation with polyvalent cations)  Interaction not studied with any of the components of Biktarvy . Co-administration may decrease bictegravir plasma concentrations.  Co-administration not recommended .  
+11 Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  ANTIDEPRESSANTS  Sertraline (50  mg single dose), Tenofovir alafenamide6 Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Sertraline:  AUC: ↔  Cmax: ↔ 
+ No interaction is expected with bictegravir and emtricitabine . No dose adjustment is required upon co -administration.  IMMUNOSUPPRESSANTS  Ciclosporin (IV or oral use)  
+ (P-gp inhibit ion) Interaction not studied with any of the components of Biktarvy.  Co-administration of ciclosporin (IV or oral use) is expected to increase plasma concentrations of both bictegravir and tenofovir alafenamide.  Co-administration of ciclosporin (IV or oral use) is not recommended.  If the combination is needed, clinical and biological monitoring, notably renal function, is recommended.  ORAL ANTI -DIABETICS  Metformin (500 mg twice daily), Bictegravir/Emtricitabine/ Tenofovir alafenamide  
+ (Inhibition of OCT2/MATE1)  Metformin:  AUC: ↑  39% Cmin: ↑ 36% Cmax: ↔ No dose adjustment is required upon co -administration  in patients with normal renal function.  
+ In patients with moderate renal impairment, close monitoring should be considered when starting co-administration  of bictegravir with metformin, due to the increased risk for lactic acidosis in these patients.   A dose adjustment of metformin should be cons idered if required.  ORAL CONTRACEPTIVES  Norgestimate (0.180/0.215/0.250  mg once daily)/ Ethinylestradiol (0.025  mg once daily), Bictegravir1 Norelgestromin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Norgestrel:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Ethinylestradiol:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment is required upon co -administration.  Norgestimate (0.180/0.215/0.250  mg once daily), Ethinylestradiol (0.025  mg once daily), Emtricitabine/Tenofovir alafenamide4 
+ 
+12 Medicinal product by therapeutic areas /possible mechanism of interaction  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Biktarvy  SEDATIVES/HYPNOTICS  Midazolam (2  mg, oral syrup, single dose), Bictegravir/Emtricitabine/ Tenofovir alafenamide  Midazolam:  AUC: ↔ Cmax: ↔ No dose adjustment is required upon co -administration.  
+1 This study was conducted using  bictegravir 75  mg single dose . 
+2 This study was conducted using bictegravir/ emtricitabine/tenofovir alafenamide  75/200/25  mg once daily . 
+3 Study conducted with additional voxilaprevir 100  mg to achieve voxilaprevir exposures expected in HCV  infected patients . 
+4 This study was conducted using  emtricitabine/tenofovir alafenamide  200/25  mg once daily . 
+5 Maxi mum strength antacid contained 80  mg aluminium  hydroxide, 80  mg magnesium hydroxide, and 8  mg simethicone  per m 
+ L. 
+6 This study was conducted using elvitegravir/cobicistat/emtri citabine/tenofovir alafenamide  150/150/200/10  mg once daily . 
+ Based on drug interaction studies conducted with Biktarvy  or the components of Biktarvy , no clinically significant drug interactions are expected with: amlodipine, atorvastatin, buprenorphine , drospirenone , famciclovir, famotidine, fluticasone, methadone, naloxone, norbuprenorphin e, omeprazole  or rosuvastatin . 
+ 

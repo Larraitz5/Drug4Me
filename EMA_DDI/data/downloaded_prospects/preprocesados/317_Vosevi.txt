@@ -1,0 +1,343 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ As Vosevi  contains sofosbuvir , velpatasvir  and voxilaprevir , any interactions that have been identified with these  active substances individually may occur with Vosevi . 
+ Pharmacokinetic interactions  
+ Potential for Vosevi  to affect other medicinal products  
+ Velpatasvir  and voxilaprevir are  inhibitor s of drug transporter s P-gp, breast cancer resistance protein (BCRP), organic anion- transporting polypeptide ( OATP ) 1B1 and OATP1B3. Co -administration of Vosevi  with medicinal products that are substrates of these transporters  may increase the exposure of such medicinal products . Medic inal products that are sensitive substrates of these transporters and for which elevated plasma levels are associated with serious event s are contraindicated (see Table 2). Dabigatran etexilate (P -gp substrate) and rosuvastatin (OATP1B and BCRP subst rate) are contraindicated (see s ection  4.3 and Table  2).  
+ Potential for other medicinal products to affect Vosevi  
+ Sofosbuvir , velpatasvir  and voxilaprevir  are substrates of drug transporter s P-gp and BCRP. Velpatasvir  and voxilaprevir  are substrates of drug transporters OATP1B1 and OATP1B3. In  vitro,  slow metabolic turnover of velpatasvir primarily by CYP2B6, C YP2C8 and CYP3A4 and of voxila previr primarily by CYP3A4 was observed.  
+ Medicinal products that may decrease plasma exposure of Vosevi  Medicinal products that are strong inducers of P -gp and/or strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g. carbamazepine, phenobarbital, phenytoin, rifampicin, rifabutin and St. John’s wort)  may decrease plasma concentrations of sofosbuvir , velpatasvir and/or voxilaprevir  leading to reduced therapeutic effect of Vosevi . The use of such medicinal products with Vosevi  is contraindicated (see section  4.3 and Table 2). 
+ Medicinal products that are moderate P -gp inducers and/or moderate CYP inducers (e.g. efavirenz, modafinil , oxcarbazepine or rifapentine ) may decrease sofosbuvir , velpatasvir and/or voxilaprevir plasma concentrations  leading to reduced therapeutic effect of Vosevi . Co-administration with such medicinal products is not recommended with Vosevi  (see section  4.4 and Table  2). 
+ Medicinal products that may increase plasma exposure of Vosevi  Co-administration with medicinal products that inhibit P -gp or BCRP may increase sofosbuvir , velpatasvir  or voxilaprevir  plasma concentrations . Medicinal products that inhibit  OATP 1B, CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration s of velpatasvir  or voxilaprevir . The use of strong inhibitors of OATP 1B (e.g. ciclosporin)  with Vosevi  is not recommended  (see section  4.4 and Table  2). Clinically significant medicinal product interactions with Vosevi  mediated by P-gp, BCRP  and CYP  inhibitors  are not expected . Vosevi  may be c o-admi nistered with P -gp, BCRP  and CYP inhibitors.  
+ 7 Pharmacodynamic interactions  
+ Patients treated with vitamin K antagonists  
+ As liver function may change during treatment with Vosevi , close monitoring of International Normalised Ratio (INR) values is recommended.  
+ Impact of DAA therapy on medicinal products  metabolized by the liver  
+ The pharmacokinetics of medicinal products  that are metabolized by the liver (e.g. immunosuppressive agents such as calcineurin inhibitors) may be impacted by changes in li ver function during DAA therapy, related to clearance of HCV.  
+ Patients treated with ethinylestradiol -containing medicinal products  
+ Concomitant use with ethinylestradiol -containing medicinal products may increase the risk of alanine aminotransferase ( ALT ) elevations  and is contraindicated  (see section  4.3 and Table  2). 
+ Interactions between Vosevi  and other medicinal products  
+ Table  2 provides a listing of established or potentially clinically significant medicinal product interactions (where 90% confidenc e interval [CI] of the geometric least -squares  mean [GLSM] ratio were within “↔”, extended above “↑”, or extended below “↓” the predetermined interaction boundaries). The medicinal product interactions described are based on studies conducted with either sofosbuvir /velpatasvir /voxilaprevir , its components (sofosbuvir, velpatasvir , and/or voxilaprevir) , or are predicted medicinal product interactions that may occur with Vosevi . The table is not all-inclusive . 
+ Table  2: Interactions between Vosevi  and other medicinal products  
+ Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin ACID REDUCING AGENTS  Antacids  e.g. Aluminium or magnesium hydroxide; calcium carbonate  
+ (Increase in gastric p 
+ H  decreases velpatasvir solubility ) Interaction not studied.  Expected : 
+↔ Sofosbuvir  
+↓ Velpatasvir  
+↔ Voxilaprevir  It is recommended to separate antacid and Vosevi  administration by 4 hours. H2-receptor antagonists  Famotidine  (40 mg single dose ) + sofosbuvir/velpatasvir/ voxilaprevir (400/ 100/100 mg single dose)c 
+ Famotidine dosed simultaneously with Vosevi  
+ Cimetidined Nizatidined Ranitidined 
+ (Increase in gastric p 
+ H  decreases velpatasvir solubility ) Observed:  Sofosbuvir   
+↔  
+↔  H2-receptor antagonists may be administered simultaneously with or staggered from Vosevi  at a dose that does not exceed doses comparable with famotidine 
+40 mg twice daily.  Velpatasvir  ↔ ↔  Voxilaprevir  ↔ ↔  8 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Famotidine  (40 mg single dose) + sofosbuvir/velpatasvir/ voxilaprevir (400/ 100/ 
+100 mg single dose)c 
+ Famotidine dosed 12 hours prior to Vosevi 
+ (Increase in gastric p 
+ H  decreases velpatasvir solubility ) 
+ Observed:  Sofosbuvir   
+↔  
+↔   Velpatasvir  ↔ ↔  Voxilaprevir  ↔ ↔  Proton pump inhibitors  Omeprazole  (20 mg once daily)  + sofosbuv ir/velpatasvir/ voxilaprevir (400/ 100/ 
+100 mg single dose)c 
+ Omeprazole dosed 2 hours prior to  Vosevi  
+ Lansoprazoled Rabeprazoled Pantoprazoled Esomeprazoled 
+ (Increase in gastric p 
+ H  decreases velpatasvir solubility ) Observed:  Sofosbuvir   
+↓ 
+0.77 (0.65, 
+0.91)   
+↓ 
+0.73 (0.67, 
+0.79)   Proton pump inhibitors may be administered with Vosevi  at a dose that does not exceed doses comparable with omeprazole 
+20 mg.  Velpatasvir  ↓ 
+0.43 (0.38, 
+0.49)  ↓ 
+0.46 (0.41, 
+0.52)   Voxilaprevir  ↓ 
+0.76 (0.69, 0.85)  ↔  Omeprazole  (20 mg once daily) + sofosbuvir/ velpatasvir/ voxilaprevir (400/ 100/ 
+100 mg single dose)c 
+ Omeprazole dosed 4 hours after Vosevi  
+ (Increase in gastric p 
+ H  decreases velpatasvir solubility ) Observed:  Sofosbuvir   
+↔  
+↔  Velpatasvir  ↓ 
+0.49 (0.43, 
+0.55)  ↓ 
+0.49 (0.43, 
+0.55)   Voxilaprevir  ↔ ↔  ANTIARRHYTHMICS  Amiodarone  Effect on amiodarone, voxilaprevir, velpatasvir, and sofosbuvir concentrations unknown. Coadministration of amiodarone with a sofosbuvir -containing regimen may result in serious symptomatic bradycardia.  Use only if no other alternative is available.  Close monitoring is recommended if this medicinal product is administered with Vosevi  (see sections  4.4 and 4.8).  9 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Digoxin  Interaction only studied with velpatasvir.  Expected:  
+↔ Sofosbuvir  
+↔ Voxilaprevir  Co-administration of Vosevi  with digoxin may increase the concentration of digoxin. Caution is warranted and therapeutic concentration monitoring of digoxin is recommended.  Digoxin (0.25  mg single dose)e + velpatasvir (100 mg single dose)  
+ (Inhibition of P -gp) Effect on velpatasvir exposure  not studied  Expected:  
+↔ Velpatasvir  Observed:  Digoxin  
+↑ 
+1.88 (1.71, 
+2.08)   
+↑ 
+1.34 (1.13, 
+1.60)   ANTICOAGULANTS  Dabigatran etexilate  (75 mg single dose)  + sofosbuvir/ velpatasvir/ voxilaprevir (400/ 100/ 
+100 mg single dose ) + voxilaprevir (100 mg single dose)f 
+ (Inhibition of P -gp) Effect on sofosbuvir, velpatasvir and voxilaprevir concentrations not studied Expected:  
+↔ Sofosbuvir  
+↔ Velpatasvir  
+↔ Voxilaprevir  Vosevi  is contraindicated  with dabigatran etexilate (see section  4.3). Observed:  Dabigatran   
+↑ 
+2.87 (2.61, 
+3.15)   
+↑ 
+2.61 (2.41, 
+2.82)   Edoxaban  
+ (Inhibition of OATP1B1)  Interaction not studied . Expected:  
+↑ Edoxaban (active metabolite)  
+↔ Sofosbuvir  
+↔ Velpatasvir  
+↔ Voxilaprevir  Co-administration of Vosevi  with edoxaban is not recommended. Should direct Xa inhibitor use be deemed  necessary, apixab an or rivaroxaban may be considered.  Vitamin K antagonists  
+ (Liver function changes during treatment with Vosevi ). Interaction not studied . Close monitoring of INR is recommended when Vosevi  is co -administe red with all vitamin K antagonists.  ANTICONVULSANTS  Phenytoin  Phenobarbital  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voxilaprevir  Vosevi is contraindicated with phenobarbital and phenytoin (see section  4.3). Carbamazepine  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Velpatasvir  
+↓ Voxilaprevir  Vosevi  is contraindicated with carbamazepine (see section  4.3). Observed:  Sofosbuvir   
+↓  
+0.52 (0.43, 
+0.62)  
+  
+↓  
+0.52 (0.46, 
+0.59)  
+  10 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin ANTIFUNGALS  Ketoconazole  
+ (Inhibition of P -gp and CYP3A)  Interaction only studied with velpatasvir   Expected:  
+↔ Sofosbuvir  
+↑ Voxilaprevir  No dose adjustment of Vosevi  or ketoconazole is required. Ketoconazole (200  mg twice daily) + velpatasvir (100 mg single dose)f 
+ Itraconazoled Posaconazoled Isavuconazoled 
+  (Inhibition of P -gp an d CYP3A ) Effect on ketoconazole exposure not studied.  Expected:  
+↔ Ketoconazole  Observed:  Velpatasvir   
+↑ 1.29 (1.02, 
+1.64)   
+↑ 
+1.71 (1.35, 
+2.18)   Voriconazole  
+ (Inhibition of CYP3A)  Interaction only studied with v oxilaprevir . Expected:  
+↔ Sofosbuvir  
+↑ Velpatasvir  No dose adjustment of Vosevi  or voriconazole is required.  Voriconazole (200 mg twice daily)  + voxilaprevir (100 mg single dose)f Observed:  Voxilaprevir   
+↔  
+↑ 
+1.84 (1.66, 
+2.03)   11 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin ANTIMYCOBACTERIALS  Rifampicin (single dose)  
+ (Inhibition of OATP1B)  Interaction only studied with velpatasvir and voxilaprevir.  
+ Expected:  
+↔ Rifampicin  
+↔ Sofosbuvir  Vosevi  is contraindicated with rifampicin (see section  4.3). Rifampicin (600  mg single dose) + velpatasvir (100 mg single dose)f 
+ Observed:  Velpatasvir   
+↑ 
+1.28 (1.05, 
+1.56)   
+↑ 
+1.46 (1.17, 
+1.83)   Rifampicin (600  mg single dose) + voxilaprevir (100 mg single dose)f 
+ Voxilaprevir  ↑ 
+11.10 (8.23, 
+14.98)  ↑ 
+7.91 (6.20, 
+10.09)   Rifampicin (multiple dose)  
+ (Induction of P -gp and CYPs)  Effect on rifampicin exposure not studied.  
+ Expected:  
+↔ Rifampicin  Rifampicin (600  mg once daily) + sofosbuvir (400 mg single dose)f Observed:  Sofosbuvir   
+↓ 
+0.23 (0.19, 
+0.29)   
+↓ 
+0.28 (0.24, 
+0.32)   Rifampicin (600  mg once daily) + velpatasvir (100  mg single dose)f Velpatasvir  ↓ 
+0.29 (0.23, 
+0.37)  ↓ 
+0.18 (0.15, 
+0.22)   Rifampicin (600  mg once daily) + voxilaprevir (100 mg single dose)f Voxilaprevir  ↔ ↓ 
+0.27 (0.23, 
+0.31)   Rifabutin  
+   
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Velpatasvir  
+↓ Voxilaprevir  Vosevi  is contraindicated with rifabutin (see section  4.3). Observed:  Sofosbuvir   
+↓ 
+0.64 (0.53, 
+0.77)   
+↓ 
+0.76 (0.63, 
+0.91)   Rifapentine  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voxilaprevir  Co-administration of Vosevi  with rifapentine is not recommended (see section  4.4). HIV ANTIVIRAL AGENTS: REVERSE TRANSCRIPTASE INHIBITORS  Tenofovir disoproxil fumarate  
+ (Inhibition of P -gp) Vosevi  has been shown to increase tenofovir exposure (P -gp inhibition). There was an increase in tenofovir exposure (AUC and C max) of around 40% during co-treatment with Vosevi  and darunavir + ritonavir + tenofovir disoproxil fumarate/emtricitabine.  
+ Patients receiving tenofovir disoproxil fumarate and Vosevi  concomitantly should be monitored for adverse reactions associated with tenofovir disoproxil fumarate. Refer to the tenofovir disoproxil fumarate -containing product’s Summary of Product Characteri stics for recommendations on renal monitoring (see section  4.4). 12 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Efavirenz/emtricitabine/ tenofovir disoproxil fumarate (600/200/300 mg once daily)g + sofosbuvir/ velpatasvir (400/100 mg once daily)f, h 
+ (Induction of CYPs)  Interaction only studied with sofosbuvir/velpatasvir  Expected:  
+↓ Voxilaprevir  Co-administration of Vosevi  with efavirenz/emtricitabine/tenofovir disoproxil fumarate is not recommended (see section  4.4). Observed:  Efavirenz   
+↔  
+↔  
+↔ Sofosbuvir  ↑ 
+1.38 (1.14, 
+1.67)  ↔  Velpatasvir  ↓ 
+0.53 (0.43, 
+0.64)  ↓ 
+0.47 (0.39, 
+0.57)  ↓ 
+0.43 (0.36, 
+0.52)  Emtricitabine/rilpivirine/ tenofovir alafenamide (200/25/25 mg once daily)i 
++ sofosbuvir/velpatasvir/ voxilaprevir (400/100/ 
+100 mg once daily)  + voxilaprevir (100 mg once daily)f Observed:  Rilpivirine   
+↔  
+↔  
+↔ No dose adjustment of Vosevi  or emtricitabine/rilpivirine/tenofovir alafenamide is required.  Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ Voxilaprevir  ↔ ↔ ↔ HIV ANTIVIRAL AGENTS: HIV PROTEASE INHIBITORS  Atazanavir  boosted with ritonavir (300 + 100 mg single dose)  + sofosbuvir/ velpatasvir/voxilaprevir (400/100/100 mg single dose)f 
+ (Inhibition of OATP1B, P-gp and CYP3A)  Effect on atazanavir and ritonavir exposure not studied. 
+ Expected:  
+↔ Atazanavir  
+↔ Ritonavir  Co-administration of Vosevi  with atazanavir is expected to increase the concentration of voxilaprevir. Co-administration of Vosevi  with atazanavir -containing regimens is not recommended.  Observed:  Sofosbuvir   
+↑ 
+1.29 (1.09, 
+1.52)   
+↑ 
+1.40 (1.25, 
+1.57)   Velpatasvir  ↑ 
+1.29 (1.07, 
+1.56)  ↑ 
+1.93 (1.58, 
+2.36)   Voxilaprevir  ↑ 
+4.42 (3.65, 
+5.35)  ↑ 
+4.31 (3.76, 
+4.93)   13 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Darunavir  boosted with ritonavir (800 + 100 mg once daily) + emtricitabine/ tenofovir disoproxil fumarate (200/300 mg once daily)j + sofosbuvir/ velpatasvir/voxilaprevir (400/100/100 mg once daily) + voxilaprevir (100 mg once daily)f 
+ (Inhibition of OATP1B, P-gp, and CYP3A)
+ Observed:  Darunavir   
+↔  
+↔  
+↓ 
+0.66 (0.58, 
+0.74)  No dose adjustment of Vosevi , darunavir (ritonavir boosted) or emtricitabine/tenofovir disoproxil fumarate is required.  Ritonavir  ↑ 
+1.60 (1.47, 
+1.75)  ↑ 
+1.45 (1.35, 
+1.57)  ↔ Sofosbuvir  ↓ 
+0.70 (0.62, 
+0.78)  ↔  Velpatasvir  ↔ ↔ ↔ Voxilaprevir  ↑ 
+1.72 (1.51, 
+1.97)  ↑ 
+2.43 (2.15, 
+2.75)  ↑ 
+4.00 (3.44, 
+4.65)  Lopinavir  
+ (Inhibition of OATP1B)  Interaction not studied.  Expected:  
+↔ Lopinavir  
+↔ Sofosbuvir  
+↔ Velpatasvir  
+↑ Voxilaprevir  Co-administration of Vosevi  with lopinavir -containing regimens is not recommended.  HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS  Raltegravir (400 mg twice daily)k + emtricitabine/ tenofovir disoproxil fumarate (200/300 mg once daily)j + sofosbuvir/ velpatasvir (400/100 mg once daily)f, h Interaction only studied with sofosbuvir/velpatasvir  Expected:  
+↔ Voxilaprevir  No dose adjustment of Vosevi , raltegravir or emtricitabine/tenofovir disoproxil fumarate is required.  Observed:  Raltegravir   
+↔  
+↔  
+↓ 
+0.79 (0.42, 
+1.48)  Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ 14 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Elvitegravir /cobicistat/ emtricitabine/tenofovir alafenamide fumarate (150/150/200/10 mg once daily)l + sofosbuvir/velpatasvir/ voxilaprevir (400/100/ 
+100 mg once daily) + voxilaprevir (100 mg once daily)f 
+ (Inhibition of OATP1B, P-gp/BCRP and CYP3A)  Observed:  Elvitegravir   
+↔  
+↔  
+↑ 
+1.32 (1.17, 
+1.49)  No dose adjustment of Vosevi  or elvitegravir /cobicistat/ emtricitabine/tenofovir alafenamide fumarate is required.  Cobicistat  ↔ ↑ 
+1.50 (1.44, 
+1.58)  ↑ 
+3.50 (3.01, 
+4.07)  Tenofovir  ↓ 
+0.79 (0.68, 
+0.92)  ↔  Sofosbuvir  ↑ 
+1.27 (1.09, 
+1.48)  ↔  Velpatasvir  ↔ ↔ ↑ 
+1.46 (1.30, 
+1.64)  Voxilaprevir  ↑ 
+1.92 (1.63, 
+2.26)  ↑ 
+2.71 (2.30, 
+3.19)  ↑ 
+4.50 (3.68, 
+5.50)  Dolutegravir (50  mg once daily) + sofosbuvir/ velpatasvir (400/100 mg once daily)h Interaction only studied with sofosbuvir/velpatasvir  Expected:  
+↔ Voxilaprevir  No dose adjustment of Vosevi  or dolutegravir is required.  Observed:  Dolutegravir   
+↔  
+↔  
+↔ Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ HERBAL SUPPLEMENTS  St. John’s wort  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voxilaprevir  Vosevi  is contraindicated with St. John’s wort (see section 4.3). HMG -Co 
+ A REDUCTASE INHIBITORS  Atorvastatin  Interaction only studied with sofosbuvir/ velpatasvir.  Expected:  
+↔ Voxilaprevir  Atorvastatin may be administered with Vosevi  at a dose that does not exceed atorvastatin 20  mg. Atorvastatin (40  mg single dose) + sofosbuvir/ velpatasvir (400/100 mg once daily)f Observed:  atorvastatin  ↑ 
+1.7 (1.5, 
+1.9) ↑ 
+1.5 (1.5, 
+1.6)  15 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin Rosuvastatin  Effect on sofosbuvir, velpatasvir and voxilaprevir not studied.  Expected:  
+↔ Sofosbuvir  
+↔ Velpatasvir  
+↔ Voxilaprevir  Vosevi is contraindicated with rosuvastatin (see section  4.3). Rosuvastatin (10  mg single dose) + sofosbuvir/ velpatasvir/voxilaprevir (400/100/100 mg once daily ) + voxilaprevir (100 mg once daily )f 
+ (Inhibition of OATP1B and BCRP)  Observed:  Rosuvastatin   
+↑ 18.9 (16.2, 
+22.0)   
+↑ 7.4 (6.7, 
+8.2)  Pravastatin  Effect on sofosbuvir, velpatasvir and voxilaprevir not studied.  Expected:  
+↔ Sofosbuvir  
+↔ Velpatasvir  
+↔ Voxilaprevir  Pravastatin may be administered with Vosevi  at a dose that does not exceed pravastatin 40 mg. Pravastatin (40  mg single dose) + sofosbuvir/ velpatasvir/voxilaprevir (400/100/100 mg once daily ) + voxilaprevir (100 mg once daily )f 
+ (Inhibition of OATP1B)  Observed:  Pravastatin   
+↑ 1.89 (1.53, 
+2.34)   
+↑ 2.16 (1.79, 
+2.60)   Other statins  
+ (Inhibition of OATP1B)  Effect on fluvastatin, lovastatin, pitavastatin and simvastatin not studied.  
+ Interactions cannot be excluded with other HMG -Co 
+ A reductase inhibitors. Co -administr ation  with Vosevi  is not recommended . NARCOTIC ANALGESICS  Methadone  Interaction only studied with sofosbuvir  Expected:  
+↔ Velpatasvir  
+↔ Voxilaprevir  No dose adjustment of Vosevi  or methadone is required.  Methadone  (Methadone maintenance therapy [30 to 130 mg daily]) + sofosbuvir (400 mg once daily)f Observed:  R-methadone   
+↔  
+↔  
+↔ S-methadone  ↔ ↔ ↔ Sofosbuvir  ↔ ↑ 
+1.30 (1.00, 
+1.69)   16 Medicinal product by therapeutic areas/Possible mechanism of interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Vosevi  Active  Cmax AUC  Cmin IMMUNOSUPPRESSANTS  Ciclosporin  (600 mg single dose)f + sofosbuvir (400 mg single dose)e 
+ (Inhibition of OATP1B or P-gp or BCRP)  Observed:  Ciclosporin   
+↔  
+↔  Co-administration of Vosevi  with ciclosporin is not recommended (see section  4.4). Sofosbuvir  ↑ 
+2.54 (1.87, 
+3.45)  ↑ 
+4.53 (3.26, 
+6.30)   Ciclosporin  (600 mg single dose)e + velpatasvir (100  mg single dose)f Ciclosporin  ↔ ↓ 
+0.88 (0.78, 
+1.0)  Velpatasvir  ↑ 
+1.56 (1.22, 
+2.01)  ↑ 
+2.03 (1.51, 
+2.71)   Ciclosporin  (600 mg single dose)e + voxilaprevir (100 mg single dose)f Ciclosporin  ↔ ↔  Voxilaprevir  ↑ 
+19.0 (14.1, 
+25.6)  ↑ 
+9.4 (7.4, 
+12.0)   Tacrolimus  Effect on velpatasvir or voxilaprevir exposure not studied.  Expected:  
+↔ Velpatasvir  
+↔ Voxilaprevir  No dose adjustment of Vosevi  or tacrolimus is required  at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of tacrolimus may be required . Tacrolimus (5  mg single dose)e + sofosbuvir (400 mg single dose)f Observed:  Tacrolimus   
+↓ 
+0.73 (0.59, 
+0.90)   
+↑ 
+1.09 (0.84, 
+1.40)   Sofosbuvir  ↓ 
+0.97 (0.65, 
+1.43)  ↑ 
+1.13 (0.81, 
+1.57)   HORMONAL  CONTRACEPTIVES  Oral n orgestimate /ethinyl estradiol (norgestimate 0.180 mg/0.215 mg/0.25 mg
+/ethinyl estradiol 0.025 mg) + sofosbuvir/velpatasvir/ voxilaprevir (400/100/ 
+100 mg once daily) + voxilaprevir (100 mg once daily)f Observed:  Norelgestromin  
+↔  
+↔  
+↔ Vosevi  is contraindicated with ethinyl estradiol -containing medicinal products (see section  4.3). Alternative methods of contraception (e.g. progestin only contraception or non-hormonal methods) should be considered. Norgestrel  ↔ ↔ ↔ Ethinyl estradiol  ↔ ↔ ↔ STIMULANTS  Modafinil  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↔ Modafinil  
+↓ Sofosbuvir  
+↓ Velpatasvir  
+↓ Voxilaprevir  Co-administration of Vosevi  with modafinil is not recommended (see section  4.4). a. Mean ratio (90%  CI) of co -administered drug pharmacokinetics of study medicinal products alone or in combination. No effect  = 1.00.  b. All interaction studies conducted in healthy volunteers.  c. Lack of pharmacokinetics interaction lower bound 70%.  d. These are medicinal products within class where similar interactions could be predicted.  e. Bioequivalence/Equivalence boundary 80 -125%.  f. Lack of pharmacokinetics interaction bounds 70 -143%.  g. Administered as efavirenz, emtricitabine and tenofovir DF fixed -dose combination.  17 h. Administered as sofosbuvir, velpatasvir fixed- dose combination.  i. Administered as emtricitabi ne, rilpivirine, and tenofovir alafenamide fixed- dose combination.  j. Administered as emtricitabine, tenofovir disoproxil fumarate fixed- dose combination.  k. Lack of pharmacokinetics interaction bounds 50 -200%.  l. Administered as elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide fixed -dose combination.  
+ 

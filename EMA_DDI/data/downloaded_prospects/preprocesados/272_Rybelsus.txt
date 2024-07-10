@@ -1,0 +1,11 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Semaglutide delays gastric emptying which may influence  the absorption of other oral medicinal products.  
+ Effects of semaglutide on other medicinal products  
+ Thyroxine  Total exposure (AUC) of thyroxine (adjusted for endogenous levels) was increased by 33% following administration of a single dose of levothyroxine. Maximum exposure (C max) was unchanged. Monitoring of thyroid parameters should be considered when treating patients with semaglutide at the same time as levothyroxine.  
+ Warfarin  and other coumarin derivatives  Semaglutide did not change the AUC  or Cmax of R- and S -warfarin following a single dose of warfarin , and the pharmacodynamic effects of warfarin as measured by the international normalised ratio (INR) were not affected in a clinically relevant manner . However, cases of decreased INR have been reported during concomitant use of acenocoumarol and semaglutide.  Upon initiation of semaglutide treatment in patients on warfarin or other coumarin derivatives, frequent monitoring of INR is recommended.  
+ Rosuvastatin  AUC of rosuvastatin was increased by 41% [90% CI: 24; 60] when co- administered with semaglutide. Based on the wide therapeutic index of rosuvastatin the magnitude of changes in the exposure i s not considered clinically relevant . 
+ Digoxin, oral contraceptives, metformin, furosemide  6 No clinically relevant change in AUC  or C max of digoxin, oral contraceptives ( containing ethinylestradiol and levonorgestrel), metformin  or furosemide was observed when concurrently administered with semaglutide.  
+ Interactions with  medicinal products with very low bioavailability (F: 1%) have not been evaluated. 
+ Effects of o ther medicinal products on semaglutide  
+ Omeprazole  No clinically relevant change in AUC  or C max of semaglutide was observed when taken  with omeprazole. 
+ In a trial investigating the pharmacokinetics of semaglutide co -administered with five other tablets, the AUC  of semaglutide  decreased by 34% and Cmax by 32%. This suggests that the presence of multiple tablets in the stomach influences the absorption of semaglutide if co- administered at the same time.  After admini stering semaglutide, the patients should wait 30 minutes before taking other oral medicinal products (see section 4.2).  

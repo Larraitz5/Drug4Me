@@ -1,0 +1,145 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ As Stribild  contains  elvitegravir, cobicistat, emtricitabine and tenofovir disoproxil, any interactions that have been identified with these active substances  individually may occur with Stribild .  Stribild  is indicated for use as a complete regimen for the treatment of HIV -1 infection and must not be administered with other antiretroviral products.   Therefore , information regarding drug- drug interactions with other antiretroviral products (including protease inhibitors and non- nucleoside reverse transcriptase inhibitors) is not provided (see se ction  4.4).  Interaction studies have only been performed in adults.  
+ Cobicistat is a strong mechanism -based CYP3A inhibitor and a CYP3A substrate.  Cobicistat is also a weak  CYP2D6 inhibitor and is metabolis ed, to a minor extent , by CYP2D6.   The transporters that cobicistat inhibits include P -gp, BCRP, OATP1B1 and OATP1B3.  
+ Co-administration of Stribild  with medicinal products  that are primarily metaboli sed by CYP3A or CYP2D6, or are substrates of P -gp, BCRP, OATP1B1 or OATP1B3 may result in incre ased plas ma concentrations of those products , which could increase or prolong their therapeutic effect and adverse reactions  (see Concomitant use contraindicated and section 4.3).  Co-administration of Stribild with medicinal products that have active meta bolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s).  
+ Co-administration of Stribild  with medicinal products that inhibit CYP3A may decrease the clearance of cobicistat, resulting in increased cobicistat plasma concentrations.  
+ Elvitegravir is a modest inducer and may have the potential to induce CYP2C9 and/or inducible UGT enzymes; as such it may decrease the plasma concentration of substrates of these enzymes .  Elvitegravir  is metaboli sed by CYP3A  and, t o a minor extent, by UGT1A 1.  Medicinal products that induce CYP3A activity are  expected to increase the clearance of elvitegravir, resulting in decreased plasma concentration of elvitegravir which may lead to loss of therapeutic effect of Stribild  and development of resistance  (see Concomitant use contraindicated and section 4.3). 
+ Concomitant use contraindicated  
+ Co-administration of Stribild  and some medicinal products that are primar ily metaboli sed by CYP3A may result in increased plasma concentrations of these products, which are associated with the potential for serious and/or life -threatening reactions  such as peripheral vasospasm or ischa emia (e.g. , dihydroergotamine, ergotamine, ergometrine ), or myopathy, including rhabdomyolysis (e. g., simvastatin,  lovastatin), or prolonged or increased sedation or respiratory depression (e. g., orally administered midazolam or triazolam).  Co-administration of Stribild and o ther medicinal products  
+10 primarily metabolised by CYP3A such as amiodarone, quinidine, cisapri de, pimozide, lurasidone, alfuzo sin and sildenafil  for pulmonary arterial hypertension is contraindicated (see section  4.3). 
+ Co-administration of Stribild  and some medicinal products that induce CYP3A  such as St.  John’s wort (Hypericum perforatum ), rifampi cin, carbamazepine, phenobarbital and phenytoin may result in significantly decreased  cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resistance (see section  4.3). 
+ Concomitant use  not recommended 
+ Renally eliminated medicinal products  Since emtricitabine and tenofovir are primarily eliminated by the kidne ys, co -administration of Stribild  with medicinal products that reduce renal function or compete for active tubular secretion (e.g. cidofovir) may increase serum concentrations of emtricitabine, tenofovir and/or the co- administered medicinal products.  
+ Use of Stribild  should be avoided wit h concurrent or recent use of nephrotoxic medicinal product s.  Some examples include, but are not limited to, aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin- 2 (also called aldesleukin) . 
+ Other int eractions  
+ Interact ions between the components of Stribild and potential co- administered medicinal products are listed in Table  1 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).  The interactions described are based on studies cond ucted with the components of Stribild  as individual agents and/or in combination, or are potential drug interactions  that may occur with Stribild . 
+ Table  1: Interactions between the individual components of Stribild  and other medicinal products  
+ Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  ANTI -INFECTIVES  Antifungals  Ketoconazole (200  mg twice daily)/Elvitegravir (150  mg once daily)2 Elvitegravir:  AUC: ↑ 48%  Cmin: ↑ 67%  Cmax: ↔ 
+ Concentrations of ketoconazole and/or cobicistat may increase with co-administration of Stribild.  When administering with Stribild, the maximum daily dose of ketoconazole should not exceed 200 mg per day.  Caution is warranted and clinical monitoring is recommended during the co-administration.  Itraconazole3 Voriconazole3 Posaconazole3 Fluconazole  Interaction not studied with any of the components of Stribild.  
+ Concentrations of itraconazole, fluconazole an d posaconazole may be increased when co -administered with cobicistat.  
+ Concentrations of voriconazole may increase or decrease when co-administered with Stribild.  Clinical monitoring should be made upon co- administration with Stribild.  When administering with Stribild, the maximum daily dose of itraconazole should not exceed 
+200 mg per day.  
+ An assessment of benefit/risk ratio is recommended to justify use of voriconazole with Stribild.   
+11 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Antimycobacterials  Rifabutin (150  mg every other day)/Elvitegravir (150 mg once daily)/Cobicistat (150  mg once daily)  Co-administration of rifabutin, potent CYP3A inducer, may significantly decrease cobicistat and elvitegravir plasma concentrations, which may result in loss of therapeutic effect and development of resista nce. 
+ Rifabutin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ 25-O-desacetyl -rifabutin  AUC: ↑ 525%  Cmin: ↑ 394%  Cmax: ↑ 384%  
+ Elvitegravir:  AUC: ↓ 21%  Cmin: ↓ 67%  Cmax: ↔ Co-administration of Stribild  and rifabutin is not recommended.  If the combination is needed, the recommended dose of rifabutin is 150 mg 3  times per week on set days (for example Monday -Wednesday -Friday).  Increased monitoring for rifabutin -associated adverse reactions including neut ropenia and uveitis is warranted due to an expected increase in exposure to desacetyl -rifabutin.  Further dose reduction of rifabutin has not been studied.  It should be kept in mind that a twice weekly dose of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure.  Hepatitis  Cvirus (HCV) antiviral agents  Ledipasvir/Sofosbuvir  Interaction not studied with Stribild.  
+ Co-administration with Stribild  may lead to increased tenofovir exposure.  Increased plasma concentrations of tenofovir resulting from co-administration of Stribild and ledipasvir/sofosbuvir may increase adverse reactions related to tenofovir disoproxil, including renal disorders.  The s afety of tenofovir disoproxil when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are not availab le (see section  4.4). Ledipasvir/Sofosbuvir (90 mg/400 mg once daily) + Elvitegravir/Cobicistat (150 mg/150 mg once daily)  Observed:  
+ Ledipasvir:  AUC: ↑  78%  Cmin: ↑ 91%  Cmax: ↑ 63%  
+ Sofosbuvir:  AUC: ↑  36%  Cmin: N/A  Cmax: ↑ 33%  
+ GS-331007
+5: AUC: ↑  44%  Cmin: ↑ 53%  Cmax: ↑ 33%  
+ Elvitegravir:  AUC: ↔  Cmin: ↑ 36%  Cmax: ↔ 
+ Cobicistat: AUC: ↑  59%  Cmin: ↑ 325%  Cmax: ↔ 
+ 
+12 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Sofosbuvir/Velpatasvir  (400 mg/100 mg once daily) +  Elvitegravir/Cobicistat/  Emtricitabine/Tenofovir Disoproxil (150 mg/150 mg/200 mg/245 mg once daily)  Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS-331007
+5: AUC: ↔  Cmax: ↔ Cmin: ↑ 45%  
+ Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 37%  
+ Elvitegravir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Cobicistat: AUC: ↔  Cmax: ↔ Cmin: ↑ 71%  
+ Emtricitabine: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↔  Cmax: ↑ 36%  Cmin: ↑ 45% Increased plasma concentrations of tenofovir resulting from co-administration of Stribild and sofosbuvir/velpatasvir may increase adverse reactions related to tenofovir disoproxil, including renal disorders.  The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring (see section 4.4).   
+13 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Sofosbuvir/Velpatasvir/  Voxilaprevir (400 mg/100 mg/ 
+100 mg+100 mg once daily)6 + Emtricitabine/Tenofovir disoproxil (200 mg/245 mg once daily)7  Co-administration with Stribild may lead to increased tenofovir exposure. 
+ Emtricitabine: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  39%  Cmax: ↑ 48%  Cmin: ↑ 47% Increased plasma concentrations of tenofovir resulting from co-administration of Stribild and sofosbuvir/velpatasvir/voxilaprevir may increase adverse reactions related to tenofovir disoproxil, including renal disorders.  The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir/voxilaprevir and a pharmacokinetic enhancer (e.g. cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring (see section 4.4).  Sofosbuvir/Velpatasvir/  Voxilaprevir (400 mg/100 mg/ 
+100 mg+100 mg once daily)6 + Elvitegravir/Cobicistat (150 mg/150 mg once daily)8 Sofosbuvir:  AUC: ↔  Cmax: ↑ 27%  Cmin: N/A  
+ GS-3310075: AUC: ↑  43%  Cmax:↔ Cmin: N/A  
+ Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 46%  
+ Voxilaprevir:  AUC: ↑  171%  Cmax:↑ 92%  Cmin: ↑ 350%  
+ Elvitegravir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 32%  
+ Cobicistat: AUC: ↑  50%  Cmax: ↔ Cmin: ↑ 250%  
+ 
+14 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Nucleoside reverse transcriptase inhibitors (NRTIs)  Didanosine  Co-administration of tenofovir disoproxil and didanosine results in a 
+40-60% increase in systemic exposure to didanosine.  Co-administration of Stribild and didanosine is not recommended. 
+ Increased systemic exposure to didanosine may increase didanosine related adverse reactions.  Rarely, pancreatitis  and lactic acidosis, sometimes fatal, have been reported.  Co- administration of tenofovir disoproxil and didanosine at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine.  A decreased dosage of 
+250 mg didanosine co- administered with tenofovir disoproxil therapy has been associated with reports of high rates of virological failure within several tested combinations for the t reatment of HIV-1 infection. 
+ However, in case of initiation of Stribild in patients previously taking didanosine or discontinuation of Stribild and change to a regimen including didanosine there could be a short period when measurable plasma levels of didanosine and tenofovir occur.  Macrolide antibiotics  Clarithromycin  Interaction not studied with any of the components of Stribild.  
+ Concentrations of clarithromycin and/or cobicistat may be altered with co-administration of Stribild.  No dose adjustment  of clarithromycin is required for patients with normal renal function or mild renal impairment (Cl 
+ Cr 
+60-90 m 
+ L/min).  Clinical monitoring is recommended for patients with Cl 
+ Cr <  90 m 
+ L/min.  For patients with Cl 
+ Cr < 60 m 
+ L/min, alternative antibacterials sho uld be considered.  Telithromycin  Interaction not studied with any of the components of Stribild.  
+ Concentrations of telithromycin and/or cobicistat may be altered with co-administration of Stribild.  Clinical monitoring is recommended upon co-administration of Stribild.   
+15 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  GLUCOCORTICOIDS  Corticosteroids  Corticosteroids primarily metabolised by CYP3A (including betamethasone, budesonide, fluticasone, mometasone, prednisone, triamcinolone). Interaction not studied with any of the components of Stribild.  
+ Plasma concentrations of these medicinal products may be increased when co -administered with Stribild, resulting in reduced serum cortisol concentrations. Concomitant use of Stribild and corticosteroids that are metabolised by CYP3A (e.g. flutic asone propionate or other inhaled or nasal corticosteroids) may increase the risk of development of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression. 
+ Co-administration with CYP3A -metabolised corticosteroids is not reco mmended unless the potential benefit to the patient outweighs the risk, in which case patients should be monitored for systemic corticosteroid effects. Alternative corticosteroids which are less dependent on CYP3A metabolism e.g. beclomethasone for intrana sal or inhalational use should be considered, particularly for long -term use.  
+ For coadministration of cutaneously -administered corticosteroids sensitive to CYP3A inhibition, refer to the prescribing information of the corticosteroid for conditions or uses  that augment its systemic absorption.  MEDICINAL PRODUCTS  or ORAL SUPPLEMENTS CONTAINING POLYVALENT CATIONS (e.g. Mg, Al, Ca, Fe, Zn)  Magnesium/aluminium -containing antacid suspension (20 m 
+ L single dose)/Elvitegravir (50  mg single dose)/Ritonavir (100 mg single dose)  Elvitegravir (antacid suspension after ± 
+2 hours):  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Elvitegravir (simultaneous administration): AUC: ↓  45%  Cmin: ↓ 41%  Cmax: ↓ 47%  
+ Elvitegravir plasma concentrations are lower with antacids due to local complexation i n the gastrointestinal tract and not to changes in gastric p 
+ H.   It is recommended to separate Stribild and administration of antacids, medicinal products or oral supplements containing polyvalent cations by at least 4  hours. 
+ For information on other acid reducing agents (e.g. H
+2-receptor antagonists and proton pump inhibitors), see Studies conducted with other medicinal products. 
+ 
+16 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Calcium or iron supplements (including multivitamin s) Other cation -containing antacids  Cation -containing l axatives  Sucralfate Buffered medicinal products  
+ Interaction not studied with any of the components of Stribild.  
+ Elvitegravir plasma concentrations are expected to be lower with antacids, medicinal products or oral supplements containing polyvalent cations, due to local comp lexation in the gastrointestinal tract and not to changes in gastric p 
+ H.  ORAL ANTI -DIABETICS  Metformin  Interaction not studied with any of the components of Stribild.  
+ Cobicistat reversibly inhibits MATE1, and concentrations of metformin may be increased when co -administered with Stribild.  Careful patient monitoring and dose adjustment of metformin is recommended in patients who are taking Stribild.  NARCOTIC ANALGESICS  Methadone/Elvitegravir/Cobicistat  Methadone:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Cobicistat: AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Elvitegravir:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment of methadone is required. Methadone/Tenofovir disoproxil  Methadone:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Tenofovir:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ 
+17 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Buprenorphine/Naloxone/  Elvitegravir/Cobicistat  Buprenorphine:  AUC: ↑ 35%  Cmin: ↑ 66%  Cmax: ↔ 
+ Naloxone:  AUC: ↓ 28%  Cmax: ↓ 28%  
+ Cobicistat: AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Elvitegravir:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment of buprenorphine/naloxone is required. ORAL CONTRACEPTIVES  Drospirenone/Ethinyloestradiol (3 mg/0.02 mg single dose)/Cobicistat (150 mg once daily)  Interaction not studied with Stribild.  
+ Expected  Drospirenone:  AUC: ↑  Plasma concentrations of drospirenone may be increased when co -administered with cobicistat -containing products.  Clinical monitoring is recommended due to the potential for hyperkalemia. 
+ Caution should be exercised when co-administering Stribild and a hormonal contraceptive.  The hormonal contraceptive should contain at least 30  µg ethinyloestr adiol and contain drospirenone or norgestimate as the progestogen or patients should use an alternative reliable method of contraception (see sections  4.4 and 
+4.6).  The long- term effects of substantial increases in progestogen exposure are unknown.  Norgestimate (0.180/0.215  mg once daily)/Ethinyloestradiol (0.025 mg once daily)/  Elvitegravir (150  mg once daily)/Cobicistat (150  mg once daily)4 Norgestimate:  AUC: ↑ 126%  Cmin: ↑ 167%  Cmax: ↑ 108%  
+ Ethinyloestradiol: AUC: ↓ 25%  Cmin: ↓ 44%  Cmax: ↔ 
+ Elvitegravir:  AUC: ↔  Cmin: ↔ Cmax: ↔ ANTIARRHYTHMICS  Digoxin (0.5  mg single dose)/Cobicistat (150 mg multiple doses)  Digoxin:  AUC: ↔  Cmax: ↑ 41%  It is recommended that digoxin levels be monitored when digoxin is combined with Stribild.  Disopyramide  Flecainide Systemic lidocaine  Mexiletine  Propafenone  Interaction not studied with any of the components of Stribild.  
+ Concentrations of these antiarrhythmic drugs may be increased when co-administered with cobicistat.  Caution is warranted and clinical monitoring is recommended upon co-administration with Stribild.  ANTI -HYPERTENSIVES  Metoprolol  Timolol  Interaction not studied with any of the components of Stribild.  
+ Concentrations of beta -blockers may be increased when co -administered with cobicistat.  Clinical monitoring is recommended and a dose decrease may be necessary when these agents are co -administered with Stribild.   
+18 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Amlodipine  Diltiazem  Felodipine  Nicardipine  Nifedipine  Verapamil  Interaction not studied with any of the components of Stribild.  
+ Concentrations of calcium channel blockers may be increased when co-administered with cobicistat.  Clinical monitoring of therapeutic and adverse effects is recommended when these medicinal products are concomitantly administered with Stribild.  ENDOTHELIN RECEPTOR ANTAGONISTS  Bosentan  Interaction not studied with any of the components of Stribild.  
+ Co-administration with Stribild may lead to decreased elvitegravir and/or cobicistat exposures and loss of therapeutic effect and development of resistance.  Alternative endothelin receptor antagonists may be considered.  ANTICOAGULANTS  Dabigatran  Interaction not studied with any of the components of Stribild.  
+ Co-administration with Stribild  may increase dabigatran plasma concentrations with similar effects as seen with other strong P -gp inhibitors.  Co-administration of Stribild with dabigatran is contraindicated.  Apixaban  Rivaroxaban Edoxaban Interaction not studied with any of the components of Stribild.  
+ Co-administration with Stribild may result in increased plasma concentrations of the DOAC, which may lead to an increased bleeding risk.  Co-administration of apixaban, rivaroxaban or edoxaban is not recommended with Stribild.  Warfarin  Interaction not studied with any of the components of Stribild.  
+ Concentrations of warfarin may be affected upon co -administration with Stribild.  It is recommended that the international normalised ratio (INR) be monitored upon co-administration of Stribild.  INR should continue to be monitored during the first weeks following ceasing treatment with Stribild.  ANTIPLATELETS  Clopidogrel  
+ Interaction not studied with any of the components of Stribild.  
+ Co-administration of clopidogrel with cobicistat is expected to decrease clopidogrel active metabolite plasma concentrations, which may reduce the antiplatelet activity of clopidogrel.  Co-administration of clopidogrel with S tribild  is not recommended. 
+ Prasugrel  Interaction not studied with any of the components of Stribild.  
+ Stribild is not expected to have a clinically relevant effect on plasma concentrations of the active metabolite of prasugrel.  No dose adjustment of prasugrel  is required.  
+19 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  ANTICONVULSANTS  Carbamazepine (200  mg twice daily)/Elvitegravir (150  mg once daily)/Cobicistat (150  mg once daily)  Co-administration of carbamazepine, a potent CYP3A inducer, may significantly decrease cobicistat and elvitegravir plasma concentrations, which may result in  loss of therapeutic effect and development of resistance.  
+ Carbamazepine:  AUC: ↑ 43%  Cmin: ↑ 51%  Cmax: ↑ 40%  
+ Elvitegravir:  AUC: ↓ 69%  Cmin: ↓ 97%  Cmax: ↓ 45%  
+ Cobicistat: AUC: ↓ 84%  Cmin: ↓ 90%  Cmax: ↓ 72%  
+ Carbamazepine- 10,11- epoxide:  AUC: ↓ 35%  Cmin: ↓ 41%  Cmax: ↓ 27%  Co-administration of Stribild with carbamazepine, phenobarbital, or phenytoin is contraindicated (see section  4.3). INHALED BETA AGONIST  Salmeterol  Interaction not studied with any of the components of Stribild.  
+ Co-administration with Stribild may result in increased plasma concentrations of salmeterol, which is associated with the potential for serious and/or life -threatening reactions.  Concurrent administration of salmeterol and Stribild is not recommended.  HMG  CO-A REDUCTASE INHIBIT ORS  Rosuvastatin (10  mg single dose)/Elvitegravir (150 mg single dose)/Cobicistat (150 mg single dose)  Elvitegravir:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rosuvastatin:  AUC: ↑ 38%  Cmin: N/A  Cmax: ↑ 89%  Concentrations of rosuvastatin are transiently increased when administered with elvitegravir and cobicistat.  Dose modifications are not necessary when rosuvastatin is administered in combination with Stribild.  Atorvastatin (10  mg single dose)/  Elvitegravir (150  mg once daily)/ Cobicistat (150  mg once daily)/ Emtricitabine (200  mg once daily)/ Tenofovir alafenamide (10  mg once daily)  
+ Atorvastatin:  AUC: ↑160%  Cmin: NC  Cmax: ↑132%  
+ Elvitegravir:  AUC: ↔  Cmin: ↔ Cmax: ↔ Concentrations of atorvastatin are  increased when co -administered with elvitegravir and cobicistat.  Start with the lowest possible dose of atorvastatin with careful monitoring upon co- administration with Stribild.  
+  
+20 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  Pitavastatin  Interaction not studied with any of the comp onents of Stribild.  
+ Concentrations of pitavastatin may be increased when administered with elvitegravir and cobicistat.  Caution should be exercised when co-administering Stribild with pitavastatin.  Pravastatin  Fluvastatin  Interaction not studied with any  of the components of Stribild.  
+ Concentrations of these HMG  Co-A reductase inhibitors are expected to transiently increase when administered with elvitegravir and cobicistat.  Dose modifications are not necessary when administered in combination with Stribild.  Lovastatin  Simvastatin  Interaction not studied with any of the components of Stribild.  Co-administration of Stribild and lovastatin and simvastatin is contraindicated (see section  4.3). PHOSPHODIESTERASE TYPE  5 (PDE -5) INHIBITORS  Sildenafil  Tadalafil  Vardenafil  Interaction not studied with any of the components of Stribild.  
+ PDE -5 inhibitors are primarily metabolised by CYP3A.  Co-administration with Stribild may result in increased plasma concentrations of sildenafil and tadalafil, which may  result in PDE -5 inhibitor -associated adverse reactions.  Co-administration of Stribild and sildenafil for the treatment of pulmonary arterial hypertension is contraindicated.  
+ Caution should be exercised, including consideration of dose reduction, when co- administering Stribild with tadalafil for the treatment of pulmonary arterial hypertension. 
+ For the treatment of erectile dysfunction, it is recommended that a single dose of sildenafil no more than 25 mg in 48 hours, vardenafil no more than 2.5 mg in 72 hours, or tadalafil no more than 10 mg in 
+72 hours be co- administered with Stribild.  ANTIDEPRESSANTS  Escitalopram  Trazodone  Interaction not studied with any of the components of Stribild.  
+ Concentrations of trazodone may increase upon co -administration with cobicistat.  Careful dose titration of the antidepressant and monitoring for antidepressant response is recommended.  IMMUNOSUPPRESSANTS  Ciclosporin  Sirolimus  Tacrolimus  Interaction not studied with any of the components of Stribild.  
+ Concentrations of these immunosuppressant agents may be increased when administered with cobicistat.  Therapeutic monitoring is recommended upon co-administration with Stribild.   
+21 Medicinal product by therapeutic areas  Effects on drug levels  Mean percent change in AUC, C max, Cmin1 Recommendation concerning co-administration with Stribild  SEDATIVES/HYPNOTICS  Buspirone  Clorazepate Diazepam  Estazolam  Flurazepam  Orally administered midazolam  Triazolam  Zolpidem  Interaction not studied with any of the components of Stribild.  
+ Midazolam and triazolam are primarily metabolised by CYP3A.  Co-administration with Stribild may result in increased plasma concentrations of these drugs, which i s associated with the potential for serious and/or life -threatening reactions.  Co-administration of Stribild and orally administered midazolam and triazolam is contraindicated (see section  4.3).  With other sedatives/hypnotics, dose reduction may be necess ary and concentration monitoring is recommended.  ANTI -GOUT  Colchicine  Interaction not studied with any of the components of Stribild.  
+ Co-administration with Stribild may result in increased plasma concentrations of this drug.  Dose reductions of colchicine may be required.  Stribild should not be co-administered with colchicine to patients with renal or hepatic impairment.  N/A = not applicable  NC = not calculated  DOAC  = direct oral anticoagulant  
+1 When data available from drug interaction studies . 
+2 Studies performed  with ritonavir boosted elvitegravir . 
+3 These are drugs within class where similar interactions could be predicted.  
+4 Study conducted using Stribild . 
+5 The predominant circulating metabolite of sofosbuvir.  
+6 Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV -infected patients.  
+7 Study conducted with emtricitabine/tenofovir disoproxil + darunavir (800  mg) + ritonavir (100  mg).  
+8 Study conducted with elvitegravi r/cobicistat/emtricitabine/tenofovir alafenamide fixed dose combination tablet.  
+ Studies conducted with other medicinal products  
+ Based on drug interaction studies conducted with the components of Stribild , no clinically significant drug interactions have been either observed or are expected between the components of Stribild  and the following medicinal products : entecavir, famciclovir, famotidine, omeprazole, ribavirin  and sertraline . 
+ 

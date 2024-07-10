@@ -1,0 +1,13 @@
+> DIURETICS Ertuglif lozin may add to the diuretic ef f ect of  DIURETICS and may increase the risk of  dehydration andhypotension (see section
+ 4.4). Insulin and insulin secretagogues Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia. Ertuglif lozin mayincrease the risk of  hypoglycaemia when used in combination with insulin and/or an insulinsecretagogue. Theref ore, a lower dose of insulin or an insulin secretagogue may be required to reducethe risk of  hypoglycaemia when used in combination with ertuglif lozin
+ (see sections
+ 4.2, 4.4, and 4.8). Pharmacokinetic interactions
+> Metabolism by UGT1A9 and UGT2B7 is the primary clearance mechanism f or ertuglif lozin. Interaction studies conducted in healthy subjects, using a single dose design, suggest that thepharmacokinetics of  ertuglif lozin are not altered by SITAGLIPTIN, metf ormin, GLIMEPIRIDE, or SIMVASTATIN.Multiple -dose administration of  rif ampicin (a URIDINE  5’-diphospho -glucuronosyltransf erase [UGT ]and cytochrome P450 [CYP ] inducer) decreases ertuglif lozin area under the concentration
+-time curve(AUC ) and maximum plasma concentration (Cmax) by 39% and 15%, respectively. This decrease inexposure is not considered clinically relevant and theref ore, no dose adjustment is recommended. Aclinically relevant ef f ect with other inducers (e.g., CARBAMAZEPINE, PHENYTOIN, PHENOBARBITAL) is notexpected. The impact of  UGT inhibitors on the pharmacokinetics of ertuglif lozin has not been studied clinically,but potential increase in ertuglif lozin exposure due to UGT inhibition is not considered to be clinicallyrelevant.Effects of ERTUGLIFLOZIN on the pharmacokinetics of other medicinal products
+> Interaction studies conducted in healthy volunteers suggest that ertuglif lozin had no clinically relevanteff ect on the pharmacokinetics of SITAGLIPTIN, metf ormin
+, and GLIMEPIRIDE.Coadministration of  SIMVASTATIN with ertuglif lozin resulted in a 
+24% and 19% increase in AUC and
+> Cmax of  SIMVASTATIN, respectively, and 30% and 1
+6
+% increase in AUC and Cmax of  SIMVASTATIN acid,respectively. The mechanism f or the small increases in SIMVASTATIN and SIMVASTATIN acid is unknownand is not perpetrated through organic  anion transporting
+ polypeptide (OATP ) inhibition byertuglif lozin. These increases are not considered to be clinically meaningf ul.

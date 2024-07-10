@@ -1,0 +1,3 @@
+4.5 Interaction with other medicinal p roducts and other forms of interaction  
+ There have been no clinical studies to evaluate the interactions of riluzole with other medicinal products.  In vitro studies using human liver microsomal preparations suggest that CYP 1A2 is the principal isozyme involved in the initial oxidative metabolism of riluzole. Inhibitors of CYP 1A2 (e.g. caffeine, diclofenac, diazepam, nicergoline, clomipramine, imipramine, fluvoxamine, phenacetin, theophylline, amitriptyline and quinolones) could potentially decrease the rate of riluzole elimination, while inducers of CYP 1A2 (e.g. cigarette smoke, charcoal- broiled food, rifampicin and omeprazole) could increase the rate of ril uzole elimination.  
+ 

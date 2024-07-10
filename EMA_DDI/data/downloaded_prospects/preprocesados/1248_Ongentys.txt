@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Monoamino oxidase (MAO) inhibitors  
+ Combination of opicapone and MAO inhibitors could result in inhibition of the majority of the pathways responsible for the metabolism of catecholamines. Because of this, concomitant use of opicapone with MAO inhibitors (e.g. phenelzine, tranylcypromine and moclobemide) other than those for the treatment of Parkinson’s disease is contraindicated  (see section 4.3) .  Concomitant use of opicapone and MAO inhib itors for the treatment of Parkinson’s disease, e.g. rasagiline (up to 1 mg/day) and selegiline (up to 10 mg/day in oral formulation or 1.25 mg/day in buccal absorption formulation), is permissible .  
+ There is no experience with opicapone when used concomi tantly with the MAO -B inhibitor safinamide. Therefore, their concomitant use should be considered with appropriate caution.  
+ 5 Medicinal products metabolised by COMT  
+ Opicapone may interfere with the metabolism of medicinal products containing a catechol group that are metabolised by COMT, e.g. rimiterole, isoprenaline, adrenaline, noradrenaline, dopamine, dopexamine or dobutamine, leading to potentiated effects of these medicinal products. Careful monitoring of patients being treated with these medicinal products is advised when opicapone is used.  
+ Tricyclic antidepressants and noradrenaline re-uptake inhibitors  
+ There is limited experience with opicapone when used concomitantly with tricyclic antidepressants and noradrenaline re -uptake inhibitors (e.g. venl afaxine, maprotiline and desipramine). Thus, their concomitant use should be considered with appropriate caution.  
+ Quinidine  
+ A study conducted in healthy volunteers showed that when a single dose of 50 mg opicapone was co-administered (within 1 hour) with  a single dose of quinidine (600 mg), systemic exposure of  opicapone decreased by 37% (AUC
+0-tlast). Thus, particular consideration should be given to cases where quinidine needs to be administered together with opicapone  as their co -administration should  be avoided.   
+ CYP2C8 and OATP1B1 substrates  
+ Opicapone is a weak  in vitro  inhibitor of CYP2C8 and OATP1B1, whereas repaglinide is a sensitive CYP2C8 and OATP1B1 substrate. A study conducted in healthy subjects showed that there were no changes in repaglinid e’s exposure when repaglinide was administered following multiple once-daily administration of opicapone 50 mg. 
+ 

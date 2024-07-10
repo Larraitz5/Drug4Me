@@ -1,0 +1,51 @@
+> In interaction studies, raltegravir did not have a clinically meaningful ef f ect on the pharmacokineticsof  ETRAVIRINE, MARAVIROC, tenof ovir  disoproxil fumarate , hormonal contraceptives, METHADONE,midazola m or BOCEPREVIR. In some studies, co
+-admi nistration of  raltegravir  with DARUNAVIR resulted in a modest decrease indarunavir plasma concentrations
+; the mechanism f or this eff ect is
+ unknown. However, the ef f ect ofraltegravir on DARUNAVIR
+ plasma concentrations does not appea r to be clinically meaningful.6Effect of other medicinal products on the pharmacokinetics of raltegravir
+> Given that raltegravir
+ is metabolised primarily via UGT
+1A1, caution should be used whenco-administering raltegr avir with strong inducers of UGT1A1 (e.g
+., rifampicin). Rifampicin reducesplasma leve ls of  raltegravir; the impact on the ef f icacy of raltegravir is unknown. However
+, ifco-administration with rifampicin is unavoidable,
+ a doubling of  the dose of  raltegrav ir can beconside red in adults. There  are no data to guide co-administration of ralteg ravir with rifampicin inpatients below 18
+ years of  age (see section  4.4). The i mpact of  other strong inducers of
+ drugmetabolizing  ENZYMES, such as PHENYTOIN and PHENOBARBITAL, on UGT1A1
+ is unknown . Less po tentinducers (e.g., EFAVIRENZ, NEVIRAPINE, ETRAVIRINE, rif abutin, GLUCOCORTICOIDS, ST. JOHN'S WORT,PIOGLITAZONE) may be used with the recommended dose of ralteg ravir.Co-administra tion of  raltegra vir with medicinal products that are known to be potent U GT1A1inhibitors (e.g.,
+ ATAZANAVIR) may increase plasma levels of raltegravir. Less potent UGT1A1 inhibitors(e
+.g., INDINAVIR, SAQUINAVIR) may also increase plasma levels of  raltegravir, but to a lesser extentcompared with ATAZANAVIR. In addition, tenof ov ir disoproxil fumarate may increase plasma levels
+ ofraltegravir, however, the mechanism f or this effect is unknown (see Table
+ 1)
+. From the clinical trials, alarge proportion of patients used ATAZANAVIR and / or TENOFOVIR DISOPROXIL f u marate, both agents thatresult in increases in raltegravir plasma levels, in the optimised background regimens. The safetyprofile observed in patients who used ATAZANAVIR and / or tenof ovir  disoproxil f umarate  was gen erallysimilar to th e safety prof ile of patients who did not use these agents. Theref ore, no dose adjustment isrequired.Co-adminis tration of  raltegravir  with ANTACIDS containing divalent metal cations may reduce raltegravirabsorption by
+ chelation, resulting in a decrease of  raltegravir plasma levels. Taking an ALUMINIUM andmagnes ium antacid within 
+6 hours  of raltegravir administration signif icantly decreased raltegravirplasma levels
+. Theref ore , co-administration of
+ raltegravir  with alu minium and/or magnesiumcontaining a ntacids is not recommended. Co-admini stration of  raltegravir  with a CALCIUM carbonateantacid decreased raltegravir plasma levels; however, this interaction is not considered cl inicallymeaningful. Theref ore, when ralteg ravir is co-administered with CALCIUM CARBONATE containingantacids no do se adjustment is requir ed.Co-administration of raltegravir with other agents that increase gastric p
+> H (e.g., OMEPRAZOLE andf amotidine) may increase the rate of
+ raltegravir absorption and result in
+ increased plasma levels ofraltegrav ir (see Table 1). Sa f ety profiles in the subgroup of patients in Phase III trials taking protonpump inhibitors or H2 antagonists were comparable with those who
+ were not taking these
+ ANTACIDS.Theref ore , no dose adjustment is required with
+ use of PROTON PUMP INHIBITORS or H2 antagonists.All inter action studies were perf ormed in adults.Table  1Pharmacokinetic Interaction Data
+> ANTIMICROBIALSAntimyc obacterialrifampicin(raltegra vir 400 mg Single Dose)raltegr avir AUC  40 %raltegravir C
+12hr  61 %raltegravir Cmax  38 %(UGT1A1 induction)Rif ampicin reduces plasmalevels of  raltegravir . Ifco-administration withrif ampicin is unavoidable, adoub ling of  th e dose ofraltegravir  can be consid ered(see section
+ 4.4).SEDA TIVEmidazolam(raltegravir  400 mg Twice Daily)MIDAZOLAM AUC 
+ 8 %MIDAZOLAM Cmax ↑ 3 %No dosa ge adjustment requiredf or raltegravir  or MIDAZOLAM.These results indicate thatraltegravir  is not an inducer orinhibitor of  CYP3A4, andralteg ravir is th us notanticipated to af f ect thepharmacokinetics of medicinalproducts which are CYP3A4substrates .METAL CATION ANTACIDSalumin ium and magnesiumhydroxide antacid(raltegra vir 40 0 mg Twice  Daily)raltegravir AUC  49 %raltegravir C 12 hr  63 %raltegr avir C max  44 %
+2 hours bef ore raltegravirraltegravir AUC 
+ 51 %raltegravir C
+12 hr  56 %raltegravir C max  51 %
+2 hours af ter raltegravirraltegravir AUC 
+ 30 %raltegra vir C 12 hr  57 %raltegravir Cmax  24 %
+6 hours bef ore raltegravirraltegravi r AUC  13 %raltegravir C
+12 hr  50 %raltegravir Cmax  10 %
+6 hours af ter raltegravirraltegrav ir AUC  11 %raltegravir C
+12 hr  49 %raltegravir C max  10 %(chelation of  meta l cation s)ALUMINIUM  and magnesiumcontaining  ANTACIDS reduceraltegravir plasma levels.Co-administration ofraltegravir  with aluminiumand/or MAGNESIUM containingantacids  is not recommended.CALCIUM CARBONATE antacid(raltegravir 400
+ mg Twice Daily)raltegravi r AUC  55 %raltegrav ir C12 hr  32 %raltegravir Cmax  52 %(chelation of  metal cations)No dose adjustment requiredf or raltegravir .9Medicinal products by therapeuticarea
+> Other METAL
+ CATIONIron salts Expected :Raltegravir AUC (chelation of  metal cations)Given simultaneously IRON saltsare expected to
+ reduceraltegravir plasma levels
+;taking IRON salts at least twohours from the administrationof  raltegravir may allow tolimit this ef f ect.H2 BLOCKERS AND PROTON PUMP  INHIB ITORSomeprazole  (raltegravir 400
+ mg Twice  Daily ) raltegravir AUC ↑  37 %raltegrav ir C12 hr ↑ 24 %raltegravir Cmax ↑ 51 %(increased solubility)No dose adjustment requiredf or raltegravir .FAMOTIDINE(raltegravir 400
+ mg Twice Daily)raltegravir AUC
+ ↑ 44 %raltegravir C
+12 hr ↑ 6 %raltegravir Cmax ↑ 60 %(increased solubility)No dose adjustment requiredf or raltegravir .HORMONAL CONTRACEPTIVESEthinyl ESTRADIOL

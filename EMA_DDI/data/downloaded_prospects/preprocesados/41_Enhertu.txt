@@ -1,0 +1,3 @@
+4.5 Interaction with other medicinal product s and other forms of interaction  
+ Co-administration with ritonavir, an inhibitor of OATP1B, CYP3A and P -gp, or with itraconazole, a strong inhibitor of CYP3A and P -gp, resulted in no clinically meaningful (approximately 10 -20%) increase in exposures of trastuzumab deruxtecan or the released topoisomerase  I inhibitor, DXd. No dose adjustment is required during co -administration of trastuzumab deruxtecan with medicinal products that are inhibitors of CYP3A or OATP1B or P -gp transporters (see s ection 5.2). 
+ 

@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Data from an interaction study involving Vectibix and irinotecan in patients with m 
+ CRC indicated that the pharmacokinetics of irinotecan and its active metabolite, SN -38, are not altered when the medicinal products  are co -administered. Results from a cross -study comparison indicated that irinotecan -containing  regimens (IFL or FOLFIRI) have no effect on the pharmacokinetics of panitumumab.  
+ 7 Vectibix should not be administered in combination with IFL chemotherapy or with bevacizumab -containing chemotherapy. A high incidence of severe diarrhoea was observed when panitumumab was administered in combination with IFL (see section  4.4), and increased toxicity and deaths were seen when panitumumab was combined with bevacizumab and chemotherapy (see sections  4.4 and  5.1). 
+ The combination of Vectibix with oxaliplatin -containing chemotherapy is contraindicated for patients with mutant RAS m 
+ CRC or for whom RAS m 
+ CRC status is unknown . A shortened progression -free survival and overall survival time were observed in a clinical st udy in patient s with mutant RAS tumours who received panitumumab and FOLFOX (see section s 4.4 and 5.1). 
+ 

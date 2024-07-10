@@ -1,0 +1,10 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ No interaction studies have been performed.  
+ The primary elimination pathway for therapeutic antibodies is clearance by the reticuloendothelial system. Cytochrome P450 enzymes, efflux pumps, and protein -binding mechanisms are not involved in the clearance of therapeutic antibodies. Therefore, the pot ential risk of pharmacokinetic interactions between inebilizumab and other medicinal products is low.  
+ Vaccinations  
+ The efficacy and safety of immunisation with live or live -attenuated vaccines following inebilizumab therapy has not been studied. The response to vaccination could be impaired when B cells are depleted. It is recommended that patients complete immunisations  prior to the start of inebilizumab  therapy (see section  4.4). 
+ Immunosuppressants  
+ Inebilizumab has been tested, and is intended to be used, as monotherapy for this indication. No data are available on the safety or efficacy of combining inebilizumab with other immunosuppressants. In the pivotal study, a 2 -week course of oral corticoster oids (plus a 1 -week taper) was given to all subjects following the first administration of inebilizumab.  
+ Concomitant usage of inebilizumab with immunosuppressants, including systemic corticosteroids, may increase the risk of infection. The effects of inebilizumab on B cells and immunoglobulins may persist for 6 months or longer following its administration.  
+ When initiating inebilizumab after other immunosuppressive therapies with prolonged immune effects or initiating other immunosuppressive therapies with prolonged immune effects after  inebilizumab , the duration and mode of action of these medicinal products should be taken into account because of potential  additive immunosuppressive effects (see section  5.1). 
+  

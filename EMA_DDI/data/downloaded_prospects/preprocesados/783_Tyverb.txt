@@ -1,0 +1,26 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effects of other medicinal products on lapatinib  
+ Lapatinib is predominantly metabolised by CYP3A (see section  5.2). 
+ In healthy volunteers receiving ketoconazole, a strong CYP3A4 inhibitor, at 200  mg twice daily for 
+7 days, systemic exposure to lapatinib (100 mg daily) was increased approximately 3.6 –fold, and half-life increased 1.7 –fold. Co-administration of Tyverb with strong inhibitors of CYP3A4 (e.g. ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole, nefazodone) should be avoided. Co -administration of Tyverb with moderate inhibitors of CYP3A4 should proceed with caution and clinical adverse reactions should be carefully monitored.  
+ In healthy volunteers receiving carbamaz epine, a CYP3A4 i nducer, at 100  mg twice daily for 3  days and 200  mg tw ice daily for 17  days, systemic exposure to lapatinib was decreased approximately 72%. Co-administration of Tyverb with known inducers of CYP3A4 (e.g. rifampicin, rifabutin, carbamazepine, phenytoin or Hypericum perforatum [St John’s Wort]) should be avoided.  
+ Lapatinib is a substrate for the transport proteins Pgp and BCRP.  Inhibitors (ketoconazole, itraconazole, quinidine, verapamil, cyclosporine, and erythromycin) and inducers (rifamp icin and St John’ s Wort) of these proteins may alter the exposure and/or distribution of lapatinib (see section  5.2). 
+ The solubility of lapatinib is p 
+ H -dependent. Concomitant treatment with substances that increase gastric p 
+ H should be avoided, as lapatinib solubility and  absorption may decrease.  Pre-treatment with a proton pump inhibitor (esomeprazole) decreased lapatinib exposure by an average of 27% (range: 
+6% to 49%). This effect decreases with increasing age from approximately 40 to 60  years.  
+ Effects of lapatinib on other medicinal products  
+ Lapatinib inhibits CYP3A4 in vitro  at clinically relevant concentrations.  Co-administration of Tyverb  with orally administered midazolam resulted in an approximate 45% increase in the AUC of midazolam.  There was no clinically meaningful increase in AUC when midazolam was dosed intravenously.  Co-administration of Tyverb with orally administered medicin al products  with narrow therapeutic windows that are substrates of CYP3A4 (e.g. cisapride, pimozide and quinidine) should be avoided (see sections  4.4 and 5.2).  
+ Lapatinib inhibits CYP2C8 in vitro  at clinically relevant concentrations.  Co-administration of Tyv erb with medicinal products with narrow therapeutic windows that are substrates of CYP2C8 (e.g. repaglinide) should be avoided (see sections  4.4 and 5.2).  
+ Co-administration of lapatinib with intravenous paclitaxel increased the exposure of paclitaxel by 
+23%, due to lapatinib inhibition of CYP2C8 and/or Pgp. An increase in the incidence and severity of diarrhoea and neutropenia has been observed with this combination in clinical studies . Caution is advised if lapatinib is co -administered with paclitaxel.  
+ Co-administration of lapatinib with intravenously administered docetaxel did not significantly affect the AUC or C max of either active substance. However, the occurrence of docetaxel -induced neutropenia was increased.  
+ Co-administration of Tyverb with irino tecan (when administered as part of the FOLFIRI regimen) resulted in an approximate 40% increase in the AUC of SN -38, the active metabolite of irinotecan.  The precise mechanism of this interaction is unknown, but it is assumed to be due to inhibition of on e or more transport proteins by lapatinib.  Adverse reactions should be carefully monitored if Tyverb is co-administered with irinotecan, and a reduction in the dose of irinotecan should be considered . 
+  8 Lapatinib inhibits the transport protein Pgp in vitro  at clinically relevant concentrations. Co-administration of lapatinib with orally administered digoxin resulted in an approximate 80% increase in the AUC of digoxin. Caution should be exercised when dos ing lapatinib concurrently with medic inal product s with narrow therapeutic windows that are substrates of Pgp, and a reduction in the dose of the Pgp substrate should be considered.  
+ Lapatinib inhibits the transport proteins BCRP and OATP1B1 in vitro . The clinical relevance of this effect has not been evaluated. It cannot be excluded that lapatinib will affect the pharmacokinetics of substrates of BCRP (e.g. topotecan) and OATP1B1 (e.g. rosuvastatin) (see section  5.2). 
+ Concomitant administration of Tyverb with capecitabine , letrozole  or trastuzumab did not meaningfully alter the pharmacokinetics of these medicinal products  (or the metabolites of capecitabine) or lapatinib.  
+ Interactions with food and drink  
+ The bioavaila bility of lapatinib is increased up to about 4 times by food, depending on e.g. the fat content in the meal . Furthermore, depending on type of food the bioavailability is approximately 
+2-3 times higher when lapatinib is taken 1  hour after food compared with 1  hour before the first meal of the day (see sections  4.2 and 5.2).  
+ Grapefruit juice may inhibit CYP3A4 in the gut wall and increase the bioavailability of lapatinib and should therefore be avoided during treatment with Tyverb . 
+ 

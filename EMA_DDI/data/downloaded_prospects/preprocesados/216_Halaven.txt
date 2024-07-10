@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Eribulin is mainly (up to 70%) e liminated through biliary excretion. The transport protein involved in this process is unknown. Eribulin is not a substrate of breast cancer resistance protein (BCRP), organic anion (OAT1, OAT3, OATP1B1, OATP1B3), multi -drug resistance -associated protein ( MRP2, MRP4) and bile salt export pump (BSEP) transporters.  
+ No drug- drug interactions are expected with CYP3A4 inhibitors and inducers . Eribulin exposure (AUC and Cmax) was unaffected by ketoconazole, a CYP3A4 and P glycoprotein (Pgp) inhibitor, and rifampicin, a CYP3A4 inducer.   
+ Effects of eribulin on the pharmacokinetics of other medicines  
+ In vitro  data indicate that eribulin is a mild inhibitor of the important drug metabolising enzyme CYP3A4. No in vivo  data are available. Caution and monitoring  for adverse events is recommended with concomitant use of substances that have a narrow therapeutic window and that are eliminated mainly via CYP3A4 -mediated metabolism ( e.g. alfentanil, cyclosporine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus ). 
+ Eribulin does not inhibit the CYP enzymes CYP1A2, 2B6, 2C8 , 2C9, 2C19 , 2D6 or 2E1 at relevant clinical concentrations.  
+ At relevant clinical concentrations, eribulin did not inhibit BCRP, OCT1, OCT2,  OAT1, OAT3, OATP1B1 and OATP1B3 transporte r-mediated activity.  
+ 

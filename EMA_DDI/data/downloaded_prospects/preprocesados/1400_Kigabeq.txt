@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ As vigabatrin is neither metabolised, nor protein bound and is not an inducer of hepatic cytochrome P450 metabolising -enzymes, interactions with other medicinal products are unlikely. However, during controlled clinical studies, a gradual reduction of 16 -33 % in the plasma concentration of phenytoin has been observed. The exact nature of this interaction is presently not understood, however, in the majority of cases it is unlikely to be of therapeutic significance.  
+ The plasma concentrations of carbamazepine, phenobarbital, and sodium valproate have also been monitored during controlled clinical trials and no clinically significant interactions have been detected.  
+ 

@@ -1,0 +1,69 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Idelalisib is metaboli sed primarily via aldehyde oxidase, and to a lesser extent via CYP3A and glucuronidation ( UGT1A4 ). Its primary metabolite is GS -563117 , which is not pharmacologically active.  Idelalisib and GS -563117 are substrates of P -gp and BCRP.  
+ Effect of other medicinal products on idelalisib pharmacokinetics  
+ CYP3A inducers  A clinical drug interaction study found that co- administration of  a single dose of 150  mg idelalisib  with rifampi cin (a strong CYP3A inducer) resulted in a ~75% reduction in idelalisib AUC inf. Co-administration of Zydelig  with moderate or  strong CYP3A inducers such as rifampi cin, phenytoin, St. John’s wort, or carbamazepine should be avoided as this may result in decreased efficacy (see section  4.4). 
+ CYP3A /P-gp inhibitors  A clinical drug interaction study found that co- administration of a single dose of 400  mg idelalisib with 400 mg once daily ketoconazole (a  strong CYP3A , P-gp and BCRP  inhibitor) resulted in a 26% increase in Cmax and a 79% increase in AUC inf of idelalisib . No initial dose adjustment of idelalisib is  considered necessary when administered with CYP3A /P-gp inhibitors , but an inte nsified monitoring of adverse reactions is recommended . 
+ Effect of idelalisib on the pharmacokinetics of other medicinal products  
+ CYP3A substrates  The primary metabolite of idelalisib, GS -563117, is a strong CYP3A inhibitor.  A clinical drug interaction study found that co- administration of idelalisib with mi dazolam (a sensitive CYP3A substrate) resulted in a ~140% increase in Cmax and a ~440% increase in AUC inf of midazolam due to the CYP3A inhibition by GS -563117.  Co-administration of idelalisib with CY P3A substrates may increase their systemic exposures and increase or prolong their therapeutic activity and adverse reactions.  In vitro, the CYP3A4 inhibition was irreversible, and return to normal enzyme activity is therefore expected to take several days  after stopping idelalisib administration.  
+ Potential interactions between idelalisib and co- administered medicinal products that are CYP3A substrates are listed in Table  1 (increase is indicated as “↑ ”). This list is not exhaustive and is intended to serv e as guidance only.  In general, the Sm 
+ PC for the other product must be consulted for the recommendations regarding co- administration with CYP3A4 inhibitors (see section  4.4). 
+ 7 Table  1: Interactions between idelalisib and other medicinal products that are CYP3A substrates 
+ Medicinal product  Expected effect of idelalisib on drug levels  Clinical recommendation upon co-administration with idelalisib  ALPHA -1 ADRENORECEPTOR ANTAGONISTS  Alfuzosin  ↑ serum concentrations  Idelalisib should not be co-administered with alfuzosin.  ANALGESICS  Fentanyl, alfentanil, methadone, buprenorphine/naloxone  ↑ serum concentrations  Careful monitoring of adverse reactions  (e.g., respiratory depression, sedation) is recommended.  ANTIARRHYTHMICS  Amiodarone, quinidine  
+  
+ Bepridil, disopyramide, lidocaine  ↑ serum concentrations  
+ 
+ 
+ 
+↑ serum concentrations  Idelalisib should not be co-administered with amiodarone or quinidine.  
+ Clinical monitoring is recommended.  ANTI -CANCER AGENTS  Tyrosine kinase inhibitors such as dasatinib and nilotinib, also vincristine and vinblastine  ↑ serum concentrations  Careful monitoring of the tolerance to these anti -cancer agents is recommended.  ANTICOAGULANTS  Warfarin  ↑ serum concentrations  It is recommended that the international normalised ratio (INR) be monitored upon co- administration and following ceasing treatment with idelalisib.  ANTICONVULSANTS  Carbamazepine  ↑ serum concentrations  Anticonvulsant drug levels should be monitored.  ANTIDEPRESSANTS  Trazodone  ↑ serum concentrations  Careful dose titration of the antidepressant and monitoring for antidepressant response is recommended.  ANTI -GOUT  Colchicine  ↑ serum concentrations  Dose reductions of colchicine may be required.  Idelalisib should not be co-administered with colchicine to patients with renal or hepatic impairment.  ANTI -HYPERTENSIVES  Amlodipine, diltiazem, felodipine, nifedipine, nicardipine  ↑ serum concentrations  Clinical monitoring of therapeutic effect and adverse reactions is recommended.  ANTI -INFECTIVES  Antifungals  Ketoconazole, itraconazole, posaconazole, voriconazole  ↑ serum concentrations  Clinical monitoring is recommended.  Antimycobacterials  Rifabutin  ↑ serum concentrations  Increased monitoring for rifabutin -associated adverse reactions including neutropenia and uveitis is recommended.  8 Medicinal product  Expected effect of idelalisib on drug levels  Clinical recommendation upon co-administration with idelalisib  HCV protease inhibitors  Boceprevir, telaprevir  ↑ serum concentrations  Clinical monitoring is recommended.  Macrolide antibiotics  Clarithromycin, telithromycin  ↑ serum concentrations  No dose adjustment of clarithromycin is required for patients with normal renal function or mild renal impairment (creatinine clearance 
+[Cr 
+ Cl] 60-90 m 
+ L/min).  Clinical monitoring is recommended for patients with C r 
+ Cl < 90 m 
+ L/min.  For patients with C r 
+ Cl < 60 m 
+ L/min, alternative antibacterials should be considered.  
+ Clinical monitoring is recommended for telithromycin.  ANTI -PSYCHOTICS/NEUROLEPTICS  Quetiapine, pimozide  ↑ serum concentrations  Idelalisib should not be co-administered with quetiapine or pimozide.  
+ Alternative medicinal products, such as olanzapine, may be considered.  ENDOTHELIN RECEPTOR ANTAGONISTS  Bosentan  ↑ serum concentrations  Caution should be exercised and patients closely observed for bosentan-related toxicity.  ERGOT ALKALOIDS  Ergotamine, dihydroergotamine  ↑ serum concentrations  Idelalisib should not be co-administered with ergotamine or dihydroergotamine.  GASTROINTESTINAL MOTILITY AGENTS  Cisapride  ↑ serum concentrations  Idelalisib should not be co-administered with cisapride.  GLUCOCORTICOIDS  Inhaled/nasal corticosteroids:  Budesonide, fluticasone  
+ Oral budesonide   
+↑ serum concentrations  
+ ↑ serum concentrations   Clinical monitoring is recommended.  
+ Clinical monitoring is recommended for increased signs/symptoms of corticosteroid effects.  HMG CO -A REDUCTASE INHIBITORS  Lovastatin, simvastatin  
+ 
+ 
+ Atorvastatin  ↑ serum concentrations  
+ 
+ 
+ 
+↑ serum concentrations  Idelalisib should not be co-administered with lovastatin or simvastatin.  
+ Clinical monitoring is recommended and a lower starting dose of atorvastatin may be considered.  Alternatively, switching to pravastatin, rosuvastatin, or pitavastatin may be considered.  9 Medicinal product  Expected effect of idelalisib on drug levels  Clinical recommendation upon co-administration with idelalisib  IMMUNOSUPPRESSANTS  Ciclosporin, sirolimus, tacrolimus  ↑ serum concentrations  Therapeutic monitoring is recommended.  INHALED BETA AGONIST  Salmeterol  ↑ serum concentrations  Concurrent administration of salmeterol and idelalisib is not recommended.  The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia.  PHOSPHODIESTERASE INHIBITORS  
+ 
+ Sildenafil  
+ 
+ Tadalafil    
+ 
+ 
+ Sildenafil, tadalafil  
+ 
+↑ serum concentrations  
+ 
+ 
+↑ serum concentrations  
+   
+ 
+ 
+ ↑ serum concentrations  For pulmonary arterial hypertension:  
+ Idelalisib should not be co-administered with sildenafil.  
+ Caution should be exercised, including consideration of dose reduction, when co-administering tadalafil with idelalisib.  
+ For erectile dysfunction:  
+ Particular caution must be used and dose reduction may be considered when prescribing sildenafil or tadalafil with idelalisib with increased monitoring for adverse events.  SEDATIVES/HYPNOTICS  Midazolam (oral), triazolam  
+ 
+  Buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem  ↑ serum concentrations  
+   
+↑ serum concentrations  Idelalisib should not be co-administered with midazolam (oral) or triazolam.  
+ Concentration monitoring of sedatives/hypnotics is recommended and dose reduction may be considered.  
+ CYP2C8 substrates  In vitro, idelalisib both inhibited and induced CYP2C8, but it is not known whether this translates to an in vivo effect on CYP2C8 substrates.  Caution is advised if Zydelig is used together with narrow therapeutic index drugs that are substrates  of CYP2C8 (paclitaxel).  
+ Substrates of inducible enzymes (e.g., CYP2C9, CYP2C19, CYP2B6 and UGT)  In vitro, idelalisib was an inducer of several enzymes, and a risk for decreased exposure and thereby decreased efficacy  of substrates of inducible enzymes such as CYP2C9, CYP2C19, CYP2B6 and UGT cannot be excluded. Caution is advised if Zydelig is used together with narrow therapeutic index drugs that are substrates of these enzymes ( warfarin, phenytoin, S -mephenytoin).  
+ BCRP, OATP1B1, OATP1B3 and P- gp substra tes Co-administration of multiple doses of idelalisib 150  mg twice daily to healthy subjects resulted in comparable exposures for rosuvastatin (AUC 90%  CI: 87, 121) and digoxin (AUC 90%  CI: 98,  111), suggesting no clinically relevant inhibition of BCRP, OA TP1B1/1B3 or systemic P -gp by idelalisib.  A 10 risk for P -gp inhibition in the gastrointestinal tract, that could result in increased exposure of sensitive substrates for intestinal P -gp such as dabigatran etexilate, cannot be excluded.  
+ Paediatric population  Interaction studies have  only been performed in adults.  
+ 

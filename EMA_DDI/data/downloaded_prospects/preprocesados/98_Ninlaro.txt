@@ -1,0 +1,15 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacokinetic interactions 
+ CYP inhibitors 
+ Co-administration of ixazomib with clarithromycin, a strong CYP3A inhibitor, did not result in a clinically meaningful change in the systemic exposure of ixazomib. Ixazomib Cmax was decreased by 
+4% and AUC was increased by 11%. Therefore, no dose modification is required for ixazomib with co-administration of strong CYP3A inhibitors.  
+ Co-administration of ixazomib with strong CYP1A2 inhibitors did not result in a clinically meaningful change in the systemic exposure of ixazomib based on the results of a population pharmacokinetic (PK) analysis. Therefore, no dose modification is required for ixazomib with co-administration of strong CYP1A2 inhibitors.  
+ CYP inducers 
+ Co-administration of ixazomib with rifampicin decreased ixazomib Cmax by 54% and AUC by 74%. Therefore, co -administration of strong CYP3A inducers with ixazomib is not recommended (see section  4.4). 
+ Effect of ixazomib on other medicinal products  
+ Ixazomib is not a reversible or a time-dependent inhibitor of CYPs 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4/5. Ixazomib did not induce CYP1A2, CYP2B6, and CYP3A4/5 activity or corresponding immunoreactive protein levels. Ixazomib is not expected to produce drug-drug interactions via CYP  inhibition or induction.  
+ Transporter-based interactions  
+ Ixazomib is a low affinity substrate of P -gp. Ixazomib is not a substrate of BCRP, MRP2 or hepatic OATPs. Ixazomib is not an inhibitor of P -gp, BCRP, MRP2, OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, or MATE2 -K. Ixazomib is not expected to cause transporter -mediated drug-drug interactions.  
+ Oral contraceptives 
+ When ixazomib  is administered together with dexamethasone, which is known to be a weak to moderate inducer of CYP3A4 as well as other enzymes and transporters, the risk for reduced efficacy of oral contraceptives needs to be considered. Women using hormonal contraceptives should additionally use a barrier method of contraception.  
+ 

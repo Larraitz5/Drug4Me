@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Based on in vitro  data, azacitidine metabolism does not appear to be mediated by cytochrome  P450 isoenzymes (CYPs), UDP -glucuronosyltransferases (UGTs), sulfotransferases (SULTs), and glutathione transferases (GSTs); interactions related to these metabolizing enzymes in vivo  are therefore considered unlikely.  
+ Clinically significant inhibitory or inductive effects of azacitidine on cytochrome P450 enzymes are unlikely (see section  5.2). 
+ No formal clinical drug interaction studies with azacitidine have been conducted.  
+ 

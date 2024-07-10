@@ -1,0 +1,6 @@
+> No interaction studies have been performed.  Based  on the interaction profile for tobramycin following intravenous and aerosolised administration, concurrent and/or sequential use of Vantobra  is not recommended with other medicinal products with nephrotoxic or ototoxic potential, such as:  
+- AMPHOTERICIN B , CEFALOTIN, CICLOSPORIN, TACROLIMUS, POLYMYXINS (risk of increased nephrotoxicity);  
+- PLATINUM COMPOUNDS (risk of increased nephrotoxicity and ototoxicity);  
+> Concurrent use of Vantobra  with diuretic compounds (such as ETHACRYNIC ACID, FUROSEMIDE, UREA o r MANNITOL) is not recommended. Such compounds can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue (see section 4.4). 
+> Other medicinal products that have been reported to increase the potential toxicity of parenter ally administered aminoglycosides include:  
+- ANTICHOLINESTERASES, botulinum toxin (neuromuscular effects). 

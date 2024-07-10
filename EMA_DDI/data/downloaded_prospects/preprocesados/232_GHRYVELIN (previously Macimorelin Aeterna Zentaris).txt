@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Macimorelin is metabolised mainly by CYP3A4  in vitro . 
+ Co-administration of a CYP3A4  inhibitor may increase the macimorelin plasma concentration , and this, in turn , could yield higher  plasma GH levels . Based on current understanding, this is unlikely to decrease the specificity of the test.  
+ Administration of a CYP3A 4 inducer (such as  carbamazepine, dabrafenib, efavirenz, enzalutamide, eslicarbazepine , fosphenytoin , lumacaftor,  modafinil, nevirapine, oxcarbazepine, phenobarbital, phenytoin , pioglitazone, pitolisant, primidone, rifabutin , rifampicin  and St John’s wort ( Hypericum perforatum )) may reduce the plasma macimorelin concentrations and may affect the diagnostic performance of the test and therefore should be avoided. A sufficient washout time of five elimination half-lives of the CYP3A 4 inducer prior to administration of the test is recommended  (see section  4.2 and section  4.4).  
+ No drug -drug interaction studies have been performed in humans.  
+  
+6 Medicinal products  affecting growth hormone release  
+ The following medicinal products  may impact the accuracy of the diagnostic test. Concomitant use  is to be avoided  with (see also section  4.2 and section  4.4): 
+• Medicinal products that directly affect the pituitary secretion of growth hormone (such as somatostatin, insulin, glucocorticoids , and cyclooxygenase inhibitors such as acetylsalicylic acid or indometacin ). 
+• Medicinal products that may transiently elevate growth hormone concentrations (such as clonidine, levodopa , and insulin).  
+• Medicinal products that may blunt the growth hormone response to macimorelin (such as muscarinic antagonists: atropine, anti -thyroid medicinal products : propylthiouracil and growth hormone medicinal products).  Growth hormone medicinal products should be discontinued at least 1 month  before administering macimorelin . Sufficient washout time (five elimination half-lives) of medicinal products prior to administration of macimorelin is recommended.  
+ Medicinal  products  with a potential to induce torsades de pointes  
+ Co-administration of macimorelin with medicinal products with a potential  to induce torsades de pointes (antipsychotic  medicinal products e.g.  chlorpromazine, haloperidol, antibiotics (e.g., moxifloxacin,  erythromycin, clarithromycin ), anti-arrhythmics Class  Ia (e.g. quinidine ), and Class  III (e.g. amiodarone, procainamide, sotalol ) or any other medicinal products that may induce torsades de pointes) should be avoided (see section  4.4). 
+ 

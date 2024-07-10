@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No formal drug-drug interaction studies have been performed.  
+ Since androgen deprivation treatment may prolong the QTc interval, the concomitant use of degarelix with medic inal products known to prolong the QTc interval or medicinal product s able to induce torsades de pointes such as class IA ( e.g. quinidine, disopyramide) or class III (e.g. amiodarone, sotalol, dofetilide, ibutilide)  antiarrhythmic medicinal products , methadone,  moxifloxacin, antipsychotics,  etc. should be carefully evaluated (see section 4.4).  
+ Degarelix is not a substrate for the human CYP450 system and has not been shown to induce or inhibit CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A4/5 to any great extent in vitro . Therefore, clinically significant pharmacokinetic drug -drug interactions in metabolism related to these isoenzymes are unlikely.  
+ 

@@ -1,0 +1,431 @@
+4.5 and 5.2). The c oncomi tant use of  ZE PATIER  and strong CYP3A  inhibitors increases elbasvir and grazoprevirconcentrations
+, and co -administration  is not recommended
+ (see section  4.5). HCV/HBV (hepatitis B virus) c o-inf ection 
+ Cases of hepatitis B  virus (HBV) reactivation,
+ some of them f atal, have been reported during or af tertreatment with
+ direct-acting antiviral agents. HBV screening should be perf ormed in all patients beforeinitiation of  treatment. HBV/HCV
+ co-infected patients are at risk of  H BV reactivation, and shouldtheref ore be monit ored a nd manage d according to current clinical guidelines.Use in diabetic patients 
+ Diabetics may experience improved glucose control potentially resulting in symptomatichypog lycaemia , after initiating  HCV direct acting antiviral (DAA) treatment. Gl ucose  level s ofdiabetic patients initiating DAA therap y should be closely monitored, particularly within the f irst
+3 months, and their diabetic medication modif ied when necessary. T he physician in charge of  thediabetic care of  the patient should  be inf or med w hen DAA therapy is init iated.Paediatric population 
+ ZEPATIER  is not indicated f or use in children under 12 years of  age .Excipien ts 
+ ZEPATIER contain s lactose  monoh ydrate. Patients with rare hereditary problems of  galactoseintoleran ce, total lactase def iciency
+, or glucose
+-galactose malabsorption should not take this medicinalproduct .ZEPATIER contains 
+69.85 mg sodium per tablet, equivalent to 3.5 % of  the WHO recomme ndedmaximum daily intake of  2
+ g sodium  f or a n adult.
+4.5 Interac tion with other medicinal products and other forms o f interaction 
+ Potential f or other  medicinal  products to af f ect ZEPATIERGrazoprevir is  a substrate of OATP1 B drug tran sporters. Co -administration of  ZEPATIER withmedicinal products that inhibit OATP1B transporters is contraindicated because it
+ may resul t in asignificant increase in the  plasma concentration of  grazoprevir ( see sections 4.3 and 4.4).Elbasvir and grazopr evir are substr ates of  CYP3A  and P-gp. Co -admi nistration of inducers of  CYP
+3Aor P-gp with ZEPATIER  is contraindicated because
+ it may de creas e elbasvir and grazoprev ir plasmaconcentrations, which may lead to  reduce d therape utic ef f ect of ZEPATI ER (see sec tions 4.3 and 4 .4). Co-administration of  ZEPATIER  with strong CYP3A inhibitors inc reases elbasvir and grazop revirplasma con centration s, and co-administration is
+ not recommended  (see Table  2 and sect ion 4.4).6Co-administra tion of  ZEP ATIER with P-gp inhib itors is expected to have a minimal eff ect on theplasma concentrations of ZEPATIER.The potential f or grazoprevir to be a breast cance r resistance protein ( BCRP ) substr ate cannot  beexcluded.Potent ial f or  ZEPATI ER to af f ect other m edicinal products 
+ Elbasvir and grazoprevir are inh ibitors of the drug transpo rter BCRP  at the i ntestinal  level in humansand may increase plasma concentrati ons o f co-administered BCRP substr ates. Elbasvir is not a 
+ CYP3A i nhibito r in vitro and g razop revir is a weak CYP3 A inhib itor in humans.
+ Co-administrat ionwith grazoprevir did not result in clinically rele vant increases in exposures of  CYP3A substrates.Theref or e, no dose adjustment is
+ required f or CYP3A substrates when co-admi nistered with 
+ ZEPATIE R. Elbasvir has minimal i ntestinal P -gp inhibition in humans, and does not result in clinically relevantincreases in concentrations of
+ digoxin (a P
+-gp substrate ), with an 11% increase in plasma AUC.Grazoprevir is not a P
+-gp inhibit or based on in vitro data. Elbasvir and grazopre vir are not OATP1Binhibitors in humans. Based
+ on in vitro data, clinically
+ signif ic ant interactions with ZEPATIER as aninhib itor of  ot her C YP enzymes, UGT1A1, esterases  (CES1, CES2, and Cat 
+ A), OAT1, OAT3, a nd 
+ OCT2  are not expec ted. Based on in vitro data, a potential f or GZR to inhibit BSEP cannot beexcluded.  Multiple -dose adm inistrati on of elbasvir or grazoprevir is unlikely to induce the m etabolismof  medicinal produc ts metabol ised by CYP isof orms based o n in vitro data. Patients  treated w ith vitamin  K antagonists As liver f unction may change during treatment with ZEPATIE R, a clos e mo nitoring of International 
+ Normalised Ratio (INR)  values is recommended.Impa ct of DAA therapy on drugs metabolized by the liver 
+ Grazop revir’s wea k inhibition of  CYP3A  may increase levels of CYP3A substrates. In addition, theplasma concentrations  of drugs that are CYP3A substrates  may be decreased  by improvement in liverf unction  during DAA  therapy, related to clearance o f HCV. Theref ore , close mon itoring and potentialdose adjustment of CYP3A substrates with a narrow therapeutic index (e.g.,
+ calci neurin inhibitors)may be required during therapy, as d rug levels may change  (see Ta ble 2).Interactions between ZEPATI ER and other medicinal products Table 2 provides a li sting of assessed or potential  medicinal product interactions. An up “↑” or  down
+“↓” arrow represents a change in exposure that requires monitoring or a dose adjustment of  thatmedication, or the co
+-administration is not recommended or
+ contraind icated. No clinically relevantchange  in exposure is represented by a horizontal arrow
+ “↔”. The medicinal product interactions described are based on results f rom studies conducted with either 
+ ZEPATIER or elbasvir (EBR) and grazoprevir (GZR) as
+ individua l agents, o r are predicted
+ medicinalproduct interactions that may occur with elbasvir
+ or grazoprevir. The table is not all
+-inclusive.7Table 2: Interactions and dose recommendations with other medicinal products 
+ Medicin al product by therapeutic areas  Effects on medi cinal product levels.  Mean ratio (90
+ 
+% confidence
+ interv al) for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERACID REDUCING AGENTS H2-receptor antagonists 
+ Famotid ine  (20 m g single dose)/ elbasvir ( 50 mg single dose)/ grazoprevir (10 0 mg si ngle dose)  ↔ Elba svir AUC 
+1.05 (0.92, 1.18) Cmax 
+1.11 (0.98, 1.26) C24 1.03 (0.91, 1.17)
+↔ Grazoprevir 
+ AUC 1.10 (0.95, 1.28) Cmax  0.89 (0.71, 1.1 1) C24 1.12 (0.97, 1.30)No dose adj ustm ent is required .Proton pump inhibitors 
+ Pantoprazole  (40 mg once daily)/ elbasvir (50 mg single dose) / grazoprevir (100 mg single do se)  ↔ E lbasvir  AUC 1.05 (0.93, 1.18) 
+ Cmax 
+1.02 (0.92, 1.14) C24
+1.03 (0.92, 1. 17)
+↔ Grazoprevir 
+ AUC 1.12  (0.96, 1. 30) Cmax 1.10 (0.89, 1.37 ) C24 1.17 (1.02, 1.34)No dose  adjustmen t is require d.Antacids 
+ Aluminium or magnesium hydroxide; calcium carbonate   Interaction not studied. 
+ Expected:  
+↔ Elbasvir
+↔ Grazoprevir 
+ No dose a djustment  is required .ANTIARRHYTHM ICSDigoxi n (0.25  mg sing le dose)/  elbasvir (50 mg once  daily) ↔ D igoxin AUC 1 .11 (1.02, 1.22 )Cmax 
+1.47 (1.25, 1.73) (P-gp inhibition )No dose adjustment is required.ANTICOAGULANTSDabigatran  etexilate  
+ Interact ion not studied. Expected:  
+↑ Dabiga tran(P-gp inhibition)Concentrations of  dabigatran mayincrease wh en co -admini stered withelbasvir
+, with possible increased bleedingrisk. Clini cal and laboratory  monito ring isrecommended. Vitamin Kantagonists 
+ Interaction not studied. Close monito ring of  INR  is recommendedwith all vitamin K antagonists
+. This is dueto liver f unction changes during treatmentwith ZEPATIER.ANTICONVULSANTSCarbamazepine  Phenytoin  Interaction not studied. Expected: 
+↓ Elbasvir
+↓ Grazoprevir(CYP3A or P -gp induction)Co-administration is contraindicated.8Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERANTIFUNGALSKetoconazole(400 mg PO oncedaily)/ elbasvir(50 mg single dose)
+↔ Elbasvir 
+ AUC 1.80 (1.41, 2.29)Cmax 
+1.29 (1.00, 1.66) C24 1.89 (1.37, 2.60)Co-administration is not recommended.(400 mg PO oncedaily)/ grazoprevir(100 mg singledose)↑ Grazoprevir 
+ AUC 3.02 (2.42, 3.76) Cmax 1.13 (0.77, 1.67)(CYP3A inhibition)ANTIMYCOBACTERIALSRif ampicin(600 mg IV single dose)/ elbasvir (50 mg single d ose) 
+ ↔ Elb asvir 
+ AUC 1.22 (1.06, 1.40)Cmax 
+1.41 (1.18, 1.68) C24 
+1.31 (1.12, 1.53) Co-administration is contraindicated.(600 mg IV single dose)/ grazoprevir (200 mg single dose)  
+ 
+ ↑ Grazoprevir 
+ AUC 10.21 (8.68, 12.00) Cmax 
+10.94 (8.92, 13.43)C24 1.77 (1.40, 2 .24) (OATP1B inhibition)(600 mg PO single dose)/ elbasvir (50 mg single dose)
+ 
+ ↔ Elbasvir 
+ AUC 1.17 (0.98, 1.39)Cmax 
+1.29 (1.06, 1.58) C24 1.21 (1.03, 1.43)(600 mg PO single dose)/ grazoprevir (200 mg once daily)  
+ ↑ Grazoprevir 
+ AUC 8.35  (7.38, 9.4 5)Cmax 
+6.52 (5.16, 8.24) C24 1.31 (1.12, 1.53)(OATP1B inhibition)(600 mg PO oncedaily)/ grazoprevir(200 mg oncedaily) ↔ Grazoprevir 
+ AUC 0.93 (0.75, 1.17) Cmax 
+1.16 (0.82, 1.65) C24 0.10 (0.07, 0.13)(OATP1B inhibition and CYP3A induction)ASTHMA AGENTSMontelukast  (10 mg single dose)/ grazoprevir (200 mg single dose)↔ Montelukast 
+ AUC 1.11 (1.01, 1.20)Cmax 
+0.92 (0.81, 1.06) C24 1.39 (1.25, 1.56)No dose adjustment is required
+.ENDOTHELIN ANTAGONISTBosentan  Interaction not studied. Expected: 
+↓ Elbasvir
+↓ Grazop revir(CYP3A or P -gp induction)Co-administration is contraindicated.9Medicin al product by therapeutic areas  Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERHCV ANTIVIRAL AGENTSSof osbuvir  (400 mg single dose sof osbuvir)/ elbasvir (50 mg once daily)/grazoprevir(200 mg once daily↔ Sofosbuvir 
+ AUC 2.4 3 (2.12, 2. 79)Cmax 
+2.27 (1.72, 2.99) 
+↔ GS -331007AUC 1.13 (1.05, 1.21)Cmax 
+0.87 (0.78, 0.96) C24 1.53 (1.43, 1.63)No dose adjustment is required. HERBAL SUPPLEMENTSSt. John’s wort (Hypericum perforatum ) Interaction not studied. Expected: 
+↓ Elba svir
+↓ Graz oprevi r(CYP3A or P -gp ind uction)Co-administration is contraindicated.HBV AND HIV ANTIVIRAL AGENTS: NUCLEOS(T)IDE REVERSE TRANSCRIPTASEINHIBITORSTenof ovir disoproxil f umarate(300 mg once daily)/ elbasvir (50 mg once daily)  ↔ Elbasvir 
+ AUC 0.93 (0.8 2, 1.05)Cmax 0.88 (0.77, 1 .00) C24 
+0.92 (0.18, 1.05) 
+↔ Tenofovir AUC 1.34 (1.23, 1.47)Cmax 
+1.47 (1.32, 1.63) C24 
+1.29 (1.18, 1.41) No dose adjustment is required
+. (300 mg oncedaily)/ grazoprevir(200 mg oncedaily)↔ Grazoprevir 
+ AUC  0.86 (0.55 , 1.12)Cmax 0.78 (0.51, 1. 18) C24 
+0.89 (0.78, 1.01) 
+↔ Tenofovir AUC 1.18 (1.09, 1.28)Cmax 
+1.14 (1.04, 1.25) C24 1.24 (1.10, 1.39)(300 mg oncedaily)/elbasvir(50 mg oncedaily)/grazoprevir(100 mg oncedaily)↔ Tenofovir AUC 1.27 (1.2 0, 1.35)Cmax 
+1.14 (0.95, 1.36) C24 1.23 (1.09, 1.40)10Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERLamivudine 
+ Abacavir 
+ Entecavir 
+ Interaction not studied. Expected: 
+↔ Elbasvir
+↔ Grazoprevir
+↔ Lamivudine
+↔ Abacavir
+↔ Entecavir 
+ No dose adjustment is required
+. Emtricitabine(200 mg oncedaily)Interaction st udied withelvitegravir/cob icistat/emtricitabine/tenof ovirdisoproxil f umarate (f ixed
+-dosecombination)
+↔ Emtricitabine 
+ AUC 1.07 (1.03, 1.10)Cmax 
+0.96 (0.90, 1.02) C24 1.19 (1.13, 1.25)No dose adjustment is required
+.HIV ANTIVIRAL AGENTS: PROTEASE INHIBITORSAtazanavir/ritonavir(300 mg once daily)/ ritonavir (100 mg once daily/ elbasvir (50  mg once daily)  
+ ↑ Elbasvir  AUC 4.76 (4.07, 5.56)Cmax 
+4.15 (3.46, 4.97) C24 6.45 (5.51, 7.54)(combination of  mechanisms including 
+ CYP3A inhibition
+)
+↔ Atazan avir 
+ AUC 1.07 (0.98, 1.17) Cmax 
+1.02 (0.96, 1.08) C24 1.15 (1.02, 1.29)Co-administration is contraindicated.(300 mg oncedaily)/ ritonavir(100 mg once daily/grazoprevir(200 mg oncedaily)↑ Grazoprevir  AUC 10.58 (7.78, 14.39) Cmax 6.24 (4.42, 8. 81) C24 
+11.64 (7.96, 17.02
+)(combination of  OATP1B and CYP3Ainhibition)
+↔ Atazanavir 
+ AUC 1.43 (1.30, 1.57) Cmax 
+1.12 (1.01, 1.24) C24 1.23 (1.13, 2.34)  11Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERDarunavir/ritonavir(600 mg twicedaily)/ ritonavir(100 mg twicedaily/ elbasvir(50 mg once daily)↔ Elbasvir 
+ AUC 1.66  (1.35, 2.05)Cmax 
+1.67 (1.36, 2.05) C24 1.82 (1.39, 2.39)
+↔ Darunavir 
+ AUC 0.95 (0.86, 1.06)
+ Cmax 
+0.95 (0.85, 1.05) C12 0.94 (0.85, 1.05)Co-administration is contraindicated.(600 mg twicedaily)/ ritonavir(100 mg twicedaily/ grazoprevir(200 mg on cedaily)↑ Grazoprevir  AUC 7.50 (5.92, 9.51)Cmax 5.27 (4.04, 6.86)C24 
+8.05 (6.33, 10.24)
+  (combination of  OATP1B and CYP3Ainhibition)
+↔ Darunavir 
+ AUC 1.11 (0.99, 1.24)Cmax 
+1.10 (0.96, 1.25) C12 1.00 (0.85, 1 .18)Lopin avir/ritonavir(400 mg twi cedaily)/ ritonavir(100 mg twicedaily/ elbasvir(50 mg once daily)↑ Elbasvir 
+ AUC 3.71 (3.05, 4.53)Cmax 
+2.87 (2.29, 3.58) C24 4.58 (3.72, 5.64)(combination of  mechanisms including 
+ CYP3A inhibition)
+↔ Lopinavi r 
+ AUC 1.02 ( 0.93, 1.13)Cmax 1.02 (0.92 , 1.13) C12 1.07 (0.97, 1.18)Co-administration is contraindicated.(400 mg twicedaily)/ ritonavir(100 mg twicedaily/ grazoprevir(200 mg oncedaily)↑ Grazoprevir  AUC 12.86 (10.25, 16.13)Cmax 7.31 (5.65, 9.45)  C24 21.70 (12.99, 36.25)(combinatio n of  OATP1B and CYP3Ainhibition)
+↔ Lopinavir 
+ AUC 1.03 (0.96, 1.16)Cmax 0.97 (0.88, 1.08)C12 
+0.97 (0.81, 1.15) 
+ Saquinavir/ritonavir 
+ Tipranavir/ritonavir 
+ Atazanavir 
+ Interaction not studied.Expected: 
+↑ Grazopre vir(combination of  mechanisms including 
+ CYP3A inhibition)Co-administration is contraindicated.12Medicin al product by therapeutic areas  Effects on medi cinal product levels.  Mean ratio (90
+ 
+% confidence
+ interv al) for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERHIV ANTIVIRAL AGENTS: NON
+-NUCLEOSIDE HIV REVERSE TRANSCRIPTASEINHIBITORSEf avirenz(600 mg once daily)/ elbasvir (50 mg once daily)  ↓ Elbasvir  AUC 0.46 (0 .36, 0.59)Cmax 
+0.55 (0.41, 0.73) C24 0.41 (0.28, 0.59)(CYP3A or P -gp induction)
+↔ Efavirenz 
+ AUC 0.82 (0.78, 0.86)Cmax 
+0.74 (0.67, 0.82) C24 0.91 (0.87, 0.96)Co-administration is contraindicated.(600 mg oncedaily)/ grazoprevir(200 mg oncedaily)↓Grazoprev ir 
+ AUC 0.17 (0.13, 0.24)Cmax 0.13 (0.09, 0.19)C24 0.31 (0.25, 0.38)(CYP3A or P -gp induction)
+↔ Efavirenz 
+ AUC 1.00 (0.96, 1.05)Cmax 
+1.03 (0.99, 1.08) C24 0.93 (0.88, 0.98)Etravirine 
+ Interaction not studied. Expected: 
+↓ Elbasvir
+↓ Gra zoprevir(CYP3A or P -gp induction)Co-administration is contraindicated.Rilpivirine(25 mg once daily)/elbasvir (50  mgonce daily)/grazoprevir(200 mg oncedaily) ↔ Elbasvir 
+ AUC 1.07 (1.00, 1.15)Cmax 
+1.07 (0.99, 1.16) C24 
+1.04 (0.98, 1.11) 
+↔ Gra zoprevir 
+ AUC  0.98 (0.89, 1.07)Cmax 0.97 (0.83, 1.14) C24 
+1.00 (0.93, 1.07) 
+↔ Rilpivirine 
+ AUC 1.13 (1.07, 1.20)Cmax 
+1.07 (0.97, 1.17) C24 
+1.16 (1.09, 1.23) No dose adjustment
+ is required.13Medicin al product by therapeutic areas  Effects on medi cinal product levels.  Mean ratio (90
+ 
+% confidence
+ interv al) for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERHIV ANTIVIRAL AGENTS: INTEGRASE STRAND TRANSFER INHIBITORSDolutegravir  (50 mg single dose)/ elbasv ir (50 mg once daily)/ grazoprevir (200 mg once daily)  
+ ↔ Elbasvir  AUC 0.98 (0.93, 1.04)Cmax 
+0.97 (0.89, 1.05) C24 
+0.98 (0.93, 1.03) 
+↔ Grazoprevir 
+ AUC 0.81 (0.67, 0.97)Cmax 
+0.64 (0.44, 0.93) C24 0.86 (0.79, 0.9 3) 
+↔ Dolut egravir 
+ AUC 1.16 (1.00, 1.3
+4)Cmax 
+1.22 (1.05, 1.40) C24 
+1.14 (0.95, 1.36) No dose adjustment is required
+.Raltegravir(400 mg singledose)/ elbasvir(50 mg single dose)
+↔ Elbasvir 
+ AUC 0.81 (0.57, 1.17)Cmax 
+0.89 (0.61, 1.29) C24 0.80 (0. 55, 1.16) 
+↔ Raltegravir 
+ AUC 1.02 (0.8 1, 1.27)Cmax 
+1.09 (0.83, 1.44) C12 
+0.99 (0.80, 1.22) No dose adjustment is required
+.(400 mg twicedaily)/ grazoprevir(200 mg oncedaily) ↔ Grazoprevir 
+ AUC 0.89 (0.72, 1.09)Cmax 
+0.85 (0.62, 1.16) C24 0.90 (0. 82, 0.99) 
+↔ Raltegravir 
+ AUC 1.43 (0.8 9, 2.30)Cmax 
+1.46 (0.78, 2.73) C12 1.47 (1.08, 2.00)14Medicin al product by therapeutic areas  Effects on medi cinal product levels.  Mean ratio (90
+ 
+% confidence
+ interv al) for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERHIV ANTIVIRAL AGENTS: OTHERElvitegravir/cobicistat/emtricitabine/tenof ovir disoproxil f umarate (f ixed
+-dose combination)elvitegravir (150 mg once daily)/cobi cistat (150 mg once daily)/ emtricitabi ne (200 mg once daily)/ tenof ovir disoproxil f umarate (300 mg once daily)/elbasvir (50 mg once daily)/ grazoprevir (100 mg once daily)  
+ ↑ Elbasvir  AUC 2.18 (2.02, 2.35)
+ Cmax 
+1.91 (1.77, 2.05) 
+ C24 2.38 (2.19, 2.60)  
+ (CYP3A and OATP1B inhibition)
+ 
+ 
+↑ Grazoprevir 
+ AUC 5.36 (4.48, 6.43)Cmax 
+4.59 (3.70, 5.69) C24 
+2.78 (2.48, 3.11) (CYP3A and OATP1B inhibition)
+↔ Elvitegravir 
+ AUC 1.10 (1.00,  1.21)Cmax 
+1.02 (0.93, 1.11) C24 
+1.31 (1.11, 1.55) 
+↔ Cobicistat 
+ AUC 1.49 (1. 42, 1.57)Cmax 
+1.39 (1.29, 1.50) 
+↔ Emtricitabine 
+ AUC 1.07 (1.03, 1.10)Cmax 
+0.96 (0.90, 1.02) C24 
+1.19 (1.13, 1.25) 
+↔ Tenofovir AUC 1.18 (1.13, 1.24)Cmax 1.25 (1.14, 1.3 7) C24 1.20 (1.15, 1.26)Co-administration with ZEPATIER iscontraindicated.HMG -Co 
+ A REDUCTASE INHIBITORSAtorvastatin(20 mg single dose)/ grazoprevir (200 mg once daily)  
+ ↑ Atorvastatin 
+ AUC 3.00 (2.42, 3.72)Cmax 
+5.66 (3.39, 9.45) (primarily due to intestinal BCRP inhibition)
+↔ Grazoprevir 
+ AUC 1.26 (0.97, 1.64)Cmax 1.26 (0.83, 1.9 0) C24 
+1.11 (1.00, 1.23) The dose of  atorvastatin should notexceed a daily dose of  20
+ mg whenco-administered with ZEPATIER.(10 mg singledose)/ elbasvir(50 mg once daily)
+/ grazoprevir(200 mg oncedaily) ↑ Atorvastatin 
+ AUC 1.94 (1.63,  2.33)Cmax 
+4.34 (3.10, 6.07) C24 
+0.21 (0.17, 0.26) 15Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERRosuvastatin(10 mg singledose)/ grazoprevir(200 mg oncedaily) ↑ Rosuvastatin 
+ AUC 1.59 (1.33, 1.89)
+ Cmax 4.25 (3. 25, 5.56) C24 
+0.80 (0.70, 0.91) (intestinal BCRP inhibition)
+↔ Grazoprevir 
+ AUC 1.16 (0.9 4, 1.44)Cmax 
+1.13 (0.77, 1.65) C24 
+0.93 (0.84, 1.03) The dose of  rosuvastatin should notexceed a daily dose of  10
+ mg whenco-administered with ZEPATIER.(10 mg singledose)/ elbasvir(50 mg once daily)/grazoprevir(200 mg oncedaily)  ↑ Rosuvasta tin 
+ AUC 2.26 (1.89, 2.69)Cmax 
+5.49 (4.29, 7.04) C24 
+0.98 (0.84, 1.13) (intestinal BCRP inhibition)
+↔ Elbasvir 
+ AUC 1.09 (0.98, 1.21)Cmax 
+1.11 (0.99, 1.26) C24 0.96 (0.86, 1.08)
+↔ Grazoprevir 
+ AUC 1.01 (0.79, 1.28)Cmax 0.97 (0.63, 1.50)  C24 0.95 (0. 87, 1.04) Fluvastatin 
+ Lovastatin 
+ Simvastatin 
+ Interaction not studied. Expected: 
+↑ Fluvastatin(primarily due to intestinal BCRP inhibition)
+↑ Lovastatin(CYP3 A inhibition) 
+↑ Simvastatin(primarily due to intestinal BCRP inhibitionand CYP3A inhibit ion)The dose of  f luvastatin, lovastatin, orsimvastatin should not exceed a daily doseof  20  mg when co -administered with 
+ ZEPATIER.Pitavastatin(1 mg single do se)/grazoprevir(200 mg oncedaily) ↔ Pitavastatin  AUC 1.11 (0.91, 1.34)Cmax 1.27 (1.07,  1.52) 
+↔ Grazoprevir 
+ AUC 0.81 (0.70, 0.95)Cmax 
+0.72 (0.57, 0.92) C24 
+0.91 (0.82, 1.01) No dose adjustment
+ is required .16Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERPravastatin(40 mg singledose)/ elbasv ir(50 mg once daily)/grazoprevir(200 mg oncedaily) ↔ Pravastatin 
+ AUC 1.3 3 (1.09, 1.64)Cmax 1.28 (1.05, 1.55)
+↔ Elbasvir 
+ AUC 0.98 (0.93, 1.02)Cmax 
+0.97 (0.89, 1.05) C24 0.97 (0.92, 1.02)
+↔ Grazoprevir 
+ AUC 1.24 (1.00, 1.53)Cmax 
+1.42 (1.00, 2.03) C24 
+1.07 (0.99, 1.16) No dose adjustment is required
+.IMMUNOSUPPRESSANTSCiclosporin  (400 mg single dose)/ elbasvir (50 mg once daily)/ grazoprevir (200 mg oncedaily) ↔ Elbasvir 
+ AUC 1.98 (1.84, 2.13)Cmax 
+1.95 (1.84, 2.07) C24 
+2.21 (1.98, 2.47) 
+↑ Grazoprevir 
+ AUC 15.21 (12.83, 18.04)Cmax 
+17.00 (12.94, 22.34) C24 3.39 (2.82 , 4.09) (due in part to OATP1B and CYP3Ainhibition)
+↔ Ciclosporin 
+ AUC 0.96 (0.90, 1.02)Cmax 
+0.90 (0.85, 0.97) C12 
+1.00 (0.92, 1.08) Co-administration is contraindicated.Mycophenolatemof etil(1,000  mg singledose)/ elbasvir(50 mg once daily)/grazoprevir(200 mg oncedaily) ↔ Elbasvir 
+ AUC 1.07 (1.00, 1.14)Cmax 
+1.07 (0.98, 1.16) C24 
+1.05 (0.97, 1.14) 
+↔ Grazoprevir 
+ AUC 0.74 (0.60, 0.92)Cmax 
+0.58 (0.42, 0.82) C24 0.97 (0.89, 1.06) 
+↔ Mycophenolic acid 
+ AUC 0.95 (0.87, 1.03)Cmax 0.85 (0.67, 1 .07) No dose adjustment is required
+.17Medicin alproduct bytherapeuticareas Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERPrednisone(40 mg singledose)/ elbasvir(50 mg once daily)/grazoprevir(200 mg once daily ↔ Elbasvir 
+ AUC 1.17 (1.11, 1.24)Cmax 1.25 (1. 16, 1.35) C24 
+1.04 (0.97, 1.12) 
+↔ Grazoprevir 
+ AUC 1.09 (0.95, 1.25)Cmax 1.34 (1.10, 1.62 ) C24 
+0.93 (0.87, 1.00) 
+↔ Prednisone 
+ AUC 1.08 (1.00, 1.17)Cmax 
+1.05 (1.00, 1.10) 
+↔ Prednisolone 
+ AUC 1.08 (1.01, 1.16)Cmax 
+1.04 (0.99, 1.09) No dose adjustment is required .Tacrolimus(2 mg single dose)/elbasvir (50  mgonce daily)/grazoprevir(200 mg oncedaily) ↔ Elbasvir 
+ AUC 0.97 (0.90, 1.06)Cmax 
+0.99 (0.88, 1.10) C24 
+0.92 (0.83, 1.02) 
+↔ Grazoprevir 
+ AUC 1.12 (0.97, 1.30)Cmax 
+1.07 (0.83, 1.37) C24 0.94 (0.87, 1.02) 
+↑ Tacrolimus 
+ AUC 1.43 (1.24, 1.64)Cmax 
+0.60 (0.52, 0.69) C12 1.70 (1.49 , 1.94) (CYP3A inhibition)Frequent monitoring of  tacrolimus wholeblood concentrations, changes in renalf unction, and tacrolimus
+-associatedadverse events upon the initiation of  co
+-administration is recommended.
+ Closemonitoring and potential dose adju stmentof  tacrolimus may be required duringtherapy, as tacrolimus levels may decreaserelated to clearance of  HCV.KINASE INHIBITORSunitinib  Interaction not studied. Expected: 
+↑ sunitinib(possibly due to intestinal BCRP inhibition)Co-administration of  ZEPATIER withsunitinib may increase sunitinibconcentrations leading to an increased riskof  sunitinib -associated adverse events.Use with caution; dose adjustment ofsunitinib  may be required.18Medicin al product by therapeutic areas  Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIEROPIOID -SUBSTITUTION THERAPYBuprenorphine/naloxone(8 mg/2  mg single dose)/ elbasvir (50 mg single dose)
+ ↔ Elbasvir 
+ AUC 1.22 (0.98, 1.52)Cmax 
+1.13 (0.87, 1.46) C24 
+1.22 (0.99, 1.51) 
+↔ Buprenorphine 
+ AUC 0.98 (0.89, 1.08)Cmax 0.94 ( 0.82, 1.08) C24 0.98 (0.88, 1.09)
+↔ Naloxone 
+ AUC 0.88 (0.76, 1.02)Cmax 0.85 (0.66, 1.09)No dose adjustment is required
+.(8-24 mg/2 -6 mgonce daily)/grazoprevir(200 mg oncedaily)↔ Grazoprevir 
+ AUC 0.80 (0.53, 1.22)Cmax 
+0.76 (0.40, 1.44) C24 0.69 (0.54, 0.88) 
+↔ Buprenorphine 
+ AUC 0.98 (0.81, 1.19)Cmax 
+0.90 (0.76, 1.07) Methadone(20-120 mg oncedaily)/ elbasvir(50 mg once daily) ↔ R -Methadone 
+ AUC 1.03 (0.92, 1.15)Cmax 
+1.07 (0.95, 1.20) C24 
+1.10 (0.96, 1.26) 
+↔ S-Methadone 
+ AUC 1.09 (0.94,  1.26)Cmax 
+1.09 (0.95, 1.25) C24 1.20 (0.98, 1.47)No dose adjustment is required
+. (20-150 mg oncedaily)/ grazoprevir(200 mg oncedaily) ↔ R -Methadone 
+ AUC 1.09 (1.02, 1.17)Cmax 
+1.03 (0.96, 1.11) 
+↔ S-Methadone 
+ AUC 1.23 (1.12, 1.35)Cmax 1.15 (1. 07, 1.25)ORAL CONTRACEPTIVESEthinyl oestradiol (EE) / Levonorgestrel (LNG)(0.03  mg EE/ 
+0.15 mg LNG single -dose)/ elbasvir (50  mg once daily)  
+ ↔ EEAUC 1.01 (0.97, 1.05)Cmax 
+1.10 (1.05, 1.16) 
+↔ LNGAUC 1.14 (1.04, 1.24)Cmax 1.02 (0.95, 1.08)No dose adjustment is required
+.(0.03  mg EE/ 
+0.15 mg LNG single -dose)/ grazoprevir (200 mg once daily)  ↔ EEAUC 1.10 (1.05, 1.14)Cmax 
+1.05 (0.98, 1.12) 
+↔ LNGAUC 1.23 (1.15, 1.32)Cmax 0.93 (0.84, 1.03)19Medicin al product by therapeutic areas  Effects on medi cinal product levels. Mean ratio (90
+ 
+% confidence
+ interv al)for AUC, Cmax, C12 or C24(likely mechanism of interaction)Recom mendation concerning co
+-administration with ZEPATIERPHOSPHATE BINDERSCalcium acetate
+ (2,668  mg si ngle dose)/ elbasvir (50 mg single dose)/ grazoprevir (100 mg singledose) ↔ Elbasvir 
+ AUC 0.92 (0.75, 1.14) Cmax 
+0.86 (0.71, 1.04) C24 0.87 (0.70, 1.09)
+↔ Grazoprevir 
+ AUC 0.79 (0.68, 0.91)Cmax 
+0.57 (0.40, 0.83) C24 0.77 (0.61, 0.99)No dose adjustment is required .Sevelamercarbonate(2,400  mg singledose)/ elbasvir(50 mg singledose)/ grazoprevir(100 mg singledose) ↔ Elbasvir 
+ AUC 1.13 (0.94, 1.37) Cmax 
+1.07 (0.88, 1.29) C24 1.22 (1.02, 1.45)
+↔ Grazoprevir 
+ AUC 0.82 (0.68, 0.99) Cmax 0.53 ( 0.37, 0.76) C24 0.84 (0.71, 0.99)SEDATIVESMidazolam(2 mg single dose)/grazoprevir(200 mg oncedaily)↔  Midazolam 
+ AUC 1.34 (1.29, 1.39)Cmax 
+1.15 (1.01, 1.31) No dose adjustment is required
+. STIMULANTSModaf inil 
+ Interaction not studied. Expe cted: 
+↓ Elbasvir
+↓ Grazoprevir(CYP3A or P -gp induction)Co-administration is contraindicated.Paediatric population 
+ Interaction studies have only been perf ormed in adults.

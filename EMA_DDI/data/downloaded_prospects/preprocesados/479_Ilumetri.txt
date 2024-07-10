@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Vaccin es 
+ No data are available on the response to live or inactivated vaccines. Live vaccines should not be given concurrently with tildrakizumab  (see section  4.4). 
+ Interactions with cytochrome  P450 
+ Concomitant medicinal products affecting tildrakizumab  pharmacokinetics are not expected since it is cleared from the body by general protein catabolism processes with no contribution of cytochrome P450 (CYP450) enzymes, and it is not eliminated by renal or hepatic pathways. Furthermore, tildraki zumab  does not impact the pharmacokinetics of concomitant medicinal products metabolised by CYP450 enzymes either through direct or indirect mechanisms (see section  5.2).  
+ Interactions with other immunosuppressive  agents or phototherapy  
+ The safety and efficacy of tildrakizumab  in combination with other immunosupressive agents, including biologics, or phototherapy has not been evaluated.  
+ 

@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ CYP2C8 substrate medicinal products  
+ Linzagolix has been shown to increase mean repaglinide (a CYP2C8 sensitive substrate) exposure in healthy subjects by less t han 2-fold. Due to the risk of increased plasma concentrations, concomitant administration of Yselty  and medicinal products primarily cleared by CYP2C8 metabolism and with a narrow therapeutic index such as paclitaxel, sorafenib and repaglinide, should be avoided (see section 4.4). Prescribers are recommended to monitor for increases in adverse reactions associated with other CYP2C8 substrates when co -administered with Yselty.  
+ 

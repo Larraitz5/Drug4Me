@@ -1,0 +1,73 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ Descovy should not be administered concomitantly with medicinal products containing tenofovir alafenamide,  tenofovir disoproxil, emtricitabine, lamivudine or adefovir dipivoxil.  
+ Emtricitabine  
+ In vitro  and clinical pharmacokinetic drug -drug interaction st udies have shown that the potential for CYP -mediated interactions involving emtricitabine with other medicinal products is low.   Co-administration of emtricitabine with medicinal products that are eliminated by active tubular secretion may increase concent rations of emtricitabine, and/or the co -administered medicinal product.   Medicinal products that decrease renal function may increase concentrations of emtricitabine.  
+ Tenofovir alafenamide  
+ Tenofovir alafenamide is transported by P -glycoprotein (P -gp) and breast cancer resistance protein (BCRP ).  Medicinal products that strongly affect P -gp and BCRP activity may lead to changes in tenofovir alafenamide absorption .  Medicinal products that induce P -gp activity (e.g., rifampicin, rifabutin, carbamazepine, phenobarbital) are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of tenofovir alafenamide, which may lead to loss of therapeutic effect of Descovy  and development of resistance.   Co-administration of Descovy  with other medicinal products that inhibit P -gp and BCRP activity  (e.g., cobicistat, ritonavir, ciclosporin) is expected to increase the absorption and plasma concentration of tenofovir alafenamide.  Based on data from  an in vitro study, co -administration of tenofovir alafenamide and xanthine oxidase inhibitors (e.g., febuxostat) is not expected to increase systemic exposure to tenofovir  in vivo. 
+ Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 , or CYP2D6  in vitro .  It is not an inhibitor  or inducer of CYP3A in vivo.  Tenofovir alafenamide is a substrate of OATP 1B1 and OATP1B3  in vitro .  The distribution of  tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and OATP1B3 . 
+ Other interactions  
+ Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT)  1A1 in vitro .  It is not known whether tenofovir alafenamide is an inhibitor of other UGT  enzymes.  Emtricitabine did not inh ibit the glucuronidation reaction of a non -specific UGT substrate in vitro . 
+ Interact ions between the components of Descovy  and potential co -administered medicinal products are listed in Table  2 (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).  The interactions described are based on studies conducted with Descovy , or the components of Descovy  as individual agents and/or in combination, or are potential drug-drug interaction s that may occur with Descovy . 
+  
+7 Table  2: Interactions between the individual components of Descovy  and other medicinal products  
+ Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  ANTI -INFECTIVES  Antifungals  Ketoconazole  Itraconazole  Interaction not studied with either of the components of Descovy . 
+ Co-administration of ketoconazole or itraconazole, which are potent P -gp inhibitors, is expected to increase plasma concentrations of tenofovir alafenamide.  The recommended dose of Descovy  is 200/10  mg once daily.  Fluconazole  Isavuconazole  Interaction not studied with either of the components of Descovy . 
+ Co-administration of fluconazole or isavuconazole may increase plasma concentrations of tenofovir alafenamide.  Dose Descovy  according to the concomitant antiretroviral (see section  4.2). Antimycobacterials  Rifabutin  Rifampicin  Rifapentine  Interaction not studied with either of the components of Descovy . 
+ Co-administration of rifampicin, rifabutin, and rifapentine, all of which are P -gp inducers, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.  Co-administration of Descovy  and rifabutin rifampicin, or rifapentine is not recommended.  Anti -hepatitis  C virus medicinal products  Ledipasvir (90  mg once daily)/ sofosbuvir (400  mg once daily), emtricitabine (200  mg once daily)/ tenofovir alafenamide (10 mg once daily) 3 Ledipasvir:  AUC: ↑  79% Cmax: ↑ 65% Cmin: ↑ 93% 
+ Sofosbuvir:  AUC: ↑  47% Cmax: ↑ 29% 
+ Sofosbuvir metabolite GS -331007:  AUC: ↑  48% Cmax: ↔ Cmin: ↑ 66% 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ No dose adjustment of ledipasvir or sofosbuvir is required .  Dose Descovy according to the concomitant antiretroviral (see section  4.2).  
+8 Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  Ledipasvir (90  mg once daily)/ sofosbuvir (400  mg once daily), emtricitabine (200  mg once daily)/ tenofovir alafenamide (25 mg once daily) 4 Ledipasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir alafenamide:  AUC: ↑  32% Cmax: ↔ No dose adjustment of ledipasvir or sofosbuvir is required .  Dose Descovy according to the concomitant antiretroviral (see section  4.2). Sofosbuvir (400 mg once daily)/  velpatasvir (100 mg once daily), emtricitabine (200 mg once daily)/ tenofovir alafenamide  (10 mg once daily)3 Sofosbuvir:  AUC: ↑ 37%  Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↑ 48%  Cmax: ↔ Cmin: ↑ 58%  
+ Velpatasvir:  AUC: ↑ 50%  Cmax: ↑ 30%  Cmin: ↑ 60% 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir alafenamide:  AUC: ↔  Cmax: ↓ 20%  No dose adjustment of sofosbuvir , velpatasvir  or voxilaprevir  is required.  Dose Descovy according to the concomitant antiretroviral (see section 4.2).  
+ 
+9 Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  Sofosbuvir/velpatasvir/  voxilaprevir (400 mg/100  mg/100  mg+100  mg once daily)7/  emtricitabine (200  mg once daily)/ tenofovir alafenamide (10 mg once daily)3 Sofosb uvir:  AUC: ↔ Cmax: ↑ 27% 
+ Sofosbuvir metabolite GS -331007:  AUC: ↑  43% Cmax: ↔ 
+ Velpatasvir:  AUC: ↔ Cmin: ↑ 46% Cmax: ↔ 
+ Voxilaprevir : AUC: ↑ 171%  Cmin: ↑ 350%  Cmax: ↑ 92% 
+ Emtricitabine:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Tenofovir alafenamide:  AUC: ↔ Cmax: ↓ 21% Sofosbuvir/velpatasvir/  voxilaprevir (400 mg/100  mg/100  mg+100  mg once daily)7/  emtricitabine (200  mg once daily)/ tenofovir alafenamide (25 mg once daily)4 Sofosbuvir:  AUC: ↔ Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Voxilaprevir:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Emtricitabine : AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Tenofovir alafenamide:  AUC: ↑  52% Cmax: ↑ 32% No dose adjustment of sofosbuvir, velpatasvir or voxilaprevir  is required.  Dose Descovy according to the concomit ant antiretroviral (see section  4.2).  
+10 Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  ANTIRETROVIRALS  HIV  protease inhibitors  Atazanavir/cobicistat  (300 mg/150  mg once daily) , tenofovir alafenamide (10  mg)  Tenofovir alafenamide:  AUC: ↑  75% Cmax: ↑ 80% 
+ Atazanavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/10  mg once daily.  Atazanavir/ritonavir (300/100  mg once daily), tenofovir alafenamide (10  mg) Tenofovir alafenamide:  AUC: ↑  91% Cmax: ↑ 77% 
+ Atazanavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/10  mg once daily.  Darunavir/cobicistat (800/150  mg once daily), tenofovir alafenamide (25  mg once daily)5 Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Tenofovir:  AUC: ↑  224%  Cmax: ↑ 216%  Cmin: ↑ 221%  
+ Darunavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/10  mg once daily.  Darunavir/ritonavir (800/100  mg once daily), tenofovir alafenamide (10  mg once daily)  Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Tenofovir:  AUC: ↑  105%  Cmax: ↑ 142%  
+ Darunavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/10  mg once daily.  Lopinavir/ritonavir (800/200  mg once daily), tenofovir alafenamide (10  mg once daily)  Tenofovir alafenamide:  AUC: ↑  47% Cmax: ↑ 119%  
+ Lopinavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/10  mg once daily.  Tipranavir/ritonavir  Interaction not studied with either of the components of Descovy . 
+ Tipranavir/ritonavir results in P -gp induction.  Tenofovir alafenamide exposure is expected to decrease when tipranavir/ritonavir is used in combination with Descovy . Co-administration with Descovy  is not recommended.   
+11 Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  Other protease inhibitors  Effect is unknown.  There are no data available to make dosing recommendations for co-administration with o ther protease inhibitors.  Other HIV antiretrovirals  Dolutegravir (50  mg once daily), tenofovir alafenamide (10  mg once daily)3 Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Dolutegravir:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/25  mg once daily.  Rilpivirine (25  mg once daily), tenofovir alafenamide (25  mg once daily)  Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Rilpivirine:  AUC: ↔  Cmax: ↔ Cmin: ↔ The recommended dose of Descovy  is 200/25  mg once daily.  Efavirenz (600 mg once daily), tenofovir alafenamide (40  mg once daily)4 Tenofovir alafenamide:  AUC: ↓ 14% Cmax: ↓ 22% The recommended dose of Descovy  is 200/25  mg once daily.  Maraviroc  Nevirapine  Raltegravir  Interaction not studied with either of the components of Descovy . 
+ Tenofovir alafenamide exposure is not expected to be affected by maraviroc, nevirapine  or raltegravir, nor is it expected to affect the metabolic and excretion pathways relevant to maraviro c, nevirapine or raltegravir.  The recommended dose of Descovy  is 200/25  mg once daily.  ANTICONVULSANTS  Oxcarbazepine  Phenobarbital  Phenytoin  Interaction not studied with either of the components of Descovy . 
+ Co-administration of oxcarbazepine, phenobarbital, or phenytoin, all of which are P -gp inducers, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.  Co-administration of D escov y and oxcarbazepine, phenobarbital or phenytoin is not recommended.  Carbamazepine (titrated from 
+100 mg to 300  mg twice a day), emtricitabine/tenofovir alafenamide (200  mg/25  mg once daily) 5,6 Tenofovir alafenamide:  AUC: ↓  55% Cmax: ↓ 57% 
+ Co-administration of carbamazepine, a P-gp inducer, decreases tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.  Co-administration of Descov y and carbamazepine is not recommended.   
+12 Medicinal product by therapeutic areas1 Effects on medicinal product  levels.  Mean percent change in AUC,  Cmax, C min2 Recommendation concerning co-administration with Descovy  ANTIDE PRESSANTS  Sertraline (50  mg once daily), tenofovir alafenamide (10  mg once daily)3 Tenofovir alafenamide:  AUC: ↔  Cmax: ↔ 
+ Sertraline:  AUC: ↑  9% Cmax: ↑ 14% No dose adjustment of sertraline is required .  Dose Descovy according to the concomitant antiretroviral (see section  4.2). HERBAL PRODUCTS  St. John’s wort ( Hypericum perforatum ) Interaction not studied with either of the components of Descovy . 
+ Co-administration of St.  John’s wort, a P-gp inducer, may decrease tenofovir alafenamide plasma concentrations, which may result in loss of therapeutic effect and development of resistance.  Co-administration of Descovy  with St. John’s wort is not recommended.  IMMUNOSUPPRESSANTS  Ciclosporin  Interaction not studied with either of the components of Descovy . 
+ Co-administration of ciclosporin, a potent P -gp inhibitor, is expected to increase plasma concentrations of tenofovir alafenamide.  The recommended dose of Descovy  is 200/10  mg o nce daily.  ORAL CONTRACEPTIVES  Norgestimate (0.180/0.215/0.250  mg once daily), ethinyles tradiol (0.025  mg once daily), emtricitabine/ tenofovir alafenamide ( 200/25 mg once daily)5 Norelgestromin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Norgestrel:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Ethinylestradiol:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment of norgestimate/ethinylestradiol is required.  Dose Descovy according to the concomitant antiretroviral (see section  4.2). SEDATIVES/HYPNOTICS  Orally administered midazolam (2.5 mg single dose ), tenofovir alafenamide (25  mg once daily)  Midazolam:  AUC: ↔  Cmax: ↔ No dose adjustment of midazolam is required .  Dose Descovy according to the concomitant antiretroviral (see section  4.2). Intravenously administered midazolam ( 1 mg single dose ), tenofovir alafenamide (25  mg once daily)  Midazolam:  AUC: ↔  Cmax: ↔ 
+1 When doses are provided, they are the doses used in clinical drug -drug interaction studies.  
+2 When data  are available from drug -drug interaction studies . 
+3 Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide fixed -dose combination tablet . 
+4 Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide fixed -dose combination tablet.  
+5 Study conducted with Descovy . 
+6 Emtricitabine/tenofovir alafenamide was taken with food in this study.  
+7 Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposurers expected in HCV -infected patients.  
+  
+13 

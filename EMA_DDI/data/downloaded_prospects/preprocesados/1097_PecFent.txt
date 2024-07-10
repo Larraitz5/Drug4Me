@@ -1,0 +1,20 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Concomitant use of medicinal products containing sodium oxybate and fentanyl is contraindicated (see section 4.3). The treatment of sodium oxybate should be discontinued before start of treatment with Pec 
+ Fent . 
+ Fentanyl is metabolised mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when Pec 
+ Fent is given concurrently with  medicinal products that affect CYP3A4 activity. Coadministration with medicinal products  that induce 3A4 activity may reduce the efficacy of Pec 
+ Fent. The concomitant use of Pec 
+ Fent with strong CYP3A4 inhibitors (e.g. ritonavir, ketoconazole, itraconazole, troleandomycin, clarithromycin, and nelfinavir) or moderate CYP3A4 inhibitors (e .g. amprenavir, aprepitant, diltiazem, erythromycin, fluconazole, fosamprenavir, grapefruit juice, and verapamil) may result in increased fentanyl plasma concentrations, potentially causing serious adverse drug reactions including fatal respiratory depress ion. Patients receiving Pec 
+ Fent concomitantly with moderate or strong CYP3A4 inhibitors should be carefully monitored for an extended period of time. Dose increase should be undertaken with caution.  
+ The concomitant use of other central nervous system depr essants, including other opioids, sedatives or hypnotics, general anaesthetics, phenothiazines, tranquillisers, skeletal muscle relaxants, gabapentinoids (gabapentin and pregabalin)  sedating antihistamines and alcohol may produce additive depressant effect s. Concomitant use of opioids with sedative medicines such as benzodiazepines or related drugs increases the risk of sedation, respiratory depression, coma and death because of additive CNS depressant effect. The lowest effective dose of sedative medicines  should be used  and duration of concomitant use should be limited (see section 4.4).  
+ Serotoninergic  medicinal products:  Coadministration of fentanyl with a serotoninergic medicinal product , such as a Selective Serotonin Re-uptake Inhibitor (SSRI) or a Ser otonin Norepinephrine Re -uptake Inhibitor (SNRI) or a Monoamine Oxidase Inhibitor (MAOI), may increase the risk of serotonin syndrome, a potentially life-threatening condition.  
+ Pec 
+ Fent is not recommended for use in patients who have received monoamine oxi dase (MAO) inhibitors within the previous 14  days because severe and unpredictable potentiation by MAO inhibitors has been reported with opioid analgesics.  
+ The concomitant use of partial opioid agonists/antagonists (e.g. buprenorphine, nalbuphine, pentazocine) is not recommended. They have high affinity to opioid receptors with relatively low intrinsic activity and , therefore,  partially antagonise the analgesic effect of fentanyl and may induce withdrawal symptoms in opioid depend ent pat ients.  
+ Concomitant use of nasally administered oxymetazoline has been shown to decrease the absorption of Pec 
+ Fent (see section 5.2). The concomitant use of nasally administered vasoconstrictive decongestants during titration is , therefore,  not recommended  as this may lead to patients titrating to a dose that is higher than required. Pec 
+ Fent maintenance treatment may also be less effective in patients with rhinitis when administered concomitantly with a nasal vasoconstrictive decongestant. If this occurs, p atients should be advised to discontinue their decongestant.  
+ Concomitant use of Pec 
+ Fent and other medicinal products (other than oxymetazoline) administered via the nose has not been evaluated in the clinical trials. Other nasally administered treatments should be avoided within 15 minutes of dosing with Pec 
+ Fent.  
+ 

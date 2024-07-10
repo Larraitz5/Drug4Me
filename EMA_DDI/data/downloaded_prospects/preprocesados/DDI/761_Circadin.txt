@@ -1,0 +1,16 @@
+> 
+ Melatonin has been observed to induce CYP3A in vitro  at supra-therapeutic concentrations.  The clinical relevance of the finding is unkno wn.  If induction occurs, this can give rise to reduced plasma concentrations of concomit antly administered medicinal products. 
+ Melatonin does not induce CYP1A ENZYMES in vitro at supra-therapeutic concentrations.  Therefore, interactions between melatonin and other active substances as a consequence of melatonin’s effect on CYP1A ENZYMES are not  likely to be significant. 
+ Melatonin’s metabolism is mainly mediated by CYP1A ENZYMES.  Therefore, interactions between m elatonin and other active substances as a  consequence of their effect on CYP1A ENZYMES is possible. 
+ Caution should be exercised in p atients on FLUVOXAMINE, which i ncreases melatonin levels (by 17-fold higher AUC and a 12-fold higher serum C max) by inhibiting its metabolism by hepatic cytochrome P450 (CYP) isozymes CYP1A2 and CYP2C19.  The combination should be avoided. 
+ Caution should be exercised in p atients on 5- or 8-methoxypsoralen (5 and 8-MOP), which increases melat onin levels by inhibiting its metabolism. 
+ Caution should be exercised in p atients on CIMETIDINE a CYP2D i nhibitor, which increases plasma melatonin levels, by inhibiting its metabolism. 
+ Cigarette smoking may decrease me latonin levels due to inductio n of CYP1A2. 
+ Caution should be exercised in patients on oestrogens (e.g. con traceptive or hormone replacement therapy), which incr ease melatonin levels by inhibi ting its metabolism by CYP1A1 and CYP1A2.  
+ CYP1A2 inhibitors such as quinolones may give rise to increased  melatonin exposure. 
+ CYP1A2 inducers such as CARBAMAZEPINE and rifampicin may give r ise to reduced plasma concentrations of melatonin. 
+ There is a large amount of data in the literature regarding the  effect of adrenergic agonists/antagonists, opiate agon ists/antagonists, antidepressa nt medicinal products, prostaglandin inhibitors, benzodiazepines, tryptophan and alcoh ol, on endogenous melatonin secretion.  Whether or not these active substances in terfere with the dynamic or kinetic effects of CIRCADIN or vice versa has not been studi ed.
+> 
+ Alcohol should not be taken with CIRCADIN, because it reduces t he effectiveness of CIRCADIN on sleep. 
+ CIRCADIN may enhance the sedative properties of benzodiazepines  and non-benzodiazepine hypnotics, such as ZALEPLON, ZOLPIDEM and ZOPICLONE.  In a clinical 4 trial, there was clear evidence for a transitory pharmacodynami c interaction between CIRCADIN and ZOLPIDEM one hour following co-dosing.  Concomitan t administration resulted in increased impairment of attention, mem ory and co-or dination compared to ZOLPIDEM alone. 
+ CIRCADIN has been co-administere d in studies with THIORIDAZINE and IMIPRAMINE, active substances which affect the CENTRAL NERVOUS SYSTEM.  No clinica lly significant pharmacokinetic interactions were found in each case.  However,  CIRCADIN co-administration re sulted in increased feelings of tranquility  and difficulty in performing tasks compared to IMIPRAMINE alone, and increased fe elings of “muzzy-headedness” compared to THIORIDAZINE alone.

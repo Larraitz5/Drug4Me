@@ -1,0 +1,1 @@
+> Regdanvimab is a monoclonal antibody, which is not renally excreted or metabolised by cytochrome P450 ENZYMES; therefore, interactions with concomitant medicinal products that are renally excreted or that are substrates, inducers, or inhibitors of cytochrome P450 ENZYMES are considered unlikely.

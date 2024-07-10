@@ -1,0 +1,11 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of other medicinal products on Inaqovi 
+ Decitabine and cedazuridine are not substrates or inhibitors  for cytochrome P450 ( CYP450) ; thus interactions with CYP inhibitors or inducers are not expected.  Cytidine deaminase inhibitors  
+ Because decitabine is a substrate for the cytidine deaminase (CDA) enzyme, which metaboli ses decitabine resulting in an inactive deaminated form, other medicinal products inhibiting CDA  should be avoided, as co-administration may result in increased decitabine exposure.  
+ Effect of Inaqovi on other me
+ dicinal products  
+ Medicinal products  metabolised by c ytidine deaminase 
+ Cedazuridine is an inhibitor of CDA and thereby increases the exposure of decitabine following oral administration . Concomitant administration of Inaqovi with medicinal products metabolised by CDA (i.e., cytarabine, gemcitabine, azacitidine ) may result in increased systemic exposure with a potential for increased toxicity of these medicinal products . Co- administration of Inaqovi with medicinal products metabolised primarily  by CDA should be avoided . 
+ Food 
+ Overall decitabine  exposure has been shown to be reduced when  decitabine is  administered with a high -fat, high- calorie meal (see section  4.2). 
+ 

@@ -1,0 +1,18 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ There have been no formal interaction studies for Eucreas . The following statements reflect the information available on the individual active substances . 
+ Vildagliptin  
+ Vildagliptin has a low potential for interactions  with co -administered medicinal products . Since vildagliptin is not a cytochrome P (CYP) 450 enzyme substrate and does not inhibit or induce CYP 
+450 enzymes, it is not likely to interact with active substances  that are substrates, inhibitors or inducers of these enzymes.  
+ Results from clinical trials conducted with the oral antidiabetics  pioglitazone, metformin and glyburide in combination with vildagliptin have shown no clinically relevant pharmacokinetic interactions in the target population.  
+ Drug -drug interaction studies with digoxin (P-glycoprotein  substrate ) and warfarin (CYP2C9 substrate) in  healthy subjects have shown no clinically relevant pharmacokinetic interactions after co -administration with vildagliptin.  
+ Drug -drug i nteraction studies in healthy subjects were conducted  with amlodipine, ramipril, valsartan and simvastatin . In these studies, no clinically relevant pharmacokinetic interactions were observed after co-administration with vildagliptin.  However, this has not been established in the target population.  
+ 7 Combination with ACE  inhibitors  There may be an increased risk of angioedema in patients concomitantly tak ing ACE  inhibitors.(see section  4.8). 
+ As with other oral antidiabetic medicinal products  the hypoglycaemic effect of vildagliptin may be reduced by certain active substances, including thiazides, corticosteroids, thyroid products and sympathomimetics.  
+ Metformin  
+ Combinations n ot recommended  Alcohol  Alcohol intoxication is associated with an increased risk of lactic acidosis, particularly in cases of fasting, malnutrition or hepatic impairment . 
+ Iodinated contrast agents  Metformin  must  be discontinued prior to or at the time of the imaging procedure and not restarted until at least 48  hours after, provided that renal function has been re -evaluated and found to be stable (see sections  4.2 and 4.4).  
+ Combinations requiring precautions for use  Some medicinal products can adversely affect renal function which may increase the risk of lactic acidosis, e.g. NSAIDs, including selective cyclo -oxygenase (COX) II inhibitors, ACE inhibitors, angiotensin II receptor antagonists and diuretics, especially loop diuretics. When starting or using such product s in combination with metformin, close monitoring of renal function is necessary.  
+ Glucocorticoids, beta -2-agonists, and diuretics have intrinsic hyperglycaemic activity. The patient should be informed and more frequent blood glucose monitoring performed, especially at the beginning of treatment. If necessary, the dosage of Eucreas  may need  to be adjusted during concomitant therapy and on its discontinuation.  
+ Angiotensin converting enzyme (A CE) inhibitors may decrease the blood glucose levels. If necessary, the dosage of the antihyperglycaemic medicinal product should be adjusted during therapy with the other medicinal product and on its discontinuation.  
+ Concomitant use of medicinal products  that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g. organic cationic transporter -2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir and cimeti dine) could increase systemic exposure to metformin.  
+ 

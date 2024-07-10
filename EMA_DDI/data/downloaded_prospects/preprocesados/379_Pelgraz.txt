@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic chemotherapy‚ pegfilgrastim  should be administered at least 24 hours after administration of cytotoxic chemotherapy.  In clinical trials, pegfilgrastim  has been safely administered 14 days before chemotherapy. Concomitant use of Pelgraz with any chemotherapeutic medicinal product  has not been evaluated in patients. In animal models concomitant administration of pegfilgrastim and 5-fluorouracil (5 -FU) or other antimetabolites has been shown to potentiate myelosuppression.  
+ Possible interactions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials . 
+ The potential for interaction with lithium, which  also promotes the release of neutrophils, has not been specifically investigated. There is no evidence that such an interaction would be harmful.  
+ The safety and efficacy of Pelgraz have not been evaluated in patients receiving chemotherapy associated wit h delayed myelosuppression e.g. nitrosoureas.  
+ Specific interaction or metabolism studies have not been performed, however, clinical trials have not indicated an interaction of pegfilgrastim with any other medicinal products.  
+ 

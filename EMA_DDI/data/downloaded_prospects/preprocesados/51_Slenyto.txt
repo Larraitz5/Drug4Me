@@ -1,0 +1,23 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults. In the absence of specific studies in children, the drug interactions with melatonin are those known in adults. 
+ Melatonin’s metabolism is mainly mediated by CYP1A enzymes.  Therefore, interactions between melatonin and other active substances as a consequence of their effect on CYP1A enzymes is possible.  
+ Concomitant use not recommended  
+ Concomitant use of the following medicinal products  and alcohol is not recommended (see section 
+4.4): 
+ Fluvoxamine  Fluvoxamine increases melatonin levels (by 17-fold higher AUC and a 12- fold higher serum Cmax) by inhibiting its metabolism by hepatic cytochrome P450 (CYP) isozymes CYP1A2 and CYP2C19.  The combination should be avoided. 
+ Alcohol Alcohol should not be taken with melatonin, because it reduces the effectiveness of melatonin on sleep. 
+ Benzodiazepines/non-benzodiazepine hypnotics  Melatonin may enhance the sedative properties of benzodiazepines and non-benzodiazepine hypnotics, such as zaleplon, zolpidem and zopiclone.  In a clinical trial, there was clear evidence for a transitory pharmacodynamic interaction between melatonin and zolpidem one hour following co-dosing.  Concomitant administration resulted in increased impairment of attention, memory and co -ordination compared to zolpidem alon e. Combination with benzodiazepines and non-benzodiazepine hypnotics should be avoided.  Thioridazine and imipramine  Melatonin has been co -administered in studies with thioridazine and imipramine, active substances which affect the central nervous system.  No clinically significant pharmacokinetic interactions were found in each case.  However, melatonin co- administratio n resulted in increased feelings of tranquility and difficulty in performing tasks compared to imipramine alone, and increased feelings of “muzzy-headedness” compared to thioridazine alone.  Combination with thioridazine and imipramine should be avoided. 
+ Concomitant use to be considered with caution 
+ Concomitant use of the following medicinal products should be considered with caution: 
+ 
+5- or 8-methoxypsoralen  Caution should be exercised in patients on 5- or 8- methoxypsoralen (5 or  8-MOP), which increases melatonin levels by inhibiting its metabolism.  
+ Cimetidine  Caution should be exercised in patients on cimetidine which is a potent inhibitor of certain cytochrome P450 (CYP450) enzymes, mainly CYP1A2 and thereby increases plasma melatonin levels, by inhibiting its metabolism.  
+ Oestrogens  Caution should be exercised in patients on oestrogens (e.g. contraceptive or hormone replacement therapy), which increase melatonin levels by inhibiting its metabolism by CYP1A1 and CYP1A2. 
+ 5 CYP1A2 inhibitors  CYP1A2 inhibitors such as quinolones (ciprofloxacin  and norfloxacin) may give rise to increased melatonin exposure.  
+ CYP1A2 inducers  CYP1A2 inducers such as carbamazepine and rifampicin may reduce plasma concentrations of melatonin. Therefore, w hen CYP1A2 inducers and melatonin are both given, dose adjustment may be required.   
+ Smoking 
+ Smoking is known to induce CYP1A2 metabolism, therefore if patients stop or start smoking during treatment with melatonin, dose adjustment may be required.  
+ NSAIDs 
+ Prostaglandin synthesis inhibitors (NSAIDs) such as acetylsalicylic acid  and ibuprofen, given in the evening may suppress endogenous melatonin levels in the early part of the night by up to 75%. If possible, administration of NSAIDs should  be avoided in the evening. 
+ Beta-blockers 
+ Beta-blockers may supress the night -time release of endogenous melatonin and thus should be administered in the morning.  

@@ -1,0 +1,266 @@
+4.5 Interaction wi th other medicinal products and other forms of interaction 
+ Efavirenz is an in vivo inducer of  CYP3A4, CYP2B
+6 and UGT1A1.  Compounds that are substrates ofthese enzymes may have decreased plasma concentrations when co-administ ered with ef avirenz.  Invitro efavirenz is also an inhibitor of
+ CYP3A4. Theoretically, efavirenz may theref ore
+ initiallyincrease the exposure to CYP3A 4 substrates and caution is warranted f or CYP3A4 substrates withnarro w therapeutic index (see section  4.3). Ef avirenz may be
+ an induce r of CYP2C19  and CYP2C9;however inhibition has also been observed in vitro  and the net ef f ect of co-adminis tration withsubstrates of these enzymes is not clear (see section
+ 5.2).Ef avirenz  exposure may be increased when given with medicinal pr oducts (f o r example, ritonavir) orf ood (f or example, grapefruit juice), which inhibit CYP
+3A4 or CYP2B 6 activity.Com pound s or herbal preparations (for example Ginkgo biloba
+ extracts a nd St. John’s  wort) whichinduce these enzymes may g ive rise to decreased plasma concentrations of efavirenz
+. Concomitant useof St. John’s wort is contraindicat ed (see section 4.3). Concom itant use of Ginkgo biloba  extracts isnot recommended (see
+ section 4.4).Co-admin istration of ef avirenz with metamizole, which
+ is an inducer of metabolising e nzymesincluding CYP2B6 and CYP3A4
+, may cause a reduction in plasma conce ntrations of ef avirenz withpotential decrease in clinical ef ficacy. Therefore, caution is
+ advised when metamizole and ef avirenzare administered concurrently; clinical response and/o r drug levels should be monitored asappropriate.8QT Prolonging Drugs 
+ Ef avirenz is contraindicated with concomitant use of drugs (they may cause prolonged QTc in tervaland Torsa de de Pointes) such as: a ntiarrhythmic s of classes IA and III, neuroleptics and antidepressantagents, certain antibiotics including some agents of  the following classes: macrolides,f luoroquinolones, imidazole, and triazole antif ungal
+ agents, certain non
+-sedating antihi staminics(terfenadine, astemizole), cisapride, f lecainide, certain antimalarials and methadone (see section  4.3).Paediatric population 
+ Interaction studies have only been performed in adults.Contraindications of concomit ant use 
+ Ef avire nz must not be administer ed concurrently with terf enadine,
+ astemiz ole, cisapride, midazolam,triazolam, pimozide, bepridil, or ergot alkaloids (for example, ergotamine, dihydroergotamine,ergonovine, and methylergonovine) since inhibition of  their metabolism may lead to serious,life-threatening events (see  section 4.3).Efavirenz must not be administered with
+ elbasvir/grazoprevir due to the expected significant decreasesin elbasvir and grazoprevir plasma concentrations caused by  induction  of drug metabolising enzymesand/or tran sport proteins and which are  expected to result in the loss of virologic response ofelbasvir/grazoprevir (see section 4
+.5).St. John’s wort ( Hype ricum perforatum
+)Co-administration of efavirenz and St.  John’ s wort or herbal preparations containing St.  John’s wort iscontraindicated. Plasma levels of ef avirenz can be reduced by concomitant use of St. John's wort dueto induct ion of drug metabolising enzymes and/or transport proteins by St. John's wort. If  a pa tient isalready taking St. John’s w ort, stop St. John’s wort, check viral levels and if possible efavirenz levels.Ef avirenz levels may increase on stopping St.  John’s w ort and the dose of  ef avirenz may needadjusting.  The inducing eff ect of St. John’s wo rt may persist for at
+ least 2 weeks af ter cess ation oftreatmen t (see section  4.3).Praziq uantel 
+ Concomita nt use with praziquantel is not recommended
+ due to significant decrease in plasmaconcentrations of  praziquantel, with risk of treatment f ailure due to increased hepatic metabolism byefavirenz. In case the combination is needed, an increased dose of praziquantel could be considered.Other interactions 
+ Interactions between ef avirenz and protease inhibitors, antiretroviral agents other than proteaseinhibitors and other non
+-antiretroviral medicinal prod ucts are listed in Table
+ 2 below (i ncrease  isindicated as “↑”, decrease as “↓” , no change as “↔”, and once every 8 or 1 2 hours as “q8h” or
+“q12h”). If available, 90
+ % or 95 
+% confidence intervals are shown in parentheses. Studies wereconducted in healthy
+ subjects unless otherwise noted. 9Table  2: Inte ractions betwee n efavirenz and
+ other me dicinal products  in adults 
+ Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ ANTI-INFECTIVESHIV antivirals 
+ Proteas e inh ibitors (PI)Atazanavir
+/ ritonavir/Ef avirenz(400 mg once daily/100
+ mg oncedaily/600  mg once daily, alladministered with f ood)Atazanavir (pm):AUC: ↔* (↓  9 to ↑  10)Cmax: ↑ 17 %* (↑  8 to ↑  27)Cmin: ↓ 42 %* (↓  31 to ↓  51)Co-administration of  ef avirenzwith atazanavir/ritonavir is notrecommend ed. If  theco-administration of  atazanavirwith an NNRTI is
+ required, anincrease in the dose of  bothatazanavir and ritonavir to 400
+ mgand 200  mg, respectively, incombination with ef avirenz couldbe considered  with close clinicalmonitoring.Atazanavir /ritonavir/Ef avirenz(400 mg once daily/200
+ mg oncedaily/6 00 mg once daily, alladmin istered with f ood )Atazanavir (pm):AUC: ↔*/** (↓  10 to ↑  26)Cmax: ↔*/** (↓  5 to ↑  26)Cmin: ↑ 12  %*/** (↓  16 to ↑  49)(CYP3A4 induction).
+* When compared to atazanavir
+300 mg/ritonavir 100
+ mg oncedaily in the evening withoutef avirenz. This decrease inatazanavir C min might negativelyimpact the eff icacy of  atazanavir.
+** based on historical comparison 
+ Darunavir/ritonavir/Ef avirenz(300 mg twice daily*/100
+ mg twicedaily/600  mg once daily)
+*lower than recommended doses,similar f indings are expected withrecommended doses.Darunavir:AUC : ↓ 13 %Cmin : ↓ 31 %Cmax: ↓ 15%(CYP3A4 induction)Ef avirenz:AUC  : ↑ 21 %Cmin: ↑ 17 %Cmax: ↑ 15%(CYP3A4 inhibition)Ef avirenz in combination withdarunavir/ritonavir 800/100
+ mgonce daily may result insuboptimal darunavir Cmin. Ifef avirenz is t o be used incombination withdarunavir/ritonavir, thedarunavir/ritonavir 600/100
+ mgtwice daily regimen should beused.  This combination should beused with caution.See also ritonavir row below.Fosamprenavir/ritonavir/Ef avirenz(700 mg twice daily/100
+ mg twicedaily/600  mg once daily)No clinically signif icantpharmacokinetic interaction.No dose adjustment is necessaryf or any of  these medicinalproducts. See also ritonavir row below.Fosamprenavir/Nelf inavir/Ef avirenz
+ Interaction not studied 
+ No dose adjustment is necessaryf or any of  these medicinalproducts.Fosamprenavir/Saquinavir/Ef avirenz
+ Interaction not studied 
+ Not recommended, as theexposure to both PIs is expected tobe signif icantly decreased.Indinavir/Ef avirenz(800 mg q8h/200  mg once daily)Indinavir:AUC: ↓ 31 % (↓ 8 to ↓  47)Cmin: ↓ 40 %A similar reduction in indinavirexposures was observed whenindinavir 1,000  mg q8h was givenwith ef avirenz 600
+ mg daily.(CYP3A4 induction)Ef avirenz:No clinically signif icantpharmacokinetic interaction 
+ While the clinical signif icance ofdecreased indinavir concentrationshas not been established, themagnitude of  the observedpharmacokinetic interactionshould be taken into considerationwhen choosing a regimencontaining both ef avirenz andindinavir.No dose adjustment is necessaryf or ef avirenz when given with10Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Indinavir/ritonavir/Ef avirenz(800 mg twice daily/100
+ mg twicedaily/600  mg once daily)Indinavir:AUC: ↓  25 % (↓ 16 to ↓  32) b 
+ Cmax: ↓ 17 % (↓ 6 to ↓  26)b 
+ Cmin: ↓ 50 % (↓ 40 to ↓  59)b 
+ Ef avirenz:No clinically signif icantpharmacokinetic interaction 
+ The geometric mean Cmin f orindinavir (0.33  mg/l) when givenwith ritonavir and ef avirenz washigher than  the mean historical 
+ Cmin (0.15  mg/l) when indinavirwas given alone at 800
+ mg q8h.In HIV -
+1 inf ected patients(n = 
+6), the pharmacokinetics ofindinavir and ef avirenz weregenerally comparable to theseuninf ected volunteer data.indinavir or indinavir/ritonavir.See also ritonavir row below.Lopinavir/ritonavir soft
+ capsules ororal solution/Ef avirenz 
+ Lopinavir/ritonavir tablets/ Efavirenz 
+ Substantial decrease in lopinavirexposure.With ef avirenz, an increase of  thelopinavir/ritonavir sof t capsule ororal solution doses by 33
+ % shouldbe considered (4  capsules /~6.5  m 
+ Ltwice daily instead of
+3 capsules/5  m 
+ L twice daily).Caution is warranted since thisdose adjustment might beinsuf ficient in some patients.
+ Thedose of  lopinavir/ritonavir tabletsshould be increased to 500/125
+ mgtwice daily when co
+-administer edwith ef avirenz 600
+ mg once daily.See also ritonavir row below.(400/100  mg twice daily/600
+ mg oncedaily)Lopinavir concentrations:
+↓ 30-40 %(500/125  mg twice daily/600
+ mg oncedaily)Lopinavir concentrations: similarto lopinavir/ritonavir 400/100
+ mgtwice daily without ef avirenz 
+ Nelf inavir/Ef avirenz(750 mg q8h/600  mg once daily)Nelf inavir:AUC: ↑  20 % (↑ 8 to ↑  34)Cmax: ↑ 21 % (↑ 10 to ↑  33)The combination was generallywell tolerated.No dose adjustment is necessaryf or either medicinal product.11Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Ritonavir/Ef avirenz(500 mg twice daily/600
+ mg oncedaily)Ritonavir:Morning AUC: ↑  18 % (↑ 6 to
+↑ 33)Evening AUC: ↔  Morni ng C max: ↑ 24 % (↑ 12 to
+↑ 38)Evening C max: ↔  Morning C min: ↑ 42 % (↑ 9 to
+↑ 86)b Evening C min: ↑ 24 % (↑ 3 to
+↑ 50)b 
+ Ef avirenz:AUC: ↑  21 % (↑ 10 to ↑  34) Cmax: ↑ 14 % (↑ 4 to ↑  26)Cmin: ↑ 25  % (↑ 7 to ↑  46)b(inhibition of  CYP
+-mediatedoxidative metabolism)When ef avirenz was given withritonavir 500  mg or 600  mg twicedaily, the combination was notwell tolerated (f or example,dizziness, nausea, paraesthesiaand elevated liver enzymesoccurred).  Suf ficient data on thetolerability of  ef avirenz withlow-dose ritonavir (100
+ mg, onceor twice daily) are not available. When using ef avirenz withlow-dose ritonavir, the possibilityof  an increase in the incidence ofef avirenz -associated adverseevents should be considered, dueto possible pharmacodynamicinteraction.Saquinavir/ritonavir/Ef avirenz 
+ Interaction not studied.No data are available to make adose recommendation. See alsoritonavir row above. Use ofef avirenz in combination withsaquinavir as the sole proteaseinhibitor is not recommended.CCR5  antagonist 
+ Maraviroc/Ef avirenz(100 mg twice daily/600
+ mg oncedaily)Maraviroc:AUC 12: ↓ 45 % (↓ 38 to ↓  51)Cmax: ↓ 51 % (↓ 37 to ↓  62)Ef avirenz concentrations notmeasured, no eff ect is expected.Ref er to the Summary of  Product 
+ Characteristics f or the medicinalproduct containing maraviroc.Integrase strand transfer inhibitor 
+ Raltegra vir/Ef avirenz(400 mg single dose/ 
+- )Raltegravir:AUC:  ↓ 36 %C12: ↓ 21 %Cmax: ↓ 36 %(UGT1A1 induction)No dose adjustment is necessaryf or raltegravir.12Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ NRTIs and NNRTIs 
+ NRTIs/Ef avirenz 
+ Specif ic interaction studies havenot been perf ormed withef avirenz and NRTIs other thanlamivudine, zidovudine, andtenof ovir disoproxil. Clinicallysignif icant interactions are notexpected since the NRTIs aremetabolised via a dif f erent routethan ef avirenz and would beunlikely to compete f or the samemetabolic en zymes andelimination pathways.No dose adjustment is necessaryf or either medicinal product.NNRTIs/Ef avirenz
+ Interaction not studied.Since use of  two NNRTIs provednot beneficial in terms of  eff icacyand saf ety, co -administration ofef avirenz and another NNRTI isnot recommended.Hepatitis C antivirals 
+ Boceprevir/Ef avirenz(800 mg 3 times daily/600
+ mg oncedaily)Boceprevir:AUC: ↔ 19%*Cmax: ↔ 8%Cmin: ↓ 44%Ef avirenz:AUC: ↔ 20%Cmax: ↔ 11%(CYP3A induction 
+- ef f ect onboceprevir)
+*0-8 hours 
+ No ef fect (↔) equals a decreasein mean ratio estimate of ≤20% orincrease in mean ratio estimate of
+≤25%Plasma trough concentrations ofboceprevir were decreased whenadministered with ef avirenz. Theclinical outcome of  this observedreduction of  boceprevir troughconcentrations has not beendirectly assessed.Telaprevir/Ef avirenz(1,125  mg q8h/600  mg once daily)Telaprevir (relative to 750
+ mgq8h):AUC: ↓ 18% (↓ 8 to ↓ 27)Cmax: ↓ 14% (↓ 3 to ↓ 24)Cmin: ↓ 25% (↓ 14 to ↓ 34)%Ef avirenz:AUC: ↓ 18% (↓ 10 to ↓ 26)Cmax: ↓ 24% (↓ 15 to ↓ 32)Cmin: ↓ 10% (↑ 1 to ↓ 19)%(CYP3A induction by ef avirenz)If  ef avirenz and telaprevir areco-administered, telaprevir
+1,125  mg every 8  hours should beused.Simeprevir/Ef avirenz(150 mg once daily /600
+ mg oncedaily)Simep revir: AUC: ↓ 71% (↓ 67 to ↓ 74)Cmax: ↓ 51% (↓ 46 to ↓ 56)Cmin: ↓ 91% (↓ 88 to ↓ 92)Ef avirenz:AUC: ↔ Cmax: ↔  Cmin: ↔  No effect (↔) equals a decreasein mean ratio estimate of ≤20% orincrease in mean ratio estimate of
+≤25%(CYP3A4 enzyme induction)Concomitant administration ofsimeprevir with ef avirenz resultedin signif icantly decreased plasmaconcentrations of  simeprevir dueto CYP3A induction by ef avirenz,which may result in loss oftherapeutic eff ect of  simeprevir.Co-administration of  simeprevirwith ef avirenz is notrecommended.)13Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Elbasvir/grazoprevir
+  Elbasvir:AUC: ↓54%Cmax: ↓45%Grazoprevir:AUC: ↓83%Cmax: ↓87%Concomitant administration of 
+ STOCRIN withelbasvir/graz oprevir iscontraindicated (see section 4.3
+)because it may lead to loss ofvirologic response toelbasvir/grazoprevir. This loss isdue to significant decreases inelbasvir and grazoprevir plasmaconcentrations caused by CYP3A4or P-gp induction  (ref er to the 
+ Summary of  Product 
+ Characteristics forelbasvir/grazoprevir f or additionalinf ormation ).Sof osbuvir/velpatasvirsof osbuvir/velpatasvir/voxilaprevir 
+ Sof osbuvir:Cmax ↑38%Velpatasvir 
+ AUC ↓ 53%Cmax ↓47%Cmin ↓57%Expected:
+↓Voxilaprevir 
+ Co-administration ofef avirenz
+/emtricitabine/tenof ovirdisoproxil withsof osbuvir/velpatasvir has beenshown to signif icantly decreaseplasma concentrations ofvelpatasvir due to  CYP3Ainduction by ef avirenz, which mayresult in loss of  therapeutic effectof  velpatasvir. Although notstudied, a similar decrease invoxilaprevir exposure isanticipated. Co-administration of 
+ STOCRIN withsof osbuvir/velpatasvir orsof osbuvir/velpatasvir/voxilapreviris not recommended
+ (ref er to the 
+ Summary of  Product 
+ Characteristics f orsof osbuvir/velpatasvir andsof osbuvir/velpatasvir/voxilaprevirf or additional  inf ormation ).Glecaprevir/pibrentasvir
+ ↓glecaprevir
+↓pibrentasvir 
+ Concomitant administration
+ ofglecaprevir/pibrentasvir withef avirenz may  signif icantlydecrease plasma
+ concentrations ofglecaprevir  and pibrentasvir,leading to  reduced therapeuticef f ect.  Co-administration ofglecaprevir/pibrentasvir withef avirenz is not
+ recommended.Ref er to the  prescribinginf ormation f orglecaprevir/pibrentasvir f or
+ moreinf ormation.Antibiotics 
+ Azithromycin/Ef avirenz(600 mg single dose/400
+ mg oncedaily)No clinically signif icantpharmacokinetic interaction.No dose adjustment is necessaryf or either medicinal product.14Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Clarithromycin/Ef avirenz(500 mg q12h/400  mg once daily)Clarithromycin:AUC: ↓  39 % (↓ 30 to ↓  46)Cmax: ↓ 26 % (↓ 15 to ↓  35)Clarithromyci n
+14-hydroxymetabolite:AUC: ↑  34 % (↑ 18 to ↑  53)Cmax: ↑ 49 % (↑ 32 to ↑  69)Ef avirenz:AUC: ↔  Cmax: ↑ 11 % (↑ 3 to ↑  19)(CYP3A4 induction)Rash developed in 46
+ % ofuninf ected volunteers receivingef avirenz and clarithromycin.The clinical signif icance
+ of  thesechanges in clarithromycin plasmalevels is not known. Alternativesto clarithromycin (e.g.
+,azithromycin) may be considered.No dose adjustment is necessaryf or ef avirenz. 
+ Other macrolide antibiotics (e.g.,erythromycin)/Ef avirenz 
+ Interaction n ot studied.No data are available to make adose recommendation.Antimycobacterials 
+ Rif abutin/Ef avirenz(300 mg once daily/600
+ mg oncedaily)Rif abutin:AUC: ↓  38 % (↓ 28 to ↓  47)Cmax: ↓ 32 % (↓ 15 to ↓  46)Cmin: ↓ 45 % (↓ 31 to ↓  56) Ef avirenz:AUC: ↔  Cmax: ↔ Cmin: ↓ 12 % (↓ 24 to ↑  1) (CYP3A4 induction)The daily dose of  rif abutin shouldbe increased by 50
+ % whe nadministered with ef avirenz.Consider doubling the rif abutindose in regimens where rif abutinis given 2 or 3  times a week incombination with ef avirenz.
+ Theclinical eff ect of  this doseadjustment has not beenadequately evaluated. Individualtolerability and virologicalresponse should be consideredwhen making the dose adjustment(see section  5.2).Rif ampicin/Ef avirenz(600 mg once daily/600
+ mg oncedaily)Ef avirenz:AUC: ↓  26 % (↓ 15 to ↓  36)Cmax: ↓ 20 % (↓ 11 to ↓  28)Cmin: ↓ 32 % (↓ 15 to ↓  46) (CYP3A4 and CYP2B6induction)When taken with rif ampicin inpatients weighing 50
+ kg or greater,increasing ef avirenz daily dose to
+800 mg may provide exposuresimilar to a daily dose of  600
+ mg,when taken without rif ampicin.The clinical eff ect of  this doseadjustment has not beenadequately evaluated. Individualtolerability and virologicalresponse should be consideredwhen making the dose
+ adjustment(see section  5.2). No doseadjustment is necessary f orrif ampicin , including 600  mg.15Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Antifungals 
+ Itraconazole/Ef avirenz(200 mg q12h/600  mg once daily)Itraconazole: AUC: ↓  39 % (↓ 21 to ↓  53)Cmax: ↓ 37 % (↓ 20 to ↓  51)Cmin: ↓ 44 % (↓ 27 to ↓  58) (decrease in itraconazoleconcentrations: CYP3A4induction)Hydroxyitraconazole:AUC: ↓  37 % (↓ 14 to ↓  55) Cmax: ↓ 35 % (↓ 12 to ↓  52) Cmin: ↓ 43 % (↓ 18 to ↓  60) Ef avi renz: No clinically signif icantpharmacokinetic change. 
+ Since no dose recommendation f oritraconazole can be made,alternative antifungal treatmentshould be considered.Posaconazole/Ef avirenz
+--/400 mg once daily 
+ Posaconazole:AUC: ↓  50 % Cmax: ↓ 45 %(UDP -G induction)Concomitant use of  posaconazoleand ef avirenz should be avoidedunless the benef it to the patientoutweighs the risk.Voriconazole/Ef avirenz(200 mg twice daily/400
+ mg oncedaily)Voriconazole/Ef avirenz(400 mg twice daily/300
+ mg oncedaily)Voriconazole:AUC: ↓  77 %Cmax: ↓ 61 %Ef avirenz:AUC: ↑  44 %Cmax: ↑ 38 %Voriconazole:AUC: ↓  7 % (↓ 23 to ↑  13) *Cmax: ↑ 23 % (↓ 1 to ↑  53) *Ef avirenz:AUC: ↑  17 % (↑ 6 to ↑  29) **Cmax: ↔**
+*compared to 200
+ mg twice dailyalone
+** compared to 600
+ mg oncedaily alo ne(competitive inhibition ofoxidative metabolism)When ef avirenz is co
+-administeredwith voriconazole, thevoriconazole maintenance dosemust be increased to 400
+ mg twicedaily and the ef avirenz dose mustbe reduced by 50
+ %, i.e., to
+300 mg once daily. Whentreatment with voriconazole isstopped, the initial dose ofef avirenz should be restored.Fluconazole/Ef avirenz(200 mg once daily/400
+ mg oncedaily)No clinically signif icantpharmacokinetic interaction 
+ No dose adjustment is necessaryf or either medicinal product.Ketoconazole and other imidazoleantif ungals 
+ Interaction not studied 
+ No data are available to make adose recommendation.Antimalarials 
+ Artemether/lumef antrine/Ef avirenz(20/120  mg tablet, 
+6 doses of  4 tabletseach over 3 days/600  mg o nce daily)Artemether:AUC: ↓ 51% Cmax: ↓ 21% Dihydroartemisinin:AUC: ↓  46%Cmax: ↓ 38% Lumef antrine:AUC: ↓  21% Cmax: ↔  Ef avirenz:AUC: ↓  17%Cmax: ↔  (CYP3A4 induction)Since decreased concentrations ofartemether, dihydroartemisinin, orlumef antrine may result in adecrease of  antimalarial eff icacy,caution is recommended whenef avirenz andartemether/lumef antrine tablets arecoadministered.16Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Atovaquone and proguanilhydrochloride/Ef avirenz(250/100  mg single dose/600
+ mg oncedaily)Atovaquone:AUC: ↓  75% (↓  62 to ↓  84)Cmax: ↓ 44% (↓  20 to ↓  61)Proguanil:AUC: ↓  43% (↓  7 to ↓  65)Cmax: ↔ Concomitant administration ofatovaquone/proguanil withef avirenz should be avoided.ACID REDUCING AGENTSAluminium hydroxide
+-magnesiumhydroxide -simethiconeantacid/Ef avirenz(30 m 
+ L singl e dose/400  mg singledose)Famotidine/Ef avirenz(40 mg single dose/400
+ mg singledose)Neither aluminium/magnesiumhydroxide antacids nor f amotidinealtered the absorption ofef avirenz.  Co-administration of  ef avirenzwith medicinal products that altergastric p 
+ H would not be expectedto af f ect ef avirenz absorption.ANTIANXIETY AGENTSLorazepam/Ef avirenz(2 mg single dose/600
+ mg once daily)Lorazepam: AUC: ↑  7 % (↑ 1 to ↑  14)Cmax: ↑ 16 % (↑ 2 to ↑  32)These changes are not consideredclinically signif icant. 
+ No dose adjustment is necessaryf or either medicinal product.ANTICOAGULANTSWarf arin/Ef avirenz 
+ Acenocoumarol/Ef avirenz 
+ Interaction not studied. Plasmaconcentrations and ef f ects ofwarf arin or acenocoumarol arepotentially increased or decreasedby ef avirenz.Dose adjustment of  warf arin oracenocoumarol may be required.ANTICONVULSANTSCarbamazepine/Ef avirenz(400 mg once daily/600
+ mg oncedaily)Carbamazepine:AUC: ↓  27 % (↓ 20 to ↓  33)Cmax: ↓ 20 % (↓ 15 to ↓  24)Cmin: ↓ 35 % (↓ 24 to ↓  44)Ef avirenz:AUC: ↓  36 % (↓ 32 to ↓  40)Cmax: ↓ 21 % (↓ 15 to ↓  26)Cmin: ↓ 47 % (↓ 41 to ↓  53)(decrease in carbamazepineconcentrations: CYP3A4induction; decrease in ef avirenzconcentrations: CYP3A4 and 
+ CYP2B6 induction) The steady -state AUC, C max and 
+ Cmin of  the active carbamazepineepoxide metabolite remainedunchanged. Co
+-administration ofhigher doses of  either ef avirenz orcarbamazepine has not beenstudied.No dose recommendation can bemade. An alternativeanticonvulsant should beconsidered. Carbamazepineplasma levels should be monitoredperiodically.17Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Phenytoin, Phenobarbital, and otheranticonvulsants that are substrates of 
+ CYP450 isoenzymes 
+ Interaction not studied. There is apotential f or reduction or increasein the plasma concentrations ofphenytoin, phenobarbital andother anticonvulsants that aresubstrates of  CYP450 isoenzymeswhen co -administered withef avirenz.When ef avirenz is co
+-administeredwith an anticonvulsant that is asubstrate of  CYP450 isoenzymes,periodic monitoring ofanticonvulsant levels should beconducted.Valproic acid/Ef avirenz(250 mg twice daily/600
+ mg oncedaily)No clinically signif icant eff ect onef avirenz pharmacokinetics.Limited data suggest there is noclinically signif icant eff ect onvalproic acid pharmacokinetics.No dose adjustment is necessaryf or ef avirenz. Patients should bemonitored f or seizure control.Vigabatrin/Ef avirenz 
+ Gabapentin/Ef avirenz 
+ Interaction not studied. Clinicallysignif icant interactions are notexpected since vigabatrin andgabapentin are exclusivelyeliminated unchanged in the urineand are unlikely to compete f orthe same metabolic enzymes andelimination pathways asef avirenz.No dose adjustment is necessaryf or any of  these medicinalproducts.ANTIDEPRESSANTSSelective Serotonin Reuptake Inhibitors (SSRIs)Sertraline/Ef avirenz
+ (50 mg once daily/600
+ mg once daily)
+ Sertraline:AUC: ↓  39 % (↓ 27 to ↓  50) Cmax: ↓ 29 % (↓ 15 to ↓  40) Cmin: ↓ 46 % (↓ 31 to ↓  58)Ef avirenz: AUC: ↔ Cmax: ↑ 11 % (↑ 6 to ↑  16)Cmin: ↔ (CYP3A4 induction)Sertraline dose increases should beguided by clinical response.No dose adjustment is necessaryf or ef avirenz.Paroxetine/Ef avirenz
+ (20 mg once daily/600
+ mg once daily)
+ No clinically signif icantpharmacokinetic interaction 
+ No dose adjustment is necessaryf or either medicinal product.Fluoxetine/Ef avirenz
+ Interaction not studied. Sincef luoxetine shares a similarmetabolic prof ile with paroxetine,i.e., a strong CYP2D6 inhibitoryef f ect, a similar lack ofinteraction would be expected f orf luoxetine.No dose adjustment is necessaryf or either medicinal product.Norepinephrine and dopamine reuptake inhibitor 
+ Bupropion/Ef avirenz
+ 
+[150 mg single dose (sustained release)/60 0 mg once daily]  Bupropion:AUC: ↓  55% (↓  48 to ↓  62) Cmax: ↓ 34% (↓  21 to ↓  47) Hydroxybupropion: AUC: ↔  Cmax: ↑ 50% (↑  20 to ↑  80)(CYP2B6 induction)Increases in bupropion dosageshould be guided by clinicalresponse, but the maximumrecommended dose
+ of bupropionshould not be exceeded. No doseadjustment is necessary f oref avirenz.18Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ ANTIHISTAMINESCetirizine/Ef avirenz(10 mg single dose/600
+ mg oncedaily)Cetirizine:AUC: ↔  Cmax: ↓ 24 % (↓ 18 to ↓  30)These changes are not consideredclinically sig nificant.Ef avirenz: No clinically signif icantpharmacokinetic interaction.No dose adjustment is necessaryf or either medicinal product.CARDIOVASCULAR AGENTSCalcium Channel Blockers 
+ Diltiazem/Ef avirenz(240 mg once daily/600
+ mg oncedaily)Diltiaz em:AUC: ↓  69 % (↓ 55 to ↓  79) Cmax: ↓ 60 % (↓ 50 to ↓  68) Cmin: ↓ 63 % (↓ 44 to ↓  75)Desacetyl diltiazem:AUC: ↓  75 % (↓ 59 to ↓  84) Cmax: ↓ 64 % (↓ 57 to ↓  69) Cmin: ↓ 62 % (↓ 44 to ↓  75)N-monodesmethyl diltiazem:AUC: ↓  37 % (↓ 17 to ↓  52)Cmax: ↓ 28 % (↓ 7 to ↓  44)Cmin: ↓ 37 % (↓ 17 to ↓  52)Ef avirenz:AUC:  ↑ 11 % (↑ 5 to ↑  18)Cmax: ↑ 16 % (↑ 6 to ↑  26) Cmin: ↑ 13 % (↑ 1 to ↑  26)(CYP3A4 induction)The increase in ef avirenzpharmacokinetic parameters isnot considered clinicallysignif icant.Dose adjustments of  diltiazemshould be guided by clinicalresponse (ref er to the Summary of 
+ Product Characteristics f ordiltiazem). No dose adjustment isnecessary f or ef avirenz.Verapamil, Felodipine, Nif edipineand Nicardipine 
+ Interaction not studied. Whenef avirenz is co
+-administered witha calcium channel blocker that isa substrate of  the 
+ CYP3A4  enzyme, there is apotential f or reduction in theplasma concentrations of  thecalcium channel blocker.Dose adjustments of  calciumchannel blockers should be guidedby clinical response (ref er to the 
+ Summary of  Product 
+ Characteristics f or the calciumchannel blocker).LIPID LOWERING MEDICINAL PRODUCTSHMG Co -A Reductase Inhibitors 
+ Atorvastatin/Ef avirenz(10 mg once daily/600
+ mg once daily)Atorvastatin:AUC: ↓  43 % (↓ 34 to ↓  50)Cmax: ↓ 12 % (↓ 1 to ↓  26)
+2-hydroxy atorvastatin:AUC: ↓  35 % (↓ 13 to ↓  40)Cmax: ↓ 13 % (↓ 0 to ↓  23)
+4-hydroxy atorvastatin:AUC: ↓  4 % (↓ 0 to ↓  31)Cmax: ↓ 47 % (↓ 9 to ↓  51)Total active HMG Co
+-Areductase inhibitors: AUC: ↓  34 % (↓ 21 to ↓  41)Cmax: ↓ 20 % (↓ 2 to ↓  26)Cholesterol levels should beperiodically monitored. Doseadjustments of  atorvastatin may berequired (ref er to the Summary of 
+ Product Characteristics f or theatorvastatin).  No dose adjustmentis necessary f or ef avirenz.19Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Pravastatin/Ef avirenz(40 mg once daily/600
+ mg once daily)Pravastatin:AUC: ↓  40 % (↓ 26 to ↓  57)Cmax: ↓ 18 % (↓ 59 to ↑  12)Cholesterol levels should beperiodically monitored. Doseadjustments of  pravastatin may berequired (ref er to the Summary of 
+ Product Cha racteristics f orpravastatin). No dose adjustmentis necessary f or ef avirenz.Simvastatin/Ef avirenz(40 mg once daily/600
+ mg once daily)Simvastatin:AUC: ↓  69 % (↓ 62 to ↓  73)Cmax: ↓ 76 % (↓ 63 to ↓  79)Simvastatin acid:AUC: ↓  58 % (↓ 39 to ↓  68)Cmax: ↓ 51 % (↓ 32 to ↓  58)Total active HMG Co
+-Areductase inhibitors:AUC: ↓  60 % (↓ 52 to ↓  68)Cmax: ↓ 62 % (↓ 55 to ↓  78)(CYP3A4 induction)Co-administration of  ef avirenzwith atorvastatin, pravastatin, orsimvastatin did not aff ectefavirenz AUC or Cmax values.Cholesterol levels should beperiodically monitored. Doseadjustments of  simvastatin may berequired (ref er to the Summary of 
+ Product Characteristics f orsimvastatin). No dose adjustmentis necessary f or ef avirenz.Rosuvasta tin/Ef avirenz 
+ Interaction not studied.Rosuvastatin is largely excretedunchanged via the f aeces,theref ore interaction withef avirenz is not expected.No dose adjustment is necessaryf or either medicinal product.HORMONAL CONTRACEPTIVESOral:Ethinyloes tradiol+Norgestimate/Ef avirenz(0.035  mg+0.25  mg oncedaily/600  mg once daily)Ethinyloestradiol:AUC:  ↔ Cmax: ↔ Cmin: ↓ 8 % (↑ 14 to ↓  25)Norelgestromin (activemetabolite):AUC: ↓  64 % (↓ 62 to ↓  67)Cmax: ↓ 46 % (↓ 39 to ↓  52)Cmin: ↓ 82 % (↓ 79 to ↓  85)Levonorgestrel (activemetabolite):AUC: ↓  83 % (↓ 79 to ↓  87)Cmax: ↓ 80 % (↓ 77 to ↓  83)Cmin: ↓ 86 % (↓ 80 to ↓  90)(induction of  metabolism)Ef avirenz: no clinicallysignif icant interaction.The clinical signif icance of  theseef f ects is not known.A reliable method of  barriercontraception must be used inaddition to hormonalcontraceptives (see
+ section  4.6).20Medi cinal  product by therapeuticareas(dose)Effects on drug levels 
+ Mean per cent change in AUC,Cmax, Cmin with confidenceintervals if ava ilablea(mechanism)Recommendation concerningco-administration with efavirenz 
+ Injection: Depo -medroxyprogesteroneacetate (DMPA)/Ef avirenz(150 mg IM single dose DMPA)In a 3 -month drug interactionstudy, no signif icant dif f erencesin MPA pharmacokineticparameters were f ound betweensubjects receiving ef avirenz
+-containing antiretroviral therapyand subjects receiving noantiretroviral therapy. Similarresults were f ound by otherinvestigators, although the MPAplasma levels were more variablein the second study. In bothstudies, plasma progesteronelevels f or subjects receivingef avirenz and DMPA remainedlow consistent with suppressionof  ovulation.Because of  the limited inf ormationavailable, a reliable method ofbarrier contraception must be usedin addition to hormonalcontraceptives (see
+ section  4.6).Implant: Etonogestrel/Ef avirenz
+ Decreased exposure ofetonogestrel may be expected(CYP3A4 induction).
+ There havebeen occasional post
+-marketingreports of  contraceptive f ailurewith etonogestrel in ef avirenz
+-exposed patients.A reliable method of  barriercontraception must be used inaddition to hormonalcontraceptives (see
+ section  4.6).IMMUNOSUPPRESSANTSImmunosuppressants metabolised by 
+ CYP3A4 (e.g., cyclosporine,tacrolimus, sirolimus)/Ef avirenz 
+ Interaction not studied. Decreasedexposure of  theimmunosuppressant may beexpected (CYP3A4 induction).These immunosuppressants arenot anticipated to aff ect exposureof  ef avirenz.Dose adjustments of  theimmunosu ppressant may berequired. Close monitoring ofimmunosuppressantconcentrations f or at least 2
+ weeks(until stable concentrations arereached) is recommended whenstarting or stopping treatment withef avirenz.OPIOIDSMethadone/Ef avirenz(stable maintenance, 35-100 mg oncedaily/600  mg once daily)Methadone:AUC: ↓  52 % (↓ 33 to ↓  66)Cmax: ↓ 45 % (↓ 25 to ↓  59)(CYP3A4 induction)In a study of  HIV
+ inf ectedintravenous drug users,co-administration of  ef avirenzwith methadone resulted indecreased plasma levels ofmethadone and signs of  opiatewithdrawal.  The methadone dosewas increased by a mean of  22
+ %to alleviate withdrawalsymptoms.Concomitant administration withef avirenz should be avoided due tothe risk f or QTc prolongation (seesection  4.3).Buprenorphine/naloxone/Ef avirenz
+ Buprenorphine
+:AUC: ↓ 50 %Norbuprenorphine
+:AUC: ↓ 71 %Ef avirenz :No clinically signif icantpharmacokinetic interaction 
+ Despite the decrease inbuprenorphine exposure, nopatients exhibited withdrawalsymptoms. Dose adjustment ofbuprenorphine or ef avirenz maynot be necess ary w henco-administered.a 90 
+% conf idence intervals unless otherwise noted.21b 95 
+% conf idence intervals.Other interactions:
+ Ef avirenz does not bind to cannabinoid receptors. False
+-positive urine cannabinoidtest results have been reported with some
+ screening assays in uninfected and HIV
+-infected subjectsreceiving efavirenz. Confirmatory testing by a more specific method such as gaschromatography/mass spectrometry is recommended in such cases.

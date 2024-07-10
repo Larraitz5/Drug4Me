@@ -1,0 +1,12 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Glucocorticoid treatment  
+ Concomitant treatment with glucocorticoids inhibits the growth- promoting effects of lonapegsomatropin. Patients with adrenocorticotropic hormone (ACTH) deficiency should have their glucocorticoid replacement therapy carefully adjusted to avoid any inhibitory effect on growth, and patients treated with glucocorticoids should have their growth monitored carefully to assess the potential impact of glucocorticoid treatment on growth. 
+ Growth hormone decreases the conversion of cortisone to cortisol and may unmask previously undiscovered c entral hypoadrenalism or render low glucocorticoid replacement doses ineffective (see section  4.4). 
+ Cytochrome P450-metabolised products 
+ Drug -drug interaction studies have not been performed with lonapegsomatropin. Data from interaction studies with somatropin performed in growth hormone deficient children and adults, and healthy elderly men, suggest that somatropin administration may increase the clearance of compounds known to be metabolised by cytochrome P450 isoenzymes, especially CYP3A and CYP1A2 . The clearance of compounds metabolised by CYP  3A4  (e.g. sex steroids, corticosteroids, anticonvulsants and ciclosporin) and CYP1A2 (e.g. theophylline) may be increased and could result in lower exposure of these compounds. The clinical significance of th is is unknown. 
+ Insulin and/or other hypoglycaemic agents 
+ In patients with diabetes mellitus requiring therapy with a medicinal product (e.g, anti-hyperglycaemic medicinal products),  the dose of insulin and/or oral hypoglycaemic medicinal product may require adjustment when lonapegsomatropin therapy is initiated (see section 4.4).  Thyroid hormones 
+ Because growth hormone increases the extrathyroidal conversion of T4 to T3, adjustment of thyroid hormone replacement therapy may be necessary (see section  4.4). 
+ Oral oestrogen therapy  
+ In female patients on oral oestrogen -containing therapy, a higher dose of growth hormone may be required to achieve the treatment goal (see section  4.2 and 4.4). 
+ 

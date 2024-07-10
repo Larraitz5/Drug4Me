@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Live vaccines should not be given concurrently with brodalumab  (see sectio n 4.4).  
+ The formation of CYP450 enzymes can be altered by increased le vels of certain cytokines (e.g.  IL-1, IL-6, IL -10, TNFα, IFN) during chronic inflammation. Although a  role for  interleukin (IL) -17A and IL-17RA in the regulation of CYP450 enzymes has n ot been reported, the effect of brodalumab on CYP3A4/3A5 activity was evaluated in a disease -drug-drug interaction study.  
+ In patients with moderate to severe plaque psoriasis, a single subcutaneous dose of 210  mg brodalumab increased the exposure of midazolam , a CYP3A4/3A5 substrate by 24%. Based on the magnitude of change in exposure of midazolam, n o dose adjustment of CYP3A4/3A5 substrate s is necessary when administered concomitantly with brodalumab . 
+ 

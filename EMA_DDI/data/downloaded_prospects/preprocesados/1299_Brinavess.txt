@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ No interaction studies have been performed .  
+ Vernakalant must not be administered in patients who received intravenous AADs (class I and III) within 4 hours prior to vernakalant (see section 4.3).  
+ Within the clinical development program, oral maintenance antiarrhythmic therap y was halted for a minimum of 2  hours after  vernakalant administration. Resumption or initiation of oral maintenance antiarrhythmic therapy after this time period can be considered  (see sections  4.3 and 4.4) .  
+ Although vernakalant is a substrate of CYP2D6, population pharmacokinetic (PK) analyses demonstrated that no substantial differences in the acute exposure of vernakalant (C max and AUC 0-90min) were observed when weak or potent CYP2D6  inhibi tors were administered within 1  day prior to vernakalant infusion compared to patients that were not on concomitant t herapy with CYP2D6  inhibitors. In addition, acute exposure of vernakalant in poor metabolisers of CYP2D6 is only minimally different when compared to that of extensive metabolisers.  No dose adjustment of vernakala nt is required on the basis of CYP2D6 metaboliser status, or when vernakalant is administered  concurrently with  2D6 inhibitors.  
+ Vernakalant is a moderate, competitive inhibitor of CYP2D6 . However, acute intravenous administration of vernakalant is not exp ected to markedly impact the PK of chronically administered 
+2D6 substrates, as a consequence of vernakalant's short half-life and the ensuing transient nature of 
+2D6 inhibition. Vernakalant given by infusion is not expected to perpetrate meaningful drug interactions due to the rapid distribution and transient exposure, low protein binding, lack of inhibition of other CYP  P450 enzymes tested (CYP3A4, 1A2, 2C9, 2C19 or 2E1) and lack of P -glycoprotein inhibition in a digoxin transport assay.  
+ 

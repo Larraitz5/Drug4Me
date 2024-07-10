@@ -1,0 +1,18 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of antineoplastic agents on  bevacizumab pharmacokinetics  
+ No clinically relevant interaction of co -administered chemotherapy on bevacizumab pharmacokinetics was observed based on the results of population pharmacokinetic analys es. There were neither statistical ly significan t nor clinically relevant difference s in bevacizumab clearance in patients receiving bevacizumab monotherapy compared to patients receiving bevacizumab in combination with interferon alfa -2a, erlotinib  or chemotherapies (IFL, 5 -FU/LV, carboplati n/paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).  
+ Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents  
+ No clinically relevant interaction of bevacizumab was observed on the pharmacokinetics of co-administered inte rferon al fa-2a, erlotinib (and its active metabolite OSI -420), or the  chemotherapies irinotecan (and its active metabolite SN38), capecitabine, oxaliplatin (as determined by measurement of free and total platinum), and cisplatin. Conclusions on the impact of bevacizumab on gemcitabine pharmacokinetics cannot be drawn.  
+ Combination of b evacizumab and sunitinib malate  
+ In two clinical trials of metastatic renal cell carcinoma, microangiopathic haemolytic anaemia (MAHA) was reported in 7 of 19 patients treated with bevacizumab (10  mg/kg every two weeks) and sunitinib malate  (50 mg daily) combination.  
+ MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia. In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed  in some of these patients. All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, PRES  in section 4.4).  
+ Combination with platinum - or taxane -based therapies (see sections  4.4 and 4.8 ) 
+ Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinum - or taxane -based therapies in the treatment of NSCLC and m 
+ BC.  
+ Radiotherapy  
+ The safety and efficacy of concomitant administration of radiotherapy and bevacizumab has not been established.  
+ 11 EGFR monoclonal antibodies in combination with be vacizumab chemotherapy regimens  
+ No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of m 
+ CRC in combination with bevacizumab -containing chemotherapy. Results from the randomised phase  III studies, PACCE and CAIRO -2, in patients with m 
+ CRC suggest that the use  of anti -EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased progression -free survival ( PFS) and/or overall survival ( OS), and with increased toxicity compared with bevac izumab plus chemotherapy alone.  
+ 

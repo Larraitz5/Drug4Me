@@ -1,0 +1,29 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ 
+8 
+ Medicinal products known to  reduce serum calcium   
+ Concurrent administration of other medicinal products known to reduce serum calcium and cinacalcet may result in an increased risk of hypocalcaemia (see section 4.4). Patients receiving cinacalcet should not be given etelcalcetide (see section 4.4).  
+ Effec t of other medicin al products  on cinacalcet  
+ Cinacalcet is metabolised in part by the enzyme CYP3A4. Co -administration of 200  mg, twice daily  ketoconazole, a strong inhibitor of CYP3A4, caused an approximate 2 -fold increase in cinacalcet levels. Dose adju stment of cinacalcet may be required if a patient receiving cinacalcet initiates or discontinues therapy with a strong inhibitor (e.g. ketoconazole, itraconazole, telithromycin, voriconazole, ritonavir) or inducer (e .g. rifampicin) of this enzyme.  
+ In vit ro data indicate that cinacalcet is in part metabolised by CYP1A2. Smoking induces CYP1A2; the clearance of cinacalcet was observed to be 36 -38% higher in smokers than non -smokers. The effect of CYP1A2 inhibitors (e.g. fluvoxamine, ciprofloxacin) on cinaca lcet plasma levels has not been studied. Dose adjustment may be necessary if a patient starts or stops smoking or when concomitant treatment with strong CYP1A2 inhibitors is initiated or discontinued.  
+ Calcium carbonate  
+ Co-administration of calcium carbonate (single 1,500  mg dose) did not alter the pharmacokinetics of cinacalcet.  
+ Sevelamer  
+ Co-administration of sevelamer (2 ,400 mg, three times a day ) did not affect the pharmacokinetics of cinacalcet.  
+ Pantoprazole  
+ Co-administration of pan toprazole (80  mg, once daily ) did not alter the pharmacokinetics of cinacalcet.  
+ Effect of cinacalcet on other medicin al products   
+ Medicinal products metabolised by the enzyme P450 2D6 (CYP2D6): cinacalcet is a strong inhibitor of CYP2D6. Dose adjustments of concomitant medicinal products may be required when cinacalcet is administered with individually titrated, narrow therapeutic in dex substances that are predominantly metabolised by CYP2D6 (e.g. flecainide, propafenone, metoprolol, desipramine, nortriptyline, clomipramine).  
+ Desipramine  
+ Concurrent administration of 90  mg cinacalcet once daily with 50  mg desipramine, a tricyclic antidepressant metabolised primarily by CYP2D6, significantly increased desipramine exposure 3.6 -fold (90% CI 3.0, 4.4) in CYP2D6 extensive metabolisers.  
+ Dextromethorphan  
+ Multiple doses of 50  mg cinacalcet increased the AUC of 30  mg dextromethorphan (meta bolised primarily by CYP2D6) by 11 -fold in CYP2D6 extensive metabolisers.  
+  
+ 
+9 
+ Warfarin  
+ Multiple oral doses of cinacalcet did not affect the pharmacokinetics or pharmacodynamics (as measured by prothrombin time and clotting factor VII) of warfarin.  
+ The lack of effect of cinacalcet on the pharmacokinetics of R -and S -warfarin and the absence of auto -induction upon multiple dosing in patients indicates that cinacalcet is not an inducer of CYP3A4, CYP1A2 or CYP2C9 in humans.  
+ Midazolam   
+ Co-administration of cinacalcet (90  mg) with orally administered midazolam (2  mg), a CYP3A4 and CYP3A5 substrate, did not alter the pharmacokinetics of midazolam. These data suggest that cinacalcet would not affect the pharmacokinetics of those classes of medicines that are metabolized by CYP3A4 and CYP3A5, such as certain immunosuppressants, including c iclosporin and tacrolimus.  
+ 

@@ -1,0 +1,20 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effects of other medicinal products on tepotinib 
+ CYP and P- gp inducers  
+ Tepotinib is a substrate for P- glycoprotein (P -gp). In healthy participants, co- administration of a single 
+450 mg tepotinib dose with the strong inducer carbamazepine (300 mg twice daily for 14 days) decreased tepotinib AUC inf by 35% and C max by 11% compared to administration of tepotinib alone. The decreased exposure is not clinically relevant.  
+ Dual strong CYP3A inhibitors and P- gp inhibitors  
+ In healthy participants, co- administration of a single 450 mg tepotinib dose with the strong CYP3A inhibitor and P -gp inhibitor itraconazole (200 mg once daily for 11 days) increased tepotinib AUC inf by 22% with no change in tepotinib C max compared to administration of tepotinib alone. This is classified as a weak interaction, and the observed changes in systemic exposure to tepotinib are not considered clinically relevant. Therefore, CYP3A and P-gp inhibitors  are not expected to influence tepotinib exposur e. 
+ Acid-reducing agents 
+ Co-administration of omeprazole under fed conditions had no clinically relevant effect on the pharmacokinetic profile of a single dose of tepotinib 450 mg and its metabolites (geometric mean ratio for tepotinib of 110% for AUCinf (90% CI: 102; 119) and of 104% for C max (90% CI: 93; 117); similar effect on metabolites observed).  6  Effects of tepotinib on other medicinal products 
+ P-gp substrates 
+ Tepotinib is an inhibitor of P -gp. Administration of tepotinib 450  mg orally once daily for 8 days increased the AUC of the sensitive P -gp substrate dabigatran etexilate by approximately 50% and C max by approximately 40%. Dose adjustment of dabigatran etexilate may be needed in case of concomitant use. Caution and monitoring for adverse reactions of other P-gp- dependent substances with a narrow therapeutic index (e.g. digoxin, aliskiren, everolimus, sirolimus) is recommended during co-administration with TEPMETKO.  
+ BCRP substrates  
+ Tepotinib can inhibit the transport of substrates of the breast cancer resistance protein (BCRP) in vitro  (see section  5.2). Monitoring for adverse reactions of sensitive BCRP substrates (e.g. rosuvastatin, methotrexate, topotecan) is recommended during co -administration with TEPMETKO.  
+ Substrates of OCT and MATE 
+ Based on in vitro  data, tepotinib or its metabolite may have the potential to alter the exposure of substrates of the transporters OCT1 and 2 and MATE1 and 2 (see section 5.2). The most clinically relevant example of substrates of these transporters is metformin. Monitoring of the clinical effects of metformin is recommended during co- administration with TEPMETKO.  
+ CYP3A4 substrates 
+ Multiple administrations of 450  mg tepotinib orally once daily had no clinically relevant effect on the pharmacokinetics of the sensitive CYP3A4 substrate midazolam.  
+ Hormonal contraceptives 
+ It is currently unknown whether tepotinib may reduce the effectiveness of systemically acting hormonal contraceptives. Therefore, women using systemically acting hormonal contraceptives should add a barrier method during TEPMETKO treatment and for at least 1 week after the last dose (see section  4.6). 
+ 

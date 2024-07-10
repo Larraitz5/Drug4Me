@@ -1,0 +1,72 @@
+> As a weak inhibitor of CYP3A4, the fosaprepitant 150  mg sing le dose can cause a transient in crease inplasma concentrations of  co
+-administered active substances that are metabolised through CYP3A4.The total exposure of  CYP3A4 substrates may increase up t o 2-fold on Days 1  and 2 af ter co -administration with a single 150  mg f osaprepi tant dose. Fosaprepitant must not be used concurrentlywith PIMOZIDE, TERFENADINE, ASTEMIZOLE, or CISAPRIDE. Inhibition of  CYP3A4 by fosaprepitant couldresult in elevated plasma concentrations of these active substances, potentially causing seri ous or lif e-threatening reactions  (see section  
+4.3). Caution is advised during concomitant administration offosaprepitant and active substances that are metabolised primarily through C YP3A4 and with a narrowtherapeutic range, such as CICLOSPORIN , tacro limus, sir olimus, everol imus, ALFENTANIL,
+ diergotamine,ergota mine, f entanyl, and QUINIDINE (see section
+ 4.4).CORTICOSTEROIDS
+> Dexametha sone: The oral DEXAMETHASONE dose should be reduc ed by approximately 50
+ % wh enco-administered with fosaprepitant (see section  4.2). Fosaprepit ant 150  mg administered as a singleintravenous dose on Day  
+1 increased the AUC
+0-24hr of DEXAMETHASONE, a CYP3A4 substrate, by 100
+ %on Day  1, 86 % on Day 2 and 18 % on Day 
+3 when DEXAMETHASONE was co
+-administered as a single
+8 mg o ral dose o n Days 1, 2, and 3.Chemotherapeutic medicinal products
+> Interaction studies with fosaprepitant 150
+ mg and chemotherapeutic medicinal products have not beenconducted; however
+, based on studies with oral
+ APREPITANT and DOCETAXEL and VINORELBINE, IVEMEND
+150 mg is not expected to have a clinically relevant interaction with intravenously administereddocetaxel and VINORELBINE.
+ An interaction with orally administered chemotherapeu tic medicinalproducts metabolised primarily or partly by CYP3A 4 (e.g. , ETOPOSIDE,  VINORELBINE) cannot beexcluded. Caution is advised and additional monitoring may be appropriate in patients receivingmedicinal products metabolised primarily or partly by CYP3A 4 (see section  4.4). Pos tmarketingevents of  neurotoxicity
+, a pote ntial adve rse reaction of ifosf amide, have been reported after aprepitantand IFOSFAMIDE co
+-administration.8Immunosuppressants
+> Following  a single 150
+ mg fosaprepitant dose
+, a transie nt moderate increase for two days possiblyf ollowed  by a mild decrease in  exposure of  IMMUNOSUPPRESSANTS metabolised by CYP3A4 (e.g.
+,CICLOSPORIN , TACROLIMUS, EVEROLIMUS and SIROLIMUS) is expected. Given the short duration of increasedexposure, dose red uction of  the immunosuppressant based on Therapeutic Dose Monitoring is notrecommend ed on the day of  and the day after administration of IVEMEND
+.MIDAZOLAM
+> Fosaprepitant 150
+ mg administered as a single intravenous dose on Day
+ 
+1 increased the AUC
+0-∞ ofmidazolam  by 77 % on Day 1 and had no ef fect on Day
+ 
+4 when MIDAZOLAM was co
+-administered as asingle oral dose of 2
+ mg on Days
+ 1 and  
+4. Fosaprepitant 150
+ mg is a weak CYP3A4 inhibitor as asingle dose on Day
+ 1 with  no evidence of inhibition or induction of  C YP3A4 o bserved on Day  4.The potential effects of increased plasma concentrations of MIDAZOLAM or other benzodiazepinesmetabolised via CYP3A4 (ALPRAZOLAM, TRIAZOLAM) should be considered when co
+-administering thesemedicinal products with IVEMEND.DILTIAZEM
+> Interaction studies with fosaprepitant 150
+ mg and DILTIAZEM have not been conducted; however, thefollowing study with 100
+ mg of  f osaprepitant should be considered when using IVEMEND 150
+ mgwith DILTIAZEM. In patients with mild to moderate hypertensio n, inf usion of  100 mg of  f osaprepitantover 15  minutes with DILTIAZEM 120
+ mg 3  times daily, resulted in a 1.4
+-f old increase in DILTIAZEM AUCand a small but clinically meaningf ul decrease in blood pressure, but did not result in a clinicallymeani ngf ul cha nge in heart rate, or PR interval.Induction
+> CYP2C9, CYP3A4,
+ and gluc uronidation than that caused by the administration of  the 3
+-day oralaprepitant regimen, for which a transient induction with its maximum eff ect 6
+-8 days after firstaprepitant dose has been observed. The 3
+-day oral APREPITANT regimen resulted in an about 30-35 %reduction in AUC of  CYP2C9 substrates and up to a 64
+ 
+% decrease in ETHINYL ESTRADIOL troughconcentrations. Data are lacking regarding effects on CYP2C8 and CYP2C19. Caution is advisedwhen WARFARIN, ACENOCOUMAROL, TOLBUTAMIDE, PHENYTOIN or other a ctive substances that are known to bemetabolised by CYP2C9 are administered with IVEMEND.WARFARIN
+> Concomitant administration of f osaprepitant
+ with active
+ substanc es that inhibit CYP3A4 activity(e.g.,  KETOCONAZOLE, ITRACONAZOLE, VORICONAZOLE, POSACONAZOLE, CLARITHROMYCIN, TELITHROMYCIN,NEFAZODONE, and PROTEASE INHIBITORS) should be approached cautiously, as the combination is expectedto result in several
+-f old inc reased plasma concentrations of APREPITANT (see section
+ 
+4.4). Ketoconazoleincreased the terminal half
+-life of  oral APREPITANT about 3
+-f old.Concomitant administration of f osaprepitant with active substances that strongly induce CYP3A4activity ( e.g., rifampicin, phe nytoin, CARBAMAZEPINE, PHENOBARBITAL) should be avoided as thecombination could result in reductions of the plasma concentrations of APREPITANT that may result indecreased ef f icacy. Concomitant administration of fosaprepitant with herbal prep arations con taining
+> St. John’s Wort (Hypericum perforatum
+) is not recommended. Rifampicin decreased the meanterminal half
+-life of oral APREPITANT by 68
+ %.DILTIAZEM
+> Interaction studies with fosaprepitant 150
+ mg and DILTIAZEM have not been conducted; howe ver, thef ollowing study with 100
+ mg of  f osaprepitant should be considered when using IVEMEND 150
+ mgwith DILTIAZEM. Infusion of 100
+ mg fosaprepitant over 15
+ minutes with DILTIAZEM 120
+ mg 3  times daily,resulted i n a 1.5 -f old increase of APREPITANT AUC. Th is ef f ect wa s not considered clinically important.Paediatric population

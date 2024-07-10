@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interactions with other medicinal products are currently known. 
+ Interaction with Vitamin K antagonists 
+ In patients starting treatment with oral anticoagulants belonging to the class of vitamin K antagonists (e.g. warfarin), a transient hypercoagulable state may arise before the desired anticoagulant effect becomes apparent. This transient effect may be explained by the fact that protein C, itself a vitamin K dependent plasma protein, has a shorter half-life than most of the vitamin K dependent proteins (i.e. II, IX and X). Subsequently, in the initial phase of treatment, the activity of protein C is more rapidly suppressed than that of the procoagulant factors. For this reason, if the patient is switched to oral anticoagulants, protein C replacement must be continued until stable anticoagulation is obtained. Although Warfarin-induced skin necrosis can occur in any patient during the initiation of oral anticoagulant therapy, individuals with congenital protein C deficiency are particularly at risk. (See section 4.2). 
+ 

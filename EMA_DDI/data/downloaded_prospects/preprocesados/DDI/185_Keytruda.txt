@@ -1,0 +1,10 @@
+> No formal pharmacokinetic drug interaction studies have been conducted with pembrolizumab
+. Sincepembrolizumab is cleared f rom the circulation through catabolism, no metabolic drug-druginteractions are expected. The use of systemic CORTICOSTEROIDS or IMMUNOSUPPRESSANTS before starting pembrolizumab
+ should beavoided because of their potential interf erence with the pharmacodynamic activity and eff icacy ofpembrolizumab
+. However, systemic CORTICOSTEROIDS or OTHER IMMUNOSUPPRESSANTS can be used af terstarting pembrolizumab
+ to treat immune
+-mediated  adverse reactions (see section
+ 4.4). Corticosteroidscan also be used as premedication, when pembrolizumab
+ is used in combination with chemotherapy,as antiemetic prophylaxis and/or to alleviate chemotherapy
+-related adverse reactions.
+

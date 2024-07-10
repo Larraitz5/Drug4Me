@@ -1,0 +1,5 @@
+> 11 Trametinib is an in vitro  substrate of the efflux transporter P -gp. As it cannot be excluded that strong  inhibition of hepatic P -gp may result in increased levels of trametinib, caution is advised when co -administering trametinib with medicinal products that are strong inhibitors of P -gp (e.g. VERAPAMIL, CYCLOSPORINE, RITONAVIR, QUINIDINE, ITRACONAZOLE) .
+> Based on in vitro  and in vivo  data, trametinib is unlikely to significantly affect the pharmacokinetics of other medicinal products via interaction with CYP ENZYMES or transporters (see section  5.2). Trametinib may result in transient inhibition of BCRP substrates (e.g. PITAVASTATIN) in the gut, which may be minimi sed with staggered dosing (2 hours apart) of these agents and trametinib. 
+> Combination with DABRAFENIB 
+> When trametinib is used in combination with DABRAFENIB see section s 4.4 and 4.5 of the DABRAFENIB Sm
+> Patients should take trametinib as monotherapy or in combination with DABRAFENIB at least one hour prior to or two hours after a me al due to the effect of food on tra metinib absorption (see section  4.2 and 5.2).

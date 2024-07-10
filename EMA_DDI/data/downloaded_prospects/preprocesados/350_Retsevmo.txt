@@ -1,0 +1,26 @@
+4.5  Interaction with other medicinal products and other forms of interaction   
+ Effects of other medicinal products on the pharmacokinetics of selpercatinib  
+ Selpercatinib metabolism is through CYP3A4. Therefore, medicinal products that can influence CYP3A4 enzyme activity may alter the pharmacokinetics of selpercatinib.  
+ Selpercatinib is a substrate for P-glycoprotein (P -gp) and Breast Cancer Resistance Protein (BCRP) in vitro , however these transporters do not appear to limit the oral absorption of selpercatinib, as its oral bioavailability is 73% and its exposure was increased minimally by co -administration of the P -gp inhibitor rifampicin (increase of approximately 6.5% and 19% in selpercatinib AUC 0-24 and C max, respectively).  
+ Agents that may increase selpercatinib plasma concentrations  Co-administration of a single 160  mg selpercatinib dose with itraconazole, a strong CYP3A inhibitor, increased the C max and AUC of selpercatinib by 30% and 130%, respectively, compared to selpercatinib given alone. If strong CYP3A and/or P -gp inhibitors, including, but not limited to, ketoconazole, itraconazole, voriconazole, ritonavir, saquinavir, telithromycin, posaconaz ole and nefazodone, have to be co- administered, the dose of selpercatinib should be reduced (see section 4.2).  
+ Agents that may decrease selpercatinib plasma concentrations  Co-administration of rifampicin, a strong CYP3A4 inducer resulted in a decrease of approximately 
+87% and 70% in selpercatinib AUC and C max, respectively, compared to selpercatinib alone, therefore the concomitant use of strong CYP3A4 inducers including, but not limited to, carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin and St. John’s Wort ( Hypericum perforatum ), should be avoided.  
+ 9 Effects of selpercatinib on the pharmacokinetics of other  medicinal products (increase in plasma concentration)   
+ Sensitive CYP2C8 substrates  Selpercatinib increased the C max and AUC of repaglinide (a substrate of CYP2C8) by approximately 
+91% and 188% respectively. Therefore, co- administration with sensitive CYP2C8 substrates (e.g., odiaquine, cerivastatin, enzalutamide, paclitaxel, repaglinide, torasemide, sorafenib, rosiglitazone, buprenorphine, selexipag, dasabuvir and montelukast), should be avoided.  
+ Sensitive CYP3A4 substrates  Selpercatinib increased Cmax and AUC of midazolam (a CYP3A4 substrate) by approximately 39% and 54%, respectively. Therefore, concomitant use with sensitive CYP3A4 substrates, (e.g., alfentanil, avanafil, buspirone, conivaptan, darifenacin, darunavir, ebastine, lomitapide, lovastatin, midazolam, naloxegol, nisoldipine, saquinavir, simvastatin, tipranavir, triazolam, vardenafil), should be avoided.   Co-administration with medicinal products that affect gastric p 
+ H  
+ Selpercatinib has p 
+ H -dependent solubility, with decreased solubility at higher p 
+ H. No clinically significant differences in selpercatinib pharmacokinetics were observed when co -administered with multiple daily doses of ranitidine (H 2 receptor antagonist) given 2 hours after the selpercatinib dose .  
+ Co-administration with medicinal products that are proton pump inhibitors   
+ Co-administration with multiple daily doses of omeprazole (a proton pump inhibitor) decreased selpercatinib AUC
+0-INF and C max when selpercatinib was administered fasting. Co -administration with multiple daily doses of omeprazole did not significantly change the selpercatinib AUC 0-INF and C max when Retsevmo was administered with food.  
+ Co-administration with medicinal products that are substrates of transporters  
+ Selpercatinib inhibits the renal transporter multidrug and toxin extrusion protein 1 (MATE1). In vivo  interactions of selpercatinib with clinically relevant substrates of MATE1, such as creatinine, may occur (see section 5.2).  
+ Selpercatinib is an in vitro  inhibitor of P -gp and BCRP . In vivo, selpercatinib increased Cmax and AUC of dabigatran, a P -gp substrate, by 43% and 38%, respectively. Therefore,  caution should be used when taking a sensitive P -gp substrate (e.g., fexofenadine, dabigatran etexilate, colchicine, saxagliptin ), and particularly those with a narrow therapeutic index (e.g., digoxin) (see section 5.2) . 
+ Medicinal products that may be less effective when given with selpercatinib  
+ Selpercatinib could inhibit D2 deiodinase and thereby decrease the conversion of levothyroxine (T4) to triiodothyronine (T3). Patients could therefore have an insufficient response to substitution with levothyroxine and supplementation with liothyronine may be needed (see section 4.4) . 
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

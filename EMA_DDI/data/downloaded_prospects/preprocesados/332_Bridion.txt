@@ -1,0 +1,39 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ The inf ormation in this section is based on binding af f inity between sugammadex and other m edicinalproducts, non
+-clinical experiments, clinical studies and simulations using a model taking into accountthe phar macodynamic ef f ect of  neuromuscular blocking agents and the pharmacokinetic interactionbetween neuromuscular blocking agents and sugammadex. Based on these data, no clinicallysignif icant pharmacodynamic
+ interaction with other medicinal products is expected, with exception ofthe f ollowing:
+ For toremif ene and f usidic
+ acid displacement interactions could not be excluded (no clinically rel evantcapturing interactions are expected).For hormonal contraceptives a clinically relevant capturing interaction could not be excluded (nodisplacement interactions are expected).Interactions potentially af f ecting the ef f icacy of  sugammadex (displacement interactions)
+:Due to the administration of certain medicinal products af ter sugammadex, theoretically rocuroniumor vecuronium could be displaced f rom sugammadex. As a result recurrence of  neuromuscularblockade might be observed. In this situation the patient must be ventilated. Administration of  themedicinal product which caused displacement should be stopped in case of  an inf usion. In situationswhen  potential displacement interactions can be anticipated, patients should be caref ully monitored f orsigns of recurrence of neuromuscular blockade (approximately up to 1
+5 minutes) after parenteraladministration of another medicinal product occurring within
+ a period of 7.5
+ hours after
+ sugammadexadmin istrat ion.7Toremif ene:For toremifene, which has
+ a relatively high binding af f inity f or suga mmadex and f or which relativel yhigh plasma concentrations
+ might be present
+, some displacement of vecuronium or rocuronium f romthe complex with sugammadex could occur. Clinicians should be aware that the recover y of  t he T 4/T1ratio to 0.9 could therefore be delayed in patients who have received toremif ene on the same day ofthe operati on.Intravenous administration of fusidic acid:The use of  f usidic acid in the pre-operative phase may give some delay in the recovery of  the T 4/T1ratio to 0.9. No recurrence of neuromuscular blockade is expected in the post
+-operative phase, sincethe in fusion rate of f usidic acid is over a period of  several hours and the blood levels are cumulativeover 2 -3 days. For  re-administra tion of  sugammadex see section
+ 4.2.Interactions potentially af f ecting the ef f icacy of  other medicinal products (capturing interactions ):Due to the administration of sugammadex, certain medicinal products could become less ef f ective dueto a lowering of  the (free) plasma concentrations. If  such a situation is observed, the clinician isadvised to consider the re
+-administration of  the medicinal product, the administration of atherapeutically equivalent medicinal product (pref erably f rom a dif f erent chemical class) and/or non
+-pharmacological interventions as appropriate.Hormonal contraceptives:The interaction between 4
+ mg/kg s ugammadex and a progestogen was predicted to lead to a decreasein progestogen exposure  (34% of AUC) similar to the decrease seen when a daily dose of  an oralcontraceptive is taken 12  hours too late, which might lead to a reduction in ef f ectiveness
+. Foroestrogens , the ef f ect is expected to
+ be lower. Therefore the administration of a bolus dose ofsugammadex is considered to be equivalent  to one missed daily dose of oral contraceptive steroids(either combined or progestogen only). If  sugammadex is administered at the same day as an oralcontraceptive is taken reference is made to missed dose advice in the package leaf let of the oralcontraceptive. In the case of  non-oral hormonal contraceptives, the patient must use an additional nonhormonal contraceptive
+ method f o r the next 7  days and ref er to the advice in the package leaf let of  theprodu ct.Interactions due to the lasting ef fect
+ of  rocuronium or vecuronium:When medicinal
+ products which potentiate neuromuscular blockade are used in the post
+-operativeperiod special attention should be paid to the possibility of  recurrence of neuromuscula r blockade.Please refer to the package leaf let of  rocuronium or vecuronium for a list of the specific medicinalproducts which potentiate neuromuscular blockade. In case recurrence of neuromuscular blockade isobserved, the patient may require mechanical ventilation and re
+-administration of sugammadex ( seesection  4.2).Interf erence with laboratory tests:In general sugammadex does not interf ere with laboratory tests, with the possible exception of  theserum progesterone assay. Interf erence with this test  is observed at sugammadex plasmaconcentra tions of  100  microgram /m 
+ L (peak plasma level
+ f ollowing 8  mg/kg bolus injection).In a study in volunteers doses of  4
+ mg/kg an d 16 mg/kg  of  sugammadex resulted in  maximum meanprolongations of a 
+ PTT by 17 and
+ 22% respectively and of  PT(INR) by
+ 
+11 and 22% respecti vely.These limited mean a 
+ PTT and PT(INR) prolongations were of  short duration (≤  30 minutes).  In in vitro  experiments a pharmacodynamic interaction (a 
+ PTT and PT prolongation) was noted withvitamin K  antagonists, unf ractionated heparin, low molecular weight heparinoids, rivaroxaban anddabigatran (see section
+ 4.4).Paediatric population 
+ No f ormal interaction studies have been perf ormed. The above mentioned interactions for adults andthe warnings in
+ section 
+4.4 should also be taken into account f or the paediatric population.8

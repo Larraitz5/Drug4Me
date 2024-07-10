@@ -1,0 +1,20 @@
+> Co-administration of LEFAMULIN with other medicinal products known to prolong the QT interval is contraindicated (see section 4.3). 
+> Use with moderate and strong CYP3A/P -gp inducers  Medicinal products that are moderate or strong CYP3A inducers (e.g. rifampicin, St John´s wort [Hypericum perforatum], CARBAMAZEPINE, pheny toin, BOSENTAN, EFAVIRENZ, PRIMIDONE) could significantly decrease LEFAMULIN plasma concentration and may lead to reduced therapeutic effect of LEFAMULIN. Co -administration of such medicinal products with LEFAMULIN is contraindicated (see section 
+4.3). 5
+> Use with strong CYP3A/P- gp inhibitors  Medicinal products that are strong CYP3A and P -gp inhibitors (e.g. CLARITHROMYCIN, DILTIAZEM, ITRACONAZOLE, KETOCONAZOLE, NEFAZODONE, POSACONAZOLE, RITONAVIR -containing regimens, VORICONAZOLE) may alter absorption of LEFAMULIN and therefore increase LEFAMULIN plasma concentrations. Co - administration of such medicinal products or GRAPEFRUIT JUICE with LEFAMULIN is contraindicated (see section 4.3). 
+> Co-administration of oral LEFAMULIN with agents metabolised by CYP3A such as ALPRAZOLAM, ALFENTANIL, IBRUTINIB, LOVASTATIN, SIMVASTATIN, , TRIAZOLAM, varde nafil, and VERAPAMIL may result in increased plasma concentrations of these medicinal products. See Table 2. 
+> Co-administration of LEFAMULIN with agents metabolised by CYP2C8 (e.g. REPAGLINIDE) may result in increased plasma concentrations of these medicinal products. Co -administration with sensitive substrates of CYP2C8 is contraindicated (see section 4.3 and Table 2). 
+> Table 2 summarises effects on plasma concentrations of LEFAMULIN and on co -admi nistered medicinal products expressed as least -square mean ratios (90% confidence interval). The direction of the arrow indicates the direction of the change in exposures (C max and AUC), where ↑ indicates an increase more than 25%, ↓ indicates a decrease m ore than 25%, and ↔ indicates no change (equal to or less than 25% decrease or increase). The table below is not all inclusive. 
+> (Inhibition of MATE, OCT1, OCT2)  Not studied    Caution is recommended. Co- administration with LEFAMULIN may lead to higher exposures of  METFORMIN. Patients should be monitored.  6
+> (Inhibition of CYP3A4, CYP2C8)  Not studied Expected↑ REPAGLINIDE    Co-administration with LEFAMULIN may lead to higher exposures of REPAGLINIDE and is contraindicated (see  section 4.3).  ANTIFUNGALS  KETOCONAZOLE  
+200 mg twice daily 
+> (Strong inhibiton of CYP3A4)  ↑ LEFAMULIN  1.58 (1.38-1.81)  2.65 (2.43-2.90)  Co-administration with strong CYP3A inhibitors like KETOCONAZOLE may lead to increased exposures of LEFAMULIN and is  contraindicated (see section 4.3).  FLUCONAZOLE*  
+400 mg day 1 + 200 mg once daily
+> (Moderate inhibition of CYP3A)  Not studied Expected ↑ LEFAMULIN    Co-administration of medicinal products known to prolong QT interval is contraindicated (see section 4.3).  ANTIMYCOBACTERIALS  Rifampicin  
+600 mg once daily
+> (Strong induction of CYP3A)  ↓ LEFAMULIN  0.43 (0.37-0.50)  0.28 (0.25-0.31)  Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of LEFAMULIN and is  contraindicated (see section 4.3).  ETHINYL -OESTRADIOL -CONTAINING PRODUCTS  Ethinyl oestradiol*(EE) 
+35 µg once daily
+> (Moderate induction of CYP3A4)  Not studied Expected ↓ LEFAMULIN    Co-administration of moderate CYP3A inducers may result in reduced therapeutic effect of LEFAMULIN and is contraindicated (see  section 4.3).  BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST  ZOLPIDEM*  
+10 mg single dose 
+> (Strong induction of CYP3A4)  Not studied  Expected: ↓ LEFAMULIN  Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of LEFAMULIN and is  contraindicated (see section 4.3).  HMG -COA REDUCTASE INHIBITORS  ROSUVASTATIN  
+20 mg single dose ATORVASTATIN, LOVASTATIN, PRAVASTATIN 

@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms o f interaction  
+ No interactions studies in paediatrics have been performed.  
+ Glucocorticoids 
+ Concomitant treatment with glucocorticoids may inhibit the grow th-promoting effects of somatrogon. Patients with adrenocorticotropic hormone (ACTH) deficiency sho uld have their glucocorticoid replacement therapy carefully adjusted to avoid any inhibitory effect on growth. Therefore, patients treated with glucocorticoids should have their growth monitored  carefully to assess the potential impact of glucocorticoid treatment on growth.  Growth hormone decreases the conversion of cortisone to cortiso l and may unmask previously undiscovered central hypoadrenalism or render low glucocorticoi d replacement doses ineffective (see section 4.4). 
+ Insulin and hypoglycaemic medicinal products 
+ In patients with diabetes mellitu s requiring medicinal product therapy, the dose of insulin and/or oral/injectable hypoglycaemic medicinal products may require ad justment when somatrogon therapy is initiated (see section 4.4). 
+ Thyroid medicinal products  
+ Treatment with daily growth hormone may unmask previously undia gnosed or subclinical central hypothyroidism. Thyroxine replacement therapy may need to be in itiated or adjusted (see section 4.4).  
+ Oral oestrogen therapy 
+ In female patients on oral oestrogen-containing therapy, a high er dose of somatrogon may be required to achieve the treatment goal (see section 4.4). 
+ Cytochrome P450 metabolised products 
+ Drug-drug interaction studies have not been performed with soma trogon. Somatrogon has been shown to induce CYP3A4 m 
+ RNA expression in vitro . The clinical significance of this is unknown. Studies with other human growth hormone (h 
+ GH) receptor agonists perform ed in growth hormone deficient children and adults, and healthy elderly men, suggest that admi nistration may increase the clearance of compounds known to be metabolised by cytochrome P450 isoenzymes , especially CYP3A. The clearance of compounds metabolised by CYP3A4 (e.g. sex steroids , corticosteroids, anticonvulsants and ciclosporin) may be increased and could result in lower exp osure of these compounds.  
+  
+  
+8 

@@ -1,0 +1,138 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been pe rformed in adu lts. 
+ Based on the results of in vitro expe riments and the known elimination path way of tenofovir, the potential for CYP450 -mediated interactions involving tenofovir with other medicinal produc ts is low. 
+ 11 
+ Concomitant use not recommended  
+ Tenofovir disoproxil  shou ld not  be administered conco mitantly with other medicinal produc ts containing tenofovir disoproxil or tenofovir alafenamide.  
+ Tenofovir disoproxil  shou ld not  be administered conco mitantly with ade fovir dipivoxil. 
+ Didanos ine Co-administration of  tenofovir disoproxil and d idanos ine is not recommended  (see section 4.4 and Table 1). 
+ Rena lly eliminated medicinal produc ts Since tenofovir is primarily eliminated by  the kidneys, co-administration of  tenofovir disoproxil with medicinal produc ts that reduce  renal function or  compete for active tubular secretion via transpo rt proteins h 
+ OAT 1, h 
+ OAT 3 or MRP 4 (e.g. cidofovir) may increase serum concen trations of  tenofovir and/or the co-administered medicinal produc ts. 
+ Use of tenofovir disoproxil shou ld be avoided with concu rrent or recent  use of a neph rotoxic medicinal produc t. Some examples include, but  are not limited to, aminoglycosides, a mphotericin B, foscarnet, ganciclovir, pentamidine, vanco mycin, cidofovir or interleukin-2 (see section 4.4 ). 
+ Given that tacrolimus can a ffect renal function, c lose monitoring is recommended when it is co-administered with tenofovir disoproxil. 
+ Other interactions  
+ Interactions between tenofovir disoproxil and other medicinal products  are listed in Table 1 below (increase is indicated as  “↑”, dec rease as “↓”, no chan ge as “↔”, twice daily as “b.i.d.”, and once  daily as “q.d.” ). 
+ Table 1: Interactions between tenofovir disopro xil and o ther medicinal produc ts Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  ANTI-INFEC TIVES  Antiretrovirals Protease inhibi tors Atazanavir/Ritonavir (300 q.d./100 q.d.) Atazanavir:  AUC: ↓ 25%  Cmax: ↓ 28%  Cmin: ↓ 26%  Tenofovir:  AUC: ↑ 37%  Cmax: ↑ 34%  Cmin: ↑ 29%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate te nofovir-associated a dverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). Lopinavir/Ritonavir (400 b.i.d./100 b.i.d.) Lopinavir/ritonavir:  No significant effect on lopinavir/ritonavir  PK parameters.  Tenofovir:  AUC: ↑ 32%  Cmax: ↔ No dose adjustment is recommended. The increased exposure of tenofovir could potentiate te nofovir-associated a dverse events, including renal disorders. Renal 12 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Cmin: ↑ 51%  function should be closely monitored (see section 4.4). Darunavir/Ritonavir (300/100 b.i.d.) Darunavir:  No significant effect on darunavir/ritonavir  PK parameters.  Tenofovir:  AUC: ↑ 22%  Cmin: ↑ 37%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate te nofovir-associated a dverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). NRTIs  Didanosine Co-administration of tenofovir disoproxil   and didanosine results in a  40-60% increase in systemic exposure to didanosine .  Co-administration of tenofovir disoproxil and didanosine is not recommended (see section 4.4). 
+ Increased systemic exposure to didanosine may increase didanosine related adverse reactions.  Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.  Co-administration of tenofovir disoproxil and didanosine at a dose of 
+400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylat ed (i.e. active) didanosine. A decreased dosage of 
+250 mg didanosine co-administered with tenofovir disoproxil therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV -1 infec tion. Adefovir dipivoxil AUC: ↔  Cmax: ↔ Tenofovir disoproxil should not be administered concurrently with adefovir dipivoxil (see section 4.4). 13 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Entecavir AUC: ↔  Cmax: ↔ No cli nically  significant pharmacokinetic interactions when tenofovir disoproxil was co-administered with entecavir. Hepatitis  C virus antiviral agents  Ledipasvir/Sofosbuvir  (90 mg/400  mg q.d.) + Atazanavir/Ritonavir  (300 mg q.d./100  mg q.d.) +  Emtricitabine/Tenofovir disoproxil  (200 mg/245 mg q.d.)1 Ledipasvir:  AUC: ↑  96% Cmax: ↑ 68% Cmin: ↑ 118%  
+ Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS-3310072: AUC: ↔  Cmax: ↔ Cmin: ↑ 42% 
+ Atazanavir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 63% 
+ Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 45% 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↔  Cmax: ↑ 47%  Cmin: ↑ 47% Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, ledipasvir/sofosbuvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of t enofovir disoproxil when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section  4.4). 14 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Ledipasvir/Sofosbuvir  (90 mg/400  mg q.d.) + Darunavir/Ritonavir  (800 mg q.d./100  mg q.d.) +  Emtricitabine/Tenofovir disoproxil  (200 mg/245 mg q.d.)1 
+  Ledipasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Sofosbuvir:  AUC: ↓  27% Cmax: ↓ 37% 
+ GS-3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Darunavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 48% 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  50% Cmax: ↑ 64% Cmin: ↑ 59% Increased plasma concentrations of tenofovir resulting from co-adminis tration of tenofovir disoproxil , ledipasvir/sofosbuvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with ledipasvir/sofosbuvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section  4.4). 15 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Ledipasvir/Sofosbuvir  (90 mg/400  mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil  (600 mg/200  mg/245 mg q.d.)  Ledipasvir:  AUC: ↓  34% Cmax: ↓ 34% Cmin: ↓ 34% 
+ Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS-3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Efavirenz:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  98% Cmax: ↑ 79% Cmin: ↑ 163%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section  4.4). 16 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Ledipasvir/Sofosbuvir  (90 mg/400  mg q.d.) + Emtricitabine/Rilpivirine/ Tenofovir disoproxil  (200 mg/25  mg/245 mg q.d.)  Ledipasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS-3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Rilpivirine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  40% Cmax: ↔ Cmin: ↑ 91% No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section  4.4). 17 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Ledipasvir/Sofosbuvir  (90 mg/400 mg q.d.) + Dolutegravir (50 mg q.d.) + Emtricitabi ne/Tenofovir disoproxil (200 mg/ 245 mg q.d.) Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS 3310072 AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Ledipasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Dolutegravir  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑ 65%  Cmax: ↑ 61% Cmin: ↑ 115%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).  18 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) + Atazanavir/Ritonavir  (300 mg q.d./100 mg q.d.) +  Emtricitabine/Tenofovir disoproxil  (200 mg/ 245 mg q.d.)  Sofosbuvir:  AUC: ↔  Cmax: ↔  
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↑ 42%  
+ Velpatasvir:  AUC: ↑ 142%  Cmax: ↑ 55% Cmin: ↑ 301%  
+ Atazanavir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 39%  
+ Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↑ 29%  
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↔  Cmax: ↑ 55%  Cmin: ↑ 39%  Increased plasma concentrations  of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and atazanavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring (see section 
+4.4). 19 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) + Darunavir/Ritonavir  (800 mg q.d./100 mg q.d.) +  Emtricitabine/Tenofovir disoproxil  (200 mg/ 245 mg q.d.)  Sofosbuvir:  AUC:  ↓28%  Cmax: ↓ 38%  
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔  Cmax: ↓ 24%  Cmin: ↔ 
+ Darunavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑ 39%  Cmax: ↑ 55%  Cmin: ↑ 52%  Increased plasma concentrations  of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavi r or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring (see section 
+4.4). 20 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) + Lopinavir/Ritonavir  (800 mg/200 mg q.d.) + Emtricitabine/Tenofovir disoproxil  (200 mg/ 245 mg q.d.)  Sofosbuvir:  AUC: ↓ 29%  Cmax: ↓ 41%  
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔  Cmax: ↓ 30%  Cmin: ↑ 63%  
+ Lopinavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↔  Cmax: ↑ 42%  Cmin: ↔ Increased plasma concentrations of tenofovir resulting from co-administration of tenofovir disoproxil, sofosbuvir/velpatasvir and lopinavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders. The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with freque nt renal monitoring (see section 
+4.4). 21 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) +  Raltegravir  (400 mg b.i.d) +  Emtricitabine/Tenofovir disoproxil  (200 mg/ 245 mg q.d.)  Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Raltegravir:  AUC: ↔  Cmax: ↔ Cmin: ↓ 21%  
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑ 40%  Cmax: ↑ 46%  Cmin: ↑ 70%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders. Renal function should be closely monitored (see section 4.4).  22 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) + Efavirenz/Emtricitabine/Tenofovir disoproxil  (600 mg/ 200 mg/ 245 mg q.d.)  Sofosbuvir:  AUC: ↔  Cmax: ↑ 38%  
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↓ 53%  Cmax: ↓ 47%  Cmin: ↓ 57%  
+ Efavirenz:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑ 81%  Cmax: ↑ 77%  Cmin: ↑ 121%  Concomitant administration of sofosbuvir/velpatasvir and efavirenz is expected to decrease plasma concentrations of velpatasvir. Co -administration of sofosbuvir/velpatasvir with efavirenz -containing regimens is not recommended.  23 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir  (400 mg/100 mg q.d.) + Emtricitabine/Rilpivirine/Tenofovir disoproxil  (200 mg/25 mg/ 245 mg q.d.)  Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ GS 3310072: AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Rilpivirine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑ 40%  Cmax: ↑ 44%  Cmin: ↑ 84%  No dose adjustment is recommended. The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disor ders. Renal function should be closely monitored (see section 4.4).  24 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir/Velpatasvir/  Voxilaprevir (400  mg/100  mg/ 
+100 mg+100  mg q.d.)3 + Darunavir (800  mg q.d.) + Ritonavir (100  mg q.d.) + Emtricitabine/Tenofovir disoproxil (200  mg/245  mg q.d.) Sofosbuvir:  AUC: ↔  Cmax: ↓ 30% Cmin: N/A  
+ GS-3310072: AUC: ↔  Cmax:↔ Cmin: N/A  
+ Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Voxilaprevir:  AUC: ↑  143%  Cmax:↑ 72% Cmin: ↑ 300%  
+ Darunavir:  AUC: ↔  Cmax: ↔ Cmin: ↓ 34% 
+ Ritonavir:  AUC: ↑  45% Cmax: ↑ 60% Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  39% Cmax: ↑ 48% Cmin: ↑ 47% Increased plasma concentrations of tenofovir resulting from co -administration of tenofovir disoproxil, sofosbuvir/velpatasvir/voxilaprevir and darunavir/ritonavir may increase adverse reactions related to tenofovir disoproxil, including renal disorders.  The safety of tenofovir disoproxil when used with sofosbuvir/velpatasvir/voxilaprevir and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ 
+ The combination should be used with caution with frequent renal monitoring (see section 
+4.4). 25 
+ Medicin al product  by therapeutic areas (dose in mg) Effects on drug  levels Mean percent  change in AUC,  Cmax, Cmin Recommendation concerning  co-administration with 
+245 mg tenofovir disoproxil  Sofosbuvir  (400 mg q.d.) +  Efavirenz/Emtricitabine/ Tenofovir disoproxil  (600 mg/200  mg/245  mg q.d.)  Sofosbuvir:  AUC: ↔  Cmax: ↓ 19% 
+ GS-3310072: AUC: ↔  Cmax: ↓ 23% 
+ Efavirenz:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↔  Cmax: ↑ 25% Cmin: ↔ No dose adjustment is required.  
+1 Data generated from simultaneous dosing with ledipasvir/sofosbuvir. Staggered administration (12  hours apart) provided similar results.  
+2 The predominant circulating metabolite of sofosbuvir.  
+3 Study conducted with additional voxilaprevir 100 mg to achiev e voxilaprevir exposures expected in HCV -infected patients . 
+ Studies conducted with other medicinal products  There were no clinically significant pharmacokinetic interactions when tenofovir disoproxil was co-administered with emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, saqu inavir (ritonavir boos ted), methadone, ribavirin, rifampicin, tacrolimus, or  the hormonal contraceptive norgestimate/ethinyl oestradiol. 
+ Tenofovir disoproxil must be taken with food, as  food enhances  the bioavailability of tenofovir (see section 5.2 ). 
+ 

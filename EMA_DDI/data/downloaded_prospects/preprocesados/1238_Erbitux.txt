@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ In combination with platinum -based chemotherapy, the frequency of severe leukopenia or severe neutropenia may be increase d, and thus may lead to a higher rate of infectious complications such as febrile neutropenia, pneumonia and sepsis compared to platinum -based chemotherapy alone (see section  4.4). 
+ In combination with fluoropyrimidines, the frequency of cardiac ischaemia including myocardial infarction and congestive heart failure as well as the frequency of hand -foot syndrome (palmar -plantar erythrodysaesthesia) were increased compared to that with fluoropyrimidines.  
+ In combination with capecitabine and oxaliplatin (XELO X) the frequency of severe diarrhoea may be increased.  
+ A formal interaction study showed that the pharmacokinetic characteristics of cetuximab remain unaltered after co -administration of a single dose of irinotecan (350  mg/m2 body surface area). Similarly , the pharmacokinetics of irinotecan were unchanged when cetuximab was co -administered.  
+ No other formal interaction studies with cetuximab have been performed in humans.  
+ 

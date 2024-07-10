@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of other m edicinal products on obeticholic acid  
+ Bile acid binding resins  
+ Bile acid binding resins such as cholestyramine, colestipol, or colesevelam adsorb and reduce bile acid absorption and may reduce efficacy of obetichol ic acid. When concomitant bile acid binding resins are administered , obeticholic acid should be taken at least 4  to 6 hours before or 4 to 6 hours after taking a bile acid binding resin, or at as great an interval as possible.  
+ Effect of obeticholic acid on other medicinal products 
+ Warfarin  
+ International normalis ed ratio (INR) is decreased following co -administration of warfarin and obeticholic acid . INR should be monitored and the dose of warfarin  adjusted , if needed, to maintain the target INR range when co-administering obeticholic acid  and warfarin.  
+ Interaction with CYP1A2 substrates with narrow therapeutic index  
+ Obeticholic acid may increase the exposure to concomitant medicinal products that are CYP1A2 substrates. Therapeutic monitoring of CYP1A2 substrates with narrow therapeutic index (e.g., theophylline and tizanidine) is recommended.  

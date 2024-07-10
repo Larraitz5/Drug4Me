@@ -1,0 +1,21 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacokinetic interactions 
+ In a clinical study comparing the single dose (10
+ mg) pharmacokinetics of  rosuvastatin (Breast Cancer 
+ Resistant Protein [BCRP ] substrate) alone or in combination with tedizolid  phosphate  (once -daily
+200 mg oral dose), rosuvastatin AUC and Cmax increased by approximately 70% and 55%,respectively, when coadministered with tedizolid  phosphate . Theref ore, orally administered tedizolidphosphate  can result in inhibition of  BCRP at the intestinal level. If  possible, an interruption of  the co
+-administered BCRP substrate medicinal product (such as imatinib, lapatinib, methotrexate,pitavastatin, rosuvastatin, sulf asalazine, and topotecan) should be considered during the 
+6 days oftreatment with oral tedizolid  phosphate .In a clinical study comparing the single dose (
+2 mg) pharmacokinetics of  midazolam (CYP3A4substrate) alone or in combination with tedizolid phosphate  (once -daily 200 mg oral dose f or 
+10 days),midazolam AUC and Cmax when co -administered with tedizolid phosphate
+ were 81% and 83% ofmidazolam AUC and Cmax when administered alone, respectively. This ef f ect is not clinicallymeaningf ul, and no dose adjustment f or co
+-administered CYP3A4 substrates is necessary duringtedizolid phosphate
+ treatment.Pharmacodynamic interactions 
+ Monoamine oxidase inhibition 
+ Tedizolid  is a reversible inhibitor of  monoamine oxidase (MAO) in vitro
+; however, no interaction isanticipated when comparing the IC
+50 f or MAO -A inhibition and the anticipated plasma exposures inman. Drug interaction studies to determine ef f ects of  200
+ mg oral tedizolid phosphate  at steady stateon pseudoephedrine and tyramine pressor ef f ects were conducted in healthy volunteers. Nomeaningf ul changes in blood pressure
+ or heart rate with pseudoephedrine were observed in the healthyvolunteers, and no clinically relevant increase in tyramine sensitivity was observed. Potential serotonergic interactions 
+ The potential f or serotonergic interactions has not been studied in either patients or healthy volunteers(see section  5.2). Post-marketing experience
+: there have been reports of patients experiencing serotonin syndrome whiletaking tedizolid and serotonergic agents (antidepressants, opioids) which resolved on discontinuationof  one or both medications.

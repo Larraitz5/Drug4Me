@@ -1,0 +1,12 @@
+4.5 Interaction  with other  medicinal  products  and other forms  of interaction  
+ For serotonergic  medicinal products  (e.g. SSRIs  and SNRIs , buprenorphine, opiods or other serotonergic medicinal products ), there  have  been  reports  of serotonin  syndrome  following  concomitant  use of 5-HT
+3 antagonists  and other  serotonergic  medicinal products  (including  SSRIs  and SNRIs).  
+ Co-administration of  intravenous  5-HT3 receptor  antagonists  with  oral paracetamol  in human  subjects  has been reported  to result  in a block in the  analgesic  effect  via a pharmacodynamic  mechanism.  
+ As granisetron  is metabolised  by hepatic  cytochrome  P450  active substance -metabolising  enzymes  (CYP1A1  and CYP3A4), inducers  or inhibitors  of these  enzymes  may change  the clearance  and, hence,  the half-life of granisetron. 
+ In human  subjects,  hepatic  enzyme  induction by phenobarbital  has led to an  increase in  total plasma  clearance  (approximately  25%)  following  intravenous  administration  of granisetron. 
+ In vitro  studies  have  shown  that ketoconazole  may inhibit the metabolism  of granisetron  via the cytochrome  P450  3A isoenzyme  family.  The clinical  significance  of this is unknown. 
+ In vitro  studies  using  human  microsomes  indicate  that granisetron  neither  stimulates  nor inhibits  the 5 cytochrome  P450  enzyme system.  
+ In studies in healthy  subjects,  no evidence  of any interaction  has been indicated between  granisetron  and benzodiazepines  (lorazepam),  neuroleptics  (haloperidol)  or anti-ulcer  medicinal  products  (cimetidine).  
+ No clinically  relevant  interactions  between  SANCUSO  and emetogenic  cancer  chemotherapies  have been seen.  Furthermore,  no interaction  has been observed  between  granisetron  and emetogenic  cancer  therapies.  In agreement  with  these  data, no clinically  relevant  interactions  have  been reported  in clinical  studies  with SANCUSO.  In clinical  interaction  studies,  aprepitant  did not have  clinically  important  effects  on the pharmacokinetics  of granisetron. 
+ Paediatric  population Interaction  studies  have only  been performed  in adults. 
+ 

@@ -1,0 +1,13 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of other medicinal products on trametinib  
+ As trametinib is metabolised predominantly via deacetylation mediated by hydrolytic enzymes  (e.g. carboxyl -esterases) , its pharmacokinetics are unlikely to be affected by other agents through metabolic interactions (see section  5.2). Drug -drug interactions  via these hydrolytic enzymes cannot be ruled out and could influence the exposure to trametinib . 
+ 11 Trametinib is an in vitro  substrate of the efflux transporter P -gp. As it cannot be excluded that strong  inhibition of hepatic P -gp may result in increased levels of trametinib, caution is advised when co -administering trametinib with medicinal products that are strong inhibitors of P -gp (e.g. verapamil, cyclosporine, ritonavir, quinidine, itraconazole) . 
+ Effect of trametinib on other medicinal products  
+ Based on in vitro  and in vivo  data, trametinib is unlikely to significantly affect the pharmacokinetics of other medicinal products via interaction with CYP enzymes or transporters (see section  5.2). Trametinib may result in transient inhibition of BCRP substrates (e.g. pitavastatin) in the gut, which may be minimi sed with staggered dosing (2 hours apart) of these agents and trametinib.  
+ Based on clinical data, no loss of efficacy of hormonal contraceptives is expected when co -administered with trametinib monotherapy (see section  5.2). 
+ Combination with dabrafenib  
+ When trametinib is used in combination with dabrafenib see section s 4.4 and 4.5 of the dabrafenib Sm 
+ PC  for interactions . 
+ Effect of food on trametinib  
+ Patients should take trametinib as monotherapy or in combination with dabrafenib at least one hour prior to or two hours after a me al due to the effect of food on tra metinib absorption (see section  4.2 and 5.2). 
+ 

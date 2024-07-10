@@ -1,0 +1,203 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Voriconazole is metabolised by, and inhibits the activity of, cytochrome P450 isoenzymes, CYP2C19,  CYP2C9, and CYP3A4. Inhibitors or inducers of these isoenzymes may increase or decrease voriconazole plasma concentrations, respectively, and there is potential for voriconazole to increase the plasma concentrations of substances metabolised by these CYP450 isoenzymes , in particular for substances metabolised by CYP3A4 since voriconazole is a strong CYP3A4 inhibitor though the increase in AUC is substrate dependent (see Table below).  
+ 11  Unless oth erwise specified, drug interaction studies have been performed in healthy adult male subjects using multiple dosing to steady state with oral voriconazole at 200  mg twice daily (BID). These results are relevant to other populations and routes of administration.  
+ Voriconazole should be administered with caution in patients with concomitant medication that is known to prolong QTc interval. When there is also a potential for voriconazole to increase the plasma concentrations of substances metabolised  by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide  and ivabradine ), coadministration is contraindicated (see below and section  4.3). 
+ Interaction table  
+ Interactions between voriconazole and other medicinal products are listed in  the table below (once daily as “QD”, twice daily as “BID”, three times daily as “TID” and not determined as “ND”). The direction of the arrow for each pharmacokinetic parameter is based on the 90% confidence interval of the geometric mean ratio being with in (↔), below (↓) or above (↑) the 80 -125% range. The asterisk (*) indicates a two -way interaction. AUC τ, AUC t and AUC 0-∞represent area under the curve over a dosing interval, from time zero to the time with detectable measurement and from time zero to inf inity, respectively.  
+ The interactions in the table are presented in the following order: contraindications, those requiring dose adjustment and careful clinical and/or biological monitoring, and finally those that have no significant pharmacokinetic inter action but may be of clinical interest in this therapeutic field.  
+ Medicinal product  
+[Mechanism of interaction]  Interaction  Geometric mean changes (%) Recommendations  concerning  coadministration  Astemizole, cisapride,  pimozide, quinidine  terfenadine  and ivabradine  
+[CYP3A4 substrates]  Although not studied, increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes  Contraindicated  (see section  4.3) Carbamazepine and long -acting barbiturates (e.g., phenobarbital,  mephobarbital)  
+[potent CYP450 inducers]  Although not studied, carbamazepine and long -acting barbiturates are likely to significantly decrease plasma voriconazole concentrations.  Contraindicated  (see section  4.3) Efavirenz (a non -nucleoside  reverse transcriptase inhibitor)  
+[CYP450 inducer; CYP3A4  inhibitor and substrate]  
+ Efavirenz 400  mg QD, coadministered with voriconazole 200  mg BID* 
+ Efavirenz 300  mg QD, coadministered with voriconazole 400  mg BID*  
+ Efavirenz Cmax   38% Efavirenz AUCτ   44% Voriconazole C max   61% Voriconazole AUCτ  77% 
+ Compared to efavirenz 600  mg QD, Efavirenz C max ↔ Efavirenz AUCτ  17% 
+ Compared to voriconazole 
+200 mg BID,  Voriconazole C max  23% Voriconazole AUCτ  7%  
+ Use of standard doses of voriconazole with efavirenz doses of  
+400 mg QD or higher is contraindicated (see section  4.3). 
+ Voriconazole may be coadministered with efavirenz if the voriconazole maintenance dose is increased to 
+400 mg BID and the efavirenz dose is decreased to 300  mg QD.  When voriconazole treatment is stopped, the initial dose of efavirenz should be restored (see section  4.2 and 4.4). Ergot alkaloids (e.g.,  ergotamine and dihydroergotamine)  Although not studied, voriconazole is likely to increase the plasma Contraindicated (see section  4.3) 12  [CYP3A4 substrates]  concentrations of ergot alkaloids and lead to ergotism.  Lurasidone  
+[CYP3A4 substrate]  
+ Although not studied,  voriconazole is likely to significantly increase the plasma concentrations of lurasidone.  Contraindicated  (see section 4.3)  Naloxegol  
+[CYP3A4 substrate]  Although not studied, voriconazole is likely to significantly increase the plasma concentrations of naloxegol.  Contraindicated  (see section 4.3)  Rifabutin  
+[potent CYP450 inducer]  
+ 
+300 mg QD  
+ 
+ 
+300 mg QD (coadministered  with voriconazole 350  mg BID)*  
+ 
+ 
+300 mg QD (coadministered  with voriconazole 400 mg  BID)*   
+ 
+ Voriconazole C max   69% Voriconazole AUCτ  78% 
+ Compared to voriconazole 200 mg BID,  Voriconazole C max   4% Voriconazole AUCτ  32% 
+ Rifabutin C max  195%  Rifabutin AUCτ 331%  
+ Compared to voriconazole 200 mg BID,  Voriconazole C max   104%  Voriconazole AUCτ   87% Concomitant use of  voriconazole and rifabutin  should be avoided unless the  benefit outweighs the risk. The maintenance dose of  voriconazole may be increased  to 5 mg/kg intravenously BID  or from 200 mg to 350 mg  orally BID (100 mg to 200 mg  orally BID in patients less than  
+40 kg) (see section  4.2). Careful monitoring of full  blood counts and adverse  reactions to rifabutin (e.g.,  uveitis) is recommended when  rifabutin is coadministered  with voriconazole.  Rifampicin (600 mg QD)  
+[potent CYP450 inducer]  Voriconazole C max   93% Voriconazole AUCτ   96% Contraindicated (see section  4.3) Ritonavir (protea se inhibitor)  
+[potent CYP450 inducer;  CYP3A4 inhibitor and  substrate]  
+ High dose (400 mg BID)  
+ 
+ 
+ Low dose (100 mg BID)*   
+ 
+ 
+ Ritonavir C max  and AUCτ ↔  Voriconazole C max   66% Voriconazole AUCτ   82% 
+ Ritonavir C max  25% Ritonavir AUCτ   13% Voriconazole C max   24% Voriconazole AUCτ   39% 
+  
+ Coadministration of voriconazole and high doses of ritonavir (400 mg and above BID) is contraindicated (see section  4.3). 
+ Coadministration of voriconazole and low dose ritonavir (100 mg BID) should be a voided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole.  
+ St John’s Wort  
+[CYP450 inducer; P -gp inducer]  
+300 mg TID (coadministered  with voriconazole 400 mg  single dose)   In an independent published study,  Voriconazole AUC 0-∞  59% Contraindicated (see section  4.3) Tolvaptan  
+[CYP3A substrate ] Although not studied, voriconazole is likely to significantly increase the Contraindicated  (see section 4.3)  13  plasma concentrations of tolvaptan.  Venetoclax  
+[CYP3A substrate]  Although not studied, voriconazole is likely to significantly increase the plasma concentrations of venetoclax.  Concomitant administration of voriconazole is contraindicated  at initiation and during venetoclax dose titration phase (see section 4 .3). Dose reduction of venetoclax is required as instructed in venetoclax prescribing information during steady daily dosing; close monitoring for signs of toxicity is recommended.  
+   
+   Fluconazole (200 mg QD)  
+[CYP2C9, CYP2C19 and  CYP3A4 inhibitor]  Voriconazole C max   57% Voriconazole AUCτ  79% Fluconazole C max ND Fluconazole AUCτ ND  
+ 
+ 
+ The reduced dose and/or frequency of voriconazole and  fluconazole that would eliminate this effect have not been established. Monitoring for voriconazole -associated  adverse reactions is recommended if voriconazole is used sequentially after fluconazole.  
+ Phenytoin  
+[CYP2C9 substrate and potent  CYP450 inducer]  
+ 
+300 mg QD  
+ 
+ 
+300 mg QD (co -administered  with voriconazole 400  mg BID)*   
+ 
+ 
+ Voriconazole C max   49% Voriconazole AUCτ  69% 
+ Phenytoin C max   67% Phenytoin AUCτ  81% 
+ Compared to voriconazole 200 mg BID,  Voriconazole C max   34% Voriconazole AUCτ  39% 
+ Concomitant use of voriconazole and phenytoin should be avoided unless the benefit outweighs the risk. Careful monitoring of phenytoin plasma levels is recommended.  
+ Phenytoin may be co -administered with voriconazole if the maintenance dose of voriconazole is increased to 
+5 mg/kg IV BID or from 200  mg to 
+400 mg oral BID, (100 mg to 200  mg oral BID in patients less than 40  kg) (see section  4.2). Letermovir  
+[CYP2C9 and  CYP2C19 inducer ] Voriconazole Cmax ↓ 39%  Voriconazole AUC0 -12 ↓ 44%  Voriconazole C12  ↓ 51%  If concomitant administration of voriconazole with letermovir cannot be avoided, monitor for loss of voriconazole effectiveness.  Glasdegib  
+[CYP3A4 substrate]  Although not studied, voriconazole is likely to increase the plasma concentrations of glasdegib and increase risk of QTc prolongation.  If concomitant use cannot be avoided, frequent ECG moni toring is recommended  (see section 4. 4). Tyrosine kinase inhibitors (e.g., axitinib, bosutinib, cabozantinib, ceritinib, cobimetinib, dabrafenib, dasatinib, nilotinib, sunitinib, ibrutinib, ribociclib)  Although not studied, voriconazole may increase plasma concentrations of tyrosine kinase inhibitors metaboli sed by CYP3A4 . If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor is recommended  (see section 4 .4). 14  [CYP3A4 substrates]  Anticoagulants  
+ Warfarin (30  mg single dose,  co- administered with 300  mg BID voriconazole)  
+[CYP2C9 substrate]  
+ Other oral coumarins  (e.g., phenprocoumon,  acenocoumarol)  
+[CYP2C9 and CYP3A4  substrates]   
+ Maximum increase in prothrombin time was approximately 2 -fold 
+ 
+ Although not studied,  voriconazole may increase the plasma concentrations of coumarins that may cause an increase in prothrombin time   
+ Close monitoring of  prothrombin time or other  suitable anticoagulation tests is  recommended and the dose of  anticoagulants should be  adjusted  accordingly.  Ivacaftor  
+[CYP3A4 substrate]  Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions . Dose reduction of ivacaftor is recommended.  Benzodiazepines [CYP3A4 substrates]  Midazolam (0.05 mg/kg IV single dose)  
+ Midazolam (7.5 mg oral single dose)  
+ 
+ Other benzodiazepines (e.g., triazolam, alprazolam)  
+ In an independent published study,  Midazolam AUC 0-  3.7-fold 
+ In an independent published study,  Midazolam C max  3.8-fold Midazolam AUC 0-  10.3-fold 
+ 
+ Although not studied clinically,  voriconazole is likely to increase the plasma concentrations of  other  benzodiazepines that are  metabolised by CYP3A4 and lead to a prolonged sedative effect.  Dose reduction of  benzodiazepines should be  considered.  
+   Immunosuppressants  
+[CYP3A4 substrates]  
+ Sirolimus (2  mg single dose)  
+ 
+ 
+ 
+ Everolimus  
+[also P -g 
+ P substrate]  
+ 
+ Ciclosporin (in stable renal  transplant recipients receiving  chronic ciclosporin therapy)  
+ 
+  
+ In an independent published study,  Sirolimus C max  6.6-fold Sirolimus AUC 0-∞ 11-fold 
+ 
+ Although not studied, voriconazole is likely to significantly increase the plasma concentrations of everolimus.  
+ 
+ 
+  
+ Coadministration of  voriconazole and sirolimus is  contraindicated (see section  
+4.3).  
+ 
+ Coadministration of voriconazole and everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations (see section 4.4).  
+ 
+ 
+ When initiating voriconazole  15   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tacrolimus (0.1  mg/kg single  dose)   Ciclosporin C max  13% Ciclosporin AUCτ  70% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tacrolimus C max  117%  Tacrolimus AUC t  221%  in patients already on  ciclosporin it is recommended  that the ciclosporin dose be  halved and ciclosporin level  carefully monitored. Increased  ciclosporin levels have been  associated with nephrotoxicity.  When voriconazole is  discontinued, ciclosporin  levels must be carefully  monitored and the dose  increased as necessary.  
+ When initiating voriconazole  in patients already on  tacrolimus, it is recommended  that the tacrolimus dose be  reduced to a third of the  original dose and tacrolimus  level carefully monitored.  Increased tacrolimus levels  have been associated with nephrotoxicity. When  voriconazole is discontinued,  tacrolimus levels must be  carefully monitored and the  dose increased as necessary.  Long -Acting Opiates  
+[CYP3A4 substrates]  
+ Oxycodone (10  mg single  dose)   
+ In an independent published study,  Oxycodone C max  1.7-fold 
+ Oxycodone AUC 0-∞  3.6-fold 
+ Dose reduction in oxycodone  and other long -acting opiates  metaboli sed by CYP3A4  (e.g., hydrocodone) should be  considered. Frequent  monitoring for opiate associated adverse reactions may be necessary.  Methadone (32 -100 mg QD)  
+[CYP3A4 substrate]  R-methadone (active) C max  
+31% R-methadone (active) AUCτ   
+47% S-methadone C max  65% S-methadone AUCτ  103%  Frequent monitoring for  adverse reactions and toxicity  related to methadone,  including QTc prolongation, is  recommended. Dose reduction  of methadone may be needed.  Non-Steroidal Anti - Inflammatory Drugs (NSAIDs)  
+[CYP2C9 substrates]  
+ Ibuprofen (400 mg single  dose)  
+ Diclofenac (50  mg single  dose)   
+ 
+ 
+ S-Ibuprofen C max  20% S-Ibuprofen AUC 0-∞  100%  
+ Diclofenac C max  114%  Diclofenac AUC 0-∞  78%  
+ 
+ Frequent monitoring for  adverse reactions and toxicity  related to NSAIDs is  recommended. Dose reduction  of NSAIDs may be needed.  Omeprazole (40  mg QD)*  
+[CYP2C19 inhibitor; CYP2C19  and CYP3A4 substrate]  Omeprazole C max 116%  Omeprazole AUCτ  280%  Voriconazole C max 15% Voriconazole AUCτ  41% 
+ No dose adjustment of  voriconazole is recommended.  
+ 
+ 
+ When initiating voriconazole  16  Other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of thes e medicinal products.  in patients already receiving  omeprazole doses of 40  mg or  above, it is recommended that  the omeprazole dose be halved.  Oral Contraceptives*  
+[CYP3A4 s ubstrate; CYP2C19  inhibitor]  Norethisterone/ethinylestradiol (1 mg/0.035  mg QD)  Ethinylestradiol C max  36% Ethinylestradiol AUCτ  61% Norethisterone C max  15% Norethisterone AUCτ   53% Voriconazole C max  14% Voriconazole AUCτ  46% Monitoring for adverse  reactions related to oral  contraceptives, in addition to  those for voriconazole, is  recommended  Short -acting Opiates  
+[CYP3A4 substrates]  
+ Alfentanil (20 μg/kg single  dose, with concomitant  naloxone)  
+ Fentanyl (5  µg/kg single dose)   
+ 
+ In an independent published study, Alfentanil AUC 0-∞  6-fold. 
+ 
+ In an independent published study,  Fentanyl AUC 0-∞  1.34-fold Dose reduction of alfentanil,  fentanyl and other short -acting  opiates similar in structure to  alfentanil and metabolised by  CYP3A4 (e .g., sufentanil)  should be considered.  Extended and frequent  monitoring for respiratory  depression and other opiate associated adverse reactions is  recommended.  Statins (e.g., lovastatin)  
+[CYP3A4 substrates]  Although not studied, voriconazole is likely to  increase the plasma concentrations of statins that are metabolised by CYP3A4 and could lead to rhabdomyolysis.  If concomitant administration of voriconazole with statins metabolised by CYP3A4 cannot be avoided, dose reduction of the statin  should be consi dered.  Sulfonylureas (e.g.,  tolbutamide, glipizide,  glyburide)  
+[CYP2C9 substrates]  Although not studied, voriconazole is likely to increase the plasma concentrations of sulfonylureas and cause hypoglycaemia.  Careful monitoring of blood  glucose is recommen ded. Dose  reduction of sulfonylureas  should be considered  Vinca Alkaloids (e.g.,  vincristine and vinblastine)  
+[CYP3A4 substrates]  Although not studied, voriconazole is likely to increase the plasma concentrations of vinca alkaloids and lead to neurotoxicity.  Dose reduction of vinca  alkaloids should be considered.  Other HIV Protease Inhibitors  (e.g., saquinavir, amprenavir  and nelfinavir)*  
+[CYP3A4 substrates and  inhibitors]  Not studied clinically. In vitro  studies show that voriconazole may inhi bit the metabolism of HIV protease inhibitors and the metabolism of voriconazole may also be inhibited by HIV protease inhibitors.  Careful monitoring for any  occurrence of drug toxicity  and/or lack of efficacy, and  dose adjustment may be needed.  Other Non -Nucleoside Reverse  Transcriptase Inhibitors  (NNRTIs) (e.g., delavirdine,  nevirapine)*  Not studied clinically. In vitro  studies show that the metabolism of voriconazole may be inhibited by NNRTIs and voriconazole may inhibit Careful monitoring for any  occurrence of drug toxicity  and/or lack of efficacy , and  dose adjustment may be  needed.  17  [CYP3A4 substrates, inhibitors  or CYP450 inducers]  the metabolism of NNRTIs. The findings of the effect of efavirenz on voriconazole suggest that the metabolism of voriconazole may be induced by an NNRTI  Tretinoin  
+[CYP3A4 substrate]  Although not studied, voriconazole may increase tretinoin concentrations and increase risk of adverse  reactions  (pseudotumor cerebri, hypercalcaemia) . Dose adjustment of tretinoin is recommended during treatment with voriconazole and after its discontinuation.  Cimetidine (400 mg BID)  
+[non -specific CYP450 inhibitor and increases gastric p 
+ H]  Voriconazole C max  18% Voriconazole AUC τ  23% No dose adjustment  Digoxin (0.25  mg QD)  
+[P-gp substrate]  Digoxin C max ↔ Digoxin AUCτ ↔  No dose adjustment  Indinavir (800  mg TID)  
+[CYP3A4 inhibitor and  substrate]  Indinavir C max ↔ Indinavir AUCτ ↔  Voriconazole C max ↔ Voriconazole AUCτ ↔  No dose adjustment  Macrolide antibiotics  
+ Erythromycin (1  g BID)  
+[CYP3A4 inhibitor]  
+ Azithromycin (500  mg QD)   
+ Voriconazole C max and AUCτ 
+↔ 
+ 
+ Voriconazole C max and AUCτ 
+↔ 
+ The effect of voriconazole on either erythromycin or azithromycin is unknown  No dose adjustment  Mycophenolic acid (1  g single  dose)  
+[UDP -glucuronyl transferase  substrate]   Mycophenolic acid C max ↔ Mycophenolic acid AUCt ↔  No dose adjustment  Corticosteroids  
+ Prednisolone (60  mg single  dose)  
+[CYP3A4 substrate]   
+ Prednisolone C max   11% Prednisolone AUC 0-∞  34%  
+ No dose adjustment  
+ Patients on long -term treatment with voriconazole and corticosteroids (including inhaled corticosteroids e.g., budesonide and intranasal corticosteroids) should be carefully monitored for adrenal cortex dysfunction both during treatment and when voriconazo le is discontinued (see section 4.4).  Ranitidine (150  mg BID)  
+[increases gastric p 
+ H]  Voriconazole C max and AUCτ 
+↔ No dose adjustment  Flucloxacillin [CYP450 inducer]  Significantly decreased plasma voriconazole If concomitant administration of voriconazole with flucloxacillin cannot be avoided, monitor for 18  concentrations have been reported.  potential loss of voriconazole effectiveness (e.g. by therapeutic drug monitoring); increasing the dose of voriconazole may be needed  
+ 

@@ -1,0 +1,181 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ This medicinal product should not be co-administered with medicinal products containing tenofovir disoproxil, tenofovir alafenamide or adefovir dipivoxil.  
+ Medicinal products that may affect tenofovir alafenamide  
+ Tenofovir alafenamide  is transported by P -gp and breast cancer resistance protein (BCRP) . Medicinal products  that are P-gp inducers (e.g., rifampicin , rifabutin, carbamazepine, phenobarbital  or St. John’s  wort) are expected to  decrease plasma concentrations of tenofovir alafenamide, which may lead to loss of therapeutic effect of Vemlidy. Co-administration of such medicinal products with tenofovir alafenamide is not recommended.  6  Co-administration of tenofovir alafen amide with medicinal products that inhibit P -gp and BCRP  may increase plasma concentration s of tenofovir alafenamide.  Co-administration of strong inhibitors of P-gp with tenofovir alafenamide is not recommended.  
+ Tenofovir alafenamide is a substrate of OATP1B1 and OATP1B3 in  vitro.  The distribution of tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and/or OATP1B3.  
+ Effect of tenofovir alafenamide on other medicinal products  
+ Tenofovir a lafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6 in vitro.  It is not an inhibitor  or inducer  of CYP3A in vivo.  
+ Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT)  1A1 in vitro.  It is not known whether tenofovir alafenamide is an inhibitor of other UGT  enzymes.  
+ Drug interaction information for Vemlidy  with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, de crease as “↓”, no change as “↔”;  twice daily as “b.i.d.”, single  dose as “s.d.”, once daily as “q.d.”).  The drug interactions described are based on studies conducted with tenofovir alafenamide, or are potential drug interactions that may occur with Vemlidy . 
+ Table  1: Interactions Between Vemlidy  and Other M edicinal Products 
+ Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with Vemlidy  ANTICONVULSANTS  Carbamazepine  (300 mg orally , b.i.d. ) 
+ Tenofovir alafenamidec (25 mg orally, s.d.) Tenofovir alafenamide  
+↓ C max 0.43 (0.36, 0.51) 
+↓ AUC 0.45 (0.40, 0.51) 
+ Tenofovir  
+↓ C max 0.70 (0.65, 0.74)  
+↔ AUC 0.77 (0.74, 0.81)  Co-administration is not recommended.  Oxcarbazepine  Phenobarbital  
+ Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended.  Phenytoin  Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended.  Midazolamd (2.5 mg orally, s.d.) 
+ Tenofovir alafenamidec (25 mg orally, q.d.)  Midazolam  
+↔ C max 1.02 (0.92, 1.13)  
+↔ AUC 1.13 (1.04 , 1.23) No dose adjustment of midazolam (administered orally or intravenously) is required.  Midazolamd (1 mg intravenously, s.d.) 
+ Tenofovir alafenamidec (25 mg orally, q.d.)  Midazolam  
+↔ C max 0.99 (0.89, 1.11)  
+↔ AUC 1.08 (1.04, 1.14) 7 Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with Vemlidy  ANTIDEPRESSANTS  Sertraline  (50 mg orally, s.d.) 
+ Tenofovir alafenamidee (10 mg orally, q.d.)  Tenofovir alafenamide  
+↔ C max 1.00 (0.86, 1.16)  
+↔ AUC 0.96 (0.89, 1.03) 
+ Tenofovir  
+↔ C max 1.10 (1.00, 1.21)  
+↔ AUC 1.02 (1.00, 1.04) 
+↔ C min 1.01 (0.99, 1.03)  No dose adjustment of Vemlidy  or sertraline is required.  Sertraline  (50 mg orally, s.d. ) 
+ Tenofovir alafenamidee (10 mg orally, q.d.)  Sertraline  
+↔ C max 1.14 (0.94, 1.38)  
+↔ AUC 0.93 (0.77, 1.13) ANTIFUNGALS  Itraconazole  Ketoconazole  Interaction not studied.  Expected:  
+↑ Tenofovir alafenamide  Co-administration is not recommended.  ANTIMYCOBACTERIALS  Rifampicin  Rifapentine  Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended.  Rifabutin  Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended.  HCV ANTIVIRAL AGENTS  Sofosbuvir (400 mg orally, q.d.) Interaction not studied.  Expected:  
+↔ Sofosbuvir  
+↔ GS -331007  No dose adjustment of Vemlidy  or sofosbuvir is required.  Ledipasvir/sofosbuvir  (90 mg/400 mg orally , q.d.)  
+ Tenofovir alafenamidef (25 mg orally, q.d.)  Ledipasvir  
+↔ C max 1.01 (0.97, 1.05)  
+↔ AUC 1.02 (0.97, 1.06) ↔ Cmin 1.02 (0.98, 1.07)  
+ Sofosbuvir  
+↔ Cmax 0.96 (0.89, 1.04)  
+↔ AUC 1.05 (1.01, 1.09)  GS-331007g 
+↔ C max 1.08 (1.05, 1.11)  
+↔ AUC 1.08 (1.06, 1.10) 
+↔ C min 1.10 (1.07, 1.12)  
+ Tenofovir alafenamide  
+↔ Cmax 1.03 (0.94, 1.14)  
+↔ AUC 1.32 (1.2 5, 1.40)  
+ Tenofovir  
+↑ C max 1.62 (1.56, 1.68)  
+↑ AUC 1.75 (1.69, 1.81) 
+↑ C min 1.85 (1.78, 1.92)  No dose adjustment of Vemlidy  or ledipasvir/sofosbuvir is required.  Sofosbuvir/velpatasvir  (400 mg/100 mg orally, q.d.) Interaction not studied.  Expected:  
+↔ Sofosbuvir  
+↔ GS -331007 
+↔ Velpatasvir  
+↑ Tenofovir alafenamide  No dose adjustment of Vemlidy  or sofosbuvir/velpatasvir is required.  8 Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with Vemlidy  Sofosbuvir/velpatasvir/ voxilaprevir (400 mg/100  mg/ 
+100 mg + 100 mgi orally, q.d.) 
+ Tenofovir alafenamidef (25 mg orally, q.d.)  Sofosbuvir  
+↔ C max 0.95 (0.86, 1.05)  
+↔ AUC 1.01 (0.97, 1.06) 
+ GS-331007g 
+↔ C max 1.02 (0.98, 1.06)  
+↔ AUC 1.04 (1.01, 1.06) 
+ Velpatasvir  
+↔ C max 1.05 (0.96, 1.16)  
+↔ AUC 1.01 (0.94, 1.07) ↔ Cmin 1.01 (0.95, 1.09)  
+ Voxilaprevir  
+↔ C max 0.96 (0.84, 1.11)  
+↔ AUC 0.94 (0.84, 1.05)  
+↔ C min 1.02 (0.92, 1.12)  
+ Tenofovir alafenamide  
+↑ C max 1.32 (1.17, 1.48)  
+↑ AUC 1.52 (1.43, 1.61)  No dose adjustment of Vemlidy or sofosbuvir/velpatasvir/voxilaprevir is required.  HIV ANTIRETROVIRAL AGENTS – PROTEASE INHIBITORS  Atazanavir/cobicistat  (300 mg/150  mg orally, q.d.)  Tenofovir alafenamidec (10 mg orally, q.d.)  Tenofovir alafenamide  
+↑ C max 1.80 (1.48, 2.18)  
+↑ AUC 1.75 (1.55, 1.98) 
+ Tenofovir  
+↑ C max 3.16 (3.00, 3.33)  
+↑ AUC 3.47 (3.29, 3.67) 
+↑ C min 3.73 (3.54, 3.93)  
+ Atazanavir  
+↔ C max 0.98 (0.94, 1.02)  
+↔ AUC 1.06 (1.01, 1.11) ↔ Cmin 1.18 (1.06, 1.31)  
+ Cobicistat  
+↔ Cmax 0.96 (0.92, 1.00)  
+↔ AUC 1.05 (1.00, 1.09) 
+↑ C min 1.35 (1.21, 1.51)  Co-administration is not recommended.  Atazanavir/ritonavir  (300 mg/100  mg orally, q.d.) 
+ Tenofovir alafenamidec (10 mg orally, s.d.)  Tenofovir alafenamide  
+↑ C max 1.77 (1.28, 2.44)  
+↑ AUC 1.91 (1.55, 2.35) 
+ Tenofovir  
+↑ C max 2.12 (1.86, 2.43)  
+↑ AUC 2.62 (2.14, 3.20) 
+ Atazanavir  
+↔ C max 0.98 (0.89, 1.07)  
+↔ AUC 0.99 (0.96, 1.01) 
+↔ C min 1.00 (0.96, 1.04)  Co-administration is not recommended.  9 Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with Vemlidy  Darunavir/cobicistat  (800 mg/150  mg orally, q.d.) 
+ Tenofovir alafenamidec (25 mg orally, q.d.)  Tenofovir alafenamide  
+↔ C max 0.93 (0.72, 1.21)  
+↔ AUC 0.98 (0.80, 1.19) 
+ Tenofovir  
+↑ C max 3.16 (3.00, 3.33)  
+↑ AUC 3.24 (3.02, 3.47) 
+↑ C min 3.21 (2.90, 3.54)  
+ Darunavir  
+↔ C max 1.02 (0.96, 1.09)  
+↔ AUC 0.99 (0.92, 1.07) ↔ Cmin 0.97 (0.82, 1.15)  
+ Cobicistat  
+↔ Cmax 1.06 (1.00, 1.12)  
+↔ AUC 1.09 (1.03, 1.15) 
+↔ C min 1.11 (0.98, 1.25)  Co-administration is not recommended.  Darunavir/ritonavir  (800 mg/100  mg orally, q.d.)  Tenofovir alafenamidec (10 mg orally, s.d.)  Tenofovir alafenamide  
+↑ C max 1.42 (0.96, 2.09)  
+↔ AUC 1.06 (0.84, 1.35) 
+ Tenofovir  
+↑ C max 2.42 (1.98, 2.95)  
+↑ AUC 2.05 (1.54, 2.72)  Darunavir  
+↔ Cmax 0.99 (0.91, 1.08)  
+↔ AUC 1.01 (0.96, 1.06) 
+↔ C min 1.13 (0.95, 1.34)  Co-administration is not recommended.  Lopinavir/ritonavir  (800 mg/200  mg orally, q.d.) 
+ Tenofovir alafenamidec (10 mg orally, s.d.)  Tenofovir alafenamide  
+↑ C max 2.19 (1.72, 2.79)  
+↑ AUC 1.47 (1.17, 1.85)  Tenofovir  
+↑ Cmax 3.75 (3.19, 4.39)  
+↑ AUC 4.16 (3.50, 4.96)  Lopinavir  
+↔ Cmax 1.00 (0.95, 1.06)  
+↔ AUC 1.00 (0.92, 1.09) 
+↔ C min 0.98 (0.85, 1.12)  Co-administration is not recommended.  Tipranavir/ritonavir  Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended.  HIV ANTIRETROVIRAL AGENTS – INTEGRASE INHIBITORS  Dolutegravir  (50 mg orally, q.d.)  
+ Tenofovir alafenamidec (10 mg orally, s.d.)  Tenofovir alafenamide  
+↑ C max 1.24 (0.88, 1.74)  
+↑ AUC 1.19 (0.96, 1.48)  Tenofovir  
+↔ Cmax 1.10 (0.96, 1.25)  
+↑ AUC 1.25 (1.06, 1.47)  
+ Dolutegravir  
+↔ Cmax 1.15 (1.04, 1.27)  
+↔ AUC 1.02 (0.97, 1.08) 
+↔ C min 1.05 (0.97, 1.13)  No dose adjustment of Vemlidy  or dolutegravir is required.  10 Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with Vemlidy  Raltegravir  Interaction not studied.  Expected:  
+↔ Tenofovir alafenamide  
+↔ Raltegravir  No dose adjustment of Vemlidy  or raltegravir is required.  HIV ANTIRETROVIRAL AGENTS – NON -NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS  Efavirenz  (600 mg orally, q.d.)  
+ Tenofovir alafenamideh (40 mg orally, q.d.)  Tenofovir alafenamide  
+↓ C max 0.78 (0.58, 1.05)  
+↔ AUC 0.86 (0.72, 1.02)  Tenofovir  
+↓ Cmax 0.75 (0.67, 0.86)  
+↔ AUC 0.80 (0.73, 0.87) ↔ Cmin 0.82 (0.75, 0.89)  
+ Expected:  
+↔ Efavirenz  No dose adjustment of Vemlidy  or efavirenz is required.  Nevirapine  Interaction not studied.  Expected:  
+↔ Tenofovir alafenamide  
+↔ Nevirapine  No dose adjustment of Vemlidy  or nevirapine is required.  Rilpivirine  (25 mg orally, q.d.)  
+ Tenofovir alafenamide  (25 mg orally, q.d.)  Tenofovir alafenamide  
+↔ C max 1.01 (0.84, 1.22)  
+↔ AUC 1.01 (0.94, 1.09)  
+ Tenofovir  
+↔ C max 1.13 (1.02, 1.23)  
+↔ AUC 1.11 (1.07, 1.14) 
+↔ C min 1.18 (1.13, 1.23)  
+ Rilpivirine  
+↔ C max 0.93 (0.87, 0.99)  
+↔ AUC 1.01 (0.96, 1.06) 
+↔ C min 1.13 (1.04, 1.23)  No dose adjustment of Vemlidy  or rilpivirine is required.  HIV ANTIRETROVIRAL AGENTS – CCR5  RECEPTOR ANTAGONIST  Maraviroc  Interaction not studied.  Expected:  
+↔ Tenofovir alafenamide  
+↔ Maraviroc  No dose adjustment of Vemlidy  or maraviroc is required.  HERBAL SUPPLEMENTS  St. John’s  wort (Hypericum perforatum)  Interaction not studied.  Expected:  
+↓ Tenofovir alafenamide  Co-administration is not recommended . ORAL CONTRACEPTIVES  Norgestimate  (0.180  mg/0.215  mg/ 
+0.250 mg orally, q.d. ) 
+ Ethinylestradiol  (0.025  mg orally, q.d.)  
+ Tenofovir alafenamidec (25 mg orally, q.d.)  Norelgestromin  
+↔ C max 1.17 (1.07, 1.26)  
+↔ AUC 1.12 (1.07, 1.17) 
+↔ C min 1.16 (1.08, 1.24) 
+ Norgestrel  
+↔ Cmax 1.10 (1.02, 1.18)  
+↔ AUC 1.09 (1.01, 1.18) ↔ Cmin 1.11 (1.03, 1.20) 
+ Ethinylestradiol  
+↔ C max 1.22 (1.15, 1.29) 
+↔ AUC 1.11 (1.07, 1.16) 
+↔ C min 1.02 (0.93, 1.12)  No dose adjustment of Vemlidy  or norgestimate/ethinyl estradiol is required . a All interaction studies are conducted in healthy volunteers . 11 b All No Effect Boundaries are 70%-143%. c Study conducted with emtricitabine/tenofovir alafenamide fixed-dose combination tablet . d A sensitive CYP3A4  substrate. e Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide fixed-dose combination tablet . f Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide fixed -dose combination tablet . g The predominant circulating nucleoside metabolite of sofosbuvir . h Study conducted with tenofovir alafenamide 40  mg and emtricitabine 200 mg. i Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV  infected patients. 
+ 

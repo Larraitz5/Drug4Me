@@ -1,0 +1,21 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effects of other medicinal products on Mycapssa 
+ Concomitant administration of Mycapssa with esomeprazole has been found to decrease the bioavailability of Mycapssa. Medicinal products that alter the p 
+ H of the upper gastrointestinal tract (e.g. other proton pump inhibitors, H2-receptor antagonists, and antacids) may alter the absorption of Mycapssa and lead t o a reduction in bioavailability. Concomitant administration of Mycapssa with proton pump inhibitors, H2- receptor antagonists, or antacids may require increased doses of Mycapssa.  
+ Concomitant administration of Mycapssa with metoclopramide reduced the Cmax and AUC of octreotide by an average of approximately 5% and 11%, respectively. Mycapssa should be titrated as indicated to clinical/biochemical effect.  
+ Concomitant administration of Mycapssa with loperamide reduced the Cmax and AUC of octreotide by an average of approximately 9% and 3%, respectively. Mycapssa should be titrated as indicated to clinical/biochemical effect.  
+ 5 Effects of Mycapssa on other medicinal products  
+ Multiple mechanisms such as cytochrome P450 enzymes inhibition due to suppression of growth hormone, delayed gastric emptying or possibly enhanced permeability in some cases, are involved which may result in drug- drug interactions. Therefore, drug- drug interactions may vary between medicinal products. As a consequence, other medicinal products which have a narrow therapeutic index should therefore be used with caution and doses adjusted as necessary.  
+ In a clinical study, it was shown that transient permeability enhancer (TPE®) excipients in the formulation increase the intestinal absorpti on of octreotide via paracellular transport, using the lactulose to mannitol ratio test (see section 5.1). No interaction studies with other drugs that are transported via the paracellular route (e.g. alendronate or desmopressin) were conducted.  Dose adjustment of medicinal products such as beta blockers, calcium channel blockers, or agents to control fluid and electrolyte balance may be necessary when Mycapssa is administered concomitantly (see section 4.4).  
+ Concomitant administration of hydrochlorothiaz ide (HCTZ) and Mycapssa resulted in a 9% decrease in Cmax and 19% decrease in AUC (0-5) of HCTZ. Dose adjustment of HCTZ may be necessary.  
+ Dose adjustments of insulin and antidiabetic medicinal products may be required when Mycapssa is administered concomitantly (see section 4.4).  
+ Concomitant administration of metformin and Mycapssa resulted in no significant changes in the early exposure to metformin.  
+ Octreotide has been found to reduce the intestinal absorption of ciclosporin (71% decrease in Cmax and 
+63% decrease in AUC (inf)) Dose adjustment of ciclosporin may be necessary.  
+ Octreotide injections have been found to delay the intestinal absorption of cimetidine. Dose adjustment of cimetidine may be necessary.  
+ Concomitant administration of octreotide i njections and bromocriptine increases the bioavailability of bromocriptine. Dose adjustments of bromocriptine may be necessary. 
+ Concomitant administration of lisinopril and Mycapssa increases the bioavailability of lisinopril (50% increase in Cmax and 40% increase in AUC (0-12)). Dose adjustment of lisinopril may be necessary when Mycapssa is administered concomitantly.  
+ Concomitant administration of digoxin and Mycapssa has been found to decrease the rate of digoxin absorption. 
+ Concomitant administration of levonorgestrel and Mycapssa decreases the bioavailability of levonorgestrel (38% decrease in Cmax and 24% decrease in AUC (0-5)), which may diminish the effectiveness of oral contraceptives containing progestogens (see section 4.6).  
+ Concomitant administ ration of warfarin and Mycapssa resulted in no significant changes in the early exposure to warfarin.  
+ 

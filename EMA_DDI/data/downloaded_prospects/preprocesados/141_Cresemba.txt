@@ -1,0 +1,91 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Potential of medicinal products to affect the pharmacokin etics of isavuconazole 
+ Isavuconazole is a substrate of CYP3A4 and CYP3A5 (see section 5.2). Co -administration of medicinal products which are inhibitors of CYP3A4 and/or CYP3A5 may increase the plasma concentrations of isavuconazole. Co -administration of medicinal products which are inducers of CYP3A4 and/or CYP3A5 may decrease the plasma concentrations of isavuconazole.  
+ Medicinal products that inhibit CYP3A4/5  
+ Co-administration of isavuconazole with the strong CYP3A4 /5 inhibitor ketoconazole is contraindicated , since th is medicinal product can significantly increase plasma concentrations of isavuconazole (see sections 4.3 and 4.5).  For the strong CYP3A4 inhibitor lopinavir/ritonavir, a two -fold increase in isavuconazole exposure was observed. For other strong CYP3A4 inhibitors, such as clarithromycin, indinavir and saquinavir , a 6 
+ less pronounced effect can be expected , based on their relative potency . No dose adjust ment of isavuconazole is necessary when co -administered with strong CYP3A4/5 inhibitors, however caution is advised  as adverse drug reactions may increase (see section 4.4) . 
+ No dose adjustment is warranted for moderate to mild CYP3A4/5 inhibitors.  
+ Medici nal products that induce CYP3A4/5  
+ Co-administration of isavuconazole with potent CYP3A4 /5 inducers such as rifampicin,  rifabutin, carbamazepine, long -acting barbiturates (e.g. , phenobarbital), phenytoin and St. John’s wort, or with moderate CYP3A4/5  inducers such as efavirenz, nafcillin and etravirine,  is contraindicated, since these medicinal products can significantly decrease plasma concentrations of isavuconazole (see section 4.3) . 
+ Co-administration with mild CYP3A4/5  inducers such as aprepitant , prednisone and pioglitazone, may result in mild to moderate decreases of isavuconazole plasma levels ; co-administration with mild CYP3A4 /5 inducers should be avoided unless the potential benefit is considered to outweigh the risk (see section 4.4) . 
+ Co-administration with high -dose ritonavir ( >200 mg twice daily) is contraindicated, as at high dose s ritonavir may induce CYP3A4/5  and decrease isavuconazole plasma concentrations (see section 4.3) . 
+ Potential for isavuconazole to affect exposures of other me dicines  
+ Medicinal products metabolised by CYP3A4/5 
+ Isavuconazole is a moderate inhibitor of CYP3A4/5; co- administration of isavuconazole with medicinal products which are substrates of CYP3A4/5 may result in increased plasma concentrations of these medicinal products.  
+ Medicinal products metabolised by CYP2B6 
+ Isavuconazole is a mild CYP2B6 inducer; co- administration of isavuconazole may  result in decreased plasma concentrations of CYP2B6 substrates.  
+ Medicinal products transported by P -gp in the i ntestine  
+ Isavuconazole is a mild inhibitor of P -glycoprotein (P -gp); co-administration with isavuconazole may result in increased plasma concentrations of P- gp substrates. 
+ Medicinal products transported by BCRP  
+ Isavuconazole is an inhibitor in vitro  of BCRP, and plasma concentrations of substrates of BCRP may therefore be increased. Caution is advised when isavuconazole is given concomitantly with substrates of BCRP.   
+ Medicinal products renally excreted via transport proteins 
+ Isavuconazole is a mild i nhibitor of the organic cation transporter 2 (OCT2). Co-administration of isavuconazole with medicinal products which are substrates of OCT2 may result in increased plasma concentrations of these medicinal products . 
+ 7 
+ Uridine diphosphate- glucuronosyltransferases (UGT) substrates  
+ Isavuconazole is a mild inhibitor of UGT . Co- administration of isavuconazole with medicinal products which are substrates of UGT may result in mildly  increased plasma concentrations of these medicinal products.  Interaction table  
+ Interactions between isavuconazole and co -administered medicinal products are listed in Table 1 (increase is indicated as “↑”, decrease as “↓”), ordered by therapeutic class. Unless otherwise stated, studies detailed in Table 1 have been performed with the recommended dose of isavuconazole.  
+ Table 1  Interactions  
+ Co-administered  medicinal product by therapeutic area Effects on drug  concentrations /  Geometric Mean  Change (%) in AUC,  Cmax (Mode of action)  Recommendation  concerning  co-administration   Anticonvulsants  Carbamazepine, phenobarbital and phenytoin (strong CYP3A4/5 inducers)  Isavuconazole concentrations may decrease (CYP3A induction by carbamazepine, phenytoin and long- acting barbiturates such as phenobarbital).  The concomitant administration of isavuconazole and carbamazepine, phenytoin and long- acting barbiturates such as phenobarbital is contraindicated.  Antibacterials    Rifampicin  (strong CYP3A4/5 inducer) Isavuconazole  : AUC tau : ↓ 90%  Cmax : ↓ 75%  
+ (CYP3A4/5 induction)  The concomitant administration of isavuconazole and rifampicin is contraindicated.  Rifabutin  (strong CYP3A4/5 inducer) Not studied.  Isavuconazole concentrations may significantly decrease. 
+ (CYP3A4/5 induction)  The concomitant administration of isavuconazole and rifabutin is contraindicated. Nafcillin  (moderate CY3A4/5 inducer)  Not studied.  Isavuconazole concentrations  may significantly decrease.   (CYP3A4/5 induction)  The concomitant administration of isavuconazole and nafcillin is contraindicated. Clarithromycin  (strong CYP3A4/5 inhibitor)  Not studied.  Isavuconazole concentrations may increase.  
+ (CYP3A4/5 inhibition)  No isavuconazole dose adjustment necessary ; caution is advised as adverse drug reactions may increase.  
+ Antifungals  Ketoconazole  (strong CYP3A4/5 inhibitor) Isavuconazole:  AUC tau: ↑ 422%  Cmax: ↑ 9%  
+ (CYP3A4/5 inhibition)  The concomitant administration of isavuconazole and ketoconazole is contraindicated.  Herbal medicines  St John’s wort  (strong CYP3A4/5 inducer) Not studied.  Isavuconazole concentrations may  significantly decrease . The concomitant administration of isavuconazole and St John’s wort is contraindicated.  8 
+  (CYP3A4 induction).  Immunosuppresants  Ciclosporin, sirolimus, tacrolimus  (CYP3A4/5 substrates)  Ciclosporin:  AUC inf: ↑ 29%  Cmax: ↑ 6%  
+ Sirolimus:  AUC inf: ↑ 84%  Cmax: ↑ 65%  
+ Tacrolimus:  AUC inf: ↑ 125%  Cmax: ↑ 42%  
+ (CYP3A4 inhibition)  No isavuconazole dose adjustment necessary.  Ciclosporin, sirolimus, tacrolimus: monitoring of plasma levels and appropriate dose adjustment if required.  Mycophenolate mofetil (MMF)  (UGT substrate)  Mycophenolic acid (MPA, active metabolite):  AUC inf: ↑ 35%  Cmax: ↓ 11%  
+ (UGT inhibition)  No isavuconazole dose adjustment necessary.  MMF: monitoring for MPA -related toxicities is advised.  Prednisone  (CYP3A4 substrate)  Prednisolone (active metabolite):  AUC inf: ↑ 8%  Cmax: ↓ 4%  
+ (CYP3A4 inhibition)  
+ Isavuconazole concentrations may decrease.  
+ (CYP3A4/5 induction)  Co-administration should be avoided unless the potential benefit is considered to outweigh the risk.
+ Opioids  Short -acting opiates (alfentanyl, fentanyl)  (CYP3A4/5 substrate)  Not studied.  Short -acting opiate concentrations may increase.  
+ (CYP3A4/5 inhibition).  No isavuconazole dose adjustment necessary.  Short -acting opiates (alfentanyl, fentanyl): careful monitoring for any occurrence of drug toxicity, and dose reduction if r equired.  Methadone  (CYP3A4/5, 2B6 and 2C9 substrate)  
+ S-methadone (inactive opiate isomer)  AUC inf: ↓ 35%  Cmax: ↑ 1%  
+40% reduction in terminal half -life R-methadone (active opiate isomer) . AUC inf: ↓ 10%  Cmax: ↑ 4%  
+ (CYP2B6 induction)  No isavuconazole dose adjustment necessary.  Methadone: no dose adjustment required.  Anti-cancer  Vinca alkaloids (vincristine, vinblastine)  (P-gp substrates)  Not studied.  Vinca alkaloid concentrations may increase.  
+ (P-gp inhibition)  No isavuconazole dose adjustment necessary.  Vinca alkaloids: careful monitoring for any occurrence of drug toxicity, and dose reduction if required.  9 
+ Cyclophosphamide  (CYP2B6 , CYP3A4  substrate)  Not studied.  Active metabolites of cyclophosphamide may increase or decrease.  
+ (CYP2B6 induction, CYP3A4 inhibition ) No isavuconazole dose adjustment necessary.  Cyclophosphamide: careful monitoring for any occurrence of lack of efficacy  or increased toxicity , and dose adjustment  if required.  Methotrexate  (BCRP, OAT1, OAT3 substrate)  Methotrexate:  AUC inf: ↓ 3%  Cmax: ↓ 11%  
+ 
+7-hydroxymetabolite:  AUC inf: ↑ 29%  Cmax: ↑ 15%  
+ (Mechanism unknown)  No isavuconazole dose adjustment necessary.  Methotrexate: no dose adjustment required.  Other anticancer agents (daunorubicin, doxorubicin, imatinib, irinotecan, lapatinib, mitoxantrone, topotecan)  (BCRP substrates)  Not studied.  Daunorubicin, doxorubicin, imatinib, irinotecan, lapatinib, mitoxantrone, topotecan concentrations may increase. 
+ (BCRP inhibition)  No isavuconazole dose adjustment necessary.  Daunorubicin, doxorubicin, imatinib, irinotecan, lapatinib, mitoxantrone or topotecan: careful monitoring for any occurrence of drug toxicity, and dose reduction if required.  Antiemetics  Aprepitant  (mild CYP3A4/5 inducer)  Not studied.  Isavuconazole concentrations may decrease.  
+ (CYP3A4/5 induction)  Co-administration should be avoided unless the potential benefit is considered to outweigh the risk.
+ Antidiabetics  Metformin  (OCT1, OCT2 and MATE1 substrate)  Metformin:  AUC inf: ↑ 52%  Cmax: ↑ 23%  
+ (OCT2 inhibition)  No isavuconazole dose adjustment necessary.  Metformin:  dose reduction may be required.  Repaglinide  (CYP2C8 and OATP1B1 substrate)  Repaglinide:  AUC inf: ↓  8%  Cmax: ↓ 14%  No isavuconazole dose adjustment necessary.  Repaglinide: no dose adjustment required.  Pioglitazone  (mild CYP3A4/5 inducer)  Not studied.  Isavuconazole concentrations may decrease.  
+ (CYP3A4/5 induction)  Co-administration should be avoided unless the potential benefit is considered to outweigh the risk.  Anticoagulants  Dabigatran etexilate  (P-gp substrate)  Not studied.  Dabigatran etexilate concentrations may increase.  
+ (P-gp inhibition).  No isavuconazole dose adjustment necessary.  Dabigatran etexilate has a narrow therapeutic index and should be monitored, and dose reduction if required.  Warfarin  (CYP2C9 substrate)  S-warfarin  AUC inf: ↑ 11%  Cmax: ↓ 12%  R-warfarin  No isavuconazole dose adjustment necessary.  Warfarin: no dose adjustment required.  10 
+ AUC inf: ↑ 20%  Cmax: ↓ 7%  Antiretroviral agents  Lopinavir 400 mg / Ritonavir 
+100 mg  (CYP3A4/5 strong inhibitors and substrates)  Lopinavir:  AUC tau: ↓ 27%  Cmax: ↓ 23%  Cmin, ss: ↓ 16%a) Ritonavir:  AUC tau: ↓ 31%  Cmax: ↓ 33%  
+ (Mechanism unknown)  
+ Isavuconazole:  AUC tau: ↑ 96%  Cmax: ↑ 74%  
+ (CYP3A4/5 inhibition)  No isavuconazole dose adjustment necessary ; caution is advised as adverse drug reactions may increase.  
+ Lopinavir/ritonavir: no dose adjustment for lopinavir 400 mg / ritonavir 100 mg every 12 hours required , but careful monitoring for any occurrence of lack of anti-viral efficacy.  
+ Ritonavir (at doses >200 mg every 12 hours)  (strong CYP3A4/5 inducer)  Not studied.  Ritonavir at high doses may significantly decrease isavuconazole concentrations.  
+ (CYP3A4/5 induction)  The concomitant administration of isavuconazole and high doses of ritonavir ( >200 mg every 12 hours) is contraindicated.  Efaviren z  (CYP3A4/5 moderate inducer and CYP2B6 substrate)  Not studied.  Efavirenz concentrations may decrease.  
+ (CYP2B6 induction)  
+ Isavuconazole drug concentrations may significantly decrease.  
+ (CYP3A4/5 induction)  The concomitant administration of isavuconazole and efavirenz is contraindicated.  Etravirine  (moderate CYP3A4 /5 inducer)  Not studied.  Isavuconazole concentrations may significantly decrease.  
+ (CYP3A4/5 induction)  The concomitant administration of isavuconazole and etravirine is contraindicated.  Indinavir  (CYP3A4/5 strong inhibitor and substrate)  Indinavir:b) AUC inf: ↓ 36%  Cmax: ↓ 52%  
+ (Mechanism unknown)  
+ Isavuconazole concentrations may increase.  
+ (CYP3A4/5 inhibition)  No isavuconazole dose adjustment necessary ; caution is advised as adverse drug reactions may increase.  Indinavir: careful monitoring for any occurrence of lack of anti -viral efficacy, and dose increase if required.  11 
+ Saquinavir  (strong CYP3A4 inhibitor)  Not studied.  Saquinavir concentrations may decrease (as observed with lopinavir/ritonavir) or increase . 
+ (CYP3A4 inhibition)
+ 
+ Isavuconazole concentrations may increase.  
+ (CYP3A4/5 inhibition)  No isavuconazole dose adjustment necessary ; caution is advised as adverse drug reactions may increase.  Saquinavir: careful monitoring for any occurrence of drug toxicity and /or lack of anti -viral efficacy, and dose adjustment if required  Other protease inhibitors (e.g.  fosamprenavir ) (CYP3A4/5 strong or moderate inhibitors and substrates)  Not studied.  Protease inhibitor concentrations may decrease (as observed with lopinavir/ritonavir) or increase .  
+ (CYP3A4 inhibition)  
+ Isavuconazole concentrations may increase.  
+ (CYP3A4/ 5 inhibition)  No isavuconazole  dose adjustment necessary.  Protease inhibitors: careful monitoring for any occurrence of drug toxicity and /or lack of anti -viral efficacy, and dose adjustment if required.  Other NNRTI (e.g.  nevirapine ) (CYP3A4/5 and 2B6 inducers and substrates)  Not studied.  NNRTI concentrations may decrease (CYP2B6 induction by isavuconazole) or increase.  
+ (CYP3A4/5 inhibition)  No isavuconazole dose adjustment necessary.  NNRTIs: careful monitoring for any occurrence of drug toxicity and/or lack of anti -viral efficacy, and dose adjustment if required.  Antiacids  Esomeprazole  (CYP2C19 substrate and gastric p 
+ H ↑ ) Isavuconazole:  AUC tau: ↑ 8%  Cmax: ↑ 5%  No isavuconazole dose adjustment necessary.  Esomeprazole: no dose adjustment required.  Omeprazole  (CYP2C19 substrate and gastric p 
+ H ↑ ) Omeprazole:  AUC inf: ↓ 11%  Cmax: ↓ 23%  No isavuconazole  dose adjustment necessary.  Omeprazole: no dose adjustment required.  Lipid -lowering agents  Atorvastatin and other statins (CYP3A4 substrates e.g.,  simvastatin, lovastatin, rosuvastatin)  (CYP3A4/5 and/or BCRP substrates))  Atorvastatin :  AUC inf: ↑ 37%  Cmax: ↑ 3%  Other statins were not studied . Statins concentrations may increase.  
+ (CYP3A4/5 or BCRP inhibition)  No  isavuconazole  dose adjustment necessary.  Based on results with atorvastatin, no statin dose adjustment required. Monitoring of adverse reactions typical of statins is advised.  Antiarrhythmics  Digoxin  (P-gp substrate)  Digoxin:  AUC inf: ↑ 25%  Cmax: ↑ 33%  
+ (P-gp inhibition)  No isavuconazole dose adjustment necessary.  Digoxin: serum digoxin concentrations should be monitored and used for titration of the digoxin dose.  Oral contraceptives  Ethinyl oestradiol and norethindrone  Ethinyl oestradiol  AUC inf: ↑ 8%  No isavuconazole dose adjustment necessary.  12 
+ (CYP3A4/5 substrates)  Cmax: ↑ 14%  Norethindrone  AUC inf: ↑ 16%  Cmax: ↑ 6%  Ethinyl oestradiol and norethindrone : no dose adjustment required. Antitussives  Dextromethorphan  (CYP2D6 substrate) Dextromethorphan:  AUC inf: ↑ 18% Cmax: ↑ 17% Dextrorphan (active metabolite):  AUC inf: ↑ 4% Cmax: ↓ 2%  No isavuconazole dose adjustment necessary.  Dextromethorphan: no dose adjustment required. Benzodiazepines  Midazolam  (CYP3A4/5 substrate) Oral midazolam:  AUC inf: ↑ 103%  Cmax: ↑ 72%  
+ (CYP3A4 inhibition) No isavuconazole dose adjustment necessary.  Midazolam: careful monitoring of clinical signs and symptoms recommended, and dose reduction if required.  Antigout agent  Colchicine  (P-gp substrate)  Not studied.  Colchicine concentrations may increase. 
+ (P-gp inhibition) No isavuconazole dose adjustment necessary.  Colchicine has a narrow  therapeutic index and should be monitored, dose reduction if required.  Natural products  Caffeine  (CYP1A2 substrate) Caffeine:  AUC inf: ↑ 4% Cmax: ↓ 1%  No isavuconazole dose adjustment necessary.  Caffeine: no dose adjustment required.  Smoking cessation aids  Bupropion  (CYP2B6 substrate)  Bupropion:  AUC inf: ↓ 42%  Cmax: ↓ 31%  
+ (CYP2B6 induction)  No isavuconazole dose adjustment necessary.  Bupropion: dose increase if required. NNRTI, non -nucleoside reverse -transcriptase inhibitor; P -gp, P -glycoprotein.  a) % decrease of the mean trough level values b) Indinavir was only studied after a single dose of 400 mg isavuconazole. AUC inf = area under the plasma concentration -time profiles extrapolated to infinity; AUC tau = area under the plasma concentration-time profiles during the 24 h interval at steady state; C max = peak plasma concentration; Cmin,ss = trough levels at steady  state.  
+ 

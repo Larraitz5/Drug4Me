@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No formal drug interaction studies have been  performed . Results from an in vitro  test in human hepatocytes suggest that blinatumomab did not affect CYP450 enzyme activities.  
+ Initiation of BLINCYTO  treatment causes transient release of cytokines during the first days of treatment that may suppress CYP450 enzymes. Patients who are receiving medicinal products that are CYP450 and transporter substrates with a narrow therapeutic index should be monitored for adverse effects (e.g. warfarin) or drug concentrations (e.g. cyclosporine) during this time. The dose of the concomitant medicinal product  should be adjusted as needed.  
+ 

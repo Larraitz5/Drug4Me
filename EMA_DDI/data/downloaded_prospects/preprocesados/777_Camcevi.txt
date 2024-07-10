@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No pharmacokinetic drug -drug interaction studies have been performed. There have been no reports of any interactions of leuprorelin with other medicinal products.  
+ Since androgen deprivation treatment may prolong the QT interval, the concomitant use of leuprorelin with medicinal products known to prolong the QT interval or medicinal products able to induce Torsade de pointes such as class  IA (e.g. quinidine, disopyramide) or class  III (e.g. amiodarone, sotalol, dofetilide, ibutilide) antiarrhythmic medicinal products, methadone, moxifloxacin, antipsychotics, etc. should be carefully evaluated (see section  4.4).  
+ 

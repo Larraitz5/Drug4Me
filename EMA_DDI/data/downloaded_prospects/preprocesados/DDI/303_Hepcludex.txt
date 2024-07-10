@@ -1,0 +1,4 @@
+> In vitro , it has been shown, that certain medicinal products can inhibit  BULEVIRTIDE target sodium -taurocholate co -transporting polypeptide (NTCP). The co-administration of such  medicinal products (e.g. sulfasalazin, IRBESARTAN, EZETIMIBE, RITONAVIR, and CICLOSPORIN A) is not recommended. 
+> No CYP inhibition by BULEVIRTIDE w as observed in  vitro  at clinically relevant concentrations. However, in a clinical study, an approximately 40% increase in geometric mean of partial AUC
+2-4h values of co-administered MIDAZOLAM  (CYP3A4 substrate)  was observed in combination of high dose BULEVIRTIDE  (10 mg) and TENOFOVIR  (245 mg), whereas no significant influence on MIDAZOLAM AUC 2-4h was detected for TENOFOVIR alone . As a precautionary measure, close clinical monitoring is warranted  
+5 for co -administered narrow-therapeutic-index drugs which  are sensitive CYP3A4  substrates (e.g. CYCLOSPORINE, CARBAMAZEPINE, SIMVASTATIN, SIROLIMUS, and TACROLIMUS). 

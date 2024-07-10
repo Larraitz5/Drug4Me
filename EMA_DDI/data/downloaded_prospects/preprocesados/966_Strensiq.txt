@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed with asfotase alfa . Based on its structure and pharmacokinetics, asfotase alfa is unlikely to affect Cytochrome P -450 related metabolism.  
+ Asfotase alfa contains a catalytic domain of tissue non -specific alkaline phosphatase. Administration of asfotase alfa will interfere w ith routine measurement of serum alkaline phosphatase by hospital laboratories resulting in serum alkaline phosphatase activity measurements of several thousand units per litre. Asfotase alfa activity results must not be interpreted as the same measure as serum alkaline phosphatase activity owing to differences in enzyme characteristics.  
+ Alkaline Phosphatase (ALP) is used as the detection reagent in many routine laboratory assays. If asfotase alfa is present in clinical laboratory samples, aberrant values could be reported.  
+ The treating physician should inform the testing lab that the patient is treated with medication affecting the ALP levels. Alternative assays (i.e. not utilizing an ALP -conjugated reporter system) may be considered in patients treated w ith Strensiq.  
+ 

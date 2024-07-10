@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed with interferon  beta-1a in humans.  
+ Interferons have been reported to reduce the activity of hepatic cytochrome  P450 -dependent enzymes in humans and animals. Caution should be exercised when administering Rebif in combination with medicinal products that have a narrow therapeutic index and are  largely dependent on the hepatic cytochrome  P450 system for clearance, e.g.  antiepileptics and some classes of antidepressants.  
+ The interaction of Rebif with corticosteroids or adrenocorticotropic hormone (ACTH) has not been studied systematically. Clini cal studies indicate that multiple sclerosis patients can receive Rebif and corticosteroids or ACTH during relapses.  
+ 

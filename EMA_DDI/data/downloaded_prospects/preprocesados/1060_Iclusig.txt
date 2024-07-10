@@ -1,0 +1,12 @@
+4.5 Interaction with other medicinal p roducts and other forms of interaction  
+ Substances that may increase ponatinib serum concentrations  
+ CYP3A inhibitors  Ponatinib is metabolized by CYP3A4.  Co-administration of a single 15 mg oral dose of Iclusig in the presence of ketoconazole (400 mg daily), a strong CYP3A inhibitor, resulted in modest increases in ponatinib systemic exposure, with ponatinib AUC
+0-∞ and C max values that were 78% and 47% higher, respectively, than those seen when ponatinib was administered alone.  
+ Caution should be exercised and a reduction of the starting dose of Iclusig to 30 mg should be considered with concurrent use of strong CYP3A inhibitors such as clarithromycin, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, troleandomycin, voriconazole, and grapefruit juice. 
+ Substances that may decrease ponatinib serum concentrations  
+ CYP3A inducers  Co-administration of a single 45 mg dose of Iclusig in the presence of rifampin (600 mg daily), a strong CYP3A inducer, to 19 healt hy volunteers, decreased the AUC
+0-∞ and C max of ponatinib by 62% and 42%, respectively, when compared to administration of ponatinib alone. 9  Co-administration of strong CYP3A4 inducers such as carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin, and St. John’s Wort with ponatinib should be avoided, and alternatives to the CYP3A4 inducer should be sought, unless the benefit outweighs the possible risk of ponatinib underexposure. 
+ Substances that may have their serum concentrations altered by ponat inib  
+ Transporter substrates  In vitro , ponatinib is an inhibitor of P -gp and BCRP. Therefore, ponatinib may have the potential to increase plasma concentrations of co -administered substrates of P -gp (e.g., digoxin, dabigatran, colchicine, pravastatin) or BCRP (e.g., methotrexate, rosuvastatin, sulfasalazine) and may increase their therapeutic effect and adverse reactions. Close clinical surveillance is recommended when ponatinib is administered with these medicinal products.  
+ Paediatric population Interaction studies have only been performed in adults. 
+ 

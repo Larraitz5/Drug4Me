@@ -1,0 +1,4 @@
+> Bile acid binding resins such as CHOLESTYRAMINE, COLESTIPOL, or COLESEVELAM adsorb and reduce bile acid absorption and may reduce efficacy of obetichol ic acid. When concomitant bile acid binding resins are administered , OBETICHOLIC ACID should be taken at least 4  to 6 hours before or 4 to 6 hours after taking a bile acid binding resin, or at as great an interval as possible. 
+> International normalis ed ratio (INR) is decreased following co -administration of WARFARIN and OBETICHOLIC ACID . INR should be monitored and the dose of WARFARIN  adjusted , if needed, to maintain the target INR range when co-administering OBETICHOLIC ACID  and WARFARIN. 
+> OBETICHOLIC ACID may increase the exposure to concomitant medicinal products that are CYP1A2 substrates. Therapeutic monitoring of CYP1A2 substrates with narrow therapeutic index (e.g., THEOPHYLLINE and TIZANIDINE) is recommended.  
+

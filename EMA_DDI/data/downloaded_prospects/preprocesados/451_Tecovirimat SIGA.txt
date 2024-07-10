@@ -1,0 +1,27 @@
+4.5 Interaction with other medicinal products and o ther forms of i nteraction  
+ Effect of other medicinal products on tecovirimat  
+ Tecovirimat is a substrate of UGT1A1, 1A3 and 1A4.  Co-administration of tecovirimat with strong inhibitors or inducers of these UGTs is not expected to have a clinically important effect on tecovirimat exposures.  
+ Effect of tecovirimat on other medicinal products  
+ Tecovirimat and its M4 metabolite are inducers of cytochrome P450 (CYP)3A and CYP2B6.  Co-administration with tecovirimat may lead to reduced plasma exposures of sensitive substrates of CYP3A4 or CYP2B6, potentially leading to reduced effects.  Monitoring is advised during co-administration of tecovirimat with CYP3A4 and CYP2B6 substrates that have narrow therapeutic windows.  See Table 2  for some examples.  
+ Tecovirimat is a weak inhibitor of CYP2C8 and CYP2C19.  Co-administration with tecovirimat may lead to increased plasma exposures of sensitive substrates of CYP2C8 or CYP2C19, potentially leading to increased adverse effects.   Monitoring is advised during co-administration of tecovirimat 5 with CYP2C8 and CYP2C19 substrates that have narrow therapeutic windows.  See Table 2  for some examples.  
+ Table 2: Interactions and dose recommendations with other medicinal products  
+ Medicinal Product by therapeutic areaa Effect on medicinal product levels.  Mean percent change in AUC, C max Recommendation  concerning co -administration with Tecovirimat  Antidepressant:  Bupropiona (150 mg) Decreased Bupropion  AUC: ↓  15%  Cmax:  ↓  14%  No dose adjustment is required.  The effectiveness of bupropion should be monitored.  Antidiabetics : Repaglinidea (2 mg) Repaglinide : AUC:  ↑ 27%  Cmax:  ↑ 27%  Tecovirimat is a weak inhibitor of CYP2C8 and caused an  increase in repaglinide plasma concentrations.  
+ Co-administration of repaglinide and tecovirimat may cause mild to moderate hypoglycemia.  Blood  glucose and hypoglycemic symptoms should be monitored in patients when t ecovirimat is  co-administered with repaglinide.  Antifungals  Voriconazole  Interactions not studied  Expected  AUC: ↑  Cmax:  ↑ A risk for increase in voriconazole plasma concentrations cannot be excluded (CYP2C19 substrate).  
+ The combination of tecovirimat and voriconazole should be used with caution.  Antiviral - non-nucleoside reverse transcriptase inhibitor  Rilpivirine  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in rilpivirine plasma concentrations cannot be excluded (CYP3A4  substrate).  
+ The combination of tecovirimat and rilpivirine should be used with caution.  CCR5 antagonists  Maraviroc  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in maraviroc plasma concentrations cannot be excluded (CYP3A4  substrate).  
+ The combination of tecovirimat and maraviroc should be used with caution.  CNS Depressant:  Midazolama (2 mg) Midazolam:  AUC: ↓ 32%  Cmax:  ↓ 39%  Tecovirimat is a weak inducer of CYP3A4 and caused a decrease in plasma concentrations of midazolam.  
+ The effectiveness of midazolam should be monitored and the dose adjusted as necessary.  HMG CO -A Reductase Inhibitors  Atorvastatin  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in atorvastatin plasma concentrations cannot be excluded (CYP3A4 substrate).  
+ The combination of tecovirimat and atorvastatin should be used with caution.  
+ 6 Immunosuppressants  Tacrolimus  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in tacrolimus plasma concentrations cannot be excluded (CYP3A4 substrate).  
+ The combination of tecovirimat and tacrolimus should be used with caution.  Narcotic Analgesics  Methadone  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in methadone plasma concentrations cannot be excluded (CYP2B6 substrate).  
+ The combination of tecovirimat and methadone should be used with caution.  Nonsteoidal anti -inflammatory  Flurbiprofena (50 mg) Flurbiprofen:  AUC: ↔ Cmax:  ↔ No dose adjustment is required.  PHOSPHODIESTERASE TYPE 5 (PDE -5) INHIBITORS  Sildenafil  Tadalafil  Vardenafil  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in PDE -5 inhibitor plasma concentrations cannot be excluded (CYP3A4 substrate).  
+ The combination of tecovirimat and PDE -5 inhibitors should be used with caution.  Protease inhibitors (PIs)  Darunavir  Interactions not studied  Expected  AUC: ↓  Cmax:  ↓   A risk for decreases in darunavir plasma concentrations cannot be excluded (CYP3A4 substrate).  
+ The combination of tecovirimat and darunavir should be used with caution.  Proton Pump Inhibitors : Omeprazolea (20 mg) Omeprazole  AUC: ↑ 73% Cmax:  ↑ 83% Tecovirimat is a weak inhibitor of CYP2C19  and caused an increase in plasma concentrations of omeprazole . 
+ The combination of tecovirimat and proton pump inhibitors should be used with caution.  Lansoprazole  Rabeprazole  Interactions not studied  Expected  AUC: ↑  Cmax:  ↑  a 
+ These interactions have been studied in healthy adults  to evaluate the effect of repeated doses of tecovirimat 
+600 mg twice daily on the single -dose PK of probe substrates . 
+ Vaccine  
+ No vaccine-drug interaction studies have been performed in human subjects.  Some animal studies have indicated that co -administration of tecovirimat at the same time as live smallpox vaccine (vaccinia virus) may reduce the immune response to the vaccine.   
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 7 

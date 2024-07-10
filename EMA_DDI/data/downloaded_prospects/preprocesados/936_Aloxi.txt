@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Palonosetron is mainly metabolised by CYP2D6, with minor contribution by CYP3A4 and CYP1A2 isoenzymes. Based on in vitro  studies, palonosetron does not inhibit or induce cytochrome P450 isoenzyme at clinically relevant concentra tions.  
+ Chemotherapeutic agents  In preclinical studies, palonosetron did not inhibit the antitumour activity of the five chemotherapeutic agents tested (cisplatin, cyclophosphamide, cytarabine, doxorubicin and mitomycin C).  
+ Metoclopramide  In a clinical study, no significant pharmacokinetic interaction was shown between a single intravenous dose of palonosetron and steady state concentration of oral metoclopramide, which is a CYP2D6 inhibitor.   
+ CYP2D6 inducers and inhibitors  In a population pharmacokinetic analysis, it has been shown that there was no significant effect on palonosetron clearance when co -administered with CYP2D6 inducers (dexamethasone and rifampicin) and inhibitors (including amiodarone, celecoxib, chlorpromazine, cimetidine, doxorubicin, fluoxetine, haloperidol, paroxetine, quinidine, ranitidine, ritonavir, sertraline or terbinafine).  
+ Corticosteroids  Palonosetron has been administered safely with corticosteroids.  
+ Serotonergic Drugs (e.g. SSRIs and SNRIs)  There have been r eports of serotonin syndrome following concomitant use of 5- HT 3 antagonists and other serotonergic drugs (including SSRIs and SNRIs).  
+ Other medicinal products  Palonosetron has been administered safely with analgesics, antiemetic/antinauseants, antispasmod ics and anticholinergic medicinal products.  
+ 

@@ -1,0 +1,25 @@
+4.5   Interaction with other medicinal products and other forms of interaction    
+   Antidepressants   
+ Tri or tetracyclic antidepressants (e.g. imipramine, clomipramine, mirtazapine) may impair the efficacy of pitolisant because they display histamine H1 -receptor antagonist activity and possibly cancel the effect of endogenous histamine released in brain by the treatment.   
+   Anti-histamines   
+ Anti-histamines  (H1-receptor antagonists) crossing the haemato- encephalic barrier (e.g. pheniramine maleate, chlorpheniramine, diphenydramine, promethazine, mepyramine , doxylamine ) may impair the efficacy of pitolisant.   
+   QT-prolonging substances  or known to increase the risk of repolarization disorders   
+ Combination with pitolisant should be made with a careful monitoring (see section 4.4).  
+  Pharmacokinetic interactions   
+ Medicinal products affecting pitolisant metabolism  
+  
+- Enzyme inducer s   Co-administration of pitolisant with rifampicin in multiple doses significantly decreases pitolisant mean C max and AUC ratio about 39% and 50%, respectively. Therefore, co- administration of pitolisant with potent CYP3A4 inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) should be done with caution. With St John’s Wort (Hypericum Perforatum), due t o its strong CYP3A4 inducing effect, caution should be exercised when taken concurrently with pitolisant. A clinical monitoring should be made whe n both active substances are combined and, eventually a dosage adjustment during the combination and one week after the inducer treatment.   In a clinical multiple dose study, the combination of pitolisant with probenecid decrease s the AUC of pitolisant by about 34%.  
+   
+- CYP2D6 inhibitors   Co-administration of pitolisant with paroxetine significantly increases pitolisant mean C max and AUC 0—72h ratio about 47% and 105%, respectively. Given the 2- fold increase of pitolisant exposure, its coadministration with CYP2D6 inhibitors (e.g. paroxetine, fluoxetine, venlafaxine, duloxetine, bupropion, quinidine, terbinafine, cinacalcet) should be done with caution. A dosage adjustment during the combination could eventually be considered.   
+   Medicinal products  that pitolisant may affect metabolism  
+  
+- CYP3A4 and CYP2B6 substrates  Based on in vitro  data, pitolisant  and its main metabolites may induce CYP3A4 and CYP2B6 at therapeutic concentrations and by extrapolation, CYP2C, UGTs and P -gp. No clinical data on the magnitude of this interaction are available. Therefore, the combination of pitolisant with substrates o f CYP3A4 and having a narrow therapeutic margin (e.g. immunosuppressants, docetaxel, kinase 6   inhibitors, cisapride, pimozide, halofantrine) should be avoided (see section 4.4). With other CYP3A4, CYP2B6 (e.g. efavirenz, bupropion), CYP2C (e.g. repaglinide, phenytoin, warfarin), P -gp (e.g. dabigatran, digoxin) and UGT (e.g. morphine, paracetamol, irinotecan) substrates , caution should be made with a clinical monitoring of their efficacy.   
+ With oral contraceptives, the combination with pitolisant should be avoided and a further reliable contraceptive method used.  
+  - Substrates of OCT1   Pitolisant shows greater than 50% inhibition towards OCT1 (organic cation transporters 1) at 
+1.33 µM, the extrapolated IC
+50 of pitolisant is 0.795 µM.   
+ Even if the clinical relevance of this effect is not established, caution is advised when pitolisant is administered with a substrate of OCT1 (e.g. metformin (biguanides)) (see section 5.2).   
+   The combination of pitolisant with modafinil or sodium oxybate, usual treatments of narcolepsy was evaluated in healthy volunteers, at therapeutic doses. No clinically relevant pharmacokinetic drug -drug interaction was evidenced either with modafinil or wi th sodium oxybate.  
+ Paediatric population   
+ Interaction studies have only been performed in adults.   
+   

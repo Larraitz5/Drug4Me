@@ -1,0 +1,151 @@
+> As a moderate inhibitor of CYP3A4, aprepitant (125
+ mg/80 mg) can increase plasma concentrations ofco-administered active substances that are metabolised through CYP3A4. The total exposure of orallyadministered CYP3A4 substrates may increase up to approximately 3
+-fold during the 3
+-day treatmentwith EMEND; the effect of  aprepitant on the plasma concentrations of intravenously administered
+> CYP3A4 substrates is expected to be smaller.
+ EMEND must not be used concurrently with PIMOZIDE,TERFENADINE, ASTEMIZOLE, or CISAPRIDE (see section
+ 
+4.3). Inhibition of CYP3A4
+ by aprepitant could resultin elevated plasma concentrations of these active substances, potentially causing serious orlif e-threatening reactions. Caution is advised during concomitant administration of EMEND and
+ orallyadministered active substances that are metabolised primarily through CYP3A4 and with a narrowtherapeutic range, such as CYCLOSPORINE, TACROLIMUS, SIROLIMUS, EVEROLIMUS, ALFENTANIL, diergotamine,ERGOTAMINE, f entanyl, and QUINIDINE (see section
+ 4.4).CORTICOSTEROIDS
+> DEXAMETHASONE
+: The us ual oral DEXAMETHASONE dose should be reduced by approximately 50
+ % whenco-administered with EMEND 125
+ mg/80  mg regimen. The dose of DEXAMETHASONE in chemotherapyinduced nausea and vomiting (CINV) clinical trials was chosen to account for active substanceinteractions (see section
+ 
+4.2). EMEND, when given as a regimen of 125
+ mg with dexamethasoneco-administered orally as 20
+ mg o n Day  1
+, and EMEND when given as 80
+ mg/day withdexamethasone co
+-administered orally as 8
+ mg on Days
+ 2 through  
+5, increased the AUC ofdexamethasone, a CYP3A4 substrate, 2.2
+-fold on Days
+ 1 and  5.METHYLPREDNISOLONE
+: The usual intravenously administered METHYLPREDNISOLONE dose should bereduced approximately 25
+ 
+%, and the usual oral METHYLPREDNISOLONE dose should be reducedapproxim ately 50  % when co -administered with EMEND 125
+ mg/80  mg regimen. EMEND, whengiven as a regimen of 125
+ mg on Day  1 and 80  mg/da y on Da ys 
+2 and 3, increased the AUC ofmethylprednisolone, a CYP3A4 substrate, by 1.3
+-fold on Day
+ 
+1 and by 2.5
+-fold on Day
+ 3, wh enmethylprednisolone was co
+-administered intravenously as 125
+ mg on Day  
+1 and orally as 40
+ mg on
+> Day 
+1 or VINORELBINE administered intravenously on Day
+ 1 or Day  
+8. Because the effect of EMEND onthe pharmacokinetics of orally administered CYP3A4 substrates is greater than the eff ect of EMENDon the pharmacokinetics of intravenously
+ administered CYP3A4 substrates, an interaction with orallyadministered chemotherapeutic medicinal products metabolised primarily or partly by CYP3A4 (e.g.
+,ETOPOSIDE, VINORELBINE) cannot be excluded. Caution is advised and additional monitoring may beappropriate in patients receiving medicinal products metabolised primarily or partly by CYP3A4 (seesection  4.4). Pos tmarketing events of neurotoxicity, a potential adverse reaction of IFOSFAMIDE, havebeen reported af ter aprepitant and if osf amide co
+-admini stratio n.IMMUNOSUPPRESSANTS
+> During the 3
+-day CINV regimen, a transient moderate increase followed by a mild decrease inexposu re of IMMUNOSUPPRESSANTS metabolised by CYP3A4 (e.g.
+, CYCLOSPORINE, TACROLIMUS, everolimusand SIROLIMUS) is expected. Given the
+ short duration of the 3
+-day regimen and the time
+-dependentlimited changes in exposure, dose reduction of the immunosuppressant
+ is not recommended during the
+3 days of  co -administration with EMEND.6Midazolam
+> The potential effects of increased plasma concentrations of MIDAZOLAM or other benzodiazepinesmetabolised via CYP3A4 (ALPRAZOLAM, TRIAZOLAM) should be considered when co
+-administering thesemedicinal products with EMEND (125
+ mg/80  mg).EMEND increased the AUC of MIDAZOLAM, a sensitive CYP3A4 substrate, 2.3 -f old on Day  1 and
+3.3-f old on Day  
+5, when a single oral dose of  2
+ mg MIDAZOLAM was co
+-administered on Days
+ 1 and 5of  a regimen of  EMEND 125
+ mg on Day  1 and 80  mg/day on Days
+ 2 to 5.In another study with intravenous administration of MIDAZOLAM, EMEND was given as 125
+ mg on
+> Day 1 and 80  mg/day on Days
+ 2 and 3, and 2  mg MIDAZOLAM was given intravenously prior to theadminis tration of the 3
+-day regimen of EMEND and on Days
+ 
+4, 8, and 15. EMEND increased the
+> AUC of MIDAZOLAM 25
+ % on Day  
+4 and decreased the AUC of MIDAZOLAM 19
+ % on Day  8 and 4  % on
+> Day 
+15. These ef f ects were not considered clinically important. In a third study with intravenous and oral administration of MIDAZOLAM, EMEND was given as 125
+ mgon Day  1 and 80  mg/day on Days
+ 2 and 3, toge ther with ONDANSETRON 32
+ mg Day  
+1, DEXAMETHASONE
+12 mg Day  1 and 8  mg Days  2-
+4. This combination (i.e. EMEND, ONDANSETRON and DEXAMETHASONE)decreased the AUC of oral MIDAZOLAM 16
+ % on Day  6, 9 
+% on Day 8, 7
+ % on Day  15 and 17  % on
+> Day 
+22. These ef f ects were not considered clinically important.An additional study was completed with intravenous administration of MIDAZOLAM and EMEND
+.Intravenous 2
+ mg MIDAZOLAM was given 1
+ hour after oral administration of a single dose of  EMEND
+125 mg. The plasma AUC of MIDAZOLAM was increased by 1.5
+-fold. This ef f ect was not consideredclinically important.Induction
+> As a mild inducer of  CYP2C9, CYP3A4 and glucuronidation, aprepitant can decrease plasmaconcentrations of substrates eliminated by these routes within two weeks f ollowing initiation andtreatment. This ef f ect may become apparent only af ter the end of  a 3
+-day treatment with EMEND. For
+> In patients on chronic warf arin therapy, the prothrombin time (INR) should be monitored closelyduring treatment with EMEND and for 2
+ weeks following each 3 -day course of EMEND forchemotherapy induced nausea and vomiting (see section
+ 
+4.4). When a single 125
+ mg dose of EMENDwas administered on Day
+ 1 and 80  mg/day on Days
+ 2 and  
+3 to healthy subjects who were stabilised onchronic warf arin therapy, there was no ef f ect of EMEND on the plasma AUC of R(+) or S(
+-) warf arindetermined on Day
+ 
+3; however, there was a 34
+ 
+% decrease in S(-) warf arin (a CYP2C9 substrate)trough concentration accompanied by a 14
+ 
+% decrease in INR 5
+ days after completion of treatmentwith EMEND. TOLBUTAMIDE
+> EMEND, when given as 125
+ mg on Day  1 and 80  mg/day on Days
+ 2 and  
+3, decreased the AUC oftolbutam ide (a CYP2C9 substrate) by 23
+ % on Day  4, 28  % on Day  8, and 15  % on Day  15, when asingle dose of TOLBUTAMIDE 500
+ mg was administered orally prior to the administration of the 3
+-dayregimen of EMEND and on Days
+ 4, 8, and  15.7Hormonal contraceptives
+> The ef f icacy  of hormonal contraceptives may be reduced during and f or 28
+ days after administrationof EMEND. Alternative non-hormonal  back-up methods of contraception should be used duringtreatment with EMEND and for 2 months following the last dose of EMEND.In a clinical study, single doses of an oral contraceptive containing ETHINYL ESTRADIOL and norethindronewere administered on Days 1 through  
+21 with EMEND, given as a regimen of 125
+ mg on Day  8 and
+80 mg/day on Days
+ 
+9 and 10 with ONDANSETRON 32
+ mg intra venously  on Day  
+8 and oral dexamethasonegiven as 12  mg on Day  8 and 8  mg/day on Days
+ 9, 10, and  
+11. During days
+ 9 through  21 in this study,there was as much as a 64
+ 
+% decrease in ETHINYL ESTRADIOL trough concentrations and as much as a 60
+ %decrease in NORETHINDRONE trough concentrations. 
+5-HT 3 antagonists
+> Concomitant administration of EMEND with active substances
+ that inhibit CYP3A4 activity (e.g.,KETOCONAZOLE, ITRACONAZOLE, VORICONAZOLE, POSACONAZOLE, CLARITHROMYCIN, TELITHROMYCIN
+, NEFAZODONE,and PROTEASE INHIBITORS
+) should be approached cautiously, as the combination is expected to resultseveral -f old in increased plasma concentrations of aprepitant
+ (see section  4.4). Concomitant administration of EMEND with active substances
+ that s trongly induce CYP3A4 activity(e.g., rifampicin, PHENYTOIN, CARBAMAZEPINE, PHENOBARBITAL) should be avoided as the combinationresults in reductions of the plasma concentrations of aprepitant that may result in decreased ef f icacy of
+> EMEND. Concomitant administration of EMEND with herbal preparations containing St. John’s Wort(Hypericum perforatum
+) is not recommended.KETOCONAZOLE
+> When a single 125
+ mg dose of  aprepitant was administered on Day
+ 5 of  a 10 -day regimen of
+400 mg/day of KETOCONAZOLE, a strong CYP3A4 inhibitor, the AUC of aprepitant increasedapproximately 5
+-fold and the mean terminal half
+-lif e of aprepitant increased approximately 3 -f old.Rifampicin

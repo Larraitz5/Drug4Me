@@ -1,0 +1,15 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Hydrocortisone is metabolised by cytochrome P450 3A4 (CYP3A4). Concomitant administration of medicinal products that are inhibitors  or inducers  of CYP3A4 may therefore lead to unwanted alterations in serum  concentrations of Alkindi with the risk of adverse reactions, particularly adrenal crisis.  The need for dose adjustment when such medicinal products are used can be anticipated  and patients should be closely monitored . 
+ Medicin al products  inducing CYP3A4, requiring a potential increase in Alkindi dosing, include but are not limited to:  
+ - Anticonvulsants : phenytoin, carbamazepine and oxcarbazepine  
+- Antibiotics : rifampicin and rifabutin  
+- Barbiturates including phenobarbital and primidone 
+- Antiretroviral medicinal products: efavirenz and nevirapine  
+ Medicin al products/substances inhibiting CYP3A4, requiring a potential decrease in Alkindi dosing, include but are not limited to:  
+ 
+- Anti-fungals : itraconazole, posaconazole, voriconazole  
+- Antibiotics: erythromycin  and clarithromycin  
+- Antiretroviral medicinal products : ritonavir  
+- Grapefruit juice  
+- Liquorice 
+ 

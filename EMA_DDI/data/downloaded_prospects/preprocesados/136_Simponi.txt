@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies have been performed.Concurrent use with other biological therapeutics 
+ The combination of golimumab with other biological therapeutics used to treat the same conditions as golimumab , including anakinra and abatacept is not recommended (see section 4.4).Live vaccines/therapeutic infectious agents 
+ Live vaccines should not be given concurrently with golimumab (seesections 4.4 and 4.6).Therapeutic infectious agents should not be given concurrently with golimumab (see section 4.4).Methotrexate 
+ Although concomitant use of MTX results in hig her steady -state trough concentrations of golimumabin patients with RA, Ps 
+ A or AS, the data do not suggest the need for dose adjustment of either golimumab or MTX (see section 5.2).

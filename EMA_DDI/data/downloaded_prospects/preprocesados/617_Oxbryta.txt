@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Effect of other medicinal products on voxelotor 
+ Strong CYP3A4 inducers 
+ Coadministration of strong CYP3A4 inducers may decrease voxelotor exposures and may lead to reduced efficacy.Coadministration of voxelotor with strong CYP3A4 inducers (i.e., rifampicin, phenobarbital, carbamazepine, phenytoin, and St John’s wort extract ) should be avoided .Other interactions studied 
+ Itraconazole (a strong CYP3A4 inhibitor ), omeprazole (acid reducing agent) , and hydroxycarbamide hadno effect on the pharmacokinetics of voxelotor .5Effect of voxelotor on other medicinal products 
+ CYP3A4 substrates 
+ Voxelotor increased the systemic exposure of midazolam (a sensitive CYP3A4 substrate). The observed exposure increase of the CYP3A4 su bstrate midazolam was 1.6 -fold in healthy subjects at avoxelotor sub-therapeutic dose ( observed voxelotor Cmax 7.0-8.0micro gram/m 
+ L and AUC 
+126.3 -148.9 micro gramhr/m 
+ L). The effect at the full dose level of voxelotor is expected to be larger .Coadministration of voxelotor with sensitive CYP3A4 substrates with a narrow therapeutic index (i.e., alfentanil, sirolimus, and tacrolimus) should be avoided . If concomitant use is unavoidable, consider dose reduction o f the sensitive CYP3A4 substrate(s).CYP2B6 substrates 
+ In vitro studies indicated that voxelotor acts as an inhibitor and inducer of CYP2B6 (see section 5.2). The clinical relevance is currently unknown ,and caution is recommended when co -administering voxelotor with sensitive substrates of CYP2B6 such as bupropion and efavirenz .CYP2C8, CYP2C9, and CYP2C19 substrates 
+ Voxelotor is an in vitro inhibitor of CYP2C8, CYP 2C9, and CYP 2C19 at maximal systemic concentrations. There was no observed change on the exposures of S -warfarin (CYP2C9 substrate)andomeprazole (CYP2C19 substrate) in healthy volunteers at a sub therapeutic voxelotor dose (observed voxelotor C max7.0-8.0microgram/m 
+ L and AUC 126.3 -148.9 microgram hr/m 
+ L). The effect at the full dose lev el of voxelotor is currently unknown. Caution is recommended whenco-administering voxelotor with sensitive substrates of CYP enzymes.Transporter -mediated drug interactions 
+ In vitro studies indicated that voxelotor may act as an inhibitor of OATP1B1, OAT3 and MATE1 transporters (see section 5.2). Therefore, caution is recommended when co -administering voxelotor with sensitive substrates of these transporters, especially for those substrates with a narrow therapeutic index .Concomitant use of voxelotor with digoxin (a P -gp substrate) did not alter digoxin to a clinically relevant extent. Voxelotor is not an inhibitor of bile salt export pump (BSEP). It is not known if voxelotor affects the oral absorption of breast cancer resistance protein (BCRP )subst rates.Oral contraceptives and other steroidal agents 
+ Specific interaction studies with oral contraceptives have not been performed. However, based on the results of in vitro studies , a negative impact of voxelotor on contraceptive efficacy is not expected.Other interactions studied 
+ Voxelotor did not change the systemic exposure of caffeine (CYP1A2 substrate) and metoprolol (CYP2D6 substrate).

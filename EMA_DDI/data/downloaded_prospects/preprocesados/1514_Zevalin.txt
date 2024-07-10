@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ There are no known interactions with other medicinal products. No interaction studies have been performed. 
+ Growth factor treatment such as G-CSF must not be given to patients for 3 weeks prior to Zevalin administration as well as for 2 weeks following completion of the treatment (see also section 4.4).  
+ In a clinical trial in which Zevalin was administered as consolidation after prior first line chemotherapy, a higher frequency of severe and prolonged neutropenia and thrombocytopenia was observed in patients who had received Zevalin within 4 months after a combination chemotherapy of fludarabine with mitoxantrone and/or cyclophosphamide compared to those patients who had received any other chemotherapy. Hence the risk of haematological toxicity may be increased when Zevalin is administered shortly (< 4 months) after fludarabine-containing regimens (see also section 4.4). 
+ The safety and efficacy of immunization with any vaccine, particularly live viral vaccines, following therapy with Zevalin have not been studied (see also section ‘Special warnings and precautions for use’)
+. 
+ 

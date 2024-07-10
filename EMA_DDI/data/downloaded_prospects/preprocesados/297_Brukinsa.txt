@@ -1,0 +1,35 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Zanubrutinib is primarily metabolized by cytochrome P450 enzyme 3A (CYP3A).  
+ Agents that may increase zanubrutinib plasma concentrations  
+ Concomitant use of BRUKINSA and medicinal products that strongly or moderately inhibit CYP3A can increase zanubrutinib exposure.  
+ Strong CYP3A inhibitors  
+ The coadministration of multiple doses of itraconazole (strong CYP3A inhibitor) in healthy volunteers increased the Cmax of zanubrutinib by 2.6-fold and AUC by 3.8-fold. The coadministration of multiple doses of strong CYP3A inhibitors voriconazole and clarithromycin in patients with B- cell malignancies resulted in increased zanubrutinib exposures by 3.30- fold and 1.92- fold for dose -normalized AUC 0-24h and 3.29- fold and 2.01- fold for dose -normalized C max, respectively.  
+ If a strong CYP3A inhibitor must be used (e.g., voriconazole, ketoconazole, itraconazole, clarithromycin, indinavir, lopinavir, ritonavir, telaprevir), reduce the BRUKINSA dose to 80 mg (one capsule) for the duration of the inhibitor use. Monitor patient closely for toxicity and follow dose modification guidance as needed (see section 4.2). 
+ Moderate CYP3A inhibitors  
+ The coadministration of multiple doses of moderate CYP3A inhibitors fluconazole and diltiazem in patients with B -cell malignancies resulted in increased zanubrutinib exposures by 1.88 -fold and 1.62-fold for dose -normalized AUC
+0-24h and 1.81-fold and 1.62- fold for dose -normalized C max, respectively.  
+ If a moderate CYP3A inhibitor must be used (e.g., erythromycin, ciprofloxacin, diltiazem, dronedarone, fluconazole, verapamil, aprepitant, imatinib, grapefruit juice, Seville oranges), reduce the BRUKINSA dose to 160 mg (two capsules) for the duration of the inhibitor use. Monitor patients closely for toxicity and follow dose modification guidance as needed (see section 4.2).  
+ 
+ 7 Mild CYP3A inhibitors  
+ Simulations using fasted conditions suggested that the mild CYP3A inhibitors (e.g., cyclosporine and fluvoxamine) may increase the AUC of zanubrutinib by <1.5-fold. No dose adjustment is required in combination with mild inhibitors. Monitor patients closely for toxicity and follow dose modification guidance as needed.   Grapefruit and Seville oranges should be used with caution during BRUKINSA treatment, as these contain moderate inhibitors of CYP3A (see section 4.2). 
+ Agents that may decrease zanubrutinib plasma concentrations  
+ Concomitant use of zanubrutinib and strong or moderate inducers of CYP3A can decrease zanubrutinib plasma concentrations.
+ 
+ CYP3A inducers 
+ Co-administration of multiple doses of rifampin (strong CYP3A inducer) decreased zanubrutinib Cmax by 92% and AUC by 93% in healthy subjects.  Co-administration of multiple doses of rifabutin (moderate CYP3A inducer) decreased zanubrutinib C max by 48% and AUC by 44% in healthy subjects. Mild CYP3A inducers may be used with caution during BRUKINSA treatment.  Gastric acid reducing agents  
+ No clinically significant differences in zanubrutinib pharmacokinetics were observed when co-administered with gastric acid reducing agents (proton pump inhibitors, H2- receptor antagonists).  
+ Agents that may have their plasma concentrations altered by zanubrutinib 
+ Zanubrutinib is a mild inducer of CYP3A and CYP2C19. Concomitant use of zanubrutinib can decrease the plasma concentrations of these substrate medicinal products. 
+ CYP3A substrates  
+ Co-administration of multiple doses of zanubrutinib decreased midazolam (CYP3A substrate) Cmax by 
+30% and AUC by 47%. Narrow therapeutic index medicinal products that are metabolised by CYP3A (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, and tacrolimus) should be used with caution, as zanubrutinib may decrease the plasma exposures of these medicinal products.  
+ CYP2C19 substrates 
+ Co-administration of multiple doses of zanubrutinib decreased omeprazole (CYP2C19 substrate) Cmax by 20% and AUC by 36%. Narrow therapeutic index medicinal products that are metabolized by CYP2C19 (e.g., S-mephenytoin) should be used with caution, as zanubrutinib may decrease the plasma exposures of these medicinal products.  
+ Other CYP substrates  
+ No clinically significant differences were observed with S -warfarin (CYP2C9 substrate) pharmacokinetics when co-administered with zanubrutinib. 
+  
+ 
+ 8 Co-administration with transport substrates/inhibitors  
+ Co-administration of multiple doses of zanubrutinib increased digoxin (P- gp substrate) C max by 34% and AUC by 11%. No clinically significant differences in the pharmacokinetics of rosuvastatin (BCRP substrate) were observed when co- administered with zanubrutinib.  
+ The coadministration of oral P-gp substrates with a narrow therapeutic index (e.g., digoxin) should be done with caution as zanubrutinib may increase their concentrations. 
+ 

@@ -1,0 +1,53 @@
+4.5 Interaction with other medicinal products and other forms of  interaction  
+ Pharmacodynamic interactions  
+ Co-administration of lefamulin with other medicinal products known to prolong the QT interval is contraindicated (see section 4.3).  
+ Pharmacokinetic interactions 
+ Effects of other products on lefamulin 
+ Use with moderate and strong CYP3A/P -gp inducers  Medicinal products that are moderate or strong CYP3A inducers (e.g. rifampicin, St John´s wort [Hypericum perforatum], carbamazepine, pheny toin, bosentan, efavirenz, primidone) could significantly decrease lefamulin plasma concentration and may lead to reduced therapeutic effect of lefamulin. Co -administration of such medicinal products with lefamulin is contraindicated (see section 
+4.3). 5 
+ Use with strong CYP3A/P- gp inhibitors  Medicinal products that are strong CYP3A and P -gp inhibitors (e.g. clarithromycin, diltiazem, itraconazole, ketoconazole, nefazodone, posaconazole, ritonavir -containing regimens, voriconazole) may alter absorption of lefamulin and therefore increase lefamulin plasma concentrations. Co - administration of such medicinal products or grapefruit juice with lefamulin is contraindicated (see section 4.3).  
+ Potential for lefamulin to affec t other medicinal products  
+ Lefamulin is a moderate CYP3A inhibitor but has no induction potential.  
+ Co-administration of oral lefamulin with agents metabolised by CYP3A such as alprazolam, alfentanil, ibrutinib, lovastatin, simvastatin, , triazolam, varde nafil, and verapamil may result in increased plasma concentrations of these medicinal products. See Table 2.  
+ Co-administration of lefamulin with agents metabolised by CYP2C8 (e.g. repaglinide) may result in increased plasma concentrations of these medicinal products. Co -administration with sensitive substrates of CYP2C8 is contraindicated (see section 4.3 and Table 2).  
+ In a clinical drug -drug interaction study, no clinically relevant interaction was observed when lefamulin was co -administered with the P -gp substrate digoxin. Clinical drug interaction studies with lefamulin and substrates of other transporters have not been performed. In vitro studies indicated that lefamulin acts as an inhibitor of OATP1B1, OATP1B3, BCRP, OCT1 and MATE1 transporters.  Therefore, caution is recommended when co -administering lefamulin with sensitive substrates of these transporters, especially for those substrates with a narrow therapeutic window.  
+ Table 2 summarises effects on plasma concentrations of lefamulin and on co -admi nistered medicinal products expressed as least -square mean ratios (90% confidence interval). The direction of the arrow indicates the direction of the change in exposures (C max and AUC), where ↑ indicates an increase more than 25%, ↓ indicates a decrease m ore than 25%, and ↔ indicates no change (equal to or less than 25% decrease or increase). The table below is not all inclusive.  
+ Table 2: Interactions and dose recommendations of oral Xenleta with other medicinal products  Medicinal product by therapeutic areas/possible mechanism of interaction   Effect on medicinal product levels   
+ Cmax  
+ AUC   
+ Clinical comments  ANTIARRHYTHMICS  Digoxin  
+0.5 mg single dose  — Digoxin  1.05 (0.88-1.26)  1.11 (0.98-1.27)  No dose adjustment required.  (Inhibition of P -gp)     ANTIDEPRESSANTS  Fluvoxamine*  
+100 mg twice daily  Not studied Expected ↔ Lefamulin    No dose adjustment required.  (Mild inhibition of  CYP3A)    ANTIDIABETICS  Metformin  
+1000 mg singe dose  
+ (Inhibition of MATE, OCT1, OCT2)  Not studied    Caution is recommended. Co- administration with lefamulin may lead to higher exposures of  metformin. Patients should be monitored.  6 
+ Medicinal product by therapeutic areas/possible mechanism of interaction   Effect on medicinal product levels   
+ Cmax  
+ AUC   
+ Clinical comments  Repaglinide*  
+0.25 mg single dose  
+ (Inhibition of CYP3A4, CYP2C8)  Not studied Expected↑ Repaglinide    Co-administration with lefamulin may lead to higher exposures of repaglinide and is contraindicated (see  section 4.3).  ANTIFUNGALS  Ketoconazole  
+200 mg twice daily  
+ (Strong inhibiton of CYP3A4)  ↑ Lefamulin  1.58 (1.38-1.81)  2.65 (2.43-2.90)  Co-administration with strong CYP3A inhibitors like ketoconazole may lead to increased exposures of lefamulin and is  contraindicated (see section 4.3).  Fluconazole*  
+400 mg day 1 + 200 mg once daily 
+ (Moderate inhibition of CYP3A)  Not studied Expected ↑ Lefamulin    Co-administration of medicinal products known to prolong QT interval is contraindicated (see section 4.3).  ANTIMYCOBACTERIALS  Rifampicin  
+600 mg once daily 
+ (Strong induction of CYP3A)  ↓ Lefamulin  0.43 (0.37-0.50)  0.28 (0.25-0.31)  Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is  contraindicated (see section 4.3).  ETHINYL -OESTRADIOL -CONTAINING PRODUCTS  Ethinyl oestradiol*(EE) 
+35 µg once daily 
+ (Inhibition of CYP3A4)  Not studied    Use with caution. (see Section 4.6).  HIV -ANTIVIRAL AGENTS  Efavirenz *  
+600 mg once daily  
+ (Moderate induction of CYP3A4)  Not studied Expected ↓ Lefamulin    Co-administration of moderate CYP3A inducers may result in reduced therapeutic effect of lefamulin and is contraindicated (see  section 4.3).  BENZODIAZEPINE BZ1 RECEPTOR ANTAGONIST  Zolpidem*  
+10 mg single dose  
+ (Inhibition of CYP3A4)  Not studied Expected ↑ Zolpidem    Monitor for adverse reactions during co- administration with lefamulin. Consider  dosage adjustment of zolpidem#. 7 
+ Medicinal product by therapeutic areas/possible mechanism of interaction   Effect on medicinal product levels   
+ Cmax  
+ AUC   
+ Clinical comments  GASTRIC ACID SUPPRESSORS/NEUTRALIZERS  Omeprazole  Not studied  Expected: ↔ Lefamulin  No dose adjustment  required.  HERBAL PRODUCTS  St. John’s Wort  
+ (Strong induction of CYP3A4)  Not studied  Expected: ↓ Lefamulin  Co-administration of strong CYP3A inducers may result in reduced therapeutic effect of lefamulin and is  contraindicated (see section 4.3).  HMG -COA REDUCTASE INHIBITORS  Rosuvastatin  
+20 mg single dose Atorvastatin, Lovastatin, Pravastatin  
+ (Inhibition of CYP3A, BCRP, OATP1)  Not studied    Use with caution.  SEDATIVE AGENTS  Midazolam  
+2 mg oral single dose 
+ (Inhibition of CYP3A4)  — Midazolam  2.03 (1.84-2.23)  3.07 (2.75-3.43)  Caution is recommened. when co -administered with oral lefamulin. Consider dosage adjustment of midazolam#. 
+*Based on in vitro interaction studies, a physiological based pharmacokinetic model was developed and used for prediction.  
+#Refer to the respective Sm 
+ PC.  
+ 

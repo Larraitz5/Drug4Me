@@ -1,0 +1,47 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Everolimus is a substrate of CYP3A4, and also a substrate and moderate inhibitor of Pg 
+ P. Therefore, absorption and subsequent elimination of everolimus may be influenced by products that affect CYP3A4 and/or Pg 
+ P. In vitro , everolimus is a competitive inhib itor of CYP3A4 and a mixed inhibitor of CYP2D6.  
+ Known and theoretical interactions with selected inhibitors and inducers of CYP3A4 and Pg 
+ P are listed in Table  2 below.  
+ CYP3A4 and Pg 
+ P inhibitors increasing everolimus concentrations  
+ Substances that are inhibitors of CYP3A4 or Pg 
+ P may increase everolimus blood concentrations by decreasing metabolism or the efflux of everolimus from intestinal cells.  
+ CYP3A4 and Pg 
+ P inducers decreasing everolimus concentrations  
+ Substances that are inducers of CYP3A4 or Pg P may decrease everolimus blood concentrations by increasing metabolism or the efflux of everolimus from intestinal cells.  
+ Table  2 Effects of other active substances on everolimus  
+ Active substance by interaction  
+ Interaction – Change in Everolimus AUC/C max Geometric mean ratio (observed range)  Recommendations concerning co-administration  Potent  CYP3A4/Pg 
+ P inhibitors  Ketoconazole  AUC ↑15.3 -fold (range 11.2 -22.5)  Cmax ↑4.1-fold (range 2.6 -7.0) Concomitant treatment of Votubia  and potent inhibitors is not recommended.  Itraconazole, posaconazole, voriconazole  Not studied. Large increase in everolimus concentration is expected.  Telithromycin, clarithromycin  Nefazodone  Ritonavir, atazanavir, saquinavir, darunavir, indinavir, nelfinavir  12 Moderate  CYP3A4/Pg 
+ P inhibitors  Erythromycin  AUC ↑4.4 -fold (range 2.0 -12.6)  Cmax ↑2.0-fold (range 0.9 -3.5) Use caution when co -administration of moderate CYP3A4 inhibitors or Pg 
+ P inhibitors cannot be avoided.  
+ For patients with renal angiomyolipoma associated with TSC:  If patients require co -administration of a moderate CYP3A4 or Pg 
+ P inhibitor, dose reduction to 5  mg or 
+2.5 mg daily  may be considered. However, there are no clinical data with this dose adjustment. Du e to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended . If the moderate inhibitor is discontinued, consider a washout period of at least 
+2 to 3  days (average elimination time for most commonly used moderate inhibitors) before the Votubia dose is returned to the dose used prior to initiation of the co -administration  (see also Therapeutic drug monitoring  in section  4.2). 
+ For patients with SEGA associat ed with TSC:  If patients require co -administration of a moderate CYP3A4 or Pg 
+ P inhibitor, reduce the daily dose by approximately 50%. Further dose reduction may be required to manage adverse reactions (see section s 4.2 and 4.4). Everolimus trough concentra tions should be assessed at least 1  week after the addition of a moderate CYP3A4 or Pg 
+ P inhibitor. If the moderate inhibitor is discontinued , consider a washout period of at least 2 to 3  days (average elimination time for most commonly used moderate inhibitors) before  the Votubia  dose is returned to the dose used prior to initiation of the co-administration.  The everolimus trough concentration should be assessed at least 1  week  later (see section s 4.2 and 4.4) . Imatinib  AUC ↑ 3.7-fold Cmax ↑ 2.2-fold Verapamil  AUC ↑3.5 -fold (range 2.2 -6.3) Cmax ↑2.3-fold (range1.3 -3.8) Ciclosporin oral  AUC ↑2.7 -fold (range 1.5 -4.7) Cmax ↑1.8-fold (range 1.3 -2.6) Cannabidiol (Pg P inhibitor ) AUC ↑2.5 -fold Cmax ↑2.5-fold Fluconazole  Not studied. Increased exposure expected.  Diltiazem  Dronedarone  Not studied. Increased exposure expected.  Amprenavir, fosamprenavir  Not studied. Increased exposure expected.  Grapefruit juice or other food affecting CYP3A4/Pg 
+ P  Not studied. Increased exposure expected (the effect varies widely).  Combination should be avoided.  13 Potent  and moderate  CYP3A4 inducers  Rifampicin  AUC ↓63%  (range 0 -80%)  Cmax ↓58%  (range 10 -70%)  Avoid the use of concomitant potent CYP3A4 inducers.  
+ For patients with renal angiomyolipoma associated with TSC:  If patients require co -administration of a potent CYP3A4 inducer, a Votubia dose increase from 10  mg daily up to 20  mg daily should be considered using 5  mg increments or less applied on Day  4 and 8 following start of the inducer. This dose of Votubia is predicted to adjust the AUC to the range observed without inducers. However, there are no clinical data with this dose adjustment. If treatment with the inducer is discontinued, consider a washout peri od of at least 3 to 5  days (reasonable time for significant enzyme de -induction) before the Votubia dose is returned to the dose used prior to initiation of the co-administration (see also Therapeutic drug monitoring in section  4.2). 
+ For patients with SEG A associated with TSC:  Patients receiving concomitant potent CYP3A4 inducers may require an increased Votubia dose to achieve the same exposure as patients not taking potent inducers. Dosing should be titrated to attain trough concentrations of 5 to 
+15 ng/ml. If concentrations are below 5  ng/ml, the daily dose may be increased by 2.5  mg every 
+2 weeks, checking the trough level and assessing tolerability before increasing the dose.  
+ The addition of another concomitant strong CYP3A4 inducer may not require ad ditional dose adjustment. Assess the everolimus trough level 
+2 weeks after initiating the additional inducer. Adjust the dose by increments of 2.5  mg as necessary to maintain the target trough concentration.  
+ Dexamethasone  Not studied. Decreased exposure expected.  Antiepileptics (e.g. carbamazepine, phenobarbital, phenytoin)  Not studied. Decreased exposure expected.  Efavirenz, nevirapine  Not studied. Decreased exposure expected.  14 Discontinuation of one of multiple strong CYP3A4 inducers may not require additional dose adjustment. Assess the everolimus trough level 
+2 weeks after discontinuation of one of multiple strong CYP3A4 inducers. If all potent inducers are discontinued, consider a washout period of at least 3 to 5  days (reasonable time for significant enzyme de -induction) before the Votubia dose is returned to the dose used prior to initiation of the co-administration. The everolimus trough concentrations should be assessed 2  to 4 weeks later since the natural degrada tion time of the induced enzymes has to be taken into account (see sections  4.2 and 4.4).  St John’s Wort ( Hypericum perforatum ) Not studied. Large decrease in exposure expected.  Preparations containing St John’s Wort should not be used during treatment with everolimus  
+ Agents whose plasma concentration may be altered by everolimus  
+ Based on in vitro  results, the systemic concentrations obtained after oral daily doses of 10  mg make inhibition of Pg 
+ P, CYP3A4 and CYP2D6 unlikely. However, inhibition of CYP3A4 and Pg 
+ P in the gut cannot be excluded . An interaction study in healthy subjects demonstrated th at co -administration of an oral dose of midazolam, a sensitive CYP3A substrate probe, with everolimus resulted in a 25% increase in midazolam C max and a 30% increase in midazolam AUC (0-inf). The effect is likely to be due to inhibition of intestinal CYP3A4 by everolimus.  Hence everolimus may affect the bioavailability of orally co -administered CYP3A4 substrates. However, a clinically relevant effect on the exposure of systemically administered CYP3A4 substrates is not expected (see section  4.4). 
+ In EXIST -3 (Study CRAD001M2304), e verolimus increased pre -dose concentrations of the antiepileptic s carbamazepine, clobazam, and the clobazam metabolite N -desm ethylclobazam by about 
+10%. The increase in the pre -dose concentrations of these antiepile ptics  may not be clinically significant but dose adjustments for antiepileptics  with a narrow therapeutic index, e.g carbamazepine, may be considered . Everolimus had no impact on pre -dose concentrations of antiepileptics  that are substrates of CYP3A4 (clon azepam, diazepam, felbamate and zonisamide).  
+ Concomitant use of ACE inhibitors  
+ Patients taking concomitant ACE inhibitor (e.g. ramipril) therapy may be at increased risk for angioedema (see section  4.4). 
+ Vaccinations  
+ The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Votubia . The use of live vaccines should be avoided during treatment with Votubia . Examples of live vaccines are: intranasal influenz a, measles, mumps, rubella, oral polio, BCG (Bacillus Calmette -Guérin), yellow fever, varicella, and TY21a typhoid vaccines.  
+ Radiation treatment  
+ Potentiation of radiation treatment toxicity has been reported in patients receiving everolimus (see sections  4.4 and 4.8).  15  

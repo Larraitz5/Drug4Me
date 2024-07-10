@@ -1,0 +1,27 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Mercaptopurine/azathioprine  
+ On the basis of the mechanism of action of febuxostat on XO inhibition concomitant use is not recom mended. Inhibition of XO by febuxostat may cause increased plasma concentrations of these  drugs leading to myelo toxicity . In case of concomitant administration with febuxostat, the dose of mercaptopurine/azathioprine should be reduced to 20% or less of the  previously prescribed dose (see section s 4.4 and 5.3) .  The adequacy of the proposed dose adjustment, which was based on a modelling and simulation analysis from preclinical data in rats, was confirmed by the results of a clinical drug -drug interaction st udy in healthy volunteers, receiving azathioprine 100 mg alone and a reduced dose of azathioprine (25 mg) in combination with febuxostat (40 or 120 mg).  
+ Drug interaction studies of febuxostat with other cytotoxic chemotherapy have not been conducted. No data is available regarding the safety of febuxostat during other cytotoxic therapy.  
+ Rosiglitazone/CYP2C8 substrates  
+ Febuxostat was shown to be a weak inhibitor of CYP2C8 in vitro . In a study in healthy subjects, coadministration of 120  mg febuxostat QD with a single 4  mg oral dose of rosiglitazone had no effect  on the pharmacokinetics of rosiglitazone and its metabolite N -desmethyl rosiglitazone, indicating that febuxostat is not a CYP2C8 enzyme inhibito r in vivo . Thus, co -administration of febuxostat with  rosiglitazone or other CYP2C8 substrates is not expected to require any dose adjustment for those compounds.  
+ Theophylline  
+ An interaction study in healthy subjects has been performed with febuxostat to  evaluate whether the inhibition of XO may cause an increase in the theophylline circulating levels as reported with other XO inhibitors. The results of the study showed that the co -administration of febuxostat 80  mg QD with theophylline 400  mg single dose  has no effect on the pharmacokinetics or safety of theophylline. Therefore no special caution is advised when febuxostat 80  mg and theophylline are given concomitantly. No data is available for febuxostat 
+120 mg. 
+ Naproxen and other inhibitors of glucuronidation  
+ Febuxostat metabolism depends on Uridine Glucuronosyl Transferase (UGT) enzymes. Medicinal products that inhibit glucuronidation, such as NSAIDs and probenecid, could in theory affect the  elimination of febuxostat. In healthy subjects conc omitant use of febuxostat and naproxen 250  mg twice daily was associated with an increase in febuxostat exposure (C max 
+28%, AUC 41% and t 1/2 26%). In clinical studies the use of naproxen or other NSAIDs/Cox -2 6  
+ inhibitors was not related to any  clinically significant increase in adverse events.  
+ Febuxostat can be co -administered with naproxen with no dose adjustment of febuxostat or naproxen being necessary.  
+ Inducers of glucuronidation  
+ Potent inducers of UGT enzymes might possibly lead to incre ased metabolism and decreased efficacy of febuxostat. Monitoring of serum uric acid is therefore recommended 1 -2 weeks after start of treatment with a potent inducer of glucuronidation. Conversely, cessation of treatment of an inducer might lead to increas ed plasma levels of febuxostat.  
+ Colchicine/indometacin/hydrochlorothiazide/warfarin  
+ Febuxostat can be co -administered with colchicine or indomethacin with no dose adjustment of febuxostat or the co -administered active substance being necessary.  
+ No dose adjustment is necessary for febuxostat when administered with hydrochlorothiazide.  
+ No dose adjustment is necessary for warfarin when administered with febuxostat. Administration of febuxostat (80  mg or 120  mg once daily) with warfarin had no effect on the  pharmacokinetics of warfarin in healthy subjects. INR and Factor VII activity were also not affected by the co - administration of febuxostat.  
+ Desipramine/CYP2D6 substrates  
+ Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro. In a study in hea lthy subjects,  
+120 mg febuxostat  QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo. 
+ Thus, co -administration of febuxostat with other CYP2D6  substrates is not expected to require any dose adjustment for those compounds.  
+ Antacids  
+ Concomitant ingestion of an antacid containing magnesium hydroxide and aluminium hydroxide has been shown to delay absorption of febuxostat (approximately 1 hour) and to cause a 32% decrease in  Cmax, but no significant change in AUC was observed. Therefore, febuxostat may be taken without regard to antacid use.  
+ 

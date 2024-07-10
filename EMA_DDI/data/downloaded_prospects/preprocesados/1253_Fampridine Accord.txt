@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ Concurrent treatment with other medicinal products containing fampridine (4 -aminopyridine) is contraindicated (see section 4.3).  
+ Fampridine is eliminated mainly via the kidneys with active renal secretion accounting for about 60% (see section 5.2). OCT2 is the transporter responsible for the active secretion of fampridine. Thus, the concomitant use of fampridine with medicinal produ cts that are inhibitors of OCT2 for example, cimetidine are contraindicated (see section 4.3) and concomitant use of fampridine with medicinal products that are substrates of OCT2 for example, carvedilol, prop ranolol and metformin is cautioned (see section  4.4.) 
+ Interferon:  fampridine has been administered concomitantly with interferon -beta and no pharmacokinetic medicinal product interactions were observed.  
+ Baclofen:  fampridine has been administered concomitantly with baclofen and no pharmacokinetic medicinal product interactions were observed.  
+ 

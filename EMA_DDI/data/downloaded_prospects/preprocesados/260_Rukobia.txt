@@ -1,0 +1,159 @@
+4.5 Interaction with other medicinal products and other forms of inte raction   
+ Effect of other medical products  on the pharmacokinetics of t emsavir   
+ Temsavir is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein ( BCRP ), but not of organic anion transporters OATP1B1 or OATP1B3. Its biotransformation to two circulating metabolites, BMS -646915 and BMS -930644, is mediated by unidentified esterase s (36.1%)  and by cytochrome P 450 (CYP )3A4 enzyme  (21.2%) , respectively.  
+ When fostem savir was co -administered with the  strong CYP3A inducer rifampicin, a significant reduction in temsavir plasma concentrations was observed. Significant decreases in temsavir plasma concentrations may also occur when fostemsavir is co -administered with other strong CYP3A inducers, and may r esult in loss of virologic response  (see section 4.3) . 
+ 5 Fostemsavir may be co -administered with strong CYP3A4, BCRP and/or P -gp inhibitors (e.g., clarithromycin, itraconazole, posaconazole, and voriconazole) without dose adjustment based on the results of clinical drug interaction studies with cobicistat and ritonavir.    
+ Effect of temsavir on the pharmacokinetics of other medicinal products   
+ In vitro , temsavir inhibited OATP1B1 and OATP1B3 (IC 50 = 32 and 16 µ M, respectively). Additionally, temsavir and its two metabolites (BMS -646915 and BMS -930644) inhibited BCRP (IC 50 
+= 12, 35, and 3.5 to 6.3 µM, respect ively). Based on these data, temsavir is expected to affect the pharmacokinetics of active substances that are substrates of OATP1B1/3 or BCRP (e.g. rosuvastatin, atorvastatin, simvastatin, pitavastatin and fluvast atin). Therefore, dose modifications and/or careful titration of dose is recommended for certain statins . 
+ Interaction table  
+ Selected drug interactions are presented in Table 1. Recommendations are based on either drug interaction studies or predicted interactions based on the expected magnitude of the interaction and potential for serious adverse events or loss of efficacy.  (Abbreviations: ↑ = Increase; ↓ =decrease; ↔ 
+= no significant change; AUC=area under the concentration versus time curve; C max=maximum observed concentration, C τ=concentration at the end of dosing interval; *=  Using cross -study comparisons to historical pharmacokinetic data ). 
+ Table 1 : Interactions  Concomitant medicinal product by therapeutic area  Effect on concentration of temsavir or c oncomitant medicinal product  Recommendation  concerning c o-administration  HIV -1 Antiviral Agents  Non-nucleoside Reverse Transcriptase Inhibitor  Efavirenz (EFV)  Temsavir ↓ (induction of CYP3A enzymes)1   This interaction has not been studied.  Efavirenz is expected to decrease temsavir plasma concentrations. No dose adjustment is necessary .  Etravirine (ETR) without boosted protease inhibitors  Temsavir ↓ 
+  AUC ↓  50%  
+  Cmax ↓ 48%  
+  Cτ ↓ 52%  (induction of CYP3A enzymes)1   
+ ETR ↔ Etravirine decreased temsavir plasma concentrations. N o dose adjustment of either medicinal product  is necessary.  Nevirapine (NVP)  Temsavir ↓ (induction of CYP3A enzymes)1   This interaction has not been studied.  Nevirapine is expected to decrease temsavir plasma concentrations. N o dose adjustment is necessary . Nucleoside Reverse Transcriptase Inhibitor  Tenofovir disoproxil  (TDF)  Temsavir ↔ 
+  AUC  ↔ 
+  Cmax ↓ 1% 
+  Cτ ↑ 13%  
+ Tenofovir  ↑ 
+  AUC ↑  19%  
+  Cmax ↑ 18%  
+  Cτ ↑ 28% No dose adjustment of either medicinal product  is necessary.  6 Tenofovir alafenamide (TAF)  TAF ↑ (inhibition of OATP1B1/3 and/or BCRP )    This interaction has not been studied.  Temsavir is expected to increase tenofovir alafenamide plasma concentrations. T he recommended dose of TAF is 10 mg when co-administered with fostemsavir . Protease Inhibitor  Atazanavir (ATV)/ritonavir (RTV)  Temsavir ↑ 
+  AUC ↑  54%  
+  Cmax ↑ 68%  
+  Cτ ↑ 57%  (inhibition of CYP3A enzymes and P -gp)1   
+ ATV ↔  RTV ↔ Atazanavir/ritonavir increased temsavir concentrations. No dose adjustment of either medicinal product is necessary.  Darunavir (DRV)/cobicistat  Temsavir ↑ 
+  AUC ↑  97%  
+  Cmax ↑ 79%  
+  Cτ ↑ 124%  (inhibition of CYP3A enzymes, P -gp and/or BCRP)1   Darunavir/cobicistat increased temsavir plasma concentrations. No dose adjustment is necessary.  Darunavir (DRV)/ritonavir  Temsavir ↑ 
+  AUC ↑  63%  
+  Cmax ↑ 52%  
+  Cτ ↑ 88%  (inhibition of CYP3A enzymes and P -gp)1   
+ DRV ↔  
+  AUC ↓  6% 
+  Cmax ↓ 2% 
+  Cτ ↓ 5% 
+ RTV ↔  
+  AUC ↑  15%  
+  Cmax ↔ 
+  Cτ ↑ 19% Darunavir/ritonavir increased temsavir plasma concentrations. No dose adjustment is necessary  for any medicinal product  when co -administered . Darunavir (DRV)/ritonavir 
++ Etravirine  Temsavir ↑ 
+  AUC ↑  34%  
+  Cmax ↑ 53%  
+  Cτ ↑ 33%  
+ Darunavir ↓ 
+  AUC ↓  6% 
+  Cmax ↓ 5% 
+  Cτ ↓ 12%  
+ Ritonavir ↑ 
+  AUC ↑  9% 
+  Cmax ↑ 14%  
+  Cτ ↑ 7% 
+ Etravirine ↔ Darunavir/ritonavir co -administered with etravirine increased temsavir plasma concentrations. No dose adjustment is necessary  for any medicinal product  when co -administered . 7   AUC ↑ 28% 
+  Cmax ↑ 18%  
+  Cτ ↑ 28% Pharmacokinetic Enhancer  Cobicistat (COBI)  Temsavir ↑ 
+  AUC ↑  93%  
+  Cmax ↑ 71%  
+  Cτ ↑ 136%  (inhibition of CYP3A enzymes, P -gp and/or BCRP)1 Cobicistat increased temsavir plasma concentrations. No dose adjustment is necessary.  Ritonavir  Temsavir ↑ 
+  AUC ↑  45%  
+  Cmax ↑ 53%  
+  Cτ ↑ 44%  (inhibition of CYP3A and P-gp)1 
+ RTV ↔ Ritonavir increased temsavir plasma concentrations. No dose adjustment of either medicinal product is necessary.  Others  Maraviroc  (MVC)  Temsavir ↔ 
+  Cmax ↑ 13%  
+  AUC ↑  10%  
+  Cτ ↓ 10%  
+ MVC ↔  
+  AUC ↑  25%  
+  Cmax ↑ 1% 
+  Cτ ↑ 37% No dose adjustment  of either medicinal product  is necessary.  Raltegravir (RAL)  Temsavir ↔* 
+ RAL ↔* No dose adjustment of either medicinal product is necessary.  Other medicinal products  Buprenorphine/naloxone  
+ Buprenorphine  ↔ 
+  AUC ↑  30%  
+  Cmax ↑ 24%  
+ Norb uprenorphine  ↔ 
+  AUC ↑  39%  
+  Cmax ↑ 24% No dose adjustment necessary . Methadone  Methadone  ↔ 
+ R-Methadone  
+  AUC ↑  13%  
+  Cmax ↑ 15%  
+ S-Methadone  
+  AUC ↑  15%  
+  Cmax ↑ 15% No dose adjustment necessary . H2-Receptor Antagonists: Famotidine  Temsavir ↔ 
+  AUC ↑  4% 
+  Cmax ↑ 1% 
+  Cτ ↓ 10% No dose adjustment is necessary  when combined with medicinal products that in crease gastric p 
+ H.  8 Oral contraceptives:  Ethinyl estradiol (EE)  EE ↑  
+  AUC ↑  39%  
+  Cmax ↑ 40%  (inhibition of CYP enzymes and/or BCRP)1 EE should not exceed  30 µg daily. Caution is advised, particularly in patients with additional risk factors for thromboembolic events (see  section 4.4).  
+ Norethindrone acetate  (NE)  NE ↔ 
+  AUC ↑  8% 
+  Cmax ↑ 8% No dose adjustment is necessary  Rifabutin  Temsavir ↓ 
+  AUC ↓  30%  
+  Cmax ↓ 27%  
+  Cτ ↓ 41%  (induction of CYP3A enzymes)1   Rifabutin decreased temsavir plasma concentrations. No dose adjustment is necessary.  Rifabutin + Ritonavir  Temsavir ↑ 
+  AUC ↑  66%  
+  Cmax ↑ 50%  
+  Cτ ↑ 158%  Rifabutin co -administered with ritonavir increased temsavir plasma concentrations. No dose adjustment is necessary.  Rifampicin   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Temsavir ↓ 
+  AUC ↓  82%  
+  Cmax ↓ 76%  (induction of CYP3A enzymes)   Rifampicin co -administration may lead to loss of virologic response to fostemsavir due to significant decreases in temsavir plasma concentrations caused by strong CYP3A4 induction. Therefore, the concomitant use of fostemsavir and rifampicin  is contraindicated . 
+ Although not studied, concomitant use of fostemsavir and other strong CYP3A4 inducers is contraindicated (see section 4.3) .  HMG CO -A Reductase Inhibitors:  Rosuvastatin  Atorvastatin  Pitavastatin   Fluvastatin  Simvastatin  
+ 
+ 
+ 
+ 
+ 
+  
+ Pravastatin  Rosuvastatin ↑ 
+  AUC ↑  69%  
+  Cmax ↑ 78%  (inhibition of OATP1B1/3 and/or BCRP )    
+  
+ 
+  
+ 
+ 
+ 
+  Pravastatin ↑  
+ 
+ 
+ 
+ 
+ Coadministration of fostemsavir increases  rosuvastatin plasma concentrations  caused by OATP1B1/3 and/ or BCRP  inhibition by temsavir . Therefore u se the lowest possible starting dose of rosuvastatin with careful monitoring.  
+ Although not studied, use the lowest possible starting dose of other statins that are substrates of OATP1B1/3 and/or BCRP with careful monitoring  for HMG -Co 
+ A reductase inhibitor -associated adverse reaction s.  
+ Although not studied, c linically relevant increases in plasma concentrations of pravastatin are not expected as it is not a substrate o f BCRP. No dose adjustment is requir ed. 9 Hepatitis C virus Direct -Acting Antivirals (HCV DAAs) : Elbasvir/Grazoprevir  
+ 
+ 
+ 
+ 
+ 
+ 
+ Sofosbuvir  Ledipasvir  Velpatasvir  Voxilaprevir  Ombitasvir  Paritaprevir  Dasabuvir  Glecaprevir  Pibrentasvir  Daclatasvir  Grazoprevir ↑ (inhibition of OATP1B1/3)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HCV- DAA ↑  This interaction has not been studied.  Temsavir may increase grazoprevir plasma concentrations to a clinically relevant extent  caused by OATP1B1/3 inhibition by temsavir. Co-administration of fostemsavir with elbasvir/grazoprevir is not recommended  as increased grazoprevir concent rations may increase the risk of ALT elevations.  
+ Although not studied, temsavir may increase plasma concentrations of other HCV DAAs. No dose adjustment is necessary.  
+1Potential mechanism(s) of drug interactions  
+ QT prolonging medicinal products  
+ There is no information available on the potential for a pharmacodynamic interaction between fostemsavir and medicinal products that prolong the QTc interval of the ECG. However, based on a study of healthy subjects, in which a supratherapeutic dose of fostemsavir prolonged the QTc interval, fostemsavir should be used with caution when co- administered with a medicinal product with a known risk of Torsade de Pointes (see sections 4.4).  
+ 

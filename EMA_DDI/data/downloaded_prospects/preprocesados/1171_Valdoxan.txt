@@ -1,0 +1,16 @@
+4.5 Interaction with other medicinal produc ts and other forms of interaction  
+ Potential interactions affecting agomelatine  
+ Agomelatine is metabolised mainly by cytochrome P450 1A2 (CYP1A2) (90%) and by CYP2C9/19 (10%). Medicinal products that interact with these isoenzymes may decrease or increase  the bioavailability of agomelatine.  Fluvoxamine, a potent CYP1A2 and moderate CYP2C9 inhibitor markedly inhibits the metabolism of agomelatine resulting in a 60 -fold (range 12 -412) increase of agomelatine exposure.  Consequently, co -administration of Vald oxan with potent CYP1A2 inhibitors (e.g. fluvoxamine, ciprofloxacin) is contraindicated.  Combination of agomelatine with oestrogens (moderate CYP1A2 inhibitors) results in a several fold increased exposure of agomelatine. While there was no specific safety  signal in the 800 patients treated in combination with oestrogens, caution should be exercised when prescribing agomelatine with other moderate CYP1A2 inhibitors (e.g.  propranolol,  enoxacin ) until more experience has been gained (see section 4.4).  Rifampi cin an inducer of all three cytochromes  involved in the metabolism of agomelatine may decrease the bioavailability of agomelatine.  Smoking induces  CYP1A2 and has been shown to decrease the bioavailability of agomelatine, especially in heavy smokers ( > 15 cigarettes/day) (see section 5.2).  
+ Potential for agomelatine to affect other medicinal products  
+  
+6 In vivo , agomelatine does not induce CYP450 isoenzymes. Agomelatine inhibits neither CYP1A2 in vivo nor the other CYP450 in vitro . Therefore, agomelatine will not modify exposure to medicinal products metabolised by CYP 450.  
+ 
+ Other medicinal products  
+ No evidence of pharmacokinetic or pharmacodynamic interaction with medicinal products which could be prescribed concomitantly with Valdoxan in the target populati on was found in phase I clinical trials: benzodiazepines, lithium, paroxetine, fluconazole and theophylline.  
+ Alcohol  
+ The combination of agomelatine  and alcohol is not advisable.  
+ Electroconvulsive therapy (ECT)  
+ There is no experience of concurrent use of agomelatine with ECT. Animal studies have not shown proconvulsant properties (see section 5.3). Therefore, clinical consequences of ECT performed concomit antly  with agomelatine treatment , are considered to be unlikely.  
+ Paediatric population  
+ Interactio n studies have only been performed in adults.  
+ 

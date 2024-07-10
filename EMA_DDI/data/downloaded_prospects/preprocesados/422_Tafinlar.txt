@@ -1,0 +1,42 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of other medicinal products on dabrafenib  
+ Dabrafenib is a substrate for the metabolising enzymes  CYP2C8 and CYP3A4 , while the active metabolite s hydroxy -dabrafenib and desmethyl -dabrafenib are CYP3A4 substrates.  Medicinal products that are strong inhibitors or inducers of CYP2C8 or CYP3A4 are therefore likely to increase or decrease, respectively, dabrafenib concentrations. Alternative agents should be considered during administration with dabrafenib when possible. Dabrafenib should be u sed with  caution if strong inhibitors (e.g. ketoconazole, gemfibrozil, nefazodone, clarithromycin, ritonavir , saquinavir, telithromycin, itraconazole, voriconazole, posaconazole, atazanavi r) are co-administered with dabrafenib.  Co-administration of dabrafenib with  potent  inducers (e.g. rifampicin, phenytoin , carbamazepine, phenobarbital,  or St John’s wort  (Hypericum perforatum )) of CYP2C8 or CYP3A4  should be avoided . 
+ Administration of ketoconazole (a CYP3A4 inhibitor) 400 mg once daily, with dabrafenib 75  mg twice daily, resulted in a 71% increase in dabr afenib AUC  and a 33% increase in dabrafenib C max relative to administration of dabrafenib 75  mg twice daily alone. Co-administration resulted in increases in hydroxy - and desmethyl -dabrafe nib AUC  (increases of 82% and 68%, respectively). A decrease of 16% in AUC was noted for carboxy -dabrafenib.  
+ Administration of gemfibrozil (a CYP2C8 inhibitor) 600 mg twice daily, with dabrafenib 75  mg twice daily, resulted in a 47% increase in dabr afenib AUC  but did not alter dabrafenib C max relative to administration of dabrafenib 75  mg twice daily alone. Gemfibrozil had no clinical ly relevant effect on the systemic exposure to dabrafenib metabolites (≤13%).  
+ Administration of rifampin (a CYP3A4/CYP2C8 inducer) 600  mg once daily , with dabrafenib 150  mg twice daily , resulted in a decrease in repeat -dose dabrafenib C max (27%) and AUC (34%). No relevant change in AUC was noted for hydroxy -dabrafenib. There was an increase in AUC of 73% for carboxy -dabrafenib and a decrease in AUC of 30% for desmethyl -dabrafenib.  
+ 12 Co-administration of repeat doses of dabrafenib 150  mg twice daily and the p 
+ H -elevating agent rabeprazole 40  mg once daily resulted in a 3% increase in AUC and a 12% decrease in dabrafenib Cmax. These changes in dabrafenib AUC and C max are considered not clinically meaningful. Medicinal products that alter the p 
+ H of the upper gastrointestinal (GI) tract (e.g. proton pump inhibitors, H 2-receptor antagonists, antacids) are not expected to reduce the bioavailability of dabrafenib.  
+ Effect of dabrafenib on other medicinal products  
+ Dabrafenib is a n enzyme inducer and i ncreases the synthesis of drug -metabolising enzymes including CYP3A4, CYP2Cs and CYP2B6 and may increase the synthesis of transporters. This results in reduced plasma levels of medicinal products metabolised  by these enzymes  and may affect  some transported medicinal products . The reduction in plasma concen trations can  lead to lost or reduced clinical effect  of these medicinal products . There is also a risk of increased formation of active metabolites  of these medicinal products . Enzymes that may be induced include CYP3A in the liver and gut, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and UGTs (glucuronide conjugating enzymes). The transport protein P -gp may also be induced as well as other transporters , e.g. MRP -2. Induction of OATP1B1/1B3 and BCRP is not likely based on the observations from a clinical study with rosuvastatin.  
+ In vitro , dabrafenib produced dose -dependent increases in CYP2B6 and CYP3A4. In a clinical drug interaction study,  Cmax and AUC of oral midazolam (a CYP3A4 substrate ) decreased by 47% and 65%, respectively with co -administration of repeat -dose dabrafenib.  
+ Administration of da brafenib 150  mg twice daily and  warfarin resulted in a decrease in AUC  of S- and R- warfarin of 37% and  33%, respectively,  compared to administration of warfarin alone. C max of S- and R -warfari n increased 18% and  19%.  
+ Interactions with many medicinal products eliminated through metabolism or active transport is expected. If their therapeutic effect is of large importance to the patient, and dose adjustments are not easily performed based on monitoring of efficacy or pla sma concentration s, these medicinal products  are to be avoided or used with caution. The risk for liver injury after paracetamol administration is suspected to be higher in patients concomitantly treated with enzyme inducers.  
+ The number of affected medicina l product s is expected to be  large , although the magnitude of the interaction will vary . Groups of medicinal products that can be affected include, but are not limited to:  
+• Analgesics (e.g. fentanyl, methadone ) 
+• Antibiotics (e.g. clarithromycin, doxycy cline) 
+• Anti-cancer agents (e.g. cabazitaxel)  
+• Anticoagulants (e.g. acenocoumarol, warfarin , see section  4.4) 
+• Antiepileptic s (e.g. carbamazepine, phenytoin, primidone, valproic acid)  
+• Antipsychotics (e.g. haloperidol)  
+• Calcium channel blockers (e.g. diltiazem, felodipine, nicardipine, nifedipine, verapamil)  
+• Cardiac glycosides (e.g. digoxin , see section  4.4) 
+• Corticosteroids (e.g. dexamethasone, methyl prednisolone)  
+• HIV antivirals (e.g. amprenavir, atazanavir, darunavir,  delavirdine, efavirenz, fosamprenavir, indinavir,  lopinavir , nelfinavir, saquinavir, tipranavir ) 
+• Hormo nal contraceptives (see section  4.6) 
+• Hypnotics (e.g. diazepam, midazolam, zolpidem)  
+• Immunosuppressants (e.g. cyclosporin, tacrolimus, sirolimus)  
+• Statins metaboli sed by CYP3A4 (e.g. atorvastatin, simvastatin)  
+ Onset of induction is likely to occur after 3  days of repeat dosing with dabrafenib. Upon discontinuation of dabr afenib  offset of induction is gradual , concentrations of sensitive CYP3A4 , CYP2B6, CYP2C8, CYP2C9 and CYP2C19, UDP glucuronosyl transferase (UGT) and  transporter  substrates (e.g. P -gp or MRP -2) may increase and patients should be monitored for toxicity and d ose of these agents may need to be adjusted.  13 In vitro , dabrafenib is  a me chanism based inhibitor of CYP3A4 . Therefore, transient inhibition of CYP3A4 may be observed during the first few days of treatment.  
+ Effects of dabrafenib on substance transport systems  
+ Dabrafenib is an in vitro  inhibitor of human organic anion transporting p olypeptide (OATP) 1B1 (OATP1B1) , OATP1B3  and BCRP . Following co -administration of a single dose of rosuvastatin (OATP1B1 , OATP1B3  and BCRP  substrate) with repeat -dose dabrafenib  150 mg twice daily in 
+16 patients, Cmax of rosuvastatin increased 2. 6-fold whereas the AUC was only minimally changed (7% increase) . The increased C max of rosuvastatin is unlikely to have clinical relevance . 
+ Combination with trametinib  
+ Co-administration of repeat dosing of trametinib 2  mg once daily  and dabrafenib 150  mg twice daily  resulted in no clinically meaningful changes in trametinib or dabrafenib C max and AUC with increases of 16 and 23%, respectively, in dabrafenib C max and AUC. A small decrease in trametinib bioavailability, corresponding to a decrease in AUC of 12%, was estimated when trametinib is administered in combination with dabrafenib , a CYP3A4 inducer, using a population pharmacokinetic analysis.  
+ When dabrafenib is used in combination with trametinib refer to the guidance for medicinal product interactions found in section s 4.4 and 4.5 of dabrafenib and trametinib Sm 
+ PC . 
+ Effect of f ood on dabrafenib  
+ Patients  should take dabrafenib  as monotherapy or in combination with trametinib  at least one  hour prior to or two hours after a meal due to the effect of food on dabrafenib  absorption  (see section  5.2). 
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

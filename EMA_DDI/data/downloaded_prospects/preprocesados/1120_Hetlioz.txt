@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and ot her forms of interaction  
+ Potential for other medicinal products to affect tasimelteon CYP1A2 and CYP3A4 are enzymes identified to play a role in the metabolism of tasimelteon , with a minor role for CYP2C9/C19 .  Medicinal products that inhibit CYP1A2 and C YP3A4 have been shown to alter the metabolism of tasimelteon in vivo .   4   Strong CYP1A2 inhibitors (e.g. f luvoxamine, ciprofloxacin and enoxacin)  Caution  should be used when administering  tasimelteon in combination with fluvoxamine or other strong CYP1A2 inhibitors such as ciprofloxacin and  enoxacin  because of a potentially large increase in tasimelteon exposure and gr eater risk of adverse reactions: t he AUC 0-inf and C max of tasimelteon increased by 7 -fold and 
+2-fold, respectively, when co -administered wit h fluvoxamine 50 mg (after 6 days of fluvoxamine 50 mg per day).  This is deemed even more important for strong CYP1A2 inhibitors also inhibiting other enzymes involved in the clearance of tasimelteon  (e.g. fluvoxamine and ciprofloxacin).  
+ 
+ Strong CYP3A4 in hibitors (e.g. ketoconazole)   Tasimelteon exposure was increased by approximately 50% when co-administered with ketoconazole 
+400 mg (after 5 days of ketoconazole 400  mg per day).   The clinical relevance of this single factor is unclear, but with increased exposure caution is recommended to monitor the patient.  
+ Strong CYP 3A4 inducers ( e.g. rifampin ) Use of tasimelteon should be avoided in combination with rifampin or other CYP3A4 inducers because of a potentially large decrease in tasimelteon exposure with reduced efficacy: the exposure of tasimelteon decreased by approximately 90% when co-administered with rifampin 600  mg (after 11 days of rifampin 
+600 mg per day).  
+ Smoking (moderate CYP1A2 inducer)  Tasimelteon exposure decreased by approximately 40% in smokers  compared to non-smokers (see section 
+5.2).    The patient should be instructed to cease or reduce smoking while taking tasimelteon.  
+ Beta blockers  The efficacy of tasimelteon may be reduced in patients with concomitant administration of beta adrenergi c receptor antagonists.  Monitoring of efficacy is recommended where if efficacy is not achieved by a patient on beta blocker medication, the physician may consider whether a substitution of another non- beta-blocker medication for the beta blocker is warran ted or discontinue the use of Hetlioz.  
+ Potential effect of alcohol on tasimelteon 
+ In a study of 28 healthy volunteers, a single dose of ethanol (0.6 g/kg for women and 0.7 g/kg for men) was co-administered with a 20  mg dose of tasimelteon. On some psychomotor test measures (intoxication, drunk, alertness/drowsiness, balance platform test), there was a trend towards greater effects of tasimelteon plus ethanol versus ethanol alone, but the effects were not deemed significant . 
+ 

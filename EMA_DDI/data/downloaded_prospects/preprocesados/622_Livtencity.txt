@@ -1,0 +1,65 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Effect of other medicinal products on maribavir 
+ Maribavir is primarily metabolised by CYP3A, and medicinal products that induce or inhibit CYP3A are expected to affect the clearance of maribavir (see section 5.2).  
+ Co-administration of maribavir and medicinal products that are inhibitors of CYP3A may result in increased plasma concentrations of maribavir (see section 5.2). However, no dose adjustment is needed when maribavir is co-administered with CYP3A inhibitors. 
+ Concomitant administration of strong or moderate CYP3A inducers, (such as rifampicin, rifabutin, carbamazepine, phenobarbital, phenytoin, efavirenz and St John’s wort), is expected to significantly 5 
+ decrease maribavir plasma concentrations, which may result in decrease in efficacy. Therefore, alternative medicinal products with no CYP3A induction potential should be considered. Co-administration of maribavir with strong cytochrome P450 3A (CYP3A) inducers rifampicin, rifabutin or St. John’s wort is not recommended.  
+ If co-administration of maribavir with other strong or moderate CYP3A inducers (e.g., carbamazepine, efavirenz, phenobarbital and phenytoin) cannot be avoided, the maribavir dose should be increased to 
+1 200 mg twice daily (see sections 4.2 and 5.2). 
+ Effect of maribavir on other medicinal products 
+ Co-administration of maribavir with valganciclovir and ganciclovir is contraindicated (see section 
+4.3). LIVTENCITY may antagonise the antiviral effect of ganciclovir and valganciclovir by inhibiting human CMV UL97 serine/threonine kinase, which is required for activation/phosphorylation of ganciclovir and valganciclovir (see sections 4.3 and 5.1). 
+ At therapeutic concentrations, clinically relevant interactions are not expected when maribavir is co-administered with substrates of CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2E1, 2D6, and 3A4; UGT1A1, 
+1A4, 1A6, 1A9, 2B7; bile salt export pump (BSEP); multidrug and toxin extrusion protein (MATE)/2K; organic anion transporters (OAT)1; organic cation transporters (OCT)1 and OCT2; organic anion transporting polypeptide (OATP)1B1 and OATP1B3 based on in vitro  and clinical  interaction results (Table 1 and section 5.2). 
+ Maribavir acted as an inducer of CYP1A2 enzyme in vitro. There are no clinical data available to exclude an interaction risk via CYP1A2 induction in vivo. Therefore, the concomitant administration of maribavir and medicinal products that are sensitive substrates of CYP1A2 with a narrow therapeutic window (e.g., tizanidine and theophylline) should be avoided due to the risk for lack of efficacy of CYP1A2 substrates. 
+ Co-administration of maribavir increased plasma concentrations of tacrolimus (see Table 1). When the immunosuppressants tacrolimus, cyclosporine, everolimus or sirolimus are co-administered with maribavir, immunosuppressant levels should be frequently monitored throughout treatment with maribavir, especially following initiation and after discontinuation of maribavir and dose adjusted, when needed (see sections 4.4 and Table 1). 
+ Maribavir inhibited P-gp transporter in vitro  at clinically relevant concentrations. In a clinical study, co-administration of maribavir increased plasma concentrations of digoxin (see Table 1 Therefore, caution should be exercised when maribavir and sensitive P-gp substrates (e.g., digoxin, dabigatran) are co-administered. Serum digoxin concentrations should be monitored, and dose of digoxin may need to be reduced, as needed (see Table 1). 
+ Maribavir inhibited BCRP transporter in vitro at clinically relevant concentrations. Therefore, co-administration of maribavir with sensitive BCRP substrates such as rosuvastatin, is expected to increase their exposure and lead to undesirable effects. 
+ In vitro , maribavir inhibits OAT3, therefore, plasma concentrations of medicinal products transported by OAT3 may be increased (e.g.: ciprofloxacin, imipenem, and cilastatin). 
+ In vitro , maribavir inhibits MATE1. There are no clinical data available whether the co-administration of maribavir with sensitive MATE1 substrates (e.g., metformin) could potentially lead to clinically relevant interactions.  
+ General information 
+ If dose adjustments of concomitant medicinal products are made due to treatment with maribavir, doses should be readjusted after treatment with maribavir is completed. Table 1 provides a listing of established or potentially clinically significant medicinal product interactions. The medicinal product 6 
+ interactions described are based on studies conducted with maribavir or are predicted medicinal product interactions that may occur with maribavir (see sections 4.4 and 5.2). 
+ Table 1: Interactions and dose recommendations with other medicinal products. Medicinal product by therapeutic area Effect on geometric mean ratio (90 % CI) (likely mechanism of action) Recommendation concerning co-administration with maribavir Acid-reducing agents  antacid (aluminium and magnesium hydroxide oral suspension) (20 m 
+ L single dose, maribavir 
+100 mg single dose)  ↔ maribavir AUC 0.89 (0.83, 0.96) Cmax 0.84 (0.75, 0.94) No dose adjustment is required. famotidine Interaction not studied. Expected: 
+↔ maribavir No dose adjustment is required. pantoprazole Interaction not studied. Expected: 
+↔ maribavir No dose adjustment is required.   omeprazole ↔ maribavir  
+↑ plasma omeprazole/5-hydroxyomeprazole concentration ratio 
+1.71 (1.51, 1.92) at 2h post-dose (CYP2C19 inhibition)  No dose adjustment is required. Antiarrhythmics  digoxin (0.5 mg single dose, 400 mg twice daily maribavir) ↔ digoxin AUC 1.21 (1.10, 1.32) Cmax 1.25 (1.13, 1.38) (P-gp inhibition) Use caution when maribavir and digoxin are co-administered. Monitor serum digoxin concentrations. The dose of sensitive P-gp substrates such as digoxin may need to be reduced when co-administered with maribavir.  Antibiotics  clarithromycin Interaction not studied. Expected: 
+↑ maribavir (CYP3A inhibition) No dose adjustment is required. Anticonvulsants  carbamazepine   phenobarbital phenytoin  Interaction not studied. Expected: 
+↓ maribavir (CYP3A induction) A dose adjustment of maribavir to 
+1 200 mg twice daily is recommended when co-administration with these anticonvulsants.  Antifungals  ketoconazole (400 mg single dose, maribavir 
+400 mg single dose) ↑ maribavir AUC 1.53 (1.44, 1.63) Cmax 1.10 (1.01, 1.19) (CYP3A and P-gp inhibition) No dose adjustment is required. voriconazole (200 mg twice daily, maribavir 
+400 mg twice daily) Expected:  
+↑ maribavir (CYP3A inhibition) 
+↔ voriconazole AUC 0.93 (0.83, 1.05)  No dose adjustment is required. 7 
+ Medicinal product by therapeutic area Effect on geometric mean ratio (90 % CI) (likely mechanism of action) Recommendation concerning co-administration with maribavir Cmax 1.00 (0.87, 1.15) (CYP2C19 inhibition) Antihypertensives  diltiazem Interaction not studied. Expected: 
+↑ maribavir (CYP3A inhibition) No dose adjustment is required. Antimycobacterials  rifabutin Interaction not studied. Expected: 
+↓ maribavir (CYP3A induction) Co-administration of maribavir and rifabutin is not recommended due to potential for a decrease in efficacy of maribavir. rifampicin (600 mg once daily, maribavir 
+400 mg twice daily) ↓ maribavir AUC 0.40 (0.36, 0.44) Cmax 0.61 (0.52, 0.72) Ctrough 0.18 (0.14, 0.25) (CYP3A and CYP1A2 induction) Co-administration of maribavir and rifampin is not recommended due to potential for a decrease in efficacy of maribavir. Antitussives  dextromethorphan (30 mg single dose, maribavir 
+400 mg twice daily) ↔ dextrorphan AUC 0.97 (0.94, 1.00) Cmax 0.94 (0.88, 1.01) (CYP2D6 inhibition) No dose adjustment is required. CNS stimulants  Herbal products  St. John's wort ( Hypericum perforatum ) Interaction not studied. Expected: 
+↓ maribavir (CYP3A induction) Co-administration of maribavir and St. John's wort is not recommended due to potential for a decrease in efficacy of maribavir.  HIV antiviral agents Non-nucleoside reverse transcriptase inhibitors Efavirenz Etravirine Nevirapine Interaction not studied. Expected: 
+↓ maribavir (CYP3A induction) 
+ A dose adjustment of maribavir to 
+1 200 mg twice daily is recommended when co-administration with these a  non-nucleoside reverse transcriptase inhibitors.  Nucleoside reverse transcriptase inhibitors Tenofovir disoproxil Tenofovir alafenamide Abacavir Lamivudine Emtricitabine  Interaction not studied. Expected: 
+↔ maribavir 
+↔ nucleoside reverse transcriptase inhibitors  No dose adjustment is required. Protease inhibitors 8 
+ Medicinal product by therapeutic area Effect on geometric mean ratio (90 % CI) (likely mechanism of action) Recommendation concerning co-administration with maribavir ritonavir- boosted protease inhibitors (atazanavir, darunavir, lopinavir) Interaction not studied. Expected: 
+↑ maribavir (CYP3A inhibition) No dose adjustment is required. Integrase strand transfer inhibitors dolutegravir Interaction not studied. Expected: 
+↔ maribavir 
+↔ dolutegravir No dose adjustment is required. HMG-Co 
+ A reductase inhibitors  atorvastatin fluvastatin simvastatin Interaction not studied. Expected: 
+↑ HMG-Co 
+ A reductase inhibitors (BCRP inhibition)  No dose adjustment is required. rosuvastatina  Interaction not studied. Expected: 
+↑ rosuvastatin (BCRP inhibition) The patient should be closely monitored for rosuvastatin-related events, especially the occurrence of myopathy and rhabdomyolysis. Immunosuppressants  cyclosporinea everolimusa sirolimusa Interaction not studied. Expected: 
+↑ cyclosporine, everolimus, sirolimus (CYP3A/P-gp inhibition) Frequently monitor cyclosporine, everolimus and sirolimus levels, especially following initiation and after discontinuation of maribavir and adjust dose, as needed. tacrolimusa ↑ tacrolimus AUC 1.51 (1.39, 1.65) Cmax 1.38 (1.20, 1.57) Ctrough 1.57 (1.41, 1.74) (CYP3A/P-gp inhibition) Frequently monitor tacrolimus levels, especially following initiation and after discontinuation of maribavir and adjust dose, as needed.  Oral anticoagulants  warfarin (10 mg single dose, maribavir 
+400 mg twice daily) ↔ S-warfarin AUC 1.01 (0.95, 1.07) (CYP2C9 inhibition) No dose adjustment is required. Oral contraceptives  systemically acting oral contraceptive steroids Interaction not studied. Expected: 
+↔ oral contraceptive steroids (CYP3A inhibition) No dose adjustment is required. Sedatives  midazolam (0.075 mg/kg single dose, maribavir 400 mg twice daily for 7 days) ↔ midazolam 
+  AUC 0.89 (0.79, 1.00) Cmax 0.82 (0.70, 0.96) No dose adjustment is required. 
+↑ = increase, ↓ = decrease, ↔ = no change CI = Confidence Interval 
+*AUC 0-∞ for single dose, AUC 0-12 for twice daily dose daily. Note: the table is not extensive but provides examples of clinically relevant interactions. a Refer to the respective prescribing information. 
+ 9 
+ Paediatric population 
+ Interaction studies have only been performed in adults. 
+ 

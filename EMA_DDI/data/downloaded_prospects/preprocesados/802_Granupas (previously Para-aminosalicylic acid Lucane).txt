@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed.  
+ Results from literature suggest the following:  
+ Vitamin B12  
+ Vitamin B12 absorption may be reduced by para- aminosalicylic acid with clinically significant erythrocyte abnormalities developing after depletion; patients on therapy of more than one month should be considered for maintenance of vitamin B12. 
+ Digoxin 
+ Para-aminosalicylic acid may decrease the gastrointestinal absorption of digoxin, by inhibiting the absorption function of intestinal cells. Serum digoxin levels should be monitored in patients on concomitant therapy. 
+ Ethionamide  
+ Co-administration of para - aminosalicylic acid and ethionamide may intensify adverse reactions of para-aminosalicylic acid, mainly the gastrointestinal effects, including jaundice, hepatitis, nausea, vomiting, diarrhoea, abdominal pain or anorexia. Ethiona mide should be withdrawn if these effects are significant.  
+ Diphenylhydramine 
+ This medicinal product decreases the gastrointestinal absorption of para-aminosalicylic acid, and should not be administered concomitantly. 
+ Antiretrovirals  
+ In a drug-drug interaction study in healthy subjects with para- aminosalicylic acid calcium (PAS -Ca) formulation, the exposure of tenofovir decreased approximately 3-fold when co- administered with multiple doses of 4000 mg PAS- Ca compared with administratio n of tenofovir alone. The mechanism behind this interaction is unknown. No clinical interaction data is available to determine the relevance of this interaction to the current PAS formulation, but attention should be paid to the potential risk for decreased efficacy of tenofovir when co- administered with para- amino salicylic acid.  
+ 

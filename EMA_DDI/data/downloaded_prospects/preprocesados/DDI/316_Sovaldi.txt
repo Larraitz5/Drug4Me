@@ -1,0 +1,18 @@
+> Medicinal products that are strong P -gp inducers in the intestine (CARBAMAZEPINE, PHENOBARBITAL, PHENYTOIN, rifampicin and St.  John’s wort) may significantly decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of SOVALDI and thus are contraindicated with SOVALDI (see section  4.3). Medicinal products that are moderate P- gp inducers in the intestine (e.g. MODAFINIL, OXCARBAZEPINE and RIFAPENTINE) may decrease sofosbuvir plasma concentration leading to reduced therapeutic effect of SOVALDI.  Co-administration with such medicinal products is not recommended with SOVALDI (see section  4.4). Co-administration of SOVALDI with medicinal products that inhibit P-gp and/or BCRP may increase sofosbuvir plasma concentration without increasing GS -331007 plasma concentration, thus SOVALDI may be co-administered with P-gp and/or BCRP  inhibitors. Sofosbuvir and GS-331007 are not inhibitors of P -gp and BCRP and thus are not expected to increase exposures of medicinal products that are substrates of these transporters. 
+> Drug interaction information for SOVALDI with potential concomitant medicinal products is summarised in Table  5 below (where 90% confidence interval (CI) of the geometric le ast-squares mean (GLSM) ratio were within “↔”, extended above “↑”, or extended below “↓” the predetermined equivalence boundaries).  The table is not all-inclusive. 
+> (Induction of P -gp) Co-administration of SOVALDI with MODAFINIL is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of SOVALDI. Such co- administration is not recommended.  ANTIARRHYTHMICS  AMIODARONE  Effect on AMIODARONE and sofosbuvir concentrations unknown.  Coadministration of AMIODARONE with a sofosbuvir -containing regimen may result in serious symptomatic bradycardia.  Use only if no other alternative is available. Close monitoring is recommended if this medi cinal product is administered with SOVALDI (see sections  4.4 and 4.8).  ANTICOAGULANTS  VITAMIN K ANTAGONISTS  Interaction not studied  Close monitoring of INR is recommended with all VITAMIN K ANTAGONISTS. This is due to liver function changes during treatment with SOVALDI.  ANTICONVULSANTS  PHENOBARBITAL  PHENYTOIN  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↔ GS -331007
+> (Induction of P -gp) Co-administration of SOVALDI with OXCARBAZEPINE is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of SOVALDI. Such co- administration is not recommended (see section  4.4). ANTIMYCOBACTERIALS  Rifampicinf (600 mg single dose)  Sofosbuvir  
+↓ C max 0.23 (0.19, 0.29)  
+↓ AUC 0.28 (0.24, 0.32) Cmin (NA) 
+> (Induction of P -gp) Co-administration of SOVALDI with RIFAPENTINE is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of SOVALDI. Such co- administration is not recommended (see section  4.4). HERBAL SUPPLEMENTS  St. John’s wort  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↔ GS -331007
+> (Induction of P -gp) SOVALDI is contraindicated with St.  John’s wort (see section  4.3). HCV ANITIVIRAL AGENTS: HCV  PROTEASE INHIBITORS  BOCEPREVIR (BOC)  TELAPREVIR (TPV)  Interaction not studied.  Expected:  
+↑ Sofosbuvir (TPV)  
+↔ Sofosbuvir (BOC)  
+↔ GS -331007 (TPV or BOC)  No drug -drug interaction data exists regarding the co-administration of SOVALDI with BOCEPREVIR or TELAPREVIR.  NARCOTIC ANALGESICS  Methadonef (METHADONE maintenance therapy 
+[30 to 130 mg/daily])  R-METHADONE  
+↔ C max 0.99 (0.85, 1.16)  
+↔ AUC 1.01 (0.85, 1.21) ↔ Cmin 0.94 (0.77, 1.14) 

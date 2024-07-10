@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ General  
+ Asparaginase may increase the toxicity of other medicinal products through its effect on liver function, e.g. increased hepatotoxicity with potentially hepatotoxic medicinal products , increased toxicity of medicinal products metabolised by the liver or  bound to plasma proteins and altered pharmacokinetics and pharmacodynamics of medicinal product bound to plasma proteins. T herefore , caution should be exercised in patients receiving other medicinal products metabolised by the liver .  Hepatic parameters should be monitored when potentially hepatotoxic medicinal products are given concomitantly with  asparaginase (see sections 4.4 and 4.8).  
+ Myelosuppressive agents  
+ During treatment with asparaginase -containing regimens, myelosuppression, potentially affecting all three  myeloid  cell lineages ( erythrocytes, leukocytes, thrombocytes), and infections can occur. Concomitant treatment with myelosuppressive medicinal products and those known to cause infections are major contributing factors and patients should be carefully monitored for signs and symptoms of myelosuppression and infection (see section  4.8). 
+ Vincristine  
+ The toxicity of vincristine may be additive with that of asparaginase if both agent s are administered concomitantly. Therefore, vincristine should be given 3 to 24 hours before administration of asparaginase in order to minimise toxicity.  
+ Glucocorticoids and/or anticoagulants 
+ Concomitant use of glucocorticoids and/ or anticoagulants wit h asparaginase may increase the risk of a change in coagulation parameters (see section  4.4).  This can promote tendency to bleeding (anticoagulants)  or thrombosis (glucocorticoids) . Caution is therefore needed when  anticoagulants (e.g. coumarin, heparin, dipyridamole, acetylsalicylic acid or nonsteroidal anti- inflammatory medicinal products) or glucocorticoids  are given at the same time.  7  Methotrexate (MTX)  
+ Inhibition of protein synthesis secondary to the asparaginase-induced depletion of asparagine has been shown to attenuate the cytotoxic effect of MTX which requires cell replication for its antineoplastic activity. This antagonism is observed if asparaginase is administered prior to or concurrently with methotrexate.
+ Conversely, the anti tumour effects of methotrexate are enhanced when asparaginase is administered 24 hours following methotrexate treatment. This regimen has been shown to reduce the gastrointestinal and haematologic al effects of methotrexate.   
+ Cytarabine 
+ Laboratory in vitr o and in vivo  data indicate that the efficacy of high -dose cytarabine is reduced by prior administration of asparaginase. However, when asparaginase was given after cytarabine a synergistic effect was observed. This effect was most prominent with a treatment interval of about 
+120 hours.  
+ Vaccination  
+ Concomitant vaccination with live vaccines increases the risk of serious infection. Immunisation with live vaccines should therefore take place at the earliest 3  months after completion of the course of antileukaemic treatment.  
+ 

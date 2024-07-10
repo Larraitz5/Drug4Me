@@ -1,0 +1,3 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies have been performed.Anifrolumab is not expected to undergo metabolism by hepatic enzymes or renal elimination.The formation of some CYP450 enzymes is suppressed by increased levels of certain cytokines during chronic inflammation. Anifrolumab modestly suppresses the levels of some cytokines ; the impact on CYP450 activity is u nknown . In patients who are being treated with other medicines that are C YP substrates with a narrow therapeutic index, where the dose is individually adjusted (e.g. ,warfarin), therapeutic monitoring is recommended.Immune response 
+ Concomitant administr ation of anifrolumab with vaccines has not been studied (see section 4.4).

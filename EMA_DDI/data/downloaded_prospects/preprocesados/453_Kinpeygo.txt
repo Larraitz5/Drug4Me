@@ -1,0 +1,18 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Medicinal products/substances inhibiting CYP3A4 
+ Budesonide is metaboli sed via CYP3A4.  Potent inhibitors of CYP3A4 can increase plasma levels of budesonide. Co- administration of the potent CYP3A4 inhibitor ketoconazole or intake of grapefruit juice resulted in a 6.5- fold and 2- fold increase, respectively in the bioavailability of budesonide, compared to budesonide alone.  
+ Thus, clinically relevant interactions with potent CYP3A inhibitors, such as ketoconazole, itraconazole, ritonavir, indinavir, saq uinavir, erythromycin, cyclosporine, and grapefruit juice, are to be expected, and may increase systemic budesonide concentrations (see sections 4.4 and 5.2).  
+ Medicinal products/substances inducing CYP3A4 
+ Concomitant treatment with CYP3A4 inducers such a s carbamazepine may reduce budesonide systemic exposure.  
+ Medicinal products/substances metabolised by CYP3A4  
+ Given its low affinity for CYP3A4 and P -gp, as well as the formulation, pharmacokinetic (PK) characteristics and low systemic exposure, Kinpeygo  is unlikely to affect the systemic exposure of other medicinal products . 
+ Oral contraceptives  
+ Oral contraceptives containing ethinyl estradiol, which are also metaboli sed by CYP3A4, do not affect the pharmacokinetics of budesonide.  
+ Proton pump inhibitors  
+ The pharmacokinetics of budesonide have not been evaluated in combination with proton pump inhibitors (PPIs). In a study assessing intragastric and intraduodenal p 
+ H in healthy volunteers after repeated dosing with the PPI omeprazole 40 mg once daily, intragastric and intraduodenal p 
+ H did not exceed that required for disintegration of Kinpeygo . Beyond the duodenum, PPIs such as omeprazole are unlikely to affect p 
+ H.  
+ Other interactions to be considered  
+ Budesonide treatment may reduce seru m potassium, which should be considered when Kinpeygo is co -administered with a medicinal product where the pharmacological effects may be potentiated by low serum potassium, such as cardiac glucosides, or when co -administered with diuretics that lower ser um potassium. 
+ 

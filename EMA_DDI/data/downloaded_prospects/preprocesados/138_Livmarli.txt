@@ -1,0 +1,10 @@
+4.5 mg propylene glycol (E1520) in each m 
+ L of oral solution.  This medicinal product contains less than 1 mmol sodium (23 mg) per dose , that is to say essentially 
+‘sodium -free’.  
+ 
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Maralixibat is an OATP2B1 inhibitor based on in vitro  studies. A decrease in the oral absorption of  OATP2B1 substrates  (e.g. fluvastatin or rosuvastatin)  due to OATP2B1 inhibition in the GI tract cannot be ruled out. Consider monitoring the effects of OATP 2B1 substrates as needed.  Maralixibat is also an inhibitor of CYP3A4 based on in- vitro studies. An increase of plasma levels of CYP3A4 substrates ( e.g., midazolam, simvastatin) can therefore not be excluded and caution is advised when administering such co mpounds concomitantly. Maralixibat, being an inhibitor of bile acid absorption, has not been fully evaluated with regard to the interaction potential with the bile acid Ursodeoxycholic acid (UDCA).  
+ Maralixibat is minimally absorbed , is not significantly metaboli sed, and is not a substrate of active substance  transporters; therefore, other concomitant medicinal products are not known to effect the disposition of maralixibat.  
+ Maralixibat is not known to inhibit or induce other  cytochrome P450 in patients; therefore, maralixibat is not predicted to affect  the disposition of concomitant medicinal products through those mechanisms. 
+ 
+ 4 

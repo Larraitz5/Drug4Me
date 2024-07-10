@@ -1,0 +1,21 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults. 
+ Pharmacokinetic interactions 
+ 
+• Melatonin has been observed to induce CYP3A in vitro at supra-therapeutic concentrations.  The clinical relevance of the finding is unknown.  If induction occurs, this can give rise to reduced plasma concentrations of concomitantly administered medicinal p roducts. 
+• Melatonin does not induce CYP1A enzymes in vitro at supra- therapeutic concentrations.  Therefore, interactions between melatonin and other active substances as a consequence of melatonin’s effect on CYP1A enzymes are not likely to be significant.  
+• Melatonin’s metabolism is mainly mediated by CYP1A enzymes.   Therefore, interactions between melatonin and other active substances as a consequence of their effect on CYP1A enzymes is possible.  
+• Caution should be exercised in patients on fluvoxamine, which increases melatonin levels (by 17-fold higher AUC and a 12-fold higher serum Cmax) by inhibiting its metabolism by hepatic cytochrome P450 (CYP) isozymes CYP1A2 and CYP2C19.  The combination should be avoided.  
+• Caution should be exercised in patients on 5- or 8-methoxypsoralen (5 and 8- MOP), which increases melatonin levels by inhibiting its metabolism.  
+• Caution should be exercised in patients on cimetidine a CYP2D inhibitor, which increases plasma melatonin levels , by inhibiting its metabolism.  
+• Cigarette smo king may decrease melatonin levels due to induction of CYP1A2. 
+• Caution should be exercised in patients on oestrogens (e.g. contraceptive or hormone replacement therapy) , which increase melatonin levels by inhibiting its metabolism by CYP1A1 and CYP1A2. 
+• CYP1A2 inhibitors such as quinolones may give rise to increased melatonin exposure. 
+• CYP1A2 inducers such as carbamazepine and rifampicin may give rise to reduced plasma concentrations of melatonin . 
+• There is a large amount of data in the literature regarding the effect of adrenergic agonists/antagonists, opiate agonists/antagonists, antidepressant medicinal products, prostaglandin inhibitors, benzodiazepines, tryptophan and alcohol, on endogenous melatonin secretion.  Whether or not these active substances interfere with the dynamic or kinetic effects of Melatonin Neurim or vice versa has not been studied.  
+ 4 Pharmacodynamic interactions 
+ 
+• Alcohol should not be taken with Melatonin Neurim , because it reduces the effectiveness of Melatonin Neurim  on sleep.  
+• Melatonin Neurim may enhance the sedative properties of benzodiazepines and non-benzodiazepine hypnotics, such as zalep lon, zolpidem and zopiclone.  In a clinical trial, there was clear evidence for a transitory pharmacodynamic interaction between Melatonin Neurim and zolpidem one hour following co-dosing.  Concomitant administration resulted in increased impairment of attention, memory and co-ordination compared to zolpidem alone.  
+• Melatonin Neurim has been co -administered in studies with thioridazine and imipramine, active substances which affect the central nervous system.  No clinically significant pharmacokinetic interactions were found in each case.  However, Melatonin Neurim co-administration resulted in increased feelings of tranquility and difficulty in performing tasks compared to imipramine alone, and increased feelings of “muzzy -headedness” compared to thioridazine alone. 
+ 

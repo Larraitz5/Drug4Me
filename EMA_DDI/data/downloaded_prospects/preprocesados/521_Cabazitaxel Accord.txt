@@ -1,0 +1,11 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ In vitro studies have shown that cabazitaxel is mainly metabolised  through CYP3A (80% to 90%) (see section 5.2).  
+ CYP3A inhibitors  Repeated admi nistration of ketoconazole (400  mg once daily), a strong CYP3A inhibitor, resulted in a 
+20% decrease in cabazitaxel clearance corresponding to a 25% increase in AUC. Therefore co ncomitant administration of strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole) should be avoided as an increase of plasma concentrations of cabaz itaxel may occur (see sections 4.2 and 4.4).  
+ Concomitant administration of aprepitant, a moderate CYP3A inhibitor, had no effect on cabazitaxel clearance.  
+ CYP3A inducers  Repeated administration of rifampin (600  mg once daily), a strong CYP3A inducer, res ulted in an increase in cabazitaxel clearance of 21% corresponding to a decrease in AUC of 17%.  Therefore concomitant administration of strong CYP3A inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentin, phenobarbital) should be avoided  as a decrease of plasma concentrations of cabazitaxel may occur (see sections 4.2 and 4.4). In addition, patients should also refrain from taking St. John’s Wort.  
+  
+7 
+ OATP1B1  In vitro , cabazitaxel has also been shown to inhibit the transport proteins of the Organic Anion Transport Polypeptides OATP1B1. The risk of interaction with OATP1B1 substrates (e.g. statins, valsartan, repaglinide) is possible, notably during the infusion duration (1  hour) and up to 20  minutes  after the end of the infusion. A time inter val of 12  hours is recommended before the i nfusion and at least 3  hours after the end of infusion before administering the OATP1B1 substrates.  
+ Vaccinations  Administration of live or live -attenuated vaccines in patients immunocompromised by chemotherapeuti c agents may result in serious or fatal infections. Vaccination with a live attenuated vaccine should be avoided in patients receiving cabazitaxel. Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished . 
+ 

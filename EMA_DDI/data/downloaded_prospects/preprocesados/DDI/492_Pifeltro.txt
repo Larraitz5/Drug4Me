@@ -1,0 +1,32 @@
+> Doravirine is primarily metabolised by CYP3A, and medicinal products
+ that induce or inhibit CYP3Aare expected to af f ect the clearance of  doravirine
+ (see section  5.2). Doravirine should not be co
+-administered with medicinal products that are strong CYP3A enzyme inducers as signif icant decreasesin doravirine plasma concentrations are expected to occur, which may decrease the ef f ectiveness ofdoravirine (see sections
+ 4.3 and  5.2).Co-administration with the moderate CYP3A inducer rif abutin decreased doravirine concentrations(see Table  1). When doravirine is co -administered with rif abutin, the doravirine dose should beincreased to 100
+ mg twice daily (the doses should be taken approximately 12
+ hours apart)
+ (seesection  4.2).Co-administration of  doravirine with other moderate CYP3A inducers has not been evaluated
+, butdecreased doravirine concentrations are expected. If  co-administration with other moderate CYP3Ainducers (e.g., dabraf enib, LESINURAD, BOSENTAN, THIORIDAZINE, naf cillin, modaf inil, telotristat ethyl)cannot be avoided, the doravirine dose should be increased to 100
+ mg twice daily (the doses should betaken approximately 12
+ hours apart) (see section  4.2).Co-administration of  doravirine and medicinal products
+ that are inhibitors of  CYP3A may result inincreased plasma concentrations of  doravirine.
+ However, no dose adjustment is needed whendoravirine is co-administered with CYP3A inhibitors.Effects of  doravirine on other medicinal products
+> Doravirine at a dose of 100
+ mg once daily is not likely to have a clinically relevant eff ect on theplasma concentrations of  medicinal products
+ that are dependent on transport proteins f or absorptionand/or elimination or that are
+ metaboli sed by CYP ENZYMES.However, c o-administration of  doravirine and the sensitive CYP3A substrate MIDAZOLAM resulted in a
+18 
+% decrease in MIDAZOLAM exposure, suggesting that doravirine may be a weak CYP3A inducer.Theref ore caution should be used when co
+-administering doravirine with medicinal products that aresensitive CYP3A substrates that also have a narrow therapeutic window (e
+.g., TACROLIMUS andsirolimus).Interaction s table5Table 1  shows the established and other potent ial medicinal product
+ interactions with doravirine but isnot all inclusive  (increase is indicated as 
+, decrease is indicated as ↓, and no change as ↔).Table 1: Interactions of doravirine  with other medicinal products
+> Interaction not studied.Expected:
+↓ doravirine(Induction of  CYP3A)Co-administration should beavoided. If  co
+-administrationcannot be avoided,
+ one tablet ofdoravirine should be taken twicedaily (approximately 12
+ hoursapart) .ANTIMYCOBACTERIALS
+> Interaction not studied.Expected:
+↓doravirine(Induction of  CYP3A)Co-administration should beavoided. If  co-administrationcannot be avoided,
+ one tablet ofdoravirine should be taken twicedaily (approximately 12
+ hoursapart) .Sedatives/ hypnoticsmidazolam(2 mg SD,doravirine  120 mg QD) MIDAZOLAM

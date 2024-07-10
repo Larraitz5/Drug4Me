@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed.  
+ Medicinal products that affect coagulation  
+ Reduction of platelet aggregation and plasma fibrinogen levels and a moderate increase in partial thromboplastin and prothrombin  time s have been reported as possible effect s following oral administration of bromelain. In vitro  and animal data suggest that bromelain can also promote fibrinolysis . Caution and monitoring  is therefore needed when prescribing concomitant medicinal products that affect coagulation (see also section 4.4.). 
+ CYP2C8 and CYP 2C9 substrates  
+ The m edicinal product , when absorbed, is an inhibitor of cytochrome P450 2C8 (CYP2C8)  and P450 2C9 (CYP2C9) . This should be taken into account if this medicinal product  is used in patients receiving CYP2C8 substrates (including amiodarone, amodiaquine, chloroquine, fluvastatin, paclitaxel, pioglitazone, repaglinide, , and torasemide)  and CYP2C9 substrates  (including ibuprofen, tolbutamide , glipizide, losartan, celecoxib, warfarin, and phenytoin) .  
+ Topical antibacterial medicinal products  
+ Topically applied antibacterial medicinal products (e.g. silver sulfadiazine or povidone iodine) may decrease the efficacy of this medicinal product  (see section 4.4).  
+ 
+7 Fluorouracil and vincristine  
+ Bromelain  may enhance the actions of fluorouracil and vincristine.  Patients should be monitored for increased toxicity.  
+ ACE inhibitors  
+ Bromelain may enhance the hypotensive effect of ACE inhibitors, causing larger decreases in blood pressure than expected.  Blood pressure should be monitored in patients receiving ACE inhibitors .  
+ Benzodiazepines, barbiturates, narcotics and antidepressants  
+ Bromelain  may increase drowsiness caused by some medicinal products (e.g. , benzodiaz epines, barbiturates, narcotics and antidepressants) . This should be taken into account when dosing such products.  
+ Paediatric population No interaction studies have been performed in children/adolescent s. 
+ 

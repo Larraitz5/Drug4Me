@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Somatostatin and its analogues are probably competing to bind to the same somatostatin receptors. Therefore, when treating patients with somatostatin analogues , it is preferable to perform imaging with gallium (68Ga) edotreotide the day(s) preceding the next administration of a somatostatin analogue.  A long -term exposure to endogenous hypercortisolism may down -regulate somatostatin receptor expression and negatively influence the results of somatostatin receptor imaging with gallium (68Ga) edotreotide . In patients with Cushing syndrome, the normalisation of hypercortisolism should be  considered  before performing PET with Soma 
+ Kit  TOC.  
+ Some evidence exists that corticosteroids can induce down -regulation of somatostatin subtype  2 receptors (SSTR2). Repeated administration of high -doses of glucocorticosteroids prior to gallium (68Ga) edotreotide administration may cause insufficient SSTR2 expression for adequate visuali sation of somatostatin receptor -positive NETs.  
+ 

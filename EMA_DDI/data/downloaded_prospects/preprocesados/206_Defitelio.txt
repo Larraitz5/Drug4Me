@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Potential interactions with recombinant t -PA 
+ In a mouse model of thromboembolism, recombinant t -PA potentiated the antithrombotic effect of defibrotide when given intravenously and thus co- administration may present an increased risk of haemorrhage and is contraindicated (see section 4.3).  
+ Potential interactions with antithrombotic fibrinolytic agents  
+ Defibrotide has a profibrinolytic effect (see section 5.1) and  this may potentially enhance the activity of antithrombotic/fibrinolytic medicinal products.  
+ There is currently no reported experience in patients on the concomitant treatment with Low Molecular Weight Heparins (LMWHs), warfarin or the concomitant treatment with direct thrombin inhibitors (e.g., dabigatran) or direct Factor Xa inhibitors (e.g., ri varoxaban and apixaban). Therefore, the use of defibrotide with antithrombotic/fibrinolytic medicinal products is not recommended.  However, if used, in exceptional cases, caution should be exercised by closely monitoring the coagulation parameters (see section 4.4).  
+ Potential interactions with other medicinal products  
+ Defibrotide does not inhibit or induce CYP450s (see section 5.2).  
+ 

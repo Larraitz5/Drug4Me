@@ -1,0 +1,21 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Vaccines  
+ The immunosuppressive activity of azathioprine can lead to an atypical and possibly harmful response to live vaccines. Therefore, it is recommended that patients do not receive live vaccines until at least 3 months after the end of treatment with azathiopr ine (see section 4.4).  Immunosuppressed patients must not be vaccinated with live vaccines, since they are at risk of infection from the live vaccine (see section 4.4).  A decreased immune response to inactivated or toxoid vaccines is likely. This has been observed with hepatitis B vaccine among patients treated with a combination of azathioprine and corticosteroids.  Therefore, the vaccination success should always be checked with a titre determination.  A small clinical study has indicated that standard therapeutic doses of azathioprine do not deleteriously affect the immune response to a polyvalent pneumococcal vaccine (as assessed on the basis of mean anti -capsular specific antibody concentration).  
+ Effects of concomitantly administered medicinal products on azathioprine  
+ Ribavirin  
+ Ribavirin inhibits the enzyme inosine monophosphate dehydrogenase (IMPDH), leading to lower production of active 6-thioguanine nucleotides. Severe myelosuppression has been reported following concomitant administration of azathioprine and ribavirin; theref ore, co -administration is not advised (see sections 4.4 and 5.2).  
+ Cytostatic/ myelosuppressive agents 
+ Where possible, concomitant administration of cytostatic medicinal products, or medicinal products which may have a myelosuppressive effect, such as penicillamine, should be avoided (see section 4.4). There are conflicting clinical reports of interactions, resulting in serious haematological abnormalities, between azathioprine and trimethoprim/sulfamethoxazole.  There have been case reports suggesting that haematological abnormalities may develop due to the concomitant administration of azathioprine  and ACE Inhibitors.  It has been suggested that cimetidine and indomethacin may have myelosuppressive effects which may be enhanced by concomitant administration of azathioprine.  
+ 10 Allopurinol/ oxipurinol/ thiopurinol and other xanthine oxidase inhibitors  
+ Xanthine oxidase activity is inhibited by allopurinol, oxipurinol and thiopurinol which results in reduced conversion of biologically active 6-thioinosinic acid to biologically inactive 6 -thiouric acid. When allopurinol, oxipurinol and/or thiopurinol are given concomitantly with 6- mercaptopurine or  azathioprine, the dose of 6- mercaptopurine and azathioprine should be reduced to one quarter of the original dose (see section 4.2).  Based on non -clinical data, other xanthine oxidase inhibitors, such as febuxostat, may prolong the activity of azathioprine possibly resulting in enhanced bone marrow suppression. Concomitant administration is not recommended as data are insufficient to determine an adequate dose reduction of azathioprine.  
+ Aminosalicylate derivatives 
+ There is in vitro and in vivo evidence that aminosalicylate derivatives (e.g. olsalazine, mesalazine and sulfasalazine) inhibit the TPMT enzyme. Therefore, lower doses of azathioprine should be considered when administered concomitantly with aminosalicylate derivatives (see also section 4.4).  
+ Methotrexate  
+ 
+20 mg/m2 oral methotrexate increased the AUC of 6 -mercaptopurine by approximately 31% and 2 or 5 g/m2 intravenous methotrexate increased the AUC of 6 -mercaptopurine by 69% and 93% respectively. Therefore, when azathioprine is administered concomitantly with high-dose methotrexate, the dose should be adjusted to maintain a suitable white blood cell count.  
+ Effects of azathioprine on concomitantly administered medicinal products  
+ Anticoagulants  
+ A reduction of the anticoagulant effect of warfarin was described following the simultaneous use of azathioprine.  
+ Neuromuscular blocking agents  
+ There is clinical evidence that azathioprine antagonises the effect of non-depolarising muscle relaxants. Experimental data confirm that azathioprine reverses the neuromuscular blockade produced by non-depolarising agents, and show that azathioprine potent iates the neuromuscular blockade produced by depolarising agents (see section 4.4).  
+ 

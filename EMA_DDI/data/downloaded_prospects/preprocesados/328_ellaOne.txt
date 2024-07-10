@@ -1,0 +1,19 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Potential for other medicinal products to affect ulipristal acetate  
+ Ulipristal acetate  is metabolised  by CYP3A4 in vitro.  
+- CYP3A4 inducers In vivo results show that the administration of ulipristal acetate with a strong CYP3A4 inducer such as rifampicin markedly decreases Cmax and AUC of ulipristal acetate by 90% or more and decreases ulipristal acetate half- life by 2.2 -fold corresponding to an approximately 10-fold decrease of ulipristal acetate exposure. Concomitant use of ella 
+ One with CYP3A4 inducers (e.g. barbiturates (incl uding primidone and phenobarbital), phenytoin, fosphenytoin, carbamazepine , oxcarbazepine, herbal medicines containing Hypericum perforatum  (St. John’s wort), rifampicin, rifabutin, griseofulvin, efavirenz and nevirapine) therefore  reduces plasma concentrations of ulipristal acetate and may result in a decreased efficacy of ella 
+ One. For women who have used enzyme -inducing drugs in the past 4 weeks, ella 
+ One is not recommended  (see section 4.4) and non-hormonal emergency contraception (i.e. a copper intrauterine device (Cu-IUD)) should be considered . 
+ 
+- CYP3A4 inhibitors In vivo results show that administration of ulipristal acetate with a potent and a moderate CYP3A4 inhibitor increased Cmax and AUC of ulipristal acetate with a maximum of 2 - and 
+5.9-fold, respectively. The effects of CYP3A4 inhibitors are unlikely to have any cl inical consequences.    
+ The CYP3A4 inhibitor ritonavir can also have an inducing effect on CYP3A4 when ritonavir is used for a longer period. In such cases ritonavir might reduce plasma concentrations of ulipristal acetate. Concomitant use is therefore not recommended  (see section 4.4 ). Enzyme induction wears off slowly and effects on the plasma concentrations of ulipristal acetate may occur even if a woman has stopped taking an enzyme inducer in the past 4  weeks.  
+ Medicinal products affecting gastric p 
+ H Administration of ulipristal aceta te (10 mg tablet) together with the proton pump inhibitor esomeprazole (20 mg daily for 6 days) resulted in approximately 65% lower mean Cmax, a delayed T max  5 (from a median of 0.75 hours to 1.0 hours) and 13% higher mean AUC. The clinical relevance of this interaction for single dose administration of ulipristal acetate as emergency contraception is not known. 
+ Potential for ulipristal acetate to affect other medicinal products  
+ Hormonal contraceptives  Because ulipristal acetate binds to the progesterone receptor with high affinity, it may interfere with the action of progestogen- containing medicinal products:  
+- Contraceptive action of combined hormonal contraceptives and progestogen-only contraception may be reduced  
+- Concomitant use of uliprista l acetate and emergency contraception containing levonorgestrel is not recommended  (see section  4.4).  
+ In vitro  data indicate that ulipristal acetate and its active metabolite do not significantly inhibit CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4, at clinically relevant concentrations. After single dose administration induction of CYP1A2 and CYP3A4 by ulipristal acetate  or its active metabolite is not likely. Thus, administration of ulipristal acetate is unlikely to alter the clearance of medicinal products that are metabolised by these enzymes.   P-glycoprotein (P-gp) substrates In vitro  data indicate that ulipristal acetate may be an inhibitor of P -gp at clinically relevant concentrations. Results in vivo  with the P -gp substrate fexofenadine were inconclusive. The effects of the P-gp substrates are unlikely to have any clinical consequences.    
+ 

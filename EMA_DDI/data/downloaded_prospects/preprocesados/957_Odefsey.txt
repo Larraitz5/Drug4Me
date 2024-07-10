@@ -1,0 +1,111 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Odefsey is indicated for use as a complete regimen for the treatment of HIV -1 infection and should not be co -administered with other antiretroviral medicinal products.  Therefore, information regarding drug-drug interactions with other antiretroviral medicinal products is not provided .  Interaction studies have only been performed in adults.  
+ Emtricitabine  
+ In vitro  and clinical pharmacokinetic drug -drug interaction studies have shown that the potential for CYP -mediated interactions involving emtricitabine  with other medicinal products is low.   Co-administration of emtricitabine  with medicinal products  that are eliminated by active tubular secretion may increase concentrations of emtricitabine , and/or the co -administered medicinal product .  Medicinal products  that decrease renal function may increase concentrations of emtricitabine .  
+7  Rilpivirine  
+ Rilpivirine is primarily metabolised by CYP3A.  Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section  5.2).  Rilpivirine inhibits P-glycoprotein ( P-gp) in vitro  (50% inhibitory concentration [ IC50] is 9.2  µM).  In a clinical study , rilpivirine did not significantly affect th e pharmacokinetics of digoxin.  Additionally, i n a clinical drug -drug interaction study  with tenofovir alafenamide, which is more sensitive to intestinal P -gp inhibition,  rilpivi rine did not affect tenofovir alafenamide exposures when administered concurrently , indicating that rilpivirine is not a P -gp inhibitor in vivo. 
+ Rilpivirine is an in vitro  inhibitor of the transporter MATE -2K with an IC 50 of < 2.7 n 
+ M.  The clinical implic ations of this finding are currently unknown.  
+ Tenofovir alafenamide  
+ Tenofovir alafenamide is transported by P -gp and breast cancer resistance protein ( BCRP ).  Medicinal products that affect P -gp and BCRP activity may lead to changes in tenofovir alafenamide absorption (see Table  1).  Medicinal products that induce P -gp activity (e.g., rifampicin, rifabutin, carbam azepine, phenobarbital)  are expected to decrease the absorption of tenofovir alafenamide, resulting in decreased plasma concentration of  tenofovir alafenamide, which may lead to loss of therapeutic effect of Odefsey  and development of resistance.  Co -administration of Odefsey  with other medicinal products that inhibit P -gp and BCRP activity  (e.g., ketoconazole, fluconazole, itraconazole, p osaconazole, voriconazole , ciclosporin) is expected to increase the absorption and plasma concentration of tenofovir alafenamide.   Based on data from an in vitro  study, co -administration of tenofovir alafenamide and xanthine oxidase inhibitors (e.g., febuxostat) is not expected to increase systemic exposure to tenofovir in vivo.  
+ Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP 2C19 or CYP2D6  in vitro .  Tenofovir alafenamide is not an inhibitor or inducer of CYP3A in vivo.   Tenofovir alafenamide is  a substrate of organic anion transporting polypeptide ( OATP ) 1B1 and OATP1B3 in vitro.   The distribution of tenofovir alafenamide in the body may be affected by the activity of OATP1B1 and OATP1B3.  
+ Concomitant use contraindicated  
+ Co-administration of Odefsey  and medicinal products that induce CYP3A has been observed to decrease the plasma concentrations of rilpivirine which could potentially lead to loss of virologic response  to Odefsey  (see section  4.3) and possible resistance to rilpivirine and to the NNRTI  class . 
+ Co-administration of Odefsey  with proton pump inhibitors has been observed to decrease the plasma concentrations of rilpivirine (due to an increase in gastric p 
+ H) which could potentially lead to loss of virologic response to  Odefsey  (see section  4.3) and possible resistance to rilpivirine and to the NNRTI  class.  
+ Concomitant use where caution is recommended  
+ CYP enzyme inhibitors  Co-administration of Odefsey  with medicinal products that inhibit CYP3A enzyme activity has been observed to increase rilpivirine plasma concentrations.  
+ QT prolonging medicinal products  Odefsey  should be used with caution when co -administered with a medicinal product with a known risk of Torsade de Pointes  (see section  4.4). 
+  
+8 Other interactions  
+ Tenofovir alafenamide is not an inhibitor of human uridine diphosphate glucuronosyltransferase (UGT ) 1A1 in vitro.   It is not known whether emtricitabine, or tenofovir alafenamide are inhibitors of other UGT enzymes.   Emtricitabine did not inhibit the glucuronidation reaction of a non -specific UGT substrate in vitro.  
+ Interactions between Odefsey  or its individual component(s) and co -administered medicinal products are listed in Table  1 below (increase is indicated as “↑”, decrease as “↓” and no change as “↔”).  
+ Table  1: Interactions between  Odefsey or its  individual component (s) and other medicinal products  
+ Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  ANTI -INFECTIVES  Antifungals  Ketoconazole (400  mg once daily)/ Rilpivirine1 Ketoconazole:  AUC: ↓ 24%  Cmin: ↓ 66%  Cmax: ↔ 
+ Rilpivirine:  AUC: ↑ 49%  Cmin: ↑ 76%  Cmax: ↑ 30%  Inhibition of CYP3A  
+ Expected:  Tenofovir alafenamide:  AUC: ↑  Cmax: ↑ Inhibition of P-gp 
+ Interaction not studied with tenofovir alafenamide.  Co-administration of ketoconazole is expected to increase plasma concentrations of tenofovir alafenamide  (inhibition of P -gp). Co-administration is not recommended . Fluconazole  Itraconazole  Posaconazole  Voriconazole  Interaction not studied with any of the components of Odefsey.  Co-administration of these antifungal agents is expected to increase plasma concentrations of rilpivirine (inhibition of CYP3A) and tenofovir alafenamide (inhibition of P -gp). Co-administration is not recommended.   
+9 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  Antimycobacterials  Rifampicin/ Rilpivirine  Rifampicin:  AUC: ↔  Cmin: N/A  Cmax: ↔ 
+ 
+25-desacetyl -rifampicin:  AUC: ↓ 9%  Cmin: N/A  Cmax: ↔ 
+ Rilpivirine:  AUC: ↓ 80%  Cmin: ↓ 89%  Cmax: ↓ 69%  Induction of CYP3A  
+ Expected:  Tenofovir alafenamide:  AUC: ↓  Cmax: ↓ Induction of P -gp 
+ Interaction not studied with tenofovir alafenamide.  Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir alafenamide (induction of P -gp). Co-administration is contraindicated.  Rifapentine  Interaction not st udied with any of the components of Odefsey .  Co-administration is likely to cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A ) and tenofovir alafenamide (induction of P -gp). Co-administration is contraindicated.   
+10 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  Rifabutin ( 300 mg once daily)/ Rilpivirine1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rifabutin ( 300 mg once daily)/ Rilpivirine  Rifabutin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ 
+25-O-desacetyl -rifabutin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↓ 42%  Cmin: ↓ 48%  Cmax: ↓ 31%  Induction of CYP3A  
+ Expected:  Tenofovir alafenamide:  AUC: ↓  Cmax: ↓  Induction of P-gp 
+ Interaction not studied with tenofovir alafenamide.  Co-administration is likely to cause significant decreases in the plasma concentrations of tenofovir alafenamide (i nduction of P -gp). Co-administration is contraindicated.  Macrolide antibiotics  Clarithromycin  Erythromycin  Interaction not studied with any of the components of Odefsey .  The combination of Odefsey with these macrolide antibiotics may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A) a nd tenofovir alafenamide (inhibition  of P-gp). Co-administration is not recommended.  Antiviral agents  Ledipasvir/Sofosbuvir (90 mg/400  mg once daily)/ Rilpivirine  Ledipasvir:  AUC: ↑ 2%  Cmin: ↑ 2%  Cmax: ↑ 1%  
+ Sofosbuvir:  AUC: ↑ 5%  Cmax: ↓ 4%  
+ Sofosbuvir metabolite GS -331007:  AUC: ↑ 8%  Cmin: ↑ 10%  Cmax: ↑ 8%  
+ Rilpivirine : AUC: ↓ 5%  Cmin: ↓ 7%  Cmax: ↓ 3%  No dose adjustment is required.  
+ 
+11 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  Ledipasvir/Sofosbuvir (90 mg/400  mg once daily)/ Tenofovir alafenamide  Tenofovir alafenamide:  AUC: ↑ 32%  Cmax: ↑ 3%  Sofosbuvir/Velpatasvir  (400 mg/100  mg once daily)/ Rilpivirine2 Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Velpatasvir:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment is required.  Sofosbuvir/Velpatasvir/Voxilaprevir  (400 mg/100  mg/100  mg + 100 mg once daily)3/ Emtricitabine/Rilpivirine/Tenofovir alafenamide (200  mg/25  mg/25  mg once daily)  Sofosbuvir:  AUC: ↔  Cmin: N/A  Cmax: ↔ 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔  Cmin: N/A  Cmax: ↔ 
+ Velpatasvir:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Voxilaprevir:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Emtricitabine:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Tenofovir alafenamide:  AUC: ↑ 52%  Cmin: N/A  Cmax: ↑ 32%  No dose adjustment is required.   
+12 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  Sofosbuvir (400  mg once daily) / Rilpivirine (25  mg once daily)  Sofosbuvir:  AUC: ↔  Cmax: ↑ 21% 
+ Sofosbuvir metabolite GS -331007:  AUC: ↔  Cmax: ↔ 
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↔ No dose adjustment is required . ANTICONVULSANTS  Carbamazepine  Oxcarbazepine  Phenobarbital  Phenytoin  Interaction not studied with any of the components of Odefsey .  Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A) and tenofovir alafenamide (induction of P -gp). Co-administration is  contraindicated.  GLUCOCORTICOIDS  Dexamethasone (systemic, except for single dose use)  Interaction not studied with any of the components of Odefsey .  Significant dose dependent decreases in rilpivirine plasma concentrations are expected (induction of CYP3A).  Co-administration is contraindicated.  PROTON PUMP INHIBITORS  Omeprazole (20  mg once daily)/ Rilpivirine1 Omeprazole:  AUC: ↓ 14%  Cmin: N/A  Cmax: ↓ 14%  
+ Rilpivirine:  AUC: ↓ 40%  Cmin: ↓ 33%  Cmax: ↓ 40%  Reduced absorption, increase in gastric  p 
+ H Co-administration is contraindicated.  Lansoprazole  Rabeprazole  Pantoprazole  Esomeprazole  Dexlansoprazole  Interaction not studied with any of the components of Odefsey.   Significant decreases in rilpivirine plasma concentrations are expected (reduced absorption, increase in gastric p 
+ H).  Co-administration is contraindicated.  HERBAL PRODUCTS  St. John ’s wort ( Hypericum perforatum ) Interaction not studied with any of the components of Odefsey .  Co-administration may cause significant decreases in the plasma concentrations of rilpivirine (induction of CYP3A) and tenofovir alafenamide (induction of P -gp). Co-administration is contraindicated.   
+13 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  H2-RECEPTOR ANTAGONISTS  Famotidine (40  mg single dose taken 
+12 hours before rilpivirine)/ Rilpivirine1 
+ 
+ Famotidine (40  mg single dose taken 
+2 hours before rilpivirine)/ Rilpivirine1 
+ 
+ 
+ 
+ Famotidine (40  mg single dose taken 
+4 hours after rilpivirine)/ Rilpivirine1 Rilpivirine:  AUC: ↓ 9%  Cmin: N/A  Cmax: ↔ 
+ Rilpivirine:  AUC: ↓ 76%  Cmin: N/A  Cmax: ↓ 85%  Reduced absorption, increase in gastric  p 
+ H 
+ Rilpivirine:  AUC: ↑ 13%  Cmin: N/A  Cmax: ↑ 21% Only H 2-receptor antagonists that can be dosed once daily should be used.  A strict dosing schedule with intake of the H 2-receptor antagonists at least 12  hours before or at least 4  hours after Odefsey  should be used.  Cimetidine  Nizatidine  Ranitidine  Interaction not studied with any of the components of Odefsey .  Co-administration may cause significant decreases in rilpiviri ne plasma concentrations (reduced absorption, increase in gastric p 
+ H).  ANTACIDS  Antacids (e.g. , aluminium or magnesium hydroxide, calcium carbonate)  Interaction not studied with any of the components of Odefsey .  Co-administration may cause significant decreases in rilpivirine plasma concentrations (reduced absorption, increase in gastric p 
+ H).  Antacids should only be administered either at least 
+2 hours before or at least 4 hours after Odefsey . ORAL CONTRACEPTIVES  Ethinylestradiol (0.035  mg once daily)/ Rilpivirine  
+ 
+ 
+ Norethindrone (1  mg once daily)/ Rilpivirine  Ethinylestradiol:  AUC: ↔  Cmin: ↔ Cmax: ↑ 17%  
+ Norethindrone:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↔*  Cmin: ↔*  Cmax: ↔*  
+*based on historic controls  No dose adjustment is required.   
+14 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  Norgestimate (0.180/0.215/0.250  mg once daily)/ Ethinylestradiol (0.025  mg once daily)/ Emtricitabine/Tenofovir alafenamide (200/25  mg once daily)  Norelgestromin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Norgestrel:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Ethinylestradiol:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment is required.  NARCOTIC ANALGESICS  Methadone (60 -100 mg once daily, individualised dose)/ Rilpivirine  R(-) methadone:  AUC: ↓ 16%  Cmin: ↓ 22%  Cmax: ↓ 14%  
+ S(+) methadone : AUC: ↓ 16%  Cmin: ↓ 21%  Cmax: ↓ 13%  
+ Rilpivirine:  AUC: ↔*  Cmin: ↔*  Cmax: ↔*  
+*based on historic controls  No dose adjustments are required.  
+ Clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients.  ANALGESICS  Paracetamol (500  mg single dose)/ Rilpivirine1 Paracetamol:  AUC: ↔ Cmin: N/A Cmax: ↔ 
+ Rilpivirine:  AUC: ↔  Cmin: ↑ 26%  Cmax: ↔ No dose adjustment is required.  ANTIARRHYTHMICS  Digoxin/  Rilpivirine  Digoxin:  AUC: ↔  Cmin: N/A Cmax: ↔ No dose adjustment is required.  ANTICOAGULANTS  Dabig atran etexilate  Interaction not studied with any of the compone nts of Odefsey . A risk for increases in dabigatran plasma concentrations cannot be excluded (inhibition of intestinal P-gp). Co-administration should be used with caution.   
+15 Medicinal product by therapeutic areas  Effects on medicinal product  levels . Mean percent change in AUC, Cmax, Cmin Recommendation concerning co-administration with Odefsey  IMMUNOSUPPRESSANTS  Ciclosporin  Interaction not studied with any of the components of Odefsey .  Co-administration  of ciclosporin  is expected to increase plasma concentrations of rilpivirine (inhibition of CYP3A) and tenofovir alafenamide  (inhibition of P-gp). Co-administration is not recommended.  ANTIDIABETICS  Metformin (850  mg single dose)/ Rilpivirine  Metformin:  AUC: ↔  Cmin: N/A Cmax: ↔ No dose adjustment is required . HMG  CO-A REDUCTASE INHIBITORS  Atorvastatin (40  mg once daily)/ Rilpivirine1 Atorvastatin:  AUC: ↔  Cmin: ↓ 15% Cmax: ↑ 35% 
+ Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↓ 9% No dose adjustment is required . PHOSPHODIESTERASE TYPE  5 (PDE -5) INHIBITORS  Sildenafil (50  mg single dose)/ Rilpivirine1 Sildenafil:  AUC: ↔  Cmin: N/A Cmax: ↔ 
+ Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ No dose adjustment is required.  Vardenafil Tadalafil  Interaction not studied with any of the components of Odefsey .  These are medicinal products within class where similar interactions could be predicted . No dose adjustment is required.  HYPNOTICS/SEDATIVES  Midazolam (2.5  mg, orally, single dose)/ Tenofovir alafenamide  
+ 
+ 
+ Mida zolam (1  mg, intravenously, single dose )/ Tenofovir alafenamide  Mida zolam: AUC: ↑ 12%  Cmin: N/A Cmax: ↑ 2%  
+ Mida zolam: AUC: ↑ 8%  Cmin: N/A Cmax: ↓ 1%  No dose adjustment is required.  N/A = not applicable  
+1 This interaction study has been performed with a dose higher than the recommended dose for rilpivirine hydrochloride assessing the maximal effect on the co -administered medicinal product.  The dosing recommendation is applicable to the recommended dose of rilpi virine of 25 mg once daily.  
+2 Study conducted with emtricitabine/rilpivirine/tenofovir disoproxil fumarate fixed -dose combination tablet.  
+3 Study conducted with additional voxilaprevir 100  mg to achieve voxilaprevir exposures expected in HCV  infected patients.  
+  
+16 Studies conducted with other medicinal products  
+ Based on drug -drug interaction studies conducted with the components of Odefsey , no clinically significant interactions are expected when Odefsey  is combined with the following medicinal products : buprenorphine,  naloxone and norbuprenorphine.  
+ 

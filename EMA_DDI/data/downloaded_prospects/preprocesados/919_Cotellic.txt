@@ -1,0 +1,29 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effects of other medicinal products  on c obimetinib  
+ CYP3A inhibitors  
+ Cobimetinib is metabolized by CYP3A and cobimetinib AUC increased approximately 7 fold in the presence of a strong CYP3A inhibitor (itraconazole) in healthy subjects. The magnitude of interaction could potentially be lower in patients.  
+ 9 Strong CYP3A  inhibitors (see section 4.4.)   
+ Avoid concurrent use of strong CYP3A inhibitors during treatment  with cobimetinib. Strong CYP3A  inhibitors include, but are not limited to ritonavir, cobicistat, telaprevir, lopinavir, itraconazole, voriconazole, clari thromycin, telithromycin, posaconazole , nefazodone  and grapefruit juice . If concomitant use of a strong CYP3A inhibitor is unavoidable, patients should be carefully monitored for safety. For strong CYP3A inhibitors used short -term (7  days or less), consider interrupting cobimetinib therapy during the duration of inhibitor use. 
+ Moderate CYP3A  inhibitors (see section 4.4.)   
+ Caution should be exercised if cobimetinib is co- administered with moderate C YP3A inhibitors. Moderate CYP3A  inhibitors include, but are not limited to, amiodarone, erythromycin, fluconazole, miconazole, diltiazem, verapamil, delavirdine, ampren avir, fosamprenavir,  imatinib.  When cobimetinib is co -administered with a moderate CYP3A inhibitor, patients should be carefully monitored for safety.  
+ Mild CYP3A  inhibitors   
+ Cobimetinib can be co- administered with mild inhibitors of CYP3A without dose adjustment.  
+ CYP3A inducers  
+ Co-administration of cobimetinib with a strong CYP3A inducer was not assessed  in a clinical study , however, a reduction in cobimetinib exposure is likely. Therefore, concomitant use of  moderate and  strong CYP3A inducers (e .g. carbamazepine, rifampi cin, phenytoin, and St. John’s Wort)  should be avoided. A lternative agents with no or  minimal  CYP3A induction should be considered. Given t hat cobimetinib concentrations are likely to be significantly reduced when co- administered with moderate to strong CYP3A inducers, patient’s efficacy may be compromised . 
+ P-glycoprotein  inhibitors  
+ Cobimetinib is a substrate of P -glycoprotein (P -gp). Concomitant administration of P -gp inhibitors such as c iclosporin and verapamil may have the potential to increase plasma concentrations of cobimetinib.  
+ Effects of cobimetinib on other medicinal product s   
+ CYP3A and CYP2D6 s ubstrates  
+ A clinical drug -drug interaction (DDI) study in cancer patients showed that plasma concentrations of midazolam (a sensitive CYP3A substrate) and dextromethorphan (a sensitive CYP2D6 substrate) were not altered in the presence of cobimetinib.  
+  CYP1A2 substrates  
+ In vitro , cobimetinib is a potential inducer of CYP1A2 and may t herefore reduce the exposure of substrates of  this enzyme e .g., theophylline . No clinical DDI studies have been conducted to assess the clinical relevance of this finding.  
+ BCRP substrates  
+ In vitro , cobimetinib is a moderate inhibitor of BCRP  (Breast Cancer Resistance Protein) . No clinical DDI studies hav e been conducted to assess this finding, and clinically relevant inhibition of intestinal BCRP  cannot be ruled out.  
+ 10 Other anti -cancer agents  
+ Vemurafenib  
+ There is no evidence of any clinical ly significant drug -drug interaction between cobimetinib and vemurafenib in unresectable or metastatic melanoma patients and therefore no dose adjustments  is recommended . 
+ Effects of cobimetinib on drug transport s ystems 
+ In vitro  studies show that cobimetinib is not a substrate of the liver uptake transporters OATP1B1, OATP1B3 and OCT1, however, it weakly inhibits these transporters. The clinical relevance of these findings has not been investigated.  
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

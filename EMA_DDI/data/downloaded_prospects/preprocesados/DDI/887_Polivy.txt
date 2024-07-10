@@ -1,0 +1,6 @@
+> Based on physiological -based pharmacokinetic (PBPK) model simulations of MMAE released from POLATUZUMAB VEDOTIN, strong CYP3A 4 and P -gp inhibitors (e.g., KETOCONAZOLE) may increase the area under the concentration- time curve (AUC) of unconjugated MMAE by 48% . Caution is advised in case of concomitant treatment with CYP3A4 inhibitor. Patients rece iving concomitant strong CYP3A 4 inhibitors  (e.g., BOCEPREVIR, CLARITHROMYCIN, COBICISTAT, INDINAVIR, ITRACONAZOLE, NEFAZODONE, NELFINAVIR, POSACONAZOLE, RITONAVIR, SAQUINAVIR, telaprev ir, TELITHROMYCIN, VORICONAZOLE ) should be monitored more  closely for si gns of toxicities. 
+> Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines that are CYP3A 4 substrates (e.g., MIDAZOLAM). 
+> Strong CYP3A4 inducers (e.g., rifampicin , CARBAMAZEPINE, PHENOBARBITAL, PHENYTOIN, St John’s wort 
+[Hypericum perforatum ]) may decrease the exposure  of unconjugated MMAE. 
+> 10 Drug interactions of RITUXIMAB, bendamustine , CYCLOPHOSPHAMIDE, and DOXORUBICIN in combination with POLATUZUMAB VEDOTIN 
+> The pharmacokinetics (PK) of RITUXIMAB, bendamustine , CYCLOPHOSPHAMIDE, and DOXORUBICIN are not affected by co -administration with POLATUZUMAB VEDOTIN. Concomitant RITUXIMAB is associated with increased antibody conjugated MMAE (ac

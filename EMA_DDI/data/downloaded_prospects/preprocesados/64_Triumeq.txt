@@ -1,0 +1,159 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Triumeq  contains dolutegr avir, abacavir and lamivudine, therefore any interactions identified for these individually are relevant to Triumeq . No clinically significant drug interactions are expected between dolutegravir, abacavir and lamivudine . 
+ Effect of other medicinal products  on the pharmacokinetics of dolutegravir, abacavir and lamivudine  
+ Dolutegravir is eliminated mainly through metabolism by uridine diphosphate glucurono syl transferase (UGT) 1A1. Dolutegravir is also a substrate of UGT1A3, UGT1A9, CYP3A4, P -glycoprotein ( P-gp), and breast cancer resistance protein  (BCRP ). Co-administration of Triumeq and other medicinal products  that inhibit UGT1A1, UGT1A3, UGT1A9, CYP3A4, and/or P -gp may therefore increase dolutegravir plasma concentration. Medicinal products  that induce those enzymes or 8 transporters may decrease dolutegravir plasma concentration and reduce the therapeutic effect of dolutegravir (see Table 1).  
+ The absorption of dolutegravir is reduced by certain anti -acid medicinal products  (see Table 1).  
+ Abacavir is metabolised by UGT (UGT2B7) and alcohol dehydrogenase; co- administration of inducers  (e.g. rifampicin, carbamaz epine and phenytoin)  or inhibitors (e.g. valproic acid) of UGT enzymes or with compounds eliminated through alcohol dehydrogenase could alter abacavir exposure.  
+ Lamivudine is cleared renally. Active renal secretion of lamivudine in the urine is mediated through the OCT 2 and multidrug and toxin extrusion transporters (MATE1 and MATE2- K). Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations , however the resulting increase was not  clinical ly signi fican t (see Table 1) .  Dolutegravir is an OCT2 and MATE1 inhibitor; however, lamivudine concentrations were similar with or without co-administration of dolutegravir based on a cross study analysis, indicating that dolutegravir has no effect on lamivudine exposure in vivo . Lamivudine is also substrate of the hepatic uptake transporter  OCT1. As hepatic elimination plays a minor role in the clearance of lamivudine, drug interactions due to inhibition of OCT1 are unlikely to be of clinical significance . 
+ Altho ugh abacavir and lamivudine are substrates of BCRP and P -gp in vitro , given the high absolute bioavailability of abacavir and lamivudine, (see section 5.2), inhibitors of these efflux transporters are unlikely to result in a clinically relevant impact on a bacavir or lamivudine concentrations.  
+ Effect of dolutegravir, abacavir and lamivudine on the pharmacokinetics of other medicinal products   
+ In vivo , dolutegravir did not have an effect on midazolam, a CYP3A4 probe. Based on in vivo and/or in vitro  data , dolutegravir is not expected to affect the pharmacokinetics of  medicinal products that are substrates of any major enzyme or transporter  such as CYP3A4, CYP2C9 and P -gp (for more information see section 5.2) . 
+ In vitro , dolutegravir inhibited the renal transporters OCT2 and MATE1 . In vivo , a 10- 14% decrease of creati nine clearance (secretory fraction is dependent on OCT2 and MATE1 transport) was observed in patients. In vivo , dolutegravir may increase plasma concentrations of medicinal products in which excretion is dependent upon OCT2 and/ or MATE1 (e.g. fampridine  [also known as dalfampridine] , metformin) (see Table 1).   In vitro , dolutegravir inhibited the renal uptake organic anion transporters (OAT)1 and OAT3. Based on the lack of effect on the  in vivo  pharmacokinetics of the OAT substrate tenofovir, in vivo  inhibition of OAT1 is unlikely. Inhibition of OAT3 has not been studied in vivo . Dolutegravir may increase plasma concentrations of medic inal products in which excretion is dependent upon OAT3.   
+ In vitro , abacavir demonstrated the potential to inhibit CYP1A1 and limited potential to inhibit metabolism mediated by CYP3A4. Abacavir was an inhibitor of MATE1; the clinical consequences are not known.  
+ In vitro,  lamivudine wa s an inhibitor of OCT1 and OCT2; the clinical consequences are not known.  
+ Established and theoretical interactions with selected antiretrovirals and non -antiretroviral medicinal products are listed in Table 1. 
+ Interaction table   
+ Interactions between dolutegravir, abacavir , lamivudine and co- administered medical products are listed in Table 1 ( increase is indicated as “↑”, decrease as “↓”, no change as “↔”, area under the concentration versus time curve as “AUC”, maximum observed concentration as “C max”, concentration 9 at end of dosing interval as “Cτ” ). The table  should not be considered exhaustive but is representative of the classes studied.   
+ Table 1:   Drug i nteractions 
+ Medicinal products by therapeutic areas  Interaction geometric mean change (%)   Recommendation s concerning co -administration  Antiretroviral medicinal products  Non-nucleoside reverse transcriptase inhibitors  Etravirine  without boosted protease inhibitors  / Dolutegravir  Dolutegravir  ↓ 
+   AUC ↓  71%  
+   C max ↓ 52%  
+   Cτ ↓ 88%  
+ Etravirine ↔  (induction of UGT1A1 and CYP3A enzymes)  Etravirine without boosted prot ease inhibitors  decreased plasma dolutegravir concentration. T he recommended dose of dolutegravir is 50 mg twice daily for patients taking etravirine without boosted protease inhibitors . As Triumeq  is a fixed dose tablet , an additional 
+50 mg tablet of dolutegravir should be administered, a pproximately 12 hours after Triumeq  for the duration of the etravirine without boosted protease inhibitor co- administration (a separate preparation  of dolutegravir is available for this dose adjustment, see section 
+4.2). Lopinavir+ritonavir+etravirine/ Dolutegravir  Dolutegravir ↔ 
+   AUC ↑ 11%  
+   C max ↑ 7% 
+   Cτ ↑ 28%  
+ Lopinavir ↔  Ritonavir ↔  Etravirine ↔ No dose adjustment is necessary.  Darunavir+ritonavir+etravirine/ Dolutegravir  Dolutegravir ↓ 
+   AUC ↓ 25%  
+   C max ↓ 12%  
+   Cτ ↓ 36%  
+ Darunavir ↔ Ritonavir ↔
+ Etravirine ↔ No dose adjustment is necessary.  Efavirenz/Dolutegravir  Dolutegravir  ↓ 
+   AUC ↓  57%  
+   C max ↓ 39%  
+   Cτ ↓ 75%  
+ Efavirenz ↔  (historical controls)  (induction of UGT1A1 and CYP3A enzymes)  The recommended dose of dolutegravir is 50 mg twice daily when co-administered with efavirenz . As Triumeq  is a fixed dose tablet , an additional 
+50 mg tablet of dolutegravir should be administered, a pproximately 12 hours after Triumeq  for the duration of the efavirenz co -administration (a separate preparation  of dolutegravir is available for this dose adjustment, see section 
+4.2).   Nevirapine/Dolutegravir  Dolute gravir  ↓ (Not studied, a similar reduction in exposure as observed with efavirenz is Co-administration with nevirapine may decrease dolutegravir plasma concentration due to enzyme induction and has not been studied. Effect of 10 expected, due to induction)  nevirapine on dolutegravir exposure is likely similar to or less than that of efavirenz. T he recommended dose of dolutegravir is 50 mg twice daily when co-administered with nevirapine . As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegr avir should be administered, a pproximately 
+12 hours after Triumeq  for the duration of the nevirapine  co-administration (a separate preparation of dolutegravir is available for this dose adjustment, see section 4.2).  Rilpivirine  Dolutegravir ↔ 
+   AUC ↑  12%  
+   C max ↑ 13%  
+   Cτ ↑ 22%  Rilpivirine ↔ No dose adjustment is necessary.  Nucleoside reverse transcriptase inhibitors  (NRTIs)  Tenofovir  
+  
+ 
+ 
+ Emtricitabine, didanosine, stavudine, zidovudine.  Dolutegravir ↔ 
+   AUC ↑  1% 
+   C max ↓ 3% 
+   Cτ  ↓ 8% Tenofovir ↔  
+ Interaction not studied  No dose adjustment is necessary  when Triumeq is combined with nucleoside reverse transcript inhibitors . 
+ 
+ 
+ Triumeq is not recommended for use in combination with emtricitabine containing products, since both lamivudine (in Triumeq) and emtricitabine are cytidine analogues (i.e. risk for  intracellular interactions , (see section 4.4) ) Protease inhibitors  Atazanavir/Dolutegravir  Dolutegravir  ↑ 
+   AUC ↑  91%  
+   C max ↑ 50% 
+   Cτ ↑ 180%  
+ Atazanavir ↔  (historical controls)  (inhibition of UGT1A1 and CYP3A enzymes)  No dose adjustment is necessary.  Atazanavir+ ritonavir/ Dolutegravir  Dolutegravir  ↑ 
+   AUC ↑ 62%  
+   C max ↑ 34% 
+   Cτ ↑ 121%  
+ Atazanavir ↔  Ritonavir ↔ No dose adjustment is necessary.  Tipranavir+ritonavir/ Dolutegravir  Dolutegravir  ↓ 
+   AUC ↓ 59%  
+   C max ↓ 47%  
+   Cτ ↓ 76%  
+ The recommended dose of  dolutegravir is 50 mg twice daily when co-administered with tipranavir/ritonavir . As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegravir should be administered, a pproximately 11 Tipranavir ↔ Ritonavir ↔ (induction of UGT1A1 and CYP3A enzymes)  12 hours after Triumeq  for the duration of the tipranavir/ritonavir  co-administration (a separate preparation  of dolutegravir is available for this dose adjustment, see section 4.2).  Fosamprenavir+ritonav ir/ Dolutegravir  Dolutegravir ↓ 
+   AUC ↓ 35%  
+   C max ↓ 24%  
+   Cτ ↓ 49%  
+ Fosamprenavir ↔ Ritonavir  ↔ (induction of UGT1A1 and CYP3A enzymes)  Fosamprenavir/ritonavir decreases dolutegravir concentrations, but based on limited data, did not result in decreased efficacy in Phase III studies. No dose adjustment is necessary.  Lopinavir+ritonavir/  Dolutegravir  
+  
+ 
+ 
+ 
+ Lopinavir+ritonavir/  Abacavir  Dolutegravir ↔ 
+   AUC  ↓ 4% 
+   C max ↔ 0% 
+   C 24 ↓ 6% 
+ Lopinavir ↔  Ritonavir ↔  
+ Abacavir                          AUC ↓ 32%  No dose adjustment is necessary.  Darunavir+ritonavir/ Dolutegravir  Dolutegravir ↓ 
+   AUC ↓ 22%  
+   C max ↓ 11%  
+   Cτ ↓ 38%  
+ Darunavir ↔ Ritonavir ↔  (induction of UGT1A1 and CYP3A enzymes)  No dose adjustment is necessary.  Other antiviral agents  Daclatasvir /Dolutegravir  Dolutegravir ↔ 
+   AUC ↑ 33%  
+   C max ↑ 29%  
+   Cτ ↑ 45%  Daclatasvir ↔ Daclatasvir did not change dolutegravir plasma concentration to a clinically relevant extent.  Dolutegravir did not change daclatasvir plasma concentration. No dose adjustment is necessary.  Anti -infective products  Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Abacavir  
+ Trimethoprim/sulfamethoxazole  (Co-trimoxazole)/Lamivudine  (160mg/800mg once daily for 5 days/300mg single dose)  Interaction not studied  
+ 
+ Lamivudine:  
+   AUC ↑ 43% 
+   C max ↑7% 
+ Trimethoprim:  
+   AUC ↔  
+ Sulfamethoxazole:  
+   AUC ↔  
+ (organic cation transporter inhibition)  No Triumeq dose adjustment necessary, unless patient has renal impairment (See Section 4.2).  
+ 
+ 12 Antimycobacterials  Rifampicin/Dolutegravir  Dolutegravir ↓ 
+   AUC ↓  54%  
+   C max ↓ 43%  
+   Cτ ↓ 72%  (induction of UGT1A1 and CYP3A enzymes)  The dose of dolutegravir is 50 mg twice daily when co- administered with rifampicin . As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegravir should be administered, approximately 12 hours after Triumeq  for the duration of the rifampicin  co-administration (a separate preparation  of dolutegravir is available for this dose adjustment, see section 4.2).  Rifabutin  Dolutegravir ↔ 
+   AUC ↓  5% 
+   C max ↑ 16%  
+   Cτ ↓ 30%  (induction of UGT1A1 and CYP3A enzymes)  No dose adjustment is necessary.  Anticonvulsants  Carbamazepine /Dolutegravir  Dolutegravir ↓ 
+   AUC ↓  49%  
+   C max ↓ 33%  
+   Cτ ↓ 73%  
+ The recommended dose of dolutegravir is 50 mg twice daily when co-administered with carbamazepine . As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegravir should be administered, a pproximately 
+12 hours after Triumeq  for the duration of the carbamazepine  co-administration (a separate preparation of dolutegravir is available for this dose adjustment, see section 4.2).  Phenobarbital/Dolutegravir  Phenytoin/Dolutegravir  Oxcarbazepine/Dolutegravir  
+ Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected ) The recommended dose of dolutegravir is 50 mg twice daily when co-administered with these metabolic inducers . As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegravir should be administered, approximately 12 hours after Triumeq  for the duration of the co- administration  with these metabolic inducers  (a separate preparation  of dolutegravir is available for this dose adjustment, see section 
+4.2). Antihistamines ( histamine H2 receptor antagonists)  Ranitidine  Interaction not studied.  
+ Clinically significant interaction unlikely . No dose adjustment necessary.  Cimetidine  Interaction not studied.  
+ Clinically significant interaction unlikely.  No dose adjustment necessary.  Cytotoxics  Cladribine/Lamivudine  Interaction not studied.  
+ In vitro  lamivudine inhibits the intracellular Concomitant use of Triumeq  with cladribine is not recommended (see section 4.4).  13 phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between lamivudine an d cladribine  Opioids  Methadone/Abacavir  (40 to 90mg once daily for 14 days/600mg single dose, then 
+600mg twice daily for 14 days)  Abacavir:   
+   AUC ↔  
+   Cmax ↓35% 
+ Methadone:  
+   CL/F ↑22% Methadone dose adjustment likely  not needed  in majority of patients; occasionally methadone re- titration may be required.  Retino ids Retinoid compounds  (e.g. I sotretinoin)  Interaction not studied  
+ Possible interaction given common pathway of elimination via alcohol dehydrogenase (abacavir -component).  Insufficient data to recommend dose adjustment.  Miscellaneous  Alcohol  Ethanol/Dolutegravir  Ethanol/Lamivudine  
+ 
+ Ethanol/Abacavir  (0.7 g/kg single dose/600mg single dose)  Interaction not studied  (Inhibition of alcohol dehydrogenase)  
+ Abacavir:  
+   AUC ↑  41%  Ethanol:  
+   AUC ↔  
+ No dose adjustment necessary.  Sorbitol    Sorbitol solution (3.2 g, 10.2  g, 
+13.4 g)/Lamivudine  Single dose lamivudine oral solution 300 mg  Lamivudine:  AUC ↓  14%; 32%; 36%  Cmax ↓ 28%; 52%, 55%.  When possible, avoid chronic coadministration of Triumeq with medicinal products containing sorbitol or other osmotic acting poly- alcohols or monosaccharide alcohols (eg: xylitol, mannitol, lactitol, maltitol).  Consider more frequent monitoring of HIV -1 viral load when chronic coadministration cannot be avoided.  Potassium channel blocker s Fampridine  (also known as dalfampridine )/Dolutegravir  Fampridine ↑ Co-administration of dolutegravir has the potential to cause seizures due to increased fampridine plasma concentration via inhibition of OCT2 transporter; co -administration has not been studied. Fampridine co-administration with Triumeq  is contraindicated  (see section 4. 3). Antacids and supplements  14 Magnesium/  aluminium- containing antacids/Dolutegravir  Dolutegravir ↓ AUC ↓  74%  Cmax ↓ 72%  
+ (Complex binding to polyvalent ions)  Magnesium/ aluminium -containing antacids should be taken well separated in time from the administration of Triumeq (minimum 2 hours after or 6 hours before  the intake of Triumeq ). Calcium supplements/Dolutegravir  Dolutegravir ↓ 
+   AUC ↓  39%  
+   C max ↓ 37%  
+   C 24 ↓ 39%  (Complex binding to polyvalent ions)  - When taken with food, Triumeq and supplements or multivitamins containing calcium, iron or magnesium can be taken at the same time.  
+- If Triumeq is taken in a fasted state, such supplements should be taken a minimum 2 hours after or 6 h ours before the intake of Triumeq.  
+ The stated reductions in dolutegravir exposure were observed with the intake of dolutegravir and these supplements during fasted conditions. In fed state, the changes in exposure following intake together with calcium or  iron supplements were modified by the food effect, resulting in an exposure similar to that obtained with dolutegravir administered in the fasted state.  Iron supplements/Dolutegravir  Dolutegravir ↓ 
+   AUC ↓  54%  
+   C max ↓ 57%  
+   C 24 ↓ 56%  (Complex binding to polyvalent ions)  Multivitamins  (containing calcium, iron and magnesium ) 
+/Dolutegravir  Dolutegravir ↓ 
+   AUC ↓  33%  
+   C max ↓ 35%  
+   C 24 ↓ 32%  Corticosteroids  Prednisone  Dolutegravir ↔ 
+   AUC ↑  11%  
+   C max ↑ 6% 
+   Cτ ↑ 17%  No dose adjustment is necessary.  Antidiabetics  Metformin/Dolutegravir  Metformin ↑ Dolutegravir ↔  When co -administered with dolutegravir 50mg QD: Metformin  
+   AUC ↑  79%  
+   C max ↑ 66%  When co -administered with dolutegravir 50mg BID:  
+   Metformin  
+   AUC ↑  145 %  
+   Cmax ↑ 111%  A dose adjustment of metformin should be considered when starting and stopping coadministration of dolutegravir with metformin, to maintain glycaemic control.  In patient s with moderate renal impairment a dose adjustment of metformin should be considered when coadminist ered with dolutegravir , because of the increased risk for lactic acidosis in patients with moderate renal impairment due to increased metformin conce ntration (section 4.4).  Herbal products    St. John’s wort/Dolutegravir  
+ Dolutegravir ↓ (Not studied, decrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected)  The recommended dose of dolutegravir is 50 mg twice daily when co-administered with  St. John’s wort.  As Triumeq  is a fixed dose tablet , an additional 50 mg tablet of dolutegravir should be administered, a pproximately 
+12 hours after Triumeq  for the duration of the St John’s wort  co-administration (a separate preparation  of dolutegravir is 15 available for this dose adjustment, see section 4.2).  Oral contraceptives  Ethinyl estradiol (EE) and Norgestromin (NGMN)/Dolutegravir  Effect of dolutegravir:  EE ↔  
+   AUC ↑  3%  
+   C max ↓ 1% 
+ Effect of dolutegravir:  NGMN ↔  
+   AUC ↓  2%  
+   Cmax ↓ 11% Dolutegravir had no Pharmacodynamic effect on Luteinizing Hormone (LH), Follicle Stimulating Hormone (FSH) and progesterone. No dose adjustment of oral contraceptives is n ecessary when co-administered with Triumeq.  Antihypertensive  Riociguat/Abacavir  Riociguat ↑ In vitro , abacavir inhibits CYP1A1. Concomitant administration of a single dose of riociguat (0.5 mg) to HIV patients receiving Triumeq led to an approximately three -fold higher riociguat AUC (0-∞) when compared to historical riociguat AUC(0-∞) reported in healthy subjects.  Riociguat dose may need to be reduced, consult the riociguat prescribing information for dosing recommendations.  
+ Paediatric po pulation  
+ Interaction studies have only been performed in adults.  
+ 

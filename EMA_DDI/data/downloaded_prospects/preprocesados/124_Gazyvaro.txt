@@ -1,0 +1,11 @@
+4.5 Interaction with other  medicinal products and other forms of interaction  
+ No formal drug- drug interaction studies have been performed, although limited drug- drug interaction sub-studies have been undertaken for Gazyvaro with bendamustine, CHOP, fludarabine and cyclophosphamide (FC), and chlorambucil.  
+ A risk for interactions with o ther concomitantly used medicinal products cannot be excluded.  
+ Pharmacokinetic interactions 
+ Obinutuzumab is not a substrate, inhibitor, or inducer of cytochrome P450 (CYP450) , uridine diphosphate gl ucuronyltransferase (UGT) enzymes and transporters such as P -glycoprotein. Therefore, 13 
+ no pharmacokinetic inte raction is expected with  medicinal products  known to be metabolised by these enzyme systems.  
+ Co-administration with Gazyvaro had no effect on the pharmacokinetics of bendamustine, FC, chlorambucil or the individual components of CHOP. In addition, there were no apparent effects of bendamustine, FC, chlorambucil or CHOP on the pharmacokinetics of Gazyvaro. 
+ Pharmacodynamic interactions  
+ Vaccination w ith live virus vaccines is not recommended during treatment and until B-cell recovery because of the immunosuppressive ef fect of obinutuzumab (see section 4.4).  
+ The combination of obinutuzumab with chlorambucil , bendamustine , CHOP or CVP  may increase the risk of neutropenia (see section 4.4).  
+ 

@@ -1,0 +1,11 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Results from an in vitro receptor screening study do not indicate a likely interaction with other therapeutic targets or a potential for clinically relevant pharmacodynamic interactions (see section 5.1). 
+ Clinical drug-drug interaction studies with dalbavancin have not been conducted.  
+ Potential for other medicinal products to affect the pharmacokinetics of dalbavancin . 
+ Dalbavancin is not metabolised by CYP enzymes in vitro, therefore co-administered CYP inducers or inhibitors are unlikely to influence the pharmacokinetics of dalbavancin.  
+ It is not known if dalbavancin is a substrate for hepatic upt ake and efflux transporters. Co-administration with inhibitors of these transporters may increase the exposu re to dalbavancin. Examples of such transporter inhibitors are boosted protease inhibitors, verapamil, quinidine, itraconazole, clarithromycin and cyclosporine.  
+  
+5 Potential for dalbavancin to affect the pharmacokinetics of other medicinal products . 
+ The interaction potential of dalbavancin on medicinal products metabolised by CYP enzymes is expected to be low since it is neither an inhibitor nor an inducer of CYP enzymes in vitro. There are no data on dalbavancin as an inhibitor of CYP2C8.  
+ It is not known if dalbavancin is an inhibitor of transporters. Increased exposure to transporter substrates sensitive for inhibited transporter activity, such as statins and digoxin, cannot be excluded if combined with dalbavancin.  
+ 

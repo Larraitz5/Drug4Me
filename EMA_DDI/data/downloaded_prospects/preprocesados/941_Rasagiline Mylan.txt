@@ -1,0 +1,29 @@
+4.5 Interaction with other medicinal products and other forms o f interaction  
+ 
+ MAO Inhibitors 
+ Rasagiline is contrai ndicated along with o ther MAO inhibitors ( including medicinal and natural products without prescription e.g. St. John's Wort) as there ma y be a risk of non-selective MAO inhibition that may lead to hype rtensive crises (see section 4. 3). 
+ Pethidine 
+ Serious adverse reactions have been reported with the concomita nt use of pethidine and MAO inhibitors including another sel ective MAO-B inhi bitor. The con comitant administration of rasagiline and pethidine is c ontraindicated (see section 4.3). 
+ Sympathomimetics 
+ With MAO inhibitors there have been reports of medicinal produc t interactions with the concomitant use of sympathomimetic medicinal  products. Therefore, in view o f the MAO inhibito ry activity of rasagiline, concomitant adminis tration of rasag iline and sympat homimetics such as those present in nasal and oral decongestants or cold medicinal products, contai ning ephedrine or pseudoephedrine, is not recommended (see section 4.4). 
+ Dextromethorphan 
+ There have been reports of medicinal product interactions with the concomitant use of dextromethorphan and non-selective MAO inhibitors. Therefore, i n view of the MAO inhibitory activity of rasagiline,  the concomitant adm inistration of rasag iline and dextromethorphan is not recommended (see section 4.4). 
+ SNRI/SSRI/tri- and tetr acyclic antidepressants 
+ The concomitant use o f rasagiline and fluox etine or fluvoxamine  should be avoided (see section 4.4). 
+ For concomitant use of rasagilin e with selective serotonin reup take inhibitors (SSRIs)/selective serotonin-norepinephrine reuptake inhibitors (SNRIs) in clinica l trials, see section 4.8. 
+ Serious adverse reactions have been reported with the concomita nt use of SSRIs, SNRIs, tricyclic/tetracyc lic antidepressants and MAO inhibitors. There fore, in view of the MAO inhibitory activity of rasagiline,  antidepressants sho uld be administered with caution. 
+ 
+ Agents that affect  CYP1A2 activity 
+ In vitro metabolism studies have indicated  that cytochrome P450 1A2 (CYP 1A2) is the major enzyme responsible for the meta bolism of rasagiline.  
+ CYP1A2 inhibitors Co-administratio n of rasagiline and ciprof loxacin (an inhibitor  of CYP1A2) increased the AUC of rasagiline by 83%. Co-administra tion of rasagiline and theophyl line (a substrate of CYP1A2) did not 5 affect the pharmacokinetics of either product. Thus, potent CYP 1A2 inhibitors may  alter rasagiline plasma levels and should be administered with caution. 
+ CYP1A2 inducers There is a risk that the plasma levels of rasagiline in smoking  patients could be decreased, due to induction of the metabolising enzyme CYP1A2. 
+ Other cytochrome P450 isoenzymes 
+ In vitro studies showed that ra sagiline at a concentr ation of 1 μg/ml (e quivalent to a level that is 
+160 times the average Cmax ~ 5.9-8.5 ng/ml in Parkinson’s disease patients after 1 mg ras agiline multiple dosing), did not inhibit cytochrome P450 isoenzymes, C YP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A. These results indica te that rasagiline’s therapeutic concentra tions are unlikely to  cause any clinically  significant interference with substrates of these enzymes (see section 5.3). 
+ Levodopa and other Parkinson’s disease medicinal products  
+ In Parkinson’s diseas e patients receiving ra sagiline as adjunct  therapy to chronic levodopa treatment, there was no clinically significant effect of levodopa treatmen t on rasagiline clearance. 
+ Concomitant administration of r asagiline and entacapone increas ed rasagiline oral clearance by 28%. 
+ Tyramine/rasagilin e interaction 
+ Results of five tyramine challenge studies (in volunteers and P arkinson’s disease p atients), together with results of home monitoring of blood pressure after meals ( of 464 patients tr eated with 0.5 or 
+1 mg/day of rasagiline or placebo as adjunct therapy to levodop a for six months without tyramine restrictions), and the fact that there were no reports of tyram ine/rasagiline inter action in clinical studies conducted with out tyramine restric tion, indicate that r asagiline can be used safely without dietary tyramine restrictions. 
+ 

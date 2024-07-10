@@ -1,0 +1,33 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Potential medicinal product interactions affecting stiripentol  
+ The influence of other antiepileptic medicinal products on stiripento l pharmacokinetics is not well established.  The impact of macrolides and azole antifungal medicinal products  on stiripentol metabolism, that are known to be inhibitors of CYP3A4 and substrates of the same enzyme, is not known. Likewise, the effect of stiri pentol on their metabolism is not known.  
+ In vitro  studies suggested that stiripentol phase  1 metabolism is catalyzed by CYP1A2, CYP2C19 and CYP3A4 and possibly other enzymes. Caution is advised when combining stiripentol with other substance s that inhibit  or induce one or more of these enzymes.  
+ Effect of stiripentol on cytochrome P450 enzymes  
+ Many of these interactions have been partially confirmed by in vitro studies and in clinical trials. The increase in steady state levels with the combined use of stiripentol , valproate, and clobazam is similar in adults and children, though inter -individual variability is marked.  
+ At therapeutic concentrations, stiripentol significantly inhibits several CYP450 isoenzymes: for example, CYP2C19, CYP2D6 and CYP3A4. As a  result, pharmacokinetic interactions of metabolic origin with other medicines may be expected. These interactions may result in increased systemic levels of these active substances that may lead to enhanced pharmacological effects and to an increase in ad verse reactions.  
+ Caution must be exercised if clinical circumstances require combining stiripentol with substance s metabolised by CYP2C19 (e.g. citalopram, omeprazole) or CYP3A4 (e.g. HIV protease inhibitors, antihistamines such as astemizole  and chlorphe niramine, calcium channel blockers, statins, oral contraceptives, codeine) due to the increased risk of adverse reactions  (see further in this section for antiepileptic medicines ). Monitoring of plasma concentrations or adverse reactions  is recommended. A dose adjustment may be necessary.  
+ Co-administration with CYP3A4 substrates with a narrow therapeutic index should be avoided due to the markedly increased risk of severe adverse reactions .  
+ Data on the potential for inhibition of CYP1A2 are limited, and therefore, interactions with theophylline and caffeine cannot be excluded  because of the i ncreased plasma levels of theophylline and caffeine which may occur via inhibition of their hepatic metabolism, potentially leading to toxicity. Use in combination wi th stiripentol is not recommended. This warning is not only restricted to medicinal products but also to a considerable number of foods  (for example: cola, chocolate, coffee, tea, and energy drinks)  and nutritional products aimed at children : Patient shoul d not drink cola drinks, which contain significant quantities of caffeine or chocolate, which contains trace amounts of theophylline  (see section 4.2) . 
+ As stiripentol inhibited CYP2D6 in vitro at concentrations that are achieved clinically in plasma, substance s that are metabolized by this isoenzyme like: beta -blockers (propranolol, carvedilol, timolol), antidepressants (fluoxetine, paroxetine, sertraline, imipramine, clomipramine), antipsychotics (haloperidol), analgesics (codeine, dextromethorphan, trama dol) may be subject to metabolic interactions with stiripentol. A dose -adjustment may be necessary for substance s metabolised by CYP2D6 and that are individually dose titrated.  
+ Potential for stiripentol to interact with other medicinal products  
+ In the ab sence of available clinical data, caution should be taken with the following clinically relevant interactions with stiripentol:  
+  6 Undesirable combinations (to be avoided unless strictly necessary)  
+- Rye ergot alkaloids (ergotamine, dihydroergotamine)  Ergoti sm with possibility of necrosis of the extremities (inhibition of hepatic elimination of rye ergot).  
+ 
+- Cisapride, halofantrine, pimozide, quinidine, bepridil  Increased risk of cardiac arrhythmias and torsades de pointes/wave burst arrhythmia in particular . 
+ 
+- Immunosuppressants (tacrolimus, cyclosporine, sirolimus)  Raised blood levels of immunosuppressants (decreased hepatic metabolism).  
+ 
+- Statins (atorvastatin, simvastatin, etc.)  Increased risk of dose -dependent adverse reactions such as rhabdomyolysis ( decreased hepatic metabolism of cholesterol -lowering medicinal product ). 
+ Combinations requiring precautions  
+ 
+- Midazolam, triazolam, alprazolam  Increased plasma benzodiazepine levels may occur via decreased hepatic metabolism leading to excessive sedation . 
+ 
+- Chlorpromazine  Stiripentol  enhances the central depressant effect of chlorpromazine.  
+ 
+- Effects on other antiepileptic drugs ( AEDs ) Inhibition of CYP450 isoenzyme CYP2C19 and CYP3A4 may provoke pharmacokinetic interactions (inhibition of their hepatic  metabolism) with phenobarbital, primidone, phenytoin, carbamazepine, clobazam (see section  4.2), valproate (see section  4.2), diazepam (enhanced myorelaxation), ethosuximide, and tiagabine. The consequences are increased plasma levels of these anticonvuls ants with potential risk of overdose. Clinical monitoring of plasma levels of other anticonvulsants when combined with stiripentol with possible dose adjustments is recommended.  
+ 
+- Topiramate  In a French compassionate use program for stiripentol, topiramat e was added to stiripentol, clobazam and valproate in 41% of 230  cases. Based on the clinical observations in this group of patients, there is no evidence to suggest that a change in topiramate dose and dosage schedules is needed if co -administered with st iripentol.  With regard to topiramate, it is considered that potential competition of inhibition on CYP2C19 should not occur because it probably requires plasma concentrations 5 -15 times higher than plasma concentrations obtained w ith the standard recommend ed topiramate dose and dosage schedules.  
+ 
+- Levetiracetam  Levetiracetam does not undergo hepatic metabolism to a major extent. As a result, no pharmacokinetic metabolic drug interaction between stiripentol and levetiracetam is ant icipated.  
+ 

@@ -1,0 +1,589 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Viekirax may be administered with or without dasabuvir. When co -administered, they exert mutual effects on each other (see section 5.2). Therefore ,the interaction profile of the compounds must be considered as a combination.Pharmacodynamic interactions 
+ Coadministration with enzyme inducers may increase the risk of adverse reactions and ALT elevations (see Table 2). Coadministration with ethinyl oestradiol may increase the risk of ALT elevations (see sections 4.3 and 4.4). Examples of contraindicated enzyme inducers are provided in section 4.3.Pharmacokinetic interactions 
+ Potential for Viekirax to affect the pharmacokinetics of other medicinal p roducts 
+ In vivo drug interaction studies evaluated the net effect of the combination treatment, including ritonavir.The following section describes the specific transporters and metabolizing enzymes that are affected by Viekirax with or without dasabuvir . See Table 2 for guidance regarding potential interactions with other medicinal products and dosing recommendations.Medicinal products metabolised by CYP3A4Ritonavir is a strong inhibitor of CYP3A. Co -administration of Viekirax with or without dasabuvir with medicinal products primarily metabolized by CYP3A may result in increased plasma concentrations of these medicinal products. Medicinal products that are highly dependent on C YP3A for clearance and for which elevated plasma levels are associated with serious events are contraindicated (see section 4.3 and Table 2 ). CYP3A substrates evaluated in drug interaction studies which may require dose adjustment and/or clinical monitor ing include (see Table 2) ciclosporin, sirolimus, tacrolimus, amlodipine, rilpivirine andalprazolam. Examples of other CYP3A4 substrates which may require dose adjustment and/or clinical monitoring include calcium channel blockers (e.g. nifedipine), and t razodone. Although buprenorphine and zolpidem are also metabolized by CYP3A, drug interaction studies indicate that no dose adjustment is needed when co -administering these medicinal products with Viekirax with or without dasabuvir (see Table 2). Medicin al products transported by the OATP family and OCT1Paritaprevir is an inhibitor of the hepatic uptake transporters OATP1B1 and OATP1B3 ,and paritaprevir and ritonavir are inhibitors of OATP2B1. Ritonavir is an in vitro inhibitor of OCT1, but the clinical relevance is unknown. Co-administration of Viekirax with or without dasabuvir with medicinal products 10that are substrates of OATP1B1, OAT P1B3, OATP2B1 or OCT1 may increase plasma concentrations of these transporter substrates, potentially requiring dose ad justment/clinical monitoring. Such medicinal products include some statins (see Table 2), fexofenadine, repaglinide and angiotensin II receptor antagonists (e.g., valsartan).OATP1B1/3 substrates evaluated in drug interaction studies include pravastatin androsuvastatin (see Table 2). Medicinal products transported by BCRPParitaprevir, ritonavir and dasabuvir are inhibitors of BCRP in vivo . Co-administration of Viekirax with or without dasabuvir together with medicinal products that are substrates of BCRP may increase plasma concentrations of these transporter substrates, potentially requiring dose adjustment/clinical monitoring.  Such medicinal products include sulfasalazine, imatinib and some of the statins (see Table 2).BCRP substrates evaluated i n drug interaction studies include rosuvastatin (see Table 2).Medicinal products transported by P -gp in the intestine 
+ While paritaprevir, ritonavir and dasabuvir are in vitro inhibitors of P -gp, no significant change was observed in the exposure of the P -gp substrate digoxin when administered with Viekirax and dasabuvir. However, co -administration of digoxin with Viekirax without dasabuvir may result in increased plasma concentrations (see Table 2). Viekirax may increase the plasma exposure to medicinal p roducts that are sensitive for changed intestinal P -gp activity (such as dabigatran etexilate).Medicinal products metabolised by glucuronidation (UGT1A1)Paritaprevir, ombitasvir and dasabuvir are inhibitors of UGT1A1. Co -administration of Viekirax with or without dasabuvir with medicinal products that are primarily metabolized by UGT1A1 result in increased plasma concentrations of such medicinal products; routine clinical monitoring is recommended for narrow therapeutic index medicinal products (i .e.levothyroxine). See also Table 2 for specific advice on raltegravir and buprenorphine , which have been evaluated in drug interaction studies .Medicinal products metabolised by CYP2C19Co-administration of Viekirax with or without dasabuvir can decrease expos ures of medicinal products that are metabolized by CYP2C19 (e.g. lansoprazole, esomeprazole, s -mephenytoin) , which may require dose adjustment/clinical monitoring. C YP2C19 substrates evaluated in drug interaction studies include omeprazole and escitalopram (see Table 2).Medicinal products metabolised by CYP2C9Viekirax administered with or without dasabuvir did not affect the exposures of the CYP2C9 substrate, warfarin. Other CYP2C9 substrates (NSAIDs (e.g. ibuprofen), antidiabetics (e.g. glimepiride, gli pizide) are not expected to require dose adjustments. Medicinal products metabolised by CYP2D6 or CYP1A2Viekirax administered with or without dasabuvir did not affect the exposures of the CYP2D6/CYP1A2 substrate, duloxetine. Exposures of cyclobenzaprine, a CYP1A2 substrate, were decreased. Clinical monitoring and dose adjustment may be needed for other CYP1A2 substrates (e.g. ciprofloxacin, cyclobenzaprine, theophylline and caffeine). CYP2D6 substrates (e.g. desipramine, metoprolol and dextromethorphan) are not expected to require dose adjustments. Medicinal products renally excreted via transport proteins 
+ Ombitasvir, paritaprevir, and ritonavir do not inhibit organic anion transporter (OAT1) in vivo as shown by the lack of interaction wi th tenofovir (OAT1 substrate). In vitro studies show that ombitasvir, paritaprevir, and ritonavir are not inhibitors of organic cation transporters (OCT2), organic anion 11transporters (OAT3), or multidrug and toxin extrusion proteins (MATE1 and MATE2K) at c linically relevant concentrations. Ther efore, Viekirax with or without das abuvir is not expected to affect medicinal products which are primarily excreted by the renal route via these transporters (see section 5.2). Potential for other medicina l products to affect the pharmacokinetics of ombitasvir, paritaprevir, and dasabuvir 
+ Medicinal products that inhibit CYP3A4Co-administration of Viekirax with or without dasabuvir with strong inhibitors of CYP3A may increase paritaprevir concentrations (see section 4.3 and Table 2 ).Enzyme inducers 
+ Co-administration of Viekirax and dasabuvir with medicinal products that are moderate or strong enzyme inducers is expected to decrease ombitasvir, paritaprevir ,ritonavir and dasabuvir plasma concentrations and reduce their therapeutic effect. Contraindicated enzyme inducers are provided in section 4.3 and Table 
+2.Medicinal products that inhibit CYP3A4 and transport proteins 
+ Paritaprevir is eliminated via CYP3A4 mediated metabolism and biliar y excretion (substrate of the hepatic transporters OATP1B1, P -gp and BCRP). Caution is advised if co -administering Viekirax with medicinal products that are both moderate inhibitors of CYP3A4 and inhibitors of multiple transporters (P -gp, BCRP and/or OATP1 B1/ OATP1B3) . These medicinal products may show clinically relevant increases in exposures of paritaprevir (e.g.,ritonavir with atazanavir, erythromycin, diltiazem or verapamil).Medicinal products that inhibit transport proteins 
+ Potent inhibitors of P -gp, BCRP, OATP1B1 and/or OATP1B3 have the potential to increase the exposure to paritaprevir. Inhibition of these transporters is not expected to show clinically relevant increases in exposures of ombitasvir and dasabuvir.Patients treated with vitamin K a ntagonists 
+ As liver function may change during treatment with Viekirax administered with or without dasabuvir, a close monitoring of International Normalised Ratio (INR) values is recommended.Drug interaction studies 
+ Recommendations for co -administration of Viekirax with and without dasabuvir for a number of medicinal products areprovided in Table 2.If a patient is already taking medicinal product (s) or initiating a medic inal product while receiving Viekirax with or without dasabuvir for which potential for drug interaction is expected, dose adjustment of the concomitant medic inal product (s) or appropriate clinical monitoring should be considered (Table 2).If dose adjustments of concomitant medic inal products are made due to treatment with Viekirax or Viekirax with dasabuvir , doses should be re -adjusted after administration of Viekirax or Viekirax withdasabuvir is completed.Table 2 provides the Least Squares Means Ratio (90% Confidence Interval) eff ect on concentration of Viekirax with or without dasabuvir and concomitant medicinal products . 12The magnitude of interaction when administered with medicinal products listed in Table 2 are similar (≤25% difference in the Least Square Means ratio) for Viekirax with or without dasabuvir, unless otherwise noted. Drug interactions were evaluated for the Viekirax and dasabuvir regimen, but not for the Viekirax without dasabuvir, with carbamazepine, furosemide, zolpidem, darunavir twice daily, darunavir (evening administration), atazanavir (evening administration), rilpivirine, abacavir/lamivudine, dolutegravir, metformin, sulfamethoxazole/trimethoprim, cyclobenzaprine, carisoprodol, hydrocodone/paracetamol or diazepam. Thus, for these medicinal products, re sults and dosing recommendations of the Viekirax and dasabuvir regimen can be extrapolated to Viekirax without dasabuvir.The direction of the arrow indicates the direction of the change in exposures (C max,and AUC) in paritaprevir , ombitasvir, dasabuvir and the co -administered medicinal product (↑ = increase (more than 
+20%), ↓ = decrease ( of more than 20%), ↔ = no change or change less than 20%) .This is not an exclusive list.Table 2. Interactions between Viekirax with or without dasabuvir and other med icinal products 
+ Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ ALPHA 1 -ADRENORECEPTOR ANTAGONISTAlfuzosin 
+ Mechanism: CYP3A inhibition by ritonavir 
+ Viekirax with or without  dasabuvir 
+ Not studied. Expected 
+↑ alfuzosin 
+ Concomitant use is contraindicated (see section 
+4.3).AMINOSALICYLATESulfasalazine 
+ Mechanism: BCRP inhibition by paritaprevir, ritonavir and dasabuvir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ sulfasalazine 
+ Caution should be used when sulfasalazine is co -administered with Viekirax with or without dasabuvir.
+.ANGIOTENSIN RECEPTOR BLOCKERValsartan 
+ Losartan 
+ Candesartan 
+ Mechanism: CYP3A4 and/o r 
+ OATP1B inhibition by paritaprevir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ valsartan
+↑ losartan
+↑ candesartan 
+ Clinical monitoring and dose reduction is recommended for angiotensin receptor blockers when co -administered with Viekirax with or without dasabuvir.ANTIANGINA/ANTIARRYTHMICS13Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Amiodarone 
+ Disopyramide 
+ Dronedarone 
+ Quinidine 
+ Ranolazine Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ amiodarone
+↑ disopyramide
+↑ dronedarone
+↑ quinidine
+↑ ranolazine 
+ Concomitant use is contraindicated (see section 
+4.3).Digoxin
+0.5mg single dose Mechanism: P-gp inhibition by paritaprevir, ritonavir and dasabuvir.Viekirax + dasabuvir↔ digoxin 1.15(1.04 -1.27)1.16(1.09 -1.23)1.01(0.97 -1.05)While no dose adjustment is necessary for digoxin, appropriate monitoring of serum digoxin levels is recommended.↔ ombitasvir 1.03(0.97 -1.10)1.00(0.98 -1.03)0.99(0.96 -1.02)
+↔ paritaprevir0.92(0.80 -1.06)0.94(0.81 -1.08)0.92(0.82 -1.02)
+↔ dasabuvir 0.99(0.92 -1.07)0.97(0.91 -1.02)0.99(0.92 -1.07)Viekirax without dasabuvir↑ digoxin 1.58(1.43 -1.73)1.36(1.21 -1.54)1.24(1.07 -1.43)Decrease digoxin dose by 
+30-50%. Appropriate monitoring of serum digoxin levels is recommended.↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ paritaprevir 
+ ANTIBIOTICS (SYSTEMIC ADMINISTRATION)Clarithromycin 
+ Telithromy cin 
+ Mechanism: CYP3A4 /P-gpinhibition by clarithromy cin and ritonavir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ clarithromycin
+↑ telithromycin
+↑paritaprevir
+↑ dasabuvir 
+ Concomitant use is contraindicated (see section 4.3) .Erythromycin 
+ Mechanism: CYP3A4/P -gp inhibition by erythromy cin, paritaprevir, ritonavir and dasabuvir. Viekirax with or  without dasabuvir 
+ Not Studied. Expected:
+↑ erythromycin
+↑paritaprevir
+↑ dasabuvir 
+ Administration of Viekirax with or without dasabuvir with erythromycin may result in increased concentrations of erythromy cin and paritaprevir. Caution is advised.Fusidic Acid Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ fusidic acid 
+ Concomitant use is contraindicated (see section 4.3).14Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: CYP3A4 inhibition by ritonavir.Sulfameth -oxazole, Trimethoprim
+800/160 mg twice daily 
+ Mechanism: increase in dasabuvir possibly due to CYP2C8 inhibition by trimethoprim Viekirax + dasabuvir↑ Sulfameth -oxazole,1.21(1.15 -1.28)1.17(1.14 -1.20)1.15(1.10 -1.20)No dose adjustment needed for Viekirax with or without dasabuvir. ↑ trimetho -prim1.17(1.12 -1.22)1.22(1.18 -1.26)1.25(1.19 -1.31)
+↔ ombitasvir0.88(0.83 -0.94)0.85(0.80 -0.90)NA
+↓ paritaprevir0.78(0.61 -1.01)0.87(0.72 -1.06)NA
+↑ dasabuvir 1.15(1.02 -1.31)1.33(1.23 -1.44)NAViekirax without dasabuvir 
+ Not studied: Similar effect is expected as observed with Viekirax + dasabuvir.ANTICANCER AGENTS /KINASE INHIBITORSEncorafenib 
+ Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ encorafenib 
+ Co-administration may result in increased risk for adverse events. Refer to the prescribing information of encorafenib for details onco-administration with strong CYP3A inhibitors.Apalutamide 
+ Enzalutamide 
+ Mitotane 
+ Mechanism: CYP3A4 inductio n apalutamideenzalutamide or mitotane.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↓ombitasvir
+↓paritaprevir
+↓dasabuvir 
+ Concomitant use is contraindicated (see section 4.3).Fostamatinib 
+ Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not Studied. Expected
+↑fostamatinib 
+ Co-administration may result in increased risk for adverse events. Refer to the prescribing information offostamatinib for details on co -administration with strong CYP3A inhibitors.Ibrutinib Viekirax with or Not studied. Expected:
+↑ ibrutinib 
+ Co-administration may result in increased risk for adverse events. Refer to 15Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: CYP3A4 inhibition by ritonavir.without dasabuvirthe prescribing information of ibrutinib for details on co-administration with strong CYP3A inhibitors.Imatinib 
+ Mechanism: BCRP inhibition by paritaprevir, ritonavir and dasabuvir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ imatinib 
+ Clinical monitoring and lower doses of imatinib are recommended.ANTICOAGULANTSWarfarin
+5mg single dose and other vitamin K antago nists 
+ Viekirax + dasabuvir↔ R-warfarin1.05(0.95 -1.17)0.88(0.81 -0.95)0.94(0.84 -1.05)While no change to the pharmacokinetics of warfarin is expected, close monitoring of INR is recommended with all vitamin K antagonists. This is due to liver function changes during treatment with Viekirax ± dasabuvir.↔ S-warfarin0.96(0.85 -1.08)0.88(0.81 -0.96)0.95(0.88 -1.02)
+↔ ombitasvir0.94(0.89 -1.00)0.96(0.93 -1.00)0.98(0.95 -1.02)
+↔ paritaprevir0.98(0.82 -1.18)1.07(0.89 -1.27)0.96(0.85 -1.09)
+↔ dasabuvir0.97(0.89 -1.06)0.98(0.91 -1.06)1.03(0.94 -1.13)Viekirax without dasabuvir↔ R-warfarin 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ S-warfarin
+↔ paritaprevir
+↔ ombitasvir 
+ Dabigatran etexilate 
+ Mechanism: Intestinal P -gp inhibition by paritaprevir and rito navir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ dabigatran etexilate 
+ Viekirax without dasabuvir may increase the plasma concentrations of dabigatran etexilate. Use with caution.ANTICONVULSANTSCarbamaze -pine
+200mg o nce daily  followed by 200 mg twice daily 
+ Viekirax + dasabuvir↔ carba -mazepine1.10(1.07 -1.14)1.17(1.13 -1.22)1.35(1.27 -1.45)Concomitant use is contraindicated (see section 4.3). ↓ carbamaze pine 10, 11 -epoxide0.84(0.82 -0.87)0.75(0.73 -0.77)0.57 (0.54 -0.61)
+↓ ombitasvir0.69(0.61 -0.78)0.69(0.64 -0.74)NA
+↓ paritaprevir0.34(0.25 -0.48)0.30(0.23 -0.38)NA16Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: CYP3A4 inductio n by carbamazepine↓ dasabuvir0.45(0.41 -0.50)0.30(0.28 -0.33)NAViekirax without dasabuvir 
+ Not studied: similar effect expected as observed with Viekirax + dasabuvir.Phenobarbital 
+ Mechanism:CYP3A4 inductio n by phenobarbital.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↓ ombitasvir
+↓ paritaprevir
+↓ dasabuvir 
+ Concomitant use is contraindicated (see section 4.3).Phenytoin 
+ Mechanism:CYP3A4 inductio n by phenytoin.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↓ ombitasvir
+↓ paritaprevir
+↓ dasabuvir 
+ Concomitant use is contraindicated (see section 4.3).S-mepheny toin 
+ Mechanism: CYP2C19 inductio n by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↓ S-mepheny toin 
+ Clinical monitoring and dose adjustment maybe needed for s -mephenytoin.ANTIDEPRESSANTSEscitalopram
+10mg single dose 
+ Viekirax + dasabuvir↔ es -citalopram1.00(0.96 -1.05)0.87(0.80 -0.95)NA No dose adjustment is necessary for escitalopram.
+↑ S-Desmethyl citalopram1.15(1.10 -1.21)1.36(1.03 -1.80)NA
+↔ ombitasvir1.09(1.01 -1.18)1.02(1.00 -1.05)0.97(0.92 -1.02)
+↔ paritaprevir1.12(0.88 -1.43)0.98(0.85 -1.14)0.71(0.56 -0.89)
+↔ dasabuvir1.10(0.95 -1.27)1.01(0.93 -1.10)0.89(0.79 -1.00)Viekirax without dasabuvir↓ es-citalopram 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ S-Desmethyl citalopram1.17(1.08 -1.26)1.07(1.01 -1.13)NA
+↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ paritaprevir 
+ Duloxetine Viekirax + dasabuvir↓ duloxetine0.79(0.67 -0.94)0.75(0.67 -0.83)NA No dose adjustment is necessary for duloxetine. 17Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments
+60mg single dose↔ ombitasvir0.98(0.88 -1.08)1.00(0.95 -1.06)1.01(0.96 -1.06)No dose adjustment needed for Viekirax with or without dasabuvir.↓ paritaprevir0.79(0.53 -1.16)0.83(0.62 -1.10)0.77(0.65 -0.91)
+↔ dasabuvir0.94(0.81 -1.09)0.92(0.81 -1.04)0.88(0.76 -1.01)Viekirax without dasabuvir↔duloxetine 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ paritaprevir1.07(0.63 -1.81)0.96(0.70 -1.32)0.93(0.76 -1.14)Trazodone 
+ Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied.  Expected:
+↑ trazodone 
+ Trazodone should be used with caution and a lower dose of trazodone may be considered.ANTI -DIURETIC HORMONEConivaptan 
+ Mechanism: CYP3A4/P -gp inhibition by conivaptan and paritaprevir/ ritonavir/ombitasvir 
+ Viekirax with or without dasabuvir 
+ Not studied.  Expected:
+↑conivaptan
+↑ paritaprevir
+↑ dasabuvir 
+ Concomitant use is contraindicated (see section 
+4.3).ANTIFUNGALSKetoconazole
+400mg o nce daily  Mechanism: CYP3A4/P -gp inhibition by ketoconazole and paritaprevir/ ritonavir/ombitasvir 
+ Viekirax with dasabuvir↑ keto -conazole1.15(1.09 -1.21)2.17(2.05 -2.29)NA Concomitant use is contraindicated (see section 4.3). ↔ ombitasvir0.98(0.90 -1.06)1.17(1.11 -1.24)NA
+↑ paritaprevir1.37(1.11 -1.69)1.98(1.63 -2.42)NA
+↑ dasabuvir1.16(1.03 -1.32)1.42(1.26 -1.59)NAViekirax without dasabuvir↑ keto -conazole 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ paritaprevir1.72(1.32 -2.26)2.16(1.76 -2.66)NA18Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Itraconazole 
+ Posaconazole 
+ Mechanism: CYP3A4 and/o r P-gp inhibition by itraconazole,  posaconazole and paritaprevir/ ritonavir/ombitasvir Viekirax + dasabuvir 
+ Not Studied. Expected:
+↑ itraconazole
+↑ posaconazole
+↑ paritaprevir
+↑ dasabuvir 
+ Concomitant use is contraindicated (see section 4.3).Viekirax without dasabuvir 
+ Voriconazole Mechanism: CYP2C19 inductio n and CYP3A4 inhibition by ritonavir 
+ Viekirax with or without dasabuvir 
+ Not studied. Expected in CYP2C19 Extensive Metabolisers:
+↓ voriconazole
+↑paritaprevir
+↑ dasabuvir 
+ Not studied. Expected in CYP2C19 Poor Metabolisers:
+↑ voriconazole
+↑ dasabuvir
+↑ paritaprevir 
+ Concomitant use is contraindicated (see section 
+4.3).ANTI -GOUTColchicine 
+ Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ colchicine 
+ A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with Viekirax with or without dasabuvir is required. Use of colchicine is contraindicated with Viekirax with or without dasabuvir in patients with renal or hepatic impairment (see sections 4.3 and 4.4).ANTIHISTAMINESAstemizole 
+ Terfenadine 
+ Mechanism: CYP3A4 Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ astemizole/terfenadine 
+ Concomitant use is contraindicated (see section 
+4.3).19Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Commentsinhibition by ritonavir.Fexofenadine 
+ Mechanism: OATP1B1 inhibition by paritaprevir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ fexofenadine 
+ Caution should be used when Viekirax with or without dasabuvir is coadministered with fexofenadine.ANTIHYPERLIPIDAEMICSGemfibrozil
+600  mg twice daily  Mechanism: Increase in dasabuvir exposure is possibly due to CYP2C8 inhibition and increase in paritaprevir possibly due to OATP1B1 inhibition by gemfibrozil.Paritaprevir/ritonavir + dasabuvir↑ paritaprevir1.21 (0.94 -1.57)1.38(1.18 -1.61)NA Concomitant use of Viekirax with dasabuvir is contraindicated (see section 4.3).↑ dasabuvir 2.01(1.71 -2.38)11.25(9.05 -13.99)NAViekirax without dasabuvir 
+ Not studied; No interaction expected when gemfibrozil is used in combinatio n with Viekirax without dasabuvir.No dose adjustment of gemfibrozil is necessary.No dose adjustment needed for Viekirax.Lomitapide 
+ Mechanism: CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:lomitapide 
+ Concomitant use is contraindicated (see section 4.3).ANTIMYCOBACTERIALSRifampicin 
+ Mechanism:CYP3A4 inductio n by rifampicin.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↓ ombitasvir
+↓ paritaprevir
+↓ dasabuvir 
+ Concomitant use is contraindicated (see section 
+4.3).ANTIPSYCHOTICSLurasidone 
+ Pimozide 
+ Quetiapine 
+ Mechanism:CYP3A4 Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ pimozide
+↑ quetiapine
+↑ lurasido ne 
+ Concomitant use is contraindicated (see section 
+4.3).20Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Commentsinhibition by ritonavir.ANTITPLATELET AGENTSTicagrelo r 
+ Mechanism:CYP3A4 inhibition by ritonavir 
+ Viekirax with or without dasabuvir Not studied. Expected:
+↑ ticagrelor 
+ Concomitant use is contraindicated (see section 
+4.3).BIGUANIDE ORAL  ANTIHYPERGLYCEMICSMetformin 
+500 mg single dose 
+ Viekirax + dasabuvir↓ metformin 0.77(0.71 -0.83)0.90(0.84 -0.97) NANo dose adjustment needed for metforminwhen co -administered with Viekirax with and without dasabuvir. ↔ ombitasvir 0.92(0.87 -0.98)1.01(0.97 -1.05)1.01(0.98 -1.04)
+↓ paritaprevir 0.63(0.44 -0.91)0.80(0.61 -1.03)1.22(1.13 -1.31)
+↔ dasabuvir 0.83(0.74 -0.93)0.86(0.78 -0.94)0.95(0.84 -1.07)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.CALCIUM CHANNEL BLOCKERSAmlodipine
+5mg single dose Mechanism: CYP3A4 inhibition by ritonavir.Viekirax + dasabuvir↑ amlodipine1.26(1.11 -1.44)2.57(2.31 -2.86)NADecrease amlodipine dose by 50% and monitor patients for clinical effects. ↔ ombitasvir1.00(0.95 -1.06)1.00(0.97 -1.04)1.00(0.97 -1.04)
+↓ paritaprevir0.77(0.64 -0.94)0.78(0.68 -0.88)0.88(0.80 -0.95)
+↔ dasabuvir 1.05(0.97 -1.14)1.01(0.96 -1.06)0.95(0.89 -1.01)Viekirax without dasabuvir 
+ Not studied: Similar effect expected as observed with Viekirax + dasabuvir.Diltiazem 
+ Verapamil 
+ Mechanism:CYP3A4/P -gp inhibition.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ diltiazem, verapamil
+↑paritaprevir
+↑/↔ dasabuvir 
+ Caution is advised due to the expected increase in paritaprevir exposures. Dose decrease and clinical monitoring of calcium channel blockers is recommended when co -administered with Viekirax with and without dasabuvir.Nifedipine 
+ Mechanism:CYP3A4 inhibition 
+ Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ nifedipine 
+ Dose decrease and clinical monitoring of calcium channel blockers is recommended when co -21Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Commentsadministered with Viekirax with and without dasabuvir.CONTRACEPTIVESEthinyl oestradiol/ norgestimate
+0.035/0.25 mg once daily  Mechanism: possibly due to 
+ UGT inhibition by paritaprevir, ombitasvir and dasabuvir.Viekirax with or without dasabuvir↔ ethiny loestradiol1.16(0.90 -1.50)1.06(0.96 -1.17)1.12(0.94 -1.33)Ethinyl oestradiol -containing oral contraceptives are contraindicated (see section 4.3).Norgestimate metabolites:
+↑ norgestrel 2.26(1.91 -2.67)2.54(2.09 -3.09)2.93(2.39 -3.57)
+↑ nor -elgestromine2.01(1.77 -2.29)2.60(2.30 -2.95)3.11(2.51 -3.85)
+↔ ombitasvir1.05(0.81 -1.35)0.97(0.81 -1.15)1.00(0.88 -
+1.12)
+↓paritaprevir0.70(0.40 -1.21)0.66(0.42 -1.04)0.87(0.67 -1.14)
+↓ dasabuvir 0.51(0.22 -1.18)0.48(0.23 -1.02)0.53(0.30 -
+0.95)Nor-ethindrone (progestin only pill)
+0.35 mg once daily 
+ Viekirax + dasabuvir↔ nor -ethindrone0.83(0.69 -1.01)0.91(0.76 -1.09)0.85(0.64 -1.13)No dose adjustment is necessary for norethindro ne or Viekirax with or without dasabuvir .↔ ombitasvir1.00(0.93 -1.08)0.99(0.94 -1.04)0.97(0.90 -1.03)
+↑ paritaprevir1.24(0.95 -1.62)1.23(0.96 -1.57)1.43(1.13 -1.80)
+↔ dasabuvir 1.01(0.90 -1.14)0.96(0.85 -1.09)0.95(0.80 -1.13)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.DIURETICSFurosemide
+20mg single dose Mechanism: possibly due to UGT1A1 inhibition by paritaprevir, ombitasvir and dasabuvir.Viekirax + dasabuvir↑ furosemide1.42(1.17 -1.72)1.08(1.00 -1.17)NA Patients should be monitored for clinical effects; a decrease in furosemide dose of up to 
+50% may  be required.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir1.14(1.03 -1.26)1.07(1.01 -1.12)1.12(1.08 -1.16)
+↔ paritaprevir0.93(0.63 -1.36)0.92(0.70 -1.21)1.26(1.16 -1.38)
+↔ dasabuvir 1.12(0.96 -1.31)1.09(0.96 -1.23)1.06(0.98 -1.14)Viekirax withoutdasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.ERGOT ALKALOIDS22Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Ergotamine 
+ Dihydroergotamine 
+ Ergonovine 
+ Methy lergometrine 
+ Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ ergot derivatives 
+ Concomitant use is contraindicated (see section 
+4.3).GLUCOCORTICOIDS (INHALED)Fluticasone 
+ Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ fluticasone 
+ Concomitant use of fluticasone can increase systemic exposures of fluticasone. Concomitant use of Viekirax and fluticasone particularly long-term use, should only be initiated if the potential benefit of treatment outweighs the risk of systemic corticoster oid effects (see section 4.4).GASTROINTESTINAL PRODUCTS (PROPULSIVE)Cisapride 
+ Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ cisapride 
+ Concomitant use is contraindicated (see section 
+4.3).HCV ANTIVIRALSSofosbuvir
+400 mg once daily 
+ Mechanism: BCRP and P -gp inhibition by paritaprevir, ritonavir and dasabuvir 
+ Viekirax + dasabuvir↑ sofosbuvir 1.61(1.38 -1.88)2.12(1.91 -2.37)NA No dose adjustment needed for sofosbuvir when administered with Viekirax with or without dasabuvir.↑ GS -331007 1.02(0.90 -1.16)1.27(1.14 -1.42)NA
+↔ ombitasvir 0.93(0.84 -1.03)0.93(0.87 -0.99)0.92(0.88 -0.96)
+↔ paritaprevir0.81(0.65 -1.01)0.85(0.71 -1.01)0.82(0.67 -1.01)
+↔ dasabuvir 1.09(0.98 -1.22)1.02(0.95 -1.10)0.85(0.76 -0.95)Viekirax without dasabuvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.HERBAL PRODUCTS23Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ St. Jo hn's Wort ( hypericum perforatum )Mechanism:CYP3A4 induction by St. John's Wort 
+ Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↓ dasabuvir
+↓ ombitasvir
+↓ paritaprevir 
+ Concomitant use is contraindicated (see section 
+4.3).HIV ANTIVIRALS: PROTEASE INHIBITORS For a general comment on treatment of HIV co -infected patients, including a discussion on different antiretroviral regimens that may be used, please see section 4.4 (Treatment of HIV co -infected patients).Atazanavir
+300mg once daily  (given at the same time)Mechanism: Increase in paritaprevir exposures may be due to inhibition of OATP1B1/B3 and CYP3A by atazanavir.Viekirax + dasabuvir↔ atazanavir0.91(0.84 -0.99)1.01(0.93 -1.10)0.90(0.81 -1.01)The recommended dose of atazanavir is 300 mg, without ritonavir, in combinatio n with Viekirax with dasabuvir. Atazanavir must be administered at the same time as Viekirax with dasabuvir. Ritonavir dose in Viekirax will provide atazanavir pharmacokinetic enhancement). No dose adjustment needed for Viekirax with dasabuvir.Treatment with atazanavir 
++ Viekirax without dasabuvir is not recommended -(↑ paritaprevir).The combination of atazanavir and Viekirax + dasabuvir increase bilirubin levels, in particular when ribavirin is part of the hepatitis C regimen (s ee sections 4.4 and 4.8).↓ ombitasvir 0.77(0.70 -0.85)0.83(0.74 -0.94)0.89(0.78 -1.02)
+↑ paritaprevir1.46(1.06 -1.99)1.94(1.34 -2.81)3.26(2.06 -5.16)
+↔ dasabuvir 0.83(0.71 -0.96)0.82(0.71 -0.94)0.79(0.66 -0.94)
+↔ atazanavir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ paritaprevir2.74(1.76 -4.27)2.87(2.08 -3.97)3.71(2.87 -4.79)24Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Viekirax without dasabuvir↔ ombitasvir 
+ The magnitude of interaction was similar tothat observed with Viekirax + dasabuvir.Atazanavir/ ritonavir
+300/100 mgonce daily  (administered 
+12 hours apart)Mechanism: Increase in paritaprevirexposures may be due to inhibition of OATP1B1/B3 and CYP3A by atazanavir and CYP3A by the additional dose of ritonavir.Viekirax + dasabuvir↔ atazanavir1.02(0.92 -1.13)1.19(1.11 -1.28)1.68(1.44 -1.95)
+↔ ombitasvir0.83(0.72 -0.96)0.90(0.78 -1.02)1.00(0.89 -1.13)
+↑ paritaprevir2.19(1.61 -2.98)3.16(2.40 -4.17)11.95(8.94 -
+15.98)
+↔ dasabuvir 0.81(0.73 -0.91)0.81(0.71 -0.92)0.80(0.65 -0.98)Viekirax without dasabuvir 
+ Not studied:Similar effect expected as observed with Viekirax + dasabuvir.Darunavir
+800 mg o nce daily  (given at the same time)Mechanism: Unknown 
+ Viekirax + dasabuvir↓ darunavir 0.92(0.87 -0.98)0.76(0.71 -0.82)0.52(0.47 -0.58)The recommended dose of darunavir is 800 mg once daily , without ritonavir, when administered at the same time as Viekirax + dasabuvir (ritonavir dose in Viekirax will provide darunavir pharmacokinetic enhancement) . This regimen can be used in the absence o f extensive PI resistance (i.e. lack of darunavir associated RAMs), see also section 
+4.4.↔ombitasvir0.86(0.77 -0.95)0.86(0.79 -0.94)0.87(0.82 -0.92)
+↑paritaprevir1.54(1.14 -2.09)1.29(1.04 -1.61)1.30(1.09 -1.54)
+↔ dasabuvir 1.10(0.88 -1.37)0.94(0.78 -1.14)0.90(0.76 -1.06)Viekirax without dasabuvir↔ darunavir 0.99(0.92 -1.08)0. 92(0.84 -1.00)0.74(0.63 -0.88)
+↔ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑paritaprevir2.09(1.35 -3.24)1.94(1.36 -2.75)1.85(1.41 -2.42)25Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ No dose adjustment needed for Viekirax with dasabuvir.Darunavir combined with Viekirax + dasabuvir is not recommended in patients with extensive PI resistance.Treatment with darunavir 
++ Viekirax without dasabuvir is not recommended -(↑ paritaprevir).Darunavir/ ritonavir
+600/100 mg twice daily 
+ Mechanism: Unknown 
+ Viekirax + dasabuvir↔ darunavir 0.87(0.79 -0.96)0.80(0.74 -0.86)0.57(0.48 -0.67)
+↓ ombitasvir 0.76(0.65 -0.88)0.73(0.66 -0.80)0.73(0.64 -0.83)
+↓ paritaprevir0.70(0.43 -1.12)0.59(0.44 -0.79)0.83(0.69 -1.01)
+↓ dasabuvir 0.84(0.67 -1.05)0.73(0.62 -0.86)0.54(0.49 -0.61)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.darunavir/ ritonavir
+800/100 mg once daily(administered 
+12 hours apart)Mechanism: Unknown 
+ Viekirax + dasabuvir↑ darunavir 0.79(0.70 -0.90)1.34(1.25 -1.43)0.54(0.48 -0.62)
+↔ombitasvir0.87(0.82 -0.93)0.87(0.81 -0.93)0.87(0.80 -0.95)
+↓ paritaprevir0.70(0.50 -0.99)0.81(0.60 -1.09)1.59(1.23 -2.05)
+↓ dasabuvir 0.75(0.64 -0.88)0.72(0.64 -0.82)0.65(0.58 -0.72)Viekirax without dasabuvir 
+ Not studied: Similar effect expected as observed with Viekirax + dasabuvir.Lopinavir / ritonavir
+400/100 mg twice daily1Viekirax + dasabuvir↔ lopinavir 0.87(0.76 -0.99)0.94(0.81 -1.10)1.15(0.93 -1.42)Concomitant use is contraindicated (see section 4.3).↔ ombitasvir1.14(1.01 -1.28)1.17(1.07 -1.28)1.24(1.14 -1.34)
+↑paritaprevir2.04(1.30 -3.20)2.17(1.63 -2.89)2.36(1.00 -5.55)26Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: Increase in paritaprevir exposures may be due to inhibition of CYP3A/efflux transporters by lopinavir and higher dose of ritonavir↔ dasabuvir0.99(0.75 -1.31)0.93(0.75 -1.15)0.68(0.57 -0.80)Viekirax without dasabuvir↔ lopinavir The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑paritaprevir4.76(3.54 -6.39)6.10(4.30 -8.67)12.33(7.30 -20.84)Indinavir 
+ Saquinavir 
+ Tipranavir 
+ Mechanism:CYP3A4 inhibition by protease inhibito rs.Viekirax with or without dasabuvir 
+ Not studied. Expected
+↑ paritaprevir 
+ Concomitant use is contraindicated (see section 4.3) .HIV ANTIVIRALS: NON -NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS Rilpivirine2
+25mg o nce daily  administered in the morning, with food
+\Mechanism: CYP3A4 inhibition by ritonavir.Viekirax + dasabuvir↑ rilpivirine 2.55(2.08 -3.12)3.25(2.80 -3.77)3.62(3.12 -4.21)Co-administration of Viekirax with rilpivirineonce daily  should only  be considered in patients without known QT -prolongation, and without other QT -prolongation co -medications. If the combinatio n is used, repeated ECG -monitoring should be done, see section 
+4.4. No dose adjustment needed for Viekirax w ith or without dasabuvir.↔ ombitasvir1.11(1.02 -1.20)1.09(1.04 -1.14)1.05(1.01 -1.08)
+↑ paritaprevir1.30(0.94 -1.81)1.23(0.93 -1.64)0.95(0.84 -1.07)
+↔ dasabuvir 1.18(1.02 -1.37)1.17(0.99 -1.38)1.10(0.89 -1.37)Viekirax without dasabuvir 
+ Not studied:  Similar effect expected as observed with Viekirax + dasabuvir.Efavirenz/ emtricitabine/ tenofovir disoproxil fumarate 
+600/300/200mg o nce daily  Viekirax with or without dasabuvir 
+ Co-administration of efavirenz (enzyme inducer) based regimens with paritaprevir /ritonavir + dasabuvir resulted in ALT elevations and therefore, early discontinuation of the study .Concomitant use with efavirenz is contraindicated (see section 4.3).27Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: possible CYP3A4 inductio n by efavirenz.Nevirapineetravirine 
+ Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↓ ombitasvir
+↓ paritaprevir
+↓ dasabuvir 
+ Concomitant use is contra -indicated (see section 4.3).HIV ANTIVIRALS: INTEGRASE STRAND TRANSFER INHIBITORDolutegravir
+50 mg o nce daily 
+ Mechanism: possibly due to UGT1A1 inhibition by paritaprevir, dasabuvir and ombitasvir and CYP3A4 inhibition by ritonavir 
+ Viekirax + dasabuvir↑ dolutegravir1.22(1.15 -1.29)1.38(1.30 -1.47)1.36(1.19 -1.55)No dose adjustment needed for dolutegravir when coadministered with Viekirax with or without dasabuvir.↔ ombitasvir0.96(0.89 -1.03)0.95(0.90 -1.00)0.92(0.87 -0.98)
+↔ paritaprevir0.89(0.69 -1.14)0.84(0.67 -1.04)0.66(0.59 -0.75)
+↔ dasabuvir 1.01(0.92 -1.11)0.98(0.92 -1.05)0.92(0.85 -0.99)Viekirax without dasabuvir 
+ Not studied.Similar effect expected as observed with Viekirax + dasabuvir.Raltegravir
+400mg twice daily  Mechanism: Increase in raltegravirexposures may be due to UGT1A1 inhibition by paritaprevir, ombitasvir. and dasabuvir 
+ Viekirax + dasabuvir↑ raltegravir 2.33(1.66 -3.27)2.34(1.70 -3.24)2.00(1.17 -3.42)No dose adjustment is necessary for raltegravir or Viekirax with or without dasabuvi r.No clinically relevant changes in dasabuvir, paritaprevirand ombitasvir exposures (based on comparison with historical data) were observed during co -administratio n.Viekirax without dasabuvir↑ raltegravir 1.22(0.78 -1.89)1.20(0.74 -1.95)1.13(0.51 -2.51)No clinically relevant changes in dasabuvir, paritaprevirand ombitasvir exposures (based on comparison with historical data) were observed during co -administratio n.28Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ HIV ANTIVIRALS: NUCLEOSIDE INHIBITORS Abacavir/ lamivudine
+600/300 mg once daily 
+ Viekirax + dasabuvir↔ abacavir 0.87(0.78 -0.98)0.94(0.90 -0.99)NA No dose adjustment needed for abacavir or lamivudine when co -administered with Viekirax with or without dasabuvir.↓ lamivudine0.78(0.72 -0.84)0.88(0.82 -0.93)1.29(1.05 -1.58)
+↔ ombitasvir0.82(0.76 -0.89)0.91(0.87 -0.95)0.92(0.88 -0.96)
+↔ paritaprevir0.84(0.69 -1.02)0.82(0.70 -0.97)0.73(0.63 -0.85)
+↔ dasabuvir 0.94(0.86 -1.03)0.91(0.86 -0.96)0.95(0.88 -1.02)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.Em-tricitabine/ tenofovir
+200mg o nce daily /300 mg once daily 
+ Viekirax + dasabuvir↔ em -tricitabine1.05(1.00 -1.12)1.07(1.00 -1.14)1.09(1.01 -1.17)No dose adjustment is necessary for emtricitabine/tenofovir and Viekirax with or without dasabuvir.↔ tenofovir 1.07(0.93 -1.24)1.13(1.07 -1.20)1.24(1.13 -1.36)
+↔ ombitasvir0.89(0.81 -0.97)0.99(0.93 -1.05)0.97(0.90 -1.04)
+↓ paritaprevir0.68(0.42 -1.11)0.84(0.59 -1.17)1.06(0.83 -1.35)
+↔ dasabuvir 0.85(0.74 -0.98)0.85(0.75 -0.96)0.85(0.73 -0.98)Viekirax without dasabuvir↔ em -tricitabine 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ tenofovir 0.80(0.71 -0.90)1.01(0.96 -1.07)1.13(1.06 -1.21)
+↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ paritaprevir1.02(0.63 -1.64)1.04(0.74 -1.47)1.09(0.88 -1.35)HIV ANTIVIRALS: PHARMACOKINETIC ENHANCERCobi cistat -containing regimens 
+ Mechanism: CYP3A4 inhibition by cobicistat 
+ Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ ombitasvir
+↑ paritaprevir
+↑ dasabuvir 
+ Concomitant use is contraindicated (See section 
+4.3).HMG Co 
+ A REDUCTASE INHIBITORViekirax + dasabuvir↑ rosuvastatin7.13(5.11 -9.96)2.59(2.09 -3.21)0.59(0.51 -0.69)
+↔ ombitasvir0.92(0.82 -1.04)0.89(0.83 -0.95)0.88(0.83 -0.94)29Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Rosuvastatin
+5mg once daily  Mechanism: OATP1B inhibition by paritaprevir and BCRP inhibition by paritaprevir, ritonavir or dasabuvir.↑ paritaprevir1.59(1.13 -2.23)1.52(1.23 -1.90)1.43(1.22 -1.68)The maximum daily dose of rosuvastatin should be 
+5mg (see section 4.4).No dose adjustment needed for Viekirax with dasabuvir↔ dasabuvir 1.07(0.92 -1.24)1.08(0.92 -1.26)1.15(1.05 -1.25)Viekirax without dasabuvir↑ rosuvastatin2.61(2.01 -3.39)1.33(1.14 -1.56)0.65(0.57 -0.74)The maximum daily dose of rosuvastatin should be 
+10mg (see section 4.4).No dose adjustment needed for Viekirax.↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ paritaprevir1.40(1.12 -1.74)1.22(1.05 -1.41)1.06(0.85 -1.32)Pravastatin
+10mg o nce daily  Mechanism: OATP1B1 inhibition by paritaprevir.Viekirax+ dasabuvir↑ pravastatin 1.37(1.11 -1.69)1.82(1.60 -2.08)NA Reduce pravastatin dose by 
+50%.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir0.95(0.89 -1.02)0.89(0.83 -0.95)0.94(0.89 -0.99)
+↔ dasabuvir 1.00(0.87 -1.14)0.96(0.85 -1.09)1.03(0.91 -1.15)
+↔ paritaprevir0.96(0.69 -1.32)1.13(0.92 -1.38)1.39(1.21 -1.59)Viekirax without dasabuvir↑ pravastatin The magnitude of interaction was similar tothat observed with Viekirax + dasabuvir.
+↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ paritaprevir1.44(1.15 -1.81)1.33(1.09 -1.62)1.28(0.83 -1.96)Fluvastatin 
+ Mechanism:OATP1B/BCRP inhibitio n by paritaprevir 
+ Pitavastatin 
+ Mechanism:OATP1B inhibition by paritaprevir 
+ Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ fluvastatin
+↑ pitavastatin 
+ Concomitant use with fluvastatin and pitavastatin is not recommended (see section 4.4).A temporary suspension of fluvastatin and pitavastatin is recommended for the duration of treatment with Viekirax. If statin treatment is required during the treatment period, a switch to dose reduced pravastatin or rosuvastatin is possible.30Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Lovastatin 
+ Simvastatinatorvastatin 
+ Mechanism:CYP3A4/OATP1B inhibition Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ lovastatin, simvastatin, atorvastatin 
+ Concomitant use is contraindicated (see section 4.3).IMMUNOSUPPRESSANTSCiclosporin
+30mg o nce daily  single dose3Mechanism: Effect on ciclosporin is due to CYP3A4 inhibition by ritonavir and increase in paritaprevir exposures may be due to OATP/BCRP/P-gp inhibition by ciclosporin.Viekirax + dasabuvir↑ ciclosporin1.01(0.85 -1.20)5.82(4.73 -7.14)15.8(13.8 -
+18.09)When starting co -administration with Viekirax, give one fifth of the total daily dose of ciclosporin once daily with Viekirax. Monitor ciclosporin levels and adjust dose and/or dosing frequency  as needed.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir0.99(0.92 -1.07)1.08(1.05 -1.11)1.15(1.08 -1.23)
+↑ paritaprevir1.44(1.16 -1.78)1.72(1.49 -1.99)1.85(1.58 -2.18)
+↓ dasabuvir 0.66(0.58 -0.75)0.70(0.65 -0.76)0.76(0.71 -0.82)Viekirax without dasabuvir↑ ciclosporin0.83(0.72 -0.94)4.28(3.66 -5.01)12.8(10.6 -15.6)
+↔ ombitasvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↑ paritaprevir1.39(1.10 -1.75)1.46(1.29 -1.64)1.18(1.08 -1.30)Everolimus
+0.75 mg single dose 
+ Mechanism: Effect on everolimus is due to CYP3A4 inhibition by ritonavir 
+ Viekirax + dasabuvir↑ everolimus4.74(4.29 -5.25)27.1(24.5 -30.1)16.1(14.5 -
+17.9)4Co-administration of Viekirax with everolimus is not recommended because of a significant increase in everolimus exposures which cannot be properly dose adjusted with available dose strengths (see section 4.4).↔ombitasvir0.99(0.95 -1.03)1.02(0.99 -1.05)1.02(0.99 -1.06)
+↔paritaprevir1.22(1.03 -1.43)1.26(1.07 -1.49)1.06(0.97 -1.16)
+↔dasabuvir1.03(0.90 -1.18)1.08(0.98 -1.20)1.14(1.05 -1.23)Viekirax without dasabuvir 
+ Not studied: Similar effect is expected as observed with Viekirax + dasabuvir.Sirolimus Viekirax + dasabuvir↑ sirolimus 6.40(5.34 -7.68)38.0(31.5 -45.8)19.6(16.7 -
+22.9)6Concomitant use ofsirolimus with Viekiraxand dasabuvir is not31Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments
+0.5mg single dose5Mechanism: Effect on sirolimus is due to CYP3A4 inhibition by ritonavir↔ ombitasvir1.03(0.93 -1.15)1.02(0.96 -1.09)1.05(0.98 -1.12)recommended unless thebenefits outweigh the risks(see section 4.4). If sirolimus is used together with Viekirax + dasabuvir, administer sirolimus 
+0.2mg twice a week (every 3 or 4 days on the same two days each week). Sirolimus blood concentrations should be monitor ed every 4 to 7 days until 3 consecutive trough levels have shown stable concentrations of sirolimus. Sirolimus dose and/o r dosing frequency should be adjusted as needed.
+5 day s after completion of Viekirax + dasabuvir treatment, the sirolimus dose and do sing frequency prior to receiving Viekirax should be resumed, along with routine monitoring of sirolimus blood concentrations.↔ paritaprevir1.18(0.91 -1.54)1.19(0.97 -1.46)1.16(1.00 -1.34)
+↔ dasabuvir 1.04(0.89 -1.22)1.07(0.95 -1.22)1.13(1.01 -1.25)Viekirax without dasabuvir 
+ Not studied:Similar effect is expected as observed with Viekirax + dasabuvir 
+ Tacrolimus
+2mg single dose7Mechanism: Effect on tacrolimus is due to CYP3A4 inhibition by ritonavir.Viekirax + dasabuvir↑ tacrolimus 3.99(3.21 -4.97)57.1(45.5 -71.7)16.6(13.0 -21.2)Concomitant use of tacrolimus with Viekirax and dasabuvir is not recommended unless the benefits outweigh the risks (see section 4.4). If tacrolimus with Viekirax and dasabuvir are used concomitantly, tacrolimus should not be administered on the day  Viekirax and dasabuvir are initiated. Beginning the day after Viekirax and dasabu virare ↔ ombitasvir0.93(0.88 -0.99)0.94(0.89 -0.98)0.94(0.91 -0.96)
+↓ paritaprevir0.57(0.42 -0.78)0.66(0.54 -0.81)0.73(0.66 -0.80)
+↔ dasabuvir 0.85(0.73 -0.98)0.90(0.80 -1.02)1.01(0.91 -1.11)Viekirax without dasabuvir↑ tacrolimus 4.27(3.49 -5.22)85.8(67.9 -108)24.6(19.7 -30.8)
+↔ ombitasvir The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↓ paritaprevir32Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Commentsinitiated; reinitiate tacrolimus at a reduced dose based on tacrolimus blood concentrations. The recommended tacrolimus dosing is 0.5 mg every 7 days.Tacrolimus whole blood concentrations should be monitored upon initiation and throughout co -admi nistration with Viekirax and dasabuvirand the dose and/or dosing frequency  should be adjusted as needed. Upon completion of Viekirax and dasabuvir treatment, the appropriate dose and dosing f requency  of tacrolimus should be guided by assessment of tacrol imus blood concentrations. INHALED BETA AGONISTSSalmeterol 
+ Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ salmeterol 
+ Concomitant use is contraindicated (see section 
+4.3).INSULIN SECRETAGOGUESRepaglinide 
+ Mechanism: OATP1B1 inhibition by paritaprevir.Viekirax with or without dasabuvir 
+ Not Studied. Expected:
+↑ repaglinide 
+ Caution should be used and dose decrease maybe needed for repaglinide when administered with Viekirax with or without dasabuvir.MUSCLE RELAXANTSCarisoprodol 
+250 mg single dose 
+ Viekirax with dasabuvir↓ Carisoprodol0.54(0.47 -0.63)0.62(0.55 -0.70)NA No dose adjustment required for carisoprodol; increase dose if clinically indicated.↔ ombitasvir 0.98(0.92 -1.04)0.95(0.92 -0.97)0.96(0.92 -0.99)
+↔ paritaprevir0.88(0.75 -1.03)0.96(0.85 -1.08)1.14(1.02 -1.27)33Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Mechanism: CYP2C19inductio n by ritonavir↔ dasabuvir 0.96(0.91 -1.01)1.02(0.97 -1.07)1.00(0.92 -1.10)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.Cyclobenzaprine 5 mg single dose 
+ Mechanism: decrease possibly due to CYP1A2 inductio n by ritonavir 
+ Viekirax with dasabuvir↓ cycloben -zaprine0.68(0.61 -0.75)0.60(0.53 -0.68)NA No dose adjustment required for cyclobenzaprine; increase dose if clinically indicated.↔ ombitasvir 0.98(0.92 -1.04)1.00(0.97 -1.03)1.01(0.98 -1.04)
+↔ paritaprevir 1.14(0.99 -1.32)1.13(1.00 -1.28)1.13(1.01 -1.25)
+↔ dasabuvir 0.98(0.90 -1.07)1.01(0.96 -1.06)1.13(1.07 -1.18)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.NARCOTIC ANALGESICSParacetamol (as given in a fixed -dose hydrocodone/paracetamol)
+300 mg single dose 
+ Viekirax 
++ dasabuvir↔ paracetamol1.02(0.89 -1.18)1.17(1.09 -1.26)NA No dose adjustment necessary for paracetamol when administered with Viekirax with or without dasabuvir.↔ ombitasvir 1.01(0.93 -1.10)0.97(0.93 -1.02)0.93(0.90 -0.97)
+↔ paritaprevir 1.01(0.80 -1.27)1.03(0.89 -1.18)1.10(0.97 -1.26)
+↔ dasabuvir 1.13(1.01 -1.26)1.12(1.05 -1.19)1.16(1.08 -1.25)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.Hydrocodone(as given in a fixed -dose hydrocodone/paracetamol)
+5 mg single dose 
+ Mechanism: CYP3A4 inhibition by ritonavir 
+ Viekirax 
++ dasabuvir↑hydrocodone1.27(1.14 -1.40)1.90(1.72 -2.10)NA A reduction of hydrocodone dose by 50% and/o r clinical monitoring should be considered when administered with Viekirax with or without dasabuvir .Changes for ombitasvir, paritaprevir and dasabuvir the same as shown for paracetamol above 
+ Viekirax without dasabuvir 
+ Not studied.Similar effect expected as observed with Viekirax + dasabuvir.34Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ OPIOIDSMethadone
+20-120mg once daily8Viekirax + dasabuvir↔ R -Methadone1.04(0.98 -1.11)1.05(0.98 -1.11)0.94(0.87 -1.01)No dose adjustment is necessary for methadone and Viekirax with or without dasabuvir.↔ S-Methadone0.99(0.91 -1.08)0.99(0.89 -1.09)0.86(0.76 -0.96)
+↔ paritaprevir /ombitasvir/dasabuvir (based on the cross -study comparison)Viekirax without dasabuvir 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.Buprenorphine
+/ naloxone
+4-24mg/1 -
+6mg once daily8Mechanism: CYP3A4 inhibition by ritonavir and UGT inhibition by paritaprevir, ombitasvir and dasabuvir.Viekirax + dasabuvir↑ bu-prenorphine2.18(1.78 -2.68)2.07(1.78 -2.40)3.12(2.29 -4.27)No dose adjustment is necessary for bupreno rphine/naloxone and Viekirax with or without dasabuvir.↑ norbu -prenorphine2.07(1.42 -3.01)1.84(1.30 -2.60)2.10(1.49 -2.97)
+↑ naloxone 1.18(0.81 -1.73)1.28(0.92 -1.79)NA
+↔ ombitasvir/ paritaprevir /dasabuvir (based on the cross -study comparison)Viekirax without dasabuvir↑ bu-prenorphine1.19(1.01 -1.40)1.51(1.27 -1.78)1.65(1.30 -2.08)
+↑ norbu -prenorphine 
+ The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ naloxone
+↔ ombitasvir/ paritaprevir (based on the cross -study  comparison)PHOSPHODIESTERASE -(PDE -5) INHIBITORSSildenafil (when used for treatment of pulmo nary hypertensio n)Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with and without dasabuvir 
+ Not studied. Expected:
+↑ sildenafil 
+ Concomitant use is contraindicated (see section 
+4.3).PROTON PUMP INHIBITORSViekirax + dasabuvir↓ omeprazole0.62(0.48 -0.80)0.62(0.51 -0.75)NA If clinically indicated higher doses of 
+↔ ombitasvir1.02(0.95 -1.09)1.05(0.98 -1.12)1.04(0.98 -1.11)
+↔ paritaprevir1.19(1.04 -1.36)1.18(1.03 -1.37)0.92(0.76 -1.12)
+↔ dasabuvir 1.13(1.03 -1.25)1.08(0.98 -1.20)1.05(0.93 -1.19)35Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments 
+ Omeprazole
+40mg o nce daily  Mechanism: CYP2C19 inductio n by ritonavir.Viekirax without dasabuvir↓ omeprazole0.48(0.29 -0.78)0.46(0.27 -0.77)NA omeprazole should be used.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir The magnitude of interaction was similar to that observed with Viekirax + dasabuvir.
+↔ paritaprevir 
+ Esomeprazole 
+ Lansoprazole 
+ Mechanism: CYP2C19 inductio n by ritonavir.Viekirax  with and without dasabuvir 
+ Not studied. Expected:
+↓ esomeprazole, lansoprazole 
+ If clinically indicated, higher doses of esomeprazole/lansoprazole may be needed.SEDATIVES / HYPNOTICSZolpidem
+5mg single dose 
+ Viekirax + dasabuvir↔ zolpidem 0.94(0.76 -1.16)0.95(0.74 -1.23)NA No dose adjustment is necessary for zolpidem.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir1.07(1.00 -1.15)1.03(1.00 -1.07)1.04(1.00 -1.08)
+↓ paritaprevir0.63(0.46 -0.86)0.68(0.55 -0.85)1.23(1.10 -1.38)
+↔ dasabuvir 0.93(0.84 -1.03)0.95(0.84 -1.08)0.92(0.83 -1.01)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.Alprazolam
+0.5mg single dose  Mechanism: CYP3A4 inhibition by ritonavir 
+ Viekirax + dasabuvir↑ alprazolam1.09(1.03 -1.15)1.34(1.15 -1.55)NA Clinical monitoring of patients is recommended. A decrease in alprazolam dose can be considered based on clinical response.No dose adjustment needed for Viekirax with or without dasabuvir.↔ ombitasvir0.98(0.93 -1.04)1.00(0.96 -1.04)0.98(0.93 -1.04)
+↔ paritaprevir0.91(0.64 -1.31)0.96(0.73 -1.27)1.12(1.02 -1.23)
+↔ dasabuvir 0.93(0.83 -1.04)0.98(0.87 -1.11)1.00(0.87 -1.15)Viekirax without dasabuvir 
+ Not studied.  Similar effect expected as observed with Viekirax + dasabuvir.Oral midazolam 
+ Triazolam 
+ Mechanism:CYP3A4 inhibition by ritonavir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ midazolam or triazolam 
+ Concomitant use is contraindicated (see section 4.3).If parenteral midazolam is co-administered with 
+ Viekirax with or without dasabuvir , close clinical 36Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Commentsmonitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered.Diazepam
+2 mg single dose 
+ Mechanism: CYP2C19 inductio n by ritonavir 
+ Viekira x + dasabuvir↓diazepam 1.18(1.07 -1.30)0.78(0.73 -0.82)NA No dose adjustment required for diazepam; increase dose if clinically indicated.↓ nordiazepam1.10(1.03 -1.19)0.56(0.45 -0.70)NA
+↔ ombitasvir 1.00(0.93 -1.08)0.98(0.93 -1.03)0.93(0.88 -0.98)
+↔ paritaprevir0.95(0.77 -1.18)0.91(0.78 -1.07)0.92(0.82 -1.03)
+↔ dasabuvir 1.05(0.98 -1.13)1.01(0.94 -1.08)1.05(0.98 -1.12)Viekirax without dasabuvir 
+ Not studied. Similar effect expected as observed with Viekirax + dasabuvir.THYROID HORMONESLevothyroxine 
+ Mechanism:UGT1A1 inhibition by paritaprevir, ombitasvir and dasabuvir.Viekirax with or without dasabuvir 
+ Not studied. Expected:
+↑ levothyroxine 
+ Clinical monitoring and dose adjustment may be required for levothyroxine 
+1.Lopinavir/ritonavir 800/200 mg once daily (administered in the evening) was also administered with Viekirax with or without dasabuvir. The effect on C max and AUC of DAAs and lopinavir was similar to that observed when lopinavir/ritonavir 400/100 mg twice daily was administered with Viekirax with or without dasabuvir.
+2.Rilpivirine was also administered in the evening with food and at night 4 hours after din ner with Viekirax + dasabuvir in other two arms in the study. The effect on rilpivirine exposures was similar to that observed when rilpivirine was administered in the morning with food with Viekirax + dasabuvir (shown in the table above).
+3.Ciclosporin 100 mg dosed alone, 10 mg administered with Viekirax and 30 mg administered with Viekirax + dasabuvir. Dose normalized cyclosporine ratios are shown for interaction with Viekirax with or without dasabuvir. 
+4.C12:= concentration at 12 hours following single do se of everolimus.37Medicinal Product/Possible Mechanism of Interaction 
+ GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments
+5.Sirolimus 2 mg was dosed alone, 0.5 mg administered with Viekirax + dasabuvir. Dose normalized sirolimus ratios are shown for interaction with Viekirax + dasabuvir.
+6.C24:= concentration at 24 hours following single dose of cyclosporine, tacrolimus or sirolimus.
+7.Tacrolimus 2 mg was dosed alone, 0.5 mg administered with Viekirax and 2 mg was administered with Viekirax + dasabuvir. Dose normalized tacrolimus ratios are shown for interaction with Viekirax with or without dasabuvir.
+8.Dose normalised parameters reported for methadone, buprenorphine and naloxone.Note: Doses used for Viekirax and dasabuvir were: ombitasvir 25 mg, paritaprevir 150 mg, ritonavir 100 mg, once daily and dasabuvir 400 mg twice daily or 250 mg twice daily. The das abuvir exposures obtained with the 400 mg formulation and the 250 mg tablet are similar. Viekirax with or without dasabuvir was administered as multiple doses in all the drug interaction studies except the drug interaction studies with carbamazepine, gemfi brozil, ketoconazole, and sulfamethoxazole/trimethoprim..Paediatric population 
+ Drug interaction studies have only been performed in adults.

@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ The concomitant use of Pedea with the following medicinal product s is not recommended:  
+- diuretics: ibuprofen may reduce the effect of diuretics; diuretics can increase the risk of nephrotoxicity of NSAIDs in dehydrated patients.  
+- anticoagulants: ibuprofen may increase the effect of anticoagulants and enhance the risk of bleeding.  
+- corticosteroids: ibuprofen may increase the risk of gastroi ntestinal bleeding.  
+- nitric oxide: since both medicinal products inhibit platelet function, their combination may in theory increase the risk of bleeding.  
+- other NSAIDs: the concomitant use of more than one NSAID should be avoided because of the increased ri sk of adverse reactions.  
+- aminoglycosides:  since ibuprofen may decrease the clearance of aminoglycosides, their co -administration may increase the risk of nephrotoxicity and ototoxicity (see section  4.4).  
+ 

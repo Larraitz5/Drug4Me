@@ -1,0 +1,305 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ When fosamprenavir and ritonavir are co -administered, the ritonavir metabolic drug interaction profile may predominate because ritonavir is a more pot ent CYP3A4 inhibitor. The full prescribing information for ritonavir must therefore be consulted prior to initiation of therapy with Telzir with ritonavir.  Ritonavir also inhibits CYP2D6 but to a lesser extent than CYP3A4. Ritonavir induces CYP3A4, CYP1A2,  CYP2C9 and glucuronosyl transferase . 
+ Additionally, both amprenavir, the active metabolite of fosamprenavir, and ritonavir are primarily metabolised in the liver by CYP3A4. Therefore, any medicinal products that either share this metabolic pathway or modi fy CYP3A4 activity may modify the pharmacokinetics of amprenavir and ritonavir. Similarly administration of fosamprenavir with ritonavir may modify the pharmacokinetics of other active substances that share this metabolic pathway.  
+ Interaction studies have  only been performed in adults.  
+ Unless otherwise stated, studies detailed below have been performed with the recommended dosage of fosamprenavir/ritonavir (i.e. 700/100 mg twice daily) , and the interaction was assessed under steady -state conditions where drugs were  administered for 10 to 21 days.  
+ Drugs by Therapeutic Area  Interaction  
+ Geometric mean change (%) 
+ (Possible mechanism)  Recommendation concerning co -administration  ANTIRETROVIRAL MEDICINAL PRODUCTS  
+   Non-nucleoside reverse transcriptase inhibitors:  
+   Efavirenz   
+600 mg once daily  
+ No clinically significant interaction is observed.  No dosage adjustment necessary.  Nevirapine   
+200 mg  twice daily  
+ No clinically significant interaction is observed.  
+ No dosage adjustment necessary.  
+ Etravirine  
+ 
+ (Study conducted in 8 patients)  Amprenavir AUC ↑ 69% Amprenavir C min ↑ 77% Amprenavir C max ↑ 62%  
+ Etravirine AUC ↔a Etravirine C min↔a Etravirine C max↔a 
+ 
+ a Comparison based on historic control.  
+ Telzir may require dose reduction (using oral suspension) . Nucleoside / Nucleotide reverse transcriptase inhibitors:  
+   Abacavir  Lamivudine  No clinically significant interaction is expected.  No dosage adjustment necessary.  8 Zidovudine  
+ Study performed with amprenavir.  
+ No FPV/RTV drug interaction studies.  
+   Didanosine chewable tablet  
+ No drug interaction studies.  
+ No clinically significant interaction is expected.  
+ No dose separation or dosage adjustment necessary (see Antacids).  
+ Didanosine gastro -resistant capsule  
+ No drug interaction studies.  No clinically  significant interaction is expected.  
+ 
+ No dosage adjustment necessary.  Tenofovir  disoproxil  
+245 mg once daily  
+ No clinically significant interaction observed.  
+ No dosage adjustment necessary.  
+ 
+ Protease Inhibitors:  According to current treatment guidelines, dual therapy with protease inhibitors is generally not recommended.  
+ Lopinavir / ritonavir  
+400 mg/100  mg  twice daily  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ Lopinavir / ritonavir  
+533 mg/133  mg twice daily  
+  (Telzir 1400 mg twice daily)  
+ Lopinavir: C max↑ 30% Lopinavir: AUC ↑  37% Lopinavir: C min ↑ 52%  
+ Amprenavir: C max ↓ 58%  Amprenavir: AUC ↓  63%  Amprenavir: C min ↓ 65%  
+ Lopinavir: C max ↔* Lopinavir: AUC ↔ * Lopinavir: C min ↔* 
+* compared to lopinavir / ritonavir 400 mg/100 mg twice daily  
+ Amprenavir: Cmax ↓ 13%* Amprenavir: AUC ↓  26%* Amprenavir: C min ↓ 42 %* 
+* compared to fosamprenavir / ritonavir 700 mg/100 mg twice daily  
+ (Mixed CYP3A4 induction/inhibition, Pgp induction)  Concomitant use is not recommended.  
+ Indinavir  Saquinavir  
+ No drug  interaction studies.   
+ No dose recommendations can be given.  9 Atazanavir   
+ 
+300 mg once daily  
+ 
+ Atazanavir: C max ↓ 24%*  Atazanavir: AUC ↓ 22%*  Atazanavir: C min↔* 
+ *compared to atazanavir/ ritonavir 300 mg/ 100 mg once daily  
+ Amprenavir: Cmax ↔ Amprenavir: AUC ↔  Amprenavir: C min ↔ 
+ No dosage adjustment necessary.  Integrase inhibitors  
+ Raltegravir   
+ 
+400 mg twice daily   Fasting state  
+ Amprenavir  :  Cmax ↓ 14% ( -36%; + 15%)  AUC ↓  16% ( -36%; + 8%) Cmin ↓ 19% ( -42%; +13%)  
+ Raltegravir: Cmax ↓ 51% ( -75%; - 3%) AUC ↓  55% ( -76%; - 16%)  Cmin ↓ 36 % ( -57%; -3%)  
+ Fed state  
+ Amprenavir:  Cmax ↓ 25% ( -41%; - 4%) AUC ↓  25% ( -42%; - 3%) Cmin ↓ 33% ( -50%; -10%)  
+ Raltegravir:  Cmax ↓ 56% (-70%; - 34%)  AUC ↓  54% ( -66%; - 37%)  Cmin ↓ 54 % ( -74%; -18%)  
+ Concomitant use is not recommended.  Significant reductions  in exposure  and Cmin observed for  both amprenavir and raltegravir (especially in fed conditions) may result in virological failure in  patients.  Dolutegravir   
+ 
+50 mg once daily  Dolutegravir  
+ Cmax ↓ 24%   AUC ↓  35%  Cτ ↓ 49%  
+ Amprenavir: C max ↔ Amprenavir: AUC ↔  Amprenavir: C min ↔ 
+ No dosage adjustment of fosamprenavir or dolutegravir  is recommended based on observed exposure -response relationships of clinical data. Caution is warranted and close monitoring is recommended when th is combination is  given in integrase inhibitor -resistan t patients.  CCR5 -receptor antagonists  
+ 10  Maraviroc   
+ 
+300 mg twice daily   Maraviroc : AUC 12 ↑ 2.49 Maraviroc : C max ↑ 1.52 Maraviroc : C 12 ↑ 4.74  
+ Amprenavir: AUC 12 ↓ 0.65  Amprenavir: C max ↓ 0.66  Amprenavir: C 12 ↓ 0.64  
+ Ritonavir AUC
+12 ↓ 0.66  Ritonavir C max ↓ 0.61  Ritonavir C 12 ↔ 0.86  
+ Concomitant use is not recommended.  Significant reductions in amprenavir Cmin observed may result in virological failure in patients.  
+ Anti-hepatitis C virus medicinal products  
+ 
+   
+   Simeprevir  Daclatasvir  Not studied.  Results from studies with other HIV protease inhibitors and simeprevir  or daclatasvir,  suggest that co-administration with  fosamprenavir/r itonavir is likely to lead to increased plasma exposures of simeprevir  or daclatasvir  due to CYP3A4 enzyme inhibition.  Not recommended.  Paritaprevir  (co-formulated with ritonavir and ombitasvir and co -administered with dasabuvir)  Not studied.  Results from studies with other HIV protease inhibitors and paritaprevir/ritonavir/ ombitasvir  +/- dasabuvir suggest that co-administration of fosamprenavir/r itonavir with paritaprevir/ritonavir/ ombitasvir +/-dasabuvir is likely to lead to increased plasma  exposures of paritaprevir due to CYP3A4 enzyme inhibition and higher ritonavir dose.  Contraindicated (see section 
+4.3). ANTIARRHYTHMICS  
+   Amiodarone  Bepridil  Quinidine  Flecainide  Propafenone  
+ Amiodarone: ↑ expected  Bepridil: ↑ expected  Quinidine: ↑ expected  
+  (CYP3A4 inhibition by FPV/RTV)  
+ Flecainide: ↑ expected  Contraindicated (see section 
+4.3). Potential for serious and/or life -threatening reactions such as cardiac arrhythmias.  11 Propafenone: ↑ expected  
+ (CYP2D6 inhibition by RTV)  ERGOT DERIVATIVES  
+   Dihydroergotamine  Ergotamine  Ergonovine  Methylergonovine  Dihydroergotamine: ↑ expected  Ergonovine: ↑ expected  Ergotamine: ↑ expected  Methylergonovine: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Contraindicated (see section 
+4.3). Potential for serious and/or life -threatening reactions such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues.  GASTROINTESTINAL MOTILITY AGENTS    Cisapride  Cisapride: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Contraindicated (see section 
+4.3). Potential for serious and/or life -threatening reactions such as cardiac arrhythmias.  ANTIHISTAMINES (HISTAMINE H1 RECEPTOR ANTAGONISTS)    Astemizole  Terfenadine  Astemizole: ↑ expected  Terfenadine: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Contraindicated (see section 
+4.3). Potential for serious and/or life -threatening reactions such as cardiac arrhythmias.  NEUROLEPTIC  
+   Pimozide  Pimozide: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Contraindicated (see section 
+4.3). Potential for serious and/or life -threatening reactions such as cardiac arrhythmias.  ANTIPSYCHOTICS  Quetiapine  
+ 
+ Due to CYP3A inhibition by Telzir, concentrations of quetiapine are expected to increase.  Concomitant administration of Telzir and quetiapine is contra -indicated as it may increase quetiapine- related toxicity.  Increased plasma concentrations of quetiapine may lead to coma.  Lurasidone  
+ 
+ 
+ 
+ No FPV/RTV drug interaction studies  Lurasidone : ↑ expected  (CYP3A4 inhibition)  Concomitant administration of fosamprenavir /ritonavir with lurasidone is contraindicated due to the potential for serious and/or life-threatening reactions  related to lurasidone  (see section 4.3)  12 INFECTION   
+   Antibacterials:   
+   Clarithromycin  
+ Study performed with amprenavir.  
+ No FPV/RTV drug interaction studies.  Clarithromycin: moderate ↑ expected  
+ (CYP3A4 inhibition)  Use with caution . 
+ Erythromycin  
+ No drug interaction studies.  
+ 
+ Erythromycin: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Use with caution.  Anti-mycobacterial:  
+   Rifabutin  
+150 mg every other day  
+ 
+ 
+ Rifabutin: C max ↓ 14%*  Rifabutin: AUC(0 -48) ↔ * 
+ 
+25-O-desacetylrifabutin:  Cmax ↑ 6-fold*  
+25-O-desacetylrifabutin: AUC(0 -48) ↑  11-fold* 
+*compared to rifabutin 300 mg once daily  
+ Amprenavir exposure unchanged when compared to historical data.  
+ (Mixed CYP3A4 induction/inhibition)  
+ The increase of 25-O-desacetylrifabutin (active metabolite) could potentially lead to an increase of rifabutin related adverse events, notably uveitis.  
+ A 75 % reduction of the standard rifabutin dose (i.e. to 150 mg every other day) is recommended. Further dose reduction may be necessary (see section 4.4).  
+ Rifampicin  
+600 mg once daily  
+ (Amprenavir without ritonavir)  
+ No FPV/RTV drug interaction studies  
+ Amprenavir: AUC ↓ 82% 
+ 
+ Significant ↓ APV expected  
+ 
+ (CYP3A4 induction by rifampicin)  Contraindicated (see section 
+4.3). 
+ The decrease in amprenavir AUC can result in virological failure and resistance development.  During attempts to overcome the decreased exposure by increasing the dose of other protease inhibitors with ritonavir, a high frequency of liver re actions was seen.  
+ Anti-fungals:  
+   Ketoconazole  
+200 mg once daily for four days 
+ Ketoconazole: C max ↑ 25% Ketoconazole: AUC ↑  2.69 -fold. 
+ High doses (> 200 mg/day) of ketoconazole or itraconazole are not recommended.  13  
+ 
+ 
+ 
+ Itraconazole  
+ No drug interaction studies.  
+ Amprenavir: C max ↔ Amprenavir: AUC ↔  Amprenavir: C min ↔ 
+ 
+ Itraconazole: ↑  expected  
+ (CYP3A4 inhibition by FPV/RTV)  
+ ANTACIDS, HISTAMINE H2 RECEPTOR ANTAGONIST AND PROTON -PUMP INHIBITORS  
+   Single 30  ml dose of antacid suspension (equivalent to 3.6 grams alumin ium hydroxide and 1.8  grams magnesium hydroxide  
+ (Telzir 1400 mg single dose)  
+ 
+ Ranitidine  
+300 mg single dose  
+ (Telzir 1400 mg single dose)  
+ Esomeprazole  
+20 mg once daily  
+  Amprenavir: C max ↓ 35% Amprenavir: AUC ↓  18%  Amprenavir: C min (C 12h) ↔ 
+ 
+ 
+ 
+ 
+ 
+ Amprenavir: C max ↓ 51%  Amprenavir: AUC ↓  30%  Amprenavir: C min (C 12h) ↔ 
+ 
+ Amprenavir C max ↔ Amprenavir AUC ↔  Amprenavir C min (C 12h) ↔ 
+ (Increase in gastric p 
+ H)  No dosage adjustment  necessary with antacids, proton- pump inhibitors or histamine H
+2 receptor antagonists.   
+ 
+ ANTICONVULSANTS  
+   Phenytoin  
+300 mg once daily  
+ Phenytoin: C max ↓ 20% Phenytoin: AUC ↓  22%  Phenytoin: C min ↓ 29%  
+ (Modest induction of CYP3A4 by FPV/RTV)  
+ Amprenavir: Cmax ↔ Amprenavir: AUC ↑  20%  Amprenavir: C min ↑ 19%  
+ It is recommended that phenytoin plasma concentrations be monitored and phenytoin dose increased as appropriate.  
+ 
+ Phenobarbital  Carbamazepine  
+ No drug interaction studies.  
+ Amprenavir: ↓ expected  
+ (Modest CYP3A4 induction)  
+ Use with caution (see section 4.4).  14 Lidocaine  (by systemic route)  
+ No drug interaction studies.  Lidocaine: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  
+ Concomitant use is not recommended.  It may cause serious adverse reactions (see section 4.4).  Halofantrine  
+ No drug interaction studies.  Halofantrine: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV ) 
+ Concomitant use is not recommended.  It may cause serious adverse reactions (see section 4.4).  
+ PDE5 INHIBITORS  
+   Sildenafil  Vardenafil  Tadalafil  
+ No drug interaction studies.  
+ PDE5 inhibitors: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV ) 
+ 
+ Concomitant use is not recommended. It may result in an increase in PDE5 inhibitor -associated adverse reactions, including hypotension, visual changes and priapism  (refer t o PDE5 inhibitor prescribing information). Patients should be warned about these possible side effects when using PDE5 inhibitors with Telzir /ritonavir  (see section 
+4.4). Note that co -administration of Telzir with low dose ritonavir with sildenafil used for the treatment of pulmonary arterial hypertension is contraindicated (see section 
+4.3). INHALED/NASAL STEROIDS  
+   Fluticasone propionate   
+50 µg intranasal 4 times daily) for 7 days  
+ (Ritonavir 100 mg capsules twice daily for 7 days)  
+ Fluticasone propionate: ↑ 
+ Intrinsic cortisol levels: ↓ 
+86 %.  
+ The effects of high fluticasone systemic exposure on ritonavir plasma levels are unknown.  
+ Greater effects may be expected when fluticasone propionate is inhaled.  
+ (CYP3A4 inhibition by FPV/RTV )  Concomitant use is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4). A dose reduction of the glucocorticoid with close monitoring of local and systemic effects or a switch  to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone) should be considered. In case of withdrawal of glucocorticoids, progressive dose reduction may have to be performed over a longer period (see section 4.4).  15  ALPHA 1 -ADRENORECE PTOR ANTAGONIST    Alfuzosin,  
+ 
+ 
+ Potential for increased alfuzosin concentrations which can result in hypotension. The mechanism of interaction is CYP3A4 inhibition by fosamprenavir/ritonavir.  Co-administration of TELZIR/ritonavir with alfuzosin is contraindicated (see section  4.3) 
+  HERBAL PRODUCTS  
+   St. John’s wort  (Hypericum perforatum)  Amprenavir ↓ expected  
+ (CYP3A4 induction by St. John’s wort ) 
+ Herbal preparations containing St John’s  wort must not be combined with Telzir (see section 4.3). If a patient is already taking St John’s wort, check amprenavir, ritonavir and HIV RNA and stop St John’s wort. Amprenavir and ritonavir levels may increase on stopping St John’s wort. The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort.  HMG -COA REDUCTASE INHIBITORS  
+   Lovastatin  Simvastatin  
+ 
+ No drug interaction studies.  
+ Lovastatin: ↑ expected  
+ Simvastatin: ↑  expected  
+ (CYP3A4 inhibition by FPV/RTV ) 
+ 
+ Contraindicated (see section 
+4.3). 
+ Increased concentrations of HMG- Co 
+ A reductase inhibitors may cause myopathy, including rhabdomyolysis.  
+ Pravastatin or fluvastatin are recommended because their metabolism is not dependent on CYP 3A4 and interactions are not expected with protease inhibitors .  Atorvastatin  
+10 mg once daily for 4 days  
+  Atorvastatin: C max ↑ 184%  Atorvastatin: AUC ↑ 153%  Atorvastatin: C min ↑ 73% 
+ Amprenavir: C max ↔ Amprenavir: AUC ↔  Amprenavir: C min ↔ Doses of atorvastatin no greater than 20 mg/day should be administered, with careful monitoring for atorvastatin toxicity.  
+ 16  (CYP3A4 inhibition by FPV/RTV ) 
+ IMMUNOSUPPRESSANTS  
+   Cyclosporin  Rapamycin  Tacrolimus  
+ No drug interaction studies.  
+ Cyclosporin: ↑ expected  Rapamycin: ↑ expected  Tacrolimus: ↑ expected  
+ (CYP3A4 inhibition by FPV/RTV)  Frequent therapeutic concentration monitoring of immunosuppressant levels is recommended until levels have stabilised (see section 
+4.4). 
+ BENZODIAZEPINES  
+   Midazolam  
+ No drug interaction studies.  Midazolam: ↑ expected (3 -4 fold  for parenteral midazolam)  
+ Based on data with other protease inhibitors plasma concentrations of midazolam are expected to be significantly higher when midazolam is given orally.  
+ (CYP3A4 inhibition by FPV/RTV ) 
+ Telzir/ritonavir should not be co -administered with orally administered midazolam (see section 4.3), whereas  caution should be used with co-administration of Telzir/ritonavir and parenteral midazolam.  
+ If Telzir/ri tonavir is co -administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.  TRICYCLIC ANTIDEPRESSANTS  
+   Desipramine  Nortriptyline  
+ No drug interaction studies.  Tricyclic antidepressant: ↑ expected  
+ (Mild CYP2D6 inhibition by RTV ) 
+ Careful monitoring of the therapeutic and adverse reactions of tricyclic antidepressants is recommended (see section 
+4.4).  
+ OPIOIDS  
+   Methadone  
+≤ 200 mg once daily  
+ (R-) methadone: C max ↓  
+21% The decrease of (R -) methadone (active 17 (R-) methadone: AUC ↓ 
+18% 
+ 
+ (CYP induction by FPV/RTV)  enantiomer) is not expected to be clinically significant.   As a precaution, patients should be monitored for withdrawal syndrome.  
+ 
+ ORAL ANTICOAGULANTS  
+ Warfarin  Other oral anticoagulants  
+ No drug interaction studies.  Possible ↓ or ↑ of antithrombotic effect.  
+ (Induction and/or inhibition of CYP2C9 by RTV)  
+ Reinforced monitoring of the International Normalised Ratio is recommended (see section 4.4).  
+ ORAL CONTRACEPTIVE S 
+   Ethinyl estradiol 0.035 mg/norethisterone 0.5 mg once daily  
+ 
+ Ethinyl estradiol: C max 
+↓28% Ethinyl estradiol: AUC 
+↓37% 
+ Norethisterone: Cmax 
+↓38% Norethisterone: AUC ↓34% Norethisterone: Cmin ↓ 26 
+ (CYP3A4 induction by FPV/RTV)  
+ Amprenavir: Cmax ↔* Amprenavir: AUC ↔ * Amprenavir: C min ↔* 
+* compared to historical data 
+ Ritonavir: C max ↑ 63%* Ritonavir: AUC ↑ 45%* 
+* compared to historical data 
+ Clinically significant hepatic transaminase elevations occurred in some subjects.  Alternative non -hormonal methods of contraception are recommended for women of childbearing potential (see section 4.4).  SELECTIVE SEROTONIN REUPTAKE INHIBITORS (SSRIS)  
+   Paroxetine  
+ 
+20 mg once daily  
+ Paroxetine: C max ↓ 51% Paroxetine: AUC ↓ 55% 
+ Amprenavir: C max ↔* Dose titration of paroxetine based on a clinical assessment of antidepressant response is recommended. Patients on 18  Amprenavir: AUC ↔* Amprenavir: C min ↔* 
+* compared to historical data 
+ Mechanism unknown.  stable dose of paroxetine who start treatment with Telzir and ritonavir should be monitored for antidepressant response.  ANTINEOPLASTIC AGENTS            METABOLISED BY CYP3A     Examples of antineoplastic agents :  dasatinib  nilotinib  ibrutinib  vinblastine  
+ everolimus  
+ No FPV/RTV drug interaction studies  dasatinib : ↑ expected  nilotinib : ↑ expected  ibrutinib : ↑ expected  vinblastine : ↑ expected  
+ everolimus : ↑ expected  (CYP3A4 inhibition)  When antineoplastic agents that are metabolised by CYP3A are co -administered with fosamprenavir/ritonavir, plasma concentrations of these antineoplastic  medications may be increased and could increase the risk of adverse events usually associated with thes e antineoplastic agents. In case of concomitant administration with antineoplastic agents metabolized by CYP3A, please refer to the relevant product information for these medications.  
+ 
+ 

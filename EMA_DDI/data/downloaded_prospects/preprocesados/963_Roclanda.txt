@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ In vitro  interaction studies have shown that precipitation can occur when eye drops containing thimerosal are mixed with latanoprost + netarsudil . Administer other eye drops at least five  minutes apart ( see section 4.2).  
+ In vitro  studies have indicated netarsudil has the potential to inhibit CYP450 isoenzymes in the cornea, however no clinical evidence of local pharmacokinetic  interactions has been observed to date . 
+ There have been reports of par adoxical elevations in IOP following the concomitant ophthalmic administration of two prostaglandin analogues. Therefore, the use of two or more prostaglandins, prostaglandin analogues or prostaglandin derivatives is not recommended.  
+ 

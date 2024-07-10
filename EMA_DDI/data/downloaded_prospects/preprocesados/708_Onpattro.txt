@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No formal clinical drug interaction studies ha ve been performed. At doses higher than the clinically relevant dose, induction and time -dependent inhibition of CYP2B6 was observed in vitro. The net effect on CYP2B6 substrates (e.g., bupropion and efavirenz) in vivo is unknown.  Onpattro is not expected to cause interactions or  be affected by inhibitors or inducers of cytochrome P450 enzymes.  
+ Vitamin A testing  
+ Serum TTR is a carrier of retinol binding protein, which facilitates transport of vitamin A in the blood. Treatment with Onpattro reduces serum T TR levels, which results in reduced levels of retinol binding protein and vitamin A in the serum. However, transport and tissue uptake of vitamin A can occur through alternative mechanisms in the absence of retinol binding protein. As a result, during trea tment with Onpattro, laboratory tests for serum vitamin A do not reflect the total amount of vitamin A in the body and should not be used to guide vitamin A supplementation (see sections  4.4 and  5.1). 
+ 

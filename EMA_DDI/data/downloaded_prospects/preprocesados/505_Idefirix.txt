@@ -1,0 +1,18 @@
+4.5 for recommended time intervals between administration of imlifidase and anti body- based medicinal products ). 
+ IVIg may contain neutralising antibodies against imlifidase, which may inactivate imlifidase if IVIg is given before imlifidase (see section 4.5) .  
+ Sodium content  
+ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 
+‘sodium -free’.  
+ 4.5 Interaction with other medicinal products and other forms of interaction  
+ Imlifidase specifically cleaves Ig 
+ G; the species specificity results in degradation of all subclasses of human and rabbit Ig 
+ G. As a consequence, medicinal products based on human or rabbit Ig 
+ G may be inactivated if given in connection with imlifidase. Anti body- based medicinal products  cleaved by imlifidase include, but are not limited to basiliximab, rituximab, alemtuzumab, adalimumab, denosumab, belatacept, etanercept, r 
+ ATG and IVIg.  
+ Imlifidase does not degrade equine anti -thymocyte globulin and no time interval between administrations needs to be considered. Eculizumab is not cleaved by imlifidase at the recommended dose level.  
+ Table 1  Recommended time intervals for administration of antibody -based medicinal 
+ products after administration of imlifidase  Medicinal product  Recommended time interval after administration of 
+0.25 mg/kg imlifidase  equine anti -thymocyte globulin , eculizumab  No time interval needed (can be administered concomitantly with imlifidase)  intravenous immunoglobulin  (IVIg)  12 hours  alemtuzumab, adalimumab, basiliximab , denosumab, etanercept, rituximab  4 days rabbit anti -human thymocyte globulin (r 
+ ATG), belatacept  1 week  
+ Also, IVIg may contain neutralising antibodies against imlifidase, which may inactivate imlifidase if IVIg is given before imlifidase. The half -life of IVIg (3 -4 weeks) should be considered before imlifidase administration to patients treated with IVIg. In clinical studies, IVIg was not administered within 4  weeks before imlif idase infusion.  
+ 6 

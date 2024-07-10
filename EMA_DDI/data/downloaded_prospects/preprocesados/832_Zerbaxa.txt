@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No signif icant medicinal product
+ interactions are anticipated between cef tolozane/tazobactam andsubstrates, inhibitors, and inducers of  cytochrome P450 enzymes (CYPs) based on in vitro  and in vivostudies.In vitr o studies demonstrated that cef tolozane, tazobactam and the M1 metabolite of tazobactam didnot inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 and did notinduce CYP1A2, CYP2B6, or CYP3A4 at therapeutic plasma concentrations.Cef tolozane and tazobactam were not substrates f or P
+-gp or BCRP, and tazobactam was not asubstrate for OCT2, in vitro  at therapeutic plasma concentrations. In vitro  data indicate thatcef tolozane did not inhibit P
+-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, MRP, BSEP,
+ OAT1,OAT3, MATE1, or MATE2
+-K in vitro  at therapeutic plasma concentrations. In vitro  data indicate thatneither tazobactam nor the tazobactam metabolite M1 inhibit P
+-gp, BCRP, OATP1B1, OATP1B3,OCT1, OCT2, or BSEP transporters at therapeutic plasma concentrations.Tazobactam is a substrate f or OAT1 and OAT3.
+ In vitro
+, tazobactam inhibited human OAT1 and 
+ OAT3 transporters with IC
+50 values of  118 and 147
+ mcg
+/m 
+ L, respectively. Co-administration ofcef tolozane/tazobactam with OAT1 and OAT3 substrate f urosemide in a clinical study did notsignif icantly increase f urosemide plasma exposures (geometric mean ratios of  0.83 and
+ 0.87 f or C maxand AUC, respectively)
+. However, active substances that inhibit OAT1 or OAT3 (e.g., probenecid)may increase tazobactam plasma concentrations.7

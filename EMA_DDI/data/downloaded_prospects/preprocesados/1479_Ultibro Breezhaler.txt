@@ -1,0 +1,13 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Concomitant administration of orally inhaled indacaterol and glycopyrronium, under steady -state conditions  of both active substances, did not affect the pharmacokinetics of either active substance.  
+ No specific interaction studies were conducted with Ultibro Breezhaler. Information on the potential for interactions is based on the potential for each of its two active substances.  
+ Concomitant use not recommended  
+ Beta-adrenergic blockers  Beta-adrenergic blockers may weaken or antagonise the effect of beta 2-adrenergic agonists.  Therefore Ultibro Breezhaler should not be given together with beta -adrenergic blockers (including eye drops) unless there are compelling reasons for their use. Where required, cardioselecti ve beta -adrenergic blockers should be preferred, although they should be administered with caution.  
+ Anticholinergics  The co -administration of Ultibro Breezhaler with other anticholinergic -containing medicinal products has not been studied and is therefore  not recommended  (see section  4.4). 
+ Sympathomimetic s Concomitant administration of other sympathomimetic s (alone or as part of combination therapy) may potentiate the adverse events  of indacaterol  (see section  4.4). 
+ Caution required with concomitant use  
+ Hypokalaemic treatment  Concomitant hypokalaemic treatment with methylxanthine derivatives, steroids, or non -potassium -sparing diuretics may potentiate the possible hypokalaemic effect of beta 2-adrenergic agonists , therefor e use with caution (see section  4.4). 
+ 6 To be taken into account with concomitant use  
+ Metabolic and transporter based interaction s Inhibition of the key contributors of indacaterol clearance, CYP3A4 and P -glycoprotein (P -gp), raises the systemic e xposure of indacaterol up to two-fold. The magnitude of exposure increases due to interactions does not raise any safety concerns given the safety experience of treatment with indacaterol in clinical studies of up to one year at doses up to twice the maximum recommended indacaterol dose. 
+ Cimetidine or other inhibitors of organic cation transport  In a clinical study in healthy volunteers, cimetidine, an inhibitor of organic cation transport which is thought to contribute to the renal excretion of glycopyrronium, increased total exposure (A UC) to glycopyrronium by 22% and decreased renal clearance by 23%. Based on the magnitude of these changes, no clinically relevant drug interaction is expected when glycopyrronium is co -administered with cimetidine or other inhibitors of the organic cation  transport.  
+ 

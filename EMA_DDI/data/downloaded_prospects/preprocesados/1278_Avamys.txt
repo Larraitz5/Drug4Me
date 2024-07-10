@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Interaction with CYP3A inhibitors  
+ Fluticasone furoate is rapidly cleared by extensive first pass metabolism mediated by the cytochrome P450  3A4. 
+ Based on data with another glucocorticoid (fluticasone propionate), that is metabolised by CYP3A 4, coadministration  with ritonavir is not recommended because of the risk of increased systemic exposure of  fluticasone furoate.  
+ Caution is recommended when co -administering fluticasone furoate with potent CYP3A inhibitors including cobicistat -containing products as an  increase in the risk of systemic side effects  is expected . Co-administration  should be avoided unless the benefit outweighs the increased risk of systemic  corticosteroid side effects , in which case patients should be monitored for systemic co rticosteroid side effects . In a drug interaction study of intranasal fluticasone  furoate with the potent CYP3A 4 inhibitor ketoconazole there were more subjects with measurable  fluticas one furoate concentrations in the ketoconazole group (6 of the 
+20 subjects) compared to placebo (1  out of 20 subjects). This small increase in exposure did not result in a statistically significant difference in 24  hour serum cortisol levels between the tw o groups . 
+  5 The enzyme induction and inhibition data suggest that there is no theoretical basis for anticipating metabolic  interactions between fluticasone furoate and the cytochrome P450 mediated metabolism of other compounds  at clinically relevant intrana sal doses. Therefore, no clinical studies have been conducted to investiga te interactions of fluticasone furoate on other drugs.  
+ 

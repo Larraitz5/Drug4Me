@@ -1,0 +1,2 @@
+> PROBENECID  No dose adjustment is required when co -administering with PROBENECID in patients with normal renal function. Co- administration of PROBENECID, a potent inhibitor of the anionic pathway of renal tubular secretion, results in an approximate 2 -fold increase in exposure to the active metabolite of oseltamivir.
+> AMOXICILLIN  Oseltamivir has no kinetic interaction with AMOXICILLIN, which is eliminated via the same pathway, suggesting that oseltamivir interaction with this pathway is weak.

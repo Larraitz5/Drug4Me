@@ -1,0 +1,16 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Given the primary effects of asenapine  on the central nervous system (CNS) (see section  4.8), caution should be used when it is taken in combination with other centrally acting medicinal products. Patients should be advised to avoid alcohol while taking Sycrest.  
+ Potential for other medicinal  products  to affect Sycrest  Asenapine is cleared primarily through direct glucuronidation by UGT1A4 and oxidative metabolism by cytochrome P450 isoenzymes (predominantly CYP1A2). The potential effects of inhibitors and an inducer of several of these enzyme  pathways on asenapine pharmacokinetics were studied, specifically fluvoxamine (CYP1A2 inhibitor), paroxetine (CYP2D6 inhibitor), imipramine (CYP1A2/2C19/3A4 inhibitor), cimetidine (CYP3A4/2D6/1A2 inhibitor), carbamazepine (CYP3A4/1A2 inducer) and valproat e (UGT inhibitor). Except for fluvoxamine, none of the interacting medicinal products resulted in clinically relevant alterations in asenapine pharmacokinetics.  
+ During combined administration with a single dose of asenapine 5  mg, fluvoxamine 25  mg twice daily resulted in a 29  % increase in asenapine AUC. The full therapeutic dose of fluvoxamine would be expected to produce a greater increase in asenapine plasma concentrations. Therefore, co-administration of asenapine and fluvoxamine should be approached with caution.  
+ Potential for Sycrest to affect other medicinal products  Because of its α1 -adrenergic antagonism with potential for inducing orthostatic hypotension (see section  4.4), Sycrest may enhance the effects of certain antihypertensive agents.  
+ Asen apine may antagonise the effect of levodopa and dopamine agonists. If this combination is deemed necessary, the lowest effective dose of each treatment should be prescribed.  
+ In vitro  studies indicate that asenapine weakly inhibits CYP2D6. Clinical drug i nteraction studies investigating the effects of CYP2D6 inhibition by asenapine showed the following results:  
+ 
+− Following co -administration of dextromethorphan and asenapine in healthy subjects, the ratio of dextrorphan/dextromethorphan (DX/DM) as a marker o f CYP2D6 activity was measured. Indicative of CYP2D6 inhibition, treatment with asenapine 5  mg twice daily resulted in a fractional decrease in DX/DM ratio to 0.43. In the same study, treatment with paroxetine 20  mg daily decreased the DX/DM ratio to 0.032 . 
+ 
+− In a separate study, co -administration of a single 75  mg dose of imipramine with a single 5  mg dose of asenapine  did not affect the plasma concentrations of the metabolite desipramine (a CYP2D6 substrate).  
+ 
+− Co-administration of a single 20  mg dose of paroxetine (a CYP2D6 substrate and inhibitor) during treatment with 5  mg asenapine  twice daily in 15  healthy male subjects resulted in an almost 2 -fold increase in paroxetine exposure.  
+ In vivo  asenapine appears to be at most a weak inhibitor of CYP2D6. However, asenapine may enhance the inhibitory effects of paroxetine on its own meta bolism.  
+ Therefore, Sycrest should be co -administered cautiously with medicinal products that are both substrates and inhibitors for CYP2D6.  
+ 

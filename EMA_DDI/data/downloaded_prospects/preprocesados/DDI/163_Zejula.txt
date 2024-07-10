@@ -1,0 +1,4 @@
+> The combination of NIRAPARIB with VACCINES or immunosuppressant agents has not been studied. 
+> The data on NIRAPARIB  in combination with cytotoxic medicinal products  are limited . Therefore,  caution should be taken if NIRAPARIB is used in combination  with VACCINES, immunosuppressant agents o r with other cytotoxic medicinal products .
+> NIRAPARIB is an inhibitor of MATE1 and - 2 with IC
+50 of 0.18 µM and ≤  0.14 µM, respectively. Increased plasma concentrations of co -administered medicinal products that are substrates of these transporters (e.g. METFORMIN) cannot be excluded. 

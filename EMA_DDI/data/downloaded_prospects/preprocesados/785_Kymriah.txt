@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No pharmacokinetic  or pharmacodynamic  drug interaction studies with tisagenlecleucel have been performed  in either the paediatric or adult population . The co -administration of agents known to inhibit T -cell function has not been formally studied . Administration of low -dose steroids as per the cytokine release syndrome  treatment algorithm does not impact the expansion and persistence of CAR -T cells.  The co -administration of agents known to stimulate T -cell function has not been investigated and the effects are unknown.  
+ Live vaccines  
+ The safety of immunisation with live vaccines during or following Kymriah treatment has not been studied. As a precautionary measure , vaccination with live vaccines is not recommended for at least 
+6 weeks prior to the start of lymphodepleting chemotherapy, during Kymriah treatment, and until immune recovery following treatment.  
+ 

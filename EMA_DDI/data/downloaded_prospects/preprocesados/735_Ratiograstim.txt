@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ The safety and effic acy of filgrastim given on the same day as myelosuppressive cytotoxic chemotherapy have not been definitively established. In view of the sensitivity of rapidly dividing myeloid cells to myelosuppressive cytotoxic chemotherapy, the use of filgrastim is not  recommended in the period from 24 hours before to 24 hours  after chemotherapy. Preliminary evidence from a small number of patients treated concomitantly with filgrastim and 5 -Fluorouracil indicates that the severity of neutropenia may be exacerbated.  
+ Possible interactions with other haematopoietic growth factors and cytokines have not yet been investigated in clinical trials.  
+ Since lithium promotes the release of neutrophils, it is likely to potentiate the effect of filgrastim. Although this interaction  has not been formally investigated, there is no evidence that such an interaction is harmful.  
+ 

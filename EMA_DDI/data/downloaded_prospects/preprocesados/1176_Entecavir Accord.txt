@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Since entecavir is predominantly eliminated by the kidney (see section  5.2), coadministration with medicinal products that reduce renal function or compete for active tubular secretion may increase serum concentrations of either medicinal prod uct. Apart from lamivudine, adefovir dipivoxil and tenofovir disoproxil fumarate, the effects of coadministration of entecavir with medicinal products that are excreted renally or affect renal function have not been evaluated. Patients should be monitored closely for adverse reactions when entecavir is coadministered with such medicinal products.  
+ No pharmacokinetic interactions between entecavir and lamivudine, adefovir or tenofovir were observed.  
+ Entecavir is not a substrate, an inducer or an inhibitor of cytochrome P450 (CYP450) enzymes (see section  5.2). Therefore CYP450 mediated medicinal product  interactions are unlikely to occur with entecavir.  
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

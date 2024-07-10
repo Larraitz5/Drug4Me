@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Due to the potential sensitivity of rapidly dividing myeloid cells to cytotoxic  chemotherapy, Lonquex should be administered approximately 24 hours after administration of cytotoxic chemotherapy. Concomitant use of lipegfilgrastim with any chemotherapeutic medicinal product has not been evaluated in patients. In animal models, concom itant administration of G -CSF and 5 -fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myelosuppression.  
+ The safety and efficacy of Lonquex have not been evaluated in patients receiving chemotherapy associated with delayed myelosupp ression, e.g. nitrosoureas.  
+ The potential for interaction with lithium, which also promotes the release of neutrophils, has not been specifically investigated. There is no evidence that such an interaction would be harmful.  
+ 

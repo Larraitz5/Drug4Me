@@ -1,0 +1,10 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effect of other medicinal products on lenvatinib 
+ Chemotherapeutic agents 
+ Concomitant administration of lenvatinib, carboplatin, and paclitaxel has no significant impact on the pharmacokinetics of any of these 3 substances.  
+ Effect of lenvatinib on other medicinal products 
+ A clinical drug -drug interaction (DDI) study in cancer patients showed that plasma concentrations of midazolam (a sensitive CYP3A and Pgp substrate) were not altered in the presence of lenvatinib. No significant drug -drug interaction is therefore expected b etween lenvatinib and other CYP3A4/Pgp substrates.  
+ Oral contraceptives  
+ It is currently unknown whether lenvatinib may reduce the effectiveness of hormonal contraceptives, and therefore women using oral hormonal contraceptives should add a barrier method (see section 
+4.6). 
+ 

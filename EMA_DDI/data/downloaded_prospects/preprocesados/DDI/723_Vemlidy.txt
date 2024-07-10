@@ -1,0 +1,57 @@
+> TENOFOVIR ALAFENAMIDE  is transported by P -gp and breast cancer resistance protein (BCRP) . Medicinal products  that are P-gp inducers (e.g., rifampicin , RIFABUTIN, CARBAMAZEPINE, PHENOBARBITAL  or St. John’s  wort) are expected to  decrease plasma concentrations of TENOFOVIR ALAFENAMIDE, which may lead to loss of therapeutic effect of VEMLIDY. Co-administration of such medicinal products with TENOFOVIR ALAFENAMIDE is not recommended.  6  Co-administration of TENOFOVIR alafen amide with medicinal products that inhibit P -gp and BCRP  may increase plasma concentration s of TENOFOVIR ALAFENAMIDE.  Co-administration of strong inhibitors of P-gp with TENOFOVIR ALAFENAMIDE is not recommended. 
+> Drug interaction information for VEMLIDY  with potential concomitant medicinal products is summarised in Table 1 below (increase is indicated as “↑”, de crease as “↓”, no change as “↔”;  twice daily as “b.i.d.”, single  dose as “s.d.”, once daily as “q.d.”).  The drug interactions described are based on studies conducted with TENOFOVIR ALAFENAMIDE, or are potential drug interactions that may occur with VEMLIDY .
+> TENOFOVIR  
+↓ C max 0.70 (0.65, 0.74)  
+↔ AUC 0.77 (0.74, 0.81)  Co-administration is not recommended.  OXCARBAZEPINE  PHENOBARBITAL 
+> Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  PHENYTOIN  Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  Midazolamd (2.5 mg orally, s.d.)
+> TENOFOVIR alafenamidee (10 mg orally, q.d.)  SERTRALINE  
+↔ C max 1.14 (0.94, 1.38)  
+↔ AUC 0.93 (0.77, 1.13) ANTIFUNGALS  ITRACONAZOLE  KETOCONAZOLE  Interaction not studied.  Expected:  
+↑ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  ANTIMYCOBACTERIALS  Rifampicin  RIFAPENTINE  Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  RIFABUTIN  Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  HCV ANTIVIRAL AGENTS  SOFOSBUVIR (400 mg orally, q.d.) Interaction not studied.  Expected:  
+↔ SOFOSBUVIR  
+↔ GS -331007  No dose adjustment of VEMLIDY  or SOFOSBUVIR is required.  LEDIPASVIR/SOFOSBUVIR  (90 mg/400 mg orally , q.d.) 
+> COBICISTAT  
+↔ Cmax 0.96 (0.92, 1.00)  
+↔ AUC 1.05 (1.00, 1.09) 
+↑ C min 1.35 (1.21, 1.51)  Co-administration is not recommended.  ATAZANAVIR/RITONAVIR  (300 mg/100  mg orally, q.d.)
+> ATAZANAVIR  
+↔ C max 0.98 (0.89, 1.07)  
+↔ AUC 0.99 (0.96, 1.01) 
+↔ C min 1.00 (0.96, 1.04)  Co-administration is not recommended.  9 Medicinal product by  therapeutic areas  Effects on drug levels.a,b Mean ratio (90% confidence interval) for AUC, C max, C min Recommendation concerning co -administration with VEMLIDY  DARUNAVIR/COBICISTAT  (800 mg/150  mg orally, q.d.)
+> COBICISTAT  
+↔ Cmax 1.06 (1.00, 1.12)  
+↔ AUC 1.09 (1.03, 1.15) 
+↔ C min 1.11 (0.98, 1.25)  Co-administration is not recommended.  DARUNAVIR/RITONAVIR  (800 mg/100  mg orally, q.d.)  TENOFOVIR alafenamidec (10 mg orally, s.d.)  TENOFOVIR ALAFENAMIDE  
+↑ C max 1.42 (0.96, 2.09)  
+↔ AUC 1.06 (0.84, 1.35)
+> TENOFOVIR  
+↑ C max 2.42 (1.98, 2.95)  
+↑ AUC 2.05 (1.54, 2.72)  DARUNAVIR  
+↔ Cmax 0.99 (0.91, 1.08)  
+↔ AUC 1.01 (0.96, 1.06) 
+↔ C min 1.13 (0.95, 1.34)  Co-administration is not recommended.  LOPINAVIR/RITONAVIR  (800 mg/200  mg orally, q.d.)
+> TENOFOVIR alafenamidec (10 mg orally, s.d.)  TENOFOVIR ALAFENAMIDE  
+↑ C max 2.19 (1.72, 2.79)  
+↑ AUC 1.47 (1.17, 1.85)  TENOFOVIR  
+↑ Cmax 3.75 (3.19, 4.39)  
+↑ AUC 4.16 (3.50, 4.96)  LOPINAVIR  
+↔ Cmax 1.00 (0.95, 1.06)  
+↔ AUC 1.00 (0.92, 1.09) 
+↔ C min 0.98 (0.85, 1.12)  Co-administration is not recommended.  TIPRANAVIR/RITONAVIR  Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended.  HIV ANTIRETROVIRAL AGENTS – INTEGRASE INHIBITORS  DOLUTEGRAVIR  (50 mg orally, q.d.) 
+> RILPIVIRINE  
+↔ C max 0.93 (0.87, 0.99)  
+↔ AUC 1.01 (0.96, 1.06) 
+↔ C min 1.13 (1.04, 1.23)  No dose adjustment of VEMLIDY  or RILPIVIRINE is required.  HIV ANTIRETROVIRAL AGENTS – CCR5  RECEPTOR ANTAGONIST  MARAVIROC  Interaction not studied.  Expected:  
+↔ TENOFOVIR ALAFENAMIDE  
+↔ MARAVIROC  No dose adjustment of VEMLIDY  or MARAVIROC is required.  HERBAL SUPPLEMENTS  St. John’s  wort (Hypericum perforatum)  Interaction not studied.  Expected:  
+↓ TENOFOVIR ALAFENAMIDE  Co-administration is not recommended . ORAL CONTRACEPTIVES  NORGESTIMATE  (0.180  mg/0.215  mg/ 
+0.250 mg orally, q.d. )
+> Ethinylestradiol  
+↔ C max 1.22 (1.15, 1.29) 
+↔ AUC 1.11 (1.07, 1.16) 
+↔ C min 1.02 (0.93, 1.12)  No dose adjustment of VEMLIDY  or NORGESTIMATE/ETHINYL ESTRADIOL is required . a All interaction studies are conducted in healthy volunteers . 11 b All No Effect Boundaries are 70%-143%. c Study conducted with EMTRICITABINE/TENOFOVIR ALAFENAMIDE fixed-dose combination tablet . d A sensitive CYP3A4  substrate. e Study conducted with ELVITEGRAVIR/COBICISTAT/EMTRICITABINE/TENOFOVIR ALAFENAMIDE fixed-dose combination tablet . f Study conducted with EMTRICITABINE/RILPIVIRINE/TENOFOVIR ALAFENAMIDE fixed -dose combination tablet . g The predominant circulating nucleoside metabolite of SOFOSBUVIR . h Study conducted with TENOFOVIR ALAFENAMIDE 40  mg and EMTRICITABINE 200 mg. i Study conducted with additional VOXILAPREVIR 100 mg to achieve VOXILAPREVIR exposures expected in HCV  infected patients.

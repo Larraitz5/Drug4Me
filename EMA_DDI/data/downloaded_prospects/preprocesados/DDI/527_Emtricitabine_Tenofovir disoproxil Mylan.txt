@@ -1,0 +1,119 @@
+> As EMTRICITABINE/TENOFOVIR DISOPROXIL fixed-dose combination tablets contains EMTRICITABINE and TENOFOVIR DISOPROXIL, any interactions that have been identified with these agents individually may occur with the fixed-dose combination. Interaction studies have only been performed in adults. 
+> DIDANOSINE: The co-administration of EMTRICITABINE/TENOFOVIR DISOPROXIL and DIDANOSINE is not recommended (see section 4.4 and Table 2). 
+> Renally eliminated medicinal products: Since EMTRICITABINE and TENOFOVIR are primarily eliminated by the kidneys, co-administration of EMTRICITABINE/TENOFOVIR DISOPROXIL with medicinal products that reduce renal function or compete for active tubular secretion (e.g. CIDOFOVIR) may increase serum concentrations of EMTRICITABINE, TENOFOVIR and/or the co-administered medicinal products.
+> Use of EMTRICITABINE/TENOFOVIR DISOPROXIL should be avoided with concurrent or recent use of a nephrotoxic medicinal product. Some examples include, but are not limited to, aminoglycosides, AMPHOTERICIN B, FOSCARNET, GANCICLOVIR, PENTAMIDINE, VANCOMYCIN, CIDOFOVIR or interleukin-2 (see section 4.4). 
+> Other interactions   Interactions between EMTRICITABINE/TENOFOVIR DISOPROXIL or its individual component(s) and other medicinal products are listed in Table 2 below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.” and once daily as “q.d.”). If available, 90% confidence intervals are shown in parentheses.
+> Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) ANTI-INFECTIVES  Antiretrovirals  PROTEASE INHIBITORS ATAZANAVIR/RITONAVIR/TENOFOVIR DISOPROXIL (300 mg q.d. /100 mg q.d. /245 mg q.d.) ATAZANAVIR: AUC: ↓ 25% (↓ 42 to ↓ 
+3) Cmax: ↓ 28% (↓ 50 to ↑ 
+5) Cmin: ↓ 26% (↓ 46 to ↑ 
+10)
+> TENOFOVIR: AUC: ↑ 37% Cmax: ↑ 34% Cmin: ↑ 29% No dose adjustment is recommended. The increased exposure of TENOFOVIR could potentiate TENOFOVIR associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4). 
+> TENOFOVIR:  AUC: ↑ 22%  Cmin: ↑ 37%  No dose adjustment is recommended. The increased exposure of TENOFOVIR could potentiate TENOFOVIR associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4).  DARUNAVIR/RITONAVIR/EMTRICITABINE  Interaction not studied.  LOPINAVIR/RITONAVIR/TENOFOVIR DISOPROXIL (400 mg b.i.d./100 mg b.i.d/245 mg q.d.)  LOPINAVIR/RITONAVIR:  AUC: ↔  Cmax: ↔  Cmin: ↔ 
+> TENOFOVIR:  AUC: ↑ 32% (↑ 25 to ↑ 
+38)  Cmax: ↔  Cmin: ↑ 51% (↑ 37 to ↑ 
+66)  No dose adjustment is recommended. The increased exposure of TENOFOVIR could potentiate TENOFOVIR associated adverse events, including renal disorders. Renal function should be closely monitored (see section 4.4).  LOPINAVIR/RITONAVIR/EMTRICITABINE  Interaction not studied.  NRTIs DIDANOSINE/TENOFOVIR DISOPROXIL Co-administration of TENOFOVIR DISOPROXIL and DIDANOSINE results in a 
+40-60% increase in systemic exposure to DIDANOSINE .  Co-administration of EMTRICITABINE/TENOFOVIR DISOPROXIL and DIDANOSINE is not recommended (see section 4.4). Increased systemic exposure to DIDANOSINE may increase DIDANOSINE related adverse reactions. Rarely, pancreatitis and lactic acidosis,  
+12 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) DIDANOSINE/EMTRICITABINE Interaction not studied. sometimes fatal, have been reported. Co-administration of TENOFOVIR DISOPROXIL and DIDANOSINE at a dose of 400 mg daily has been associated with a significant decrease in CD4 cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) DIDANOSINE. A decreased dosage of 
+250 mg DIDANOSINE co-administered with TENOFOVIR DISOPROXIL therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV -1 infection  LAMIVUDINE/TENOFOVIR DISOPROXIL  LAMIVUDINE: AUC: ↓ 3% (↓ 8% to 
+↑ 15) Cmax: ↓ 24% (↓ 44 to 
+↓ 12) Cmin: NC
+> TENOFOVIR: AUC: ↓ 2% (↓ 5 to ↑ 0) Cmax: ↓ 1% (↓ 7 to ↑ 6) Cmin: NC ADEFOVIR DIPIVOXIL and EMTRICITABINE/TENOFOVIR DISOPROXIL should not be administered concomitantly (see section 4.4).  
+13 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) Hepatitis C virus (HCV) antiviral agents  LEDIPASVIR/SOFOSBUVIR (90 mg/400 mg q.d.) + ATAZANAVIR/RITONAVIR (300 mg q.d. /100 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.)1  LEDIPASVIR: AUC: ↑ 96% (↑ 74 to 
+↑ 121) Cmax: ↑ 68% (↑ 54 to 
+↑ 84) Cmin: ↑ 118% (↑ 91 to 
+↑ 150)
+> Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, LEDIPASVIR/SOFOSBUVIR and ATAZANAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders. The safety of TENOFOVIR DISOPROXIL when used with LEDIPASVIR/SOFOSBUVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+>  
+14 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) LEDIPASVIR/SOFOSBUVIR (90 mg/400 mg q.d.) + DARUNAVIR/RITONAVIR (800 mg q.d. /100 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.)1  LEDIPASVIR: AUC: ↔ Cmax: ↔ Cmin: ↔
+> TENOFOVIR: AUC: ↑ 50% (↑ 42 to ↑ 
+59) Cmax: ↑ 64% (↑ 54 to ↑ 
+74) Cmin: ↑ 59% (↑ 49 to ↑ 
+70) Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, LEDIPASVIR/SOFOSBUVIR and DARUNAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders. The safety of TENOFOVIR DISOPROXIL when used with LEDIPASVIR/SOFOSBUVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+>  
+15 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) LEDIPASVIR/SOFOSBUVIR (90 mg/400 mg q.d.) + EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL  (600 mg/200 mg/245 mg q.d.) LEDIPASVIR: AUC: ↓ 34% (↓ 41 to ↓ 
+25) Cmax: ↓ 34% (↓ 41 to ↑ 
+25) Cmin: ↓ 34% (↓ 43 to ↑ 
+24)
+> TENOFOVIR: AUC: ↑ 98% (↑ 77 to ↑ 
+123) Cmax: ↑ 79% (↑ 56 to ↑ 
+104) Cmin: ↑ 163% (↑ 137 to 
+↑ 197) No dose adjustment is recommended. The increased exposure of TENOFOVIR could potentiate adverse reactions associated with TENOFOVIR DISOPROXIL, including renal disorders. 
+>  
+16 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) LEDIPASVIR/SOFOSBUVIR (90 mg/400 mg q.d.) + EMTRICITABINE/RILPIVIRINE/ TENOFOVIR DISOPROXIL  (200 mg/25 mg/245 mg q.d.) LEDIPASVIR: AUC: ↔ Cmax: ↔ Cmin: ↔
+> TENOFOVIR: AUC: ↑ 40% (↑ 31 to ↑ 
+50) Cmax: ↔ Cmin: ↑ 91% (↑ 74 to ↑ 
+110) No dose adjustment is recommended. The increased exposure of TENOFOVIR could potentiate adverse reactions associated with TENOFOVIR DISOPROXIL, including renal disorders. 
+> Renal function should be closely monitored (see section 4.4).  
+17 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) LEDIPASVIR/SOFOSBUVIR (90 mg/400 mg q.d.) + DOLUTEGRAVIR (50 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔ Cmax: ↔
+> TENOFOVIR: AUC: ↑ 65% (↑ 59 to 
+↑ 71) Cmax: ↑ 61% (↑ 51 to 
+↑ 72) Cmin: ↑ 115% (↑ 105 to 
+↑ 126) No dose adjustment is required.  The increased exposure of TENOFOVIR could potentiate adverse reactions associated with TENOFOVIR DISOPROXIL, including renal disorders.  Renal function should be closely monitored (see section 4.4).  
+18 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + ATAZANAVIR/RITONAVIR (300 mg q.d./100 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔  Cmax: ↔ 
+> TENOFOVIR: AUC: ↔ Cmax: ↑ 55% (↑ 43 to 
+↑ 68) Cmin: ↑ 39% (↑ 31 to 
+↑ 48) Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, SOFOSBUVIR/VELPATASVIR and ATAZANAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders.  The safety of TENOFOVIR DISOPROXIL when used with SOFOSBUVIR/VELPATASVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+> The combination should be used with caution with frequent renal monitoring (see section 4.4).  
+19 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + DARUNAVIR/RITONAVIR (800 mg q.d./100 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL  (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↓ 28% (↓ 34 to 
+↓ 20) Cmax: ↓ 38% (↓ 46 to 
+↓ 29)
+> TENOFOVIR: AUC: ↑ 39% (↑ 33 to 
+↑ 44) Cmax: ↑ 55% (↑ 45 to 
+↑ 66) Cmin: ↑ 52% (↑ 45 to 
+↑ 59) Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, SOFOSBUVIR/VELPATASVIR and DARUNAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders.  The safety of TENOFOVIR DISOPROXIL when used with SOFOSBUVIR/VELPATASVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+> The combination should be used with caution with frequent renal monitoring (see section 4.4).  
+20 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + LOPINAVIR/RITONAVIR (800 mg/200 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL  (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↓ 29% (↓ 36 to 
+↓ 22) Cmax: ↓ 41% (↓ 51 to 
+↓ 29)
+> TENOFOVIR: AUC: ↔ Cmax: ↑ 42% (↑ 27 to 
+↑ 57) Cmin: ↔ Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, SOFOSBUVIR/VELPATASVIR and LOPINAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders.  The safety of TENOFOVIR DISOPROXIL when used with SOFOSBUVIR/VELPATASVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+> The combination should be used with caution with frequent renal monitoring (see section 
+4.4).  
+21 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + RALTEGRAVIR (400 mg b.i.d) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔ Cmax: ↔
+> TENOFOVIR: AUC: ↑ 40% (↑ 34 to 
+↑ 45) Cmax: ↑ 46% (↑ 39 to 
+↑ 54) Cmin: ↑ 70% (↑ 61 to 
+↑ 79) No dose adjustment is recommended.  The increased exposure of TENOFOVIR could potentiate adverse reactions associated with TENOFOVIR DISOPROXIL, including renal disorders.  Renal function should be closely monitored (see section 4.4).  
+22 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL (600 mg/200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔ Cmax: ↑ 38% (↑ 14 to 
+↑ 67)
+> TENOFOVIR: AUC: ↑ 81% (↑ 68 to 
+↑ 94) Cmax: ↑ 77% (↑ 53 to 
+↑ 104) Cmin: ↑ 121% (↑ 100 to 
+↑ 143) Concomitant administration of SOFOSBUVIR/VELPATASVIR and EFAVIRENZ is expected to decrease plasma concentrations of VELPATASVIR.  Co-administration of SOFOSBUVIR/VELPATASVIR with EFAVIRENZ-containing regimens is not recommended.  
+23 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR (400 mg/100 mg q.d.) + EMTRICITABINE/RILPIVIRINE/TENOFOVIR DISOPROXIL (200 mg/25 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔ Cmax: ↔
+> TENOFOVIR: AUC: ↑ 40% (↑ 34 to 
+↑ 46) Cmax: ↑ 44% (↑ 33 to 
+↑ 55) Cmin: ↑ 84% (↑ 76 to 
+↑ 92) No dose adjustment is recommended.  The increased exposure of TENOFOVIR could potentiate adverse reactions associated with TENOFOVIR DISOPROXIL, including renal disorders.  Renal function should be closely monitored (see section 4.4).  
+24 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR/VELPATASVIR/ VOXILAPREVIR (400 mg/100 mg/ 
+100 mg+100 mg q.d.)3 + DARUNAVIR (800 mg q.d.) + RITONAVIR (100 mg q.d.) + EMTRICITABINE/TENOFOVIR DISOPROXIL (200 mg/245 mg q.d.) SOFOSBUVIR: AUC: ↔ Cmax: ↓ 30% Cmin: N/A
+> TENOFOVIR: AUC: ↑ 39% Cmax: ↑ 48% Cmin: ↑ 47% Increased plasma concentrations of TENOFOVIR resulting from co-administration of TENOFOVIR DISOPROXIL, SOFOSBUVIR/VELPATASVIR/VOXILAPREVIR and DARUNAVIR/RITONAVIR may increase adverse reactions related to TENOFOVIR DISOPROXIL, including renal disorders. The safety of TENOFOVIR DISOPROXIL when used with SOFOSBUVIR/VELPATASVIR/VOXILAPREVIR and a pharmacokinetic enhancer (e.g. RITONAVIR or COBICISTAT) has not been established.
+> The combination should be used with caution with frequent renal monitoring (see section 4.4)  
+25 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) SOFOSBUVIR (400 mg q.d.) + EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL (600 mg/200 mg/245 mg q.d.)  SOFOSBUVIR: AUC: ↔ Cmax: ↓ 19% (↓ 40 to ↑ 
+10)
+> EMTRICITABINE: AUC: ↓ 7% (↓ 13 to 
+↓ 1) Cmax: ↓ 11% (↓ 20 to 
+↑ 1) Cmin: NC No dose adjustment of FAMCICLOVIR is required. ANTIMYCOBACTERIALS  Rifampicin /TENOFOVIR DISOPROXIL  TENOFOVIR: AUC: ↓ 12% (↓ 16 to 
+↓ 8) Cmax: ↓ 16% (↓ 22 to 
+↓ 10) Cmin: ↓ 15% (↓ 12 to 
+↓ 9) No dose adjustment is required.  
+26 Medicinal product by therapeutic areas Effects on drug levels  Mean percent change in AUC, C max, Cmin with 90% confidence intervals if available (mechanism)  Recommendation concerning co-administration with EMTRICITABINE/TENOFOVIR DISOPROXIL  (EMTRICITABINE 200 mg, TENOFOVIR DISOPROXIL 
+245 mg) ORAL CONTRACEPTIVES  NORGESTIMATE/Ethinyl oestradiol 
+/TENOFOVIR DISOPROXIL  NORGESTIMATE: AUC: ↓ 4% (↓ 32 to 
+↑ 34) Cmax: ↓ 5% (↓ 27 to 
+↑ 24) Cmin: NC

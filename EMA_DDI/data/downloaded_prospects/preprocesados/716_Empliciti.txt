@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacokinetic interaction studies have not been conducted. Empliciti, as a humanised monoclonal antibody, is not expected to be metabolised by cytochrome P450 (CYP) enzymes or other drug metabolising enzymes, inhibition or induction of these enzymes by co-administered medicinal products is not anticipated to affect the pharmacokinetics of Empliciti.  
+ Empliciti may be detected in the serum protein electrophoresis (SPEP) and serum immunofixation assays of myeloma patients and could interfere with correct response classification. The presence of elotuzumab in patient's serum may cause a small peak in the early gamma region on SPEP th at is Ig 
+ Gƙ on serum immunofixation. This interference can impact the determination of complete response and possibly relapse from complete response in patients with Ig 
+ G kappa myeloma protein.  In case of detection of additional peaks on serum immunofixation, the possibility of a biclonal gammopathy should be excluded.  
+  
+7 The Summary of Product Characteristics for lenalidomide, pomalidomide and dexamethasone used in combination with Empliciti must be consulted before starting therapy.  
+ 

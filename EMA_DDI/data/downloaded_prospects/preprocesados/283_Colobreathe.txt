@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ There is no experience of using Colobreathe concurrently with other inhaled antibacterial agents.  
+ Caution should be taken with concomitant use with other formulations of colistimethate sodium as there is little experience and there is a possibility of summative toxicity.  
+ No in -vivo interaction studies have been performed.  
+ Colistimethate sodium and colistin have been investigated in vitro  to determine the effects on the expression of cytochrome P450 (CYP) enzymes on treating primary cultures of fresh human hepatocytes. Treatment with colistimethate sodium or colistin did not induce the activity of any enzyme tested (CYP1A2, 2B6, 2C8, 2C9, 2C19 and 3A4/5).  
+ Concomitant use of inhaled colistimethate sodium with other medicinal products  that are potentially nephrotoxic or neurotoxic, such as aminoglycosides, or neuromuscular blocking products, such as curariform agents should be undertaken with caution.  Co-treatment with colistimethate sodium and macrolides such as azithromycin and clarithromycin, or fluoroquinolones such as norfloxacin and ciprofloxacin should be undertaken with caution in patients with myasthenia gravis (see section 4.4). 
+ 

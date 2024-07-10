@@ -1,0 +1,9 @@
+4.5 Interaction with other medicinal produc ts and other forms of interaction  
+ Limited studies of the interaction of mifamurtide with chemotherapy have been conducted. Although these studies are not conclusive, there is no evidence of interference of mifamurtide with the anti -tumour effects of chemo therapy and vice versa.  
+ It is recommended to separate the administration times of mifamurtide and doxorubicin or other lipophilic medicinal products if used in the same chemotherapy regimen.  
+ The use of mifamurtide concurrently with ciclosporin or other  calcineurin inhibitors is contraindicated due to their hypothesised effect on splenic macrophages and mononuclear phagocytic function (see section  4.3).  
+ Also, it has been demonstrated in vitro  that high -dose NSAIDs (cyclooxygenase inhibitors) can block the macrophage activating effect of liposomal mifamurtide. Therefore , the use of high -dose NSAIDs is contraindicated (see sectio n 4.3). 
+ Because mifamurtide acts through stimulation of the immune system, the chronic or routine use of corticosteroids should  be avoided during treatment with mifamurtide . 
+ In vitro  interaction studies showed that liposomal and non -liposomal mifamurtide do not inhibit the metabolic activity of cytochrome P450 in pooled human liver microsomes. Liposomal and non-liposomal mifamurt ide do not induce the metabolic activity or the transcription of cytochrome P450 in primary cultures of freshly isolated human h epatocytes. Mifamurtide is , therefore , not expected to interact with the metabolism of substances that are hepatic cytochrome P4 50 substrates.  
+ In a large controlled randomised study, mifamurtide used at the recommended dose and schedule with other medicinal products that have known renal (cisplatin, ifosfamide) or hepatic (high -dose methotrexate, ifosfamide) toxicities did not exa cerbate those toxicities and there was no need to adjust mifamurtide dose.  
+ 5 

@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Concomitant use contraindicated:  Yellow fever vaccine: Risk of fatal generalised  vaccinial disease (see section  4.3). 
+ Concomitant use not recommended:  
+• Other live attenuated vaccines: risk of systemic, possible fatal disease. This risk is increased in subjects who are already immunosuppressed by their underlying disease or by concomitant chemotherapy . Use an inactivated vaccine where this exists (poliomyelitis).  
+• Dimethylsulfoxide (DMSO) should not be used in patients who are administered dexrazoxane to treat anthracycline extravasation (see section  5.3) 
+• Phenytoin: cytotoxic agents may reduce the absor ption of phenytoin leading to an exacerbation of convulsions. Dexrazoxane is not recommended in combination with phenytoin. 
+ Concomitant use to assess carefully:  Ciclosporin, tacrolimus: Excessive immunosuppression with risk of lymphoproliferative disease.  Interactions common to all cytotoxics:  
+• Due to an increased thrombotic risk in patients with malignant diseases, the use of anticoagulants treatment is frequent. Patients treated with anticoagulants should be monitored more frequently as cytotoxic agents may interact with oral anticoagulants.  
+• Dexrazoxane may add to the toxicity induced by the chemotherapy cycle during which the accident took place, requiring careful monitoring of haematological parameters (see section  4.4). 
+ Interaction specific to dexrazo xane: When tested in five major cytochrome P450 isoenzymes CYP1A, CYP2C9, CYP2C19, CYP2D6 and CYP3A4, none of these were inhibited by dexrazoxane. 
+ Co-administration of doxorubicin (50 to 60 mg/m
+2) or epirubicin (60 to 100 mg/m2) did not affect dexrazoxane pharmacokinetics significantly.  In studies, dexrazoxane did not affect the pharmacokinetics of doxorubicin. There is limited evidence from studies that suggests epirubicin clearance may be increased when dexrazoxane is pre- administered, this occurred at high doses of epirubicin (120-135 mg/m
+2).  Note that in these studies dexrazoxane was administered prior to anthracyline administration.  
+ 5 

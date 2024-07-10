@@ -1,0 +1,79 @@
+> DORAVIRINE is primarily metaboli sed by CYP3A, and medicinal products that induce or inhibit CYP3Aare expected to
+ af f ect the clearance of  DORAVIRINE
+ (see section  5.2). DORAVIRINE/LAMIVUDINE/tenofovirdisoproxil should not be co
+-administered with medicinal products that are strong CYP3A enzymeinducers as signif icant decreases in DORAVIRINE plasma concentrations are expected to occur, whichmay decrease the ef f ectiveness of  DORAVIRINE/LAMIVUDINE/tenof ovir disoproxil
+ (see sections
+ 4.3and 5.2).Co-administration with the moderate CYP3A inducer rif abutin decreased DORAVIRINE concentrations(see Table  1). When DELSTRIGO  is co -administered with rif abutin, a 
+100 mg dose of DORAVIRINE shouldbe given  daily, approximately
+ 12 hours af ter DORAVIRINE/ LAMIVUDINE/tenof ovir disoproxil dose (seesection  4.2).Co-administration of
+ DORAVIRINE/LAMIVUDINE/tenof ovir disoproxil with other moderate CYP3A inducershas not been evaluated
+, but decreased DORAVIRINE concentrations are expected.  If  co-administrationwith other moderate CYP3A inducers (e.g., debraf enib, LESINURAD, BOSENTAN, THIORIDAZINE, naf cillin,modaf inil, telotristat ethyl)
+ cannot be avoided, a 
+100 mg dose of  DORAVIRINE should be administereddaily, approximately
+ 12 hours  af ter the administration of DORAVIRINE/LAMIVUDINE/tenof ovir disoproxildose (see section  4.2).Co-administration of  DORAVIRINE/LAMIVUDINE/TENOFOVIR disproxil
+ and medicinal products
+ that areinhibitors of CYP3A may result in increased plasma concentrations of  DORAVIRINE. However, no doseadjustment is needed when DORAVIRINE is co
+-administered with CYP3A inhibitors.LAMIVUDINE
+> Because LAMIVUDINE is primarily eliminated by the kidneys through a combination of glomerularf iltration and active tubular secretion (see section
+ 5.2), co -administration ofdoravirine/ LAMIVUDINE/ tenof ovir disoproxil  with medicinal products
+ that reduce renal f unction orcompete for active tubular secretion may increase serum concentrations of  LAMIVUDINE .TENOFOVIR DISOPROXIL
+> Because tenof ovir is primarily eliminated by the kidneys through a combination of  glomerularf iltration and active tubular secretion (see section
+ 5.2), co -administration ofdoravirine/LAMIVUDINE/tenof ovir disoproxil
+ with medicinal products that reduce renal f unction orcompete for active tubular secretion via OAT1, OAT3 or MRP4 may increase serum concentrations oftenof o vir.7Due to the tenof ovir disoproxil component of  DORAVIRINE/ LAMIVUDINE/tenof ovir disoproxil , use of  theproduct  should be avoided with concurrent or recent use of  nephrotoxic medicinal products. Someexamples include,  but are not limited to, ACYCLOVIR
+, cidof ovir, GANCICLOVIR, valacyclovir, VALGANCICLOVIR,aminoglycosides (e.g., GENTAMICIN), and high
+-dose or multiple NSAIDs ( see section  4.4).Ef fects of  DORAVIRINE, LAMIVUDINE
+, and tenof ovir  disoproxil  on other medicinal products
+> DORAVIRINE at a dose of 100
+ mg once daily is not likely to have a clinically relevant eff ect on theplasma concentrations of  medicinal products that are dependent on transport proteins f or absorptionand/or elimination or that are metaboli sed by CYP ENZYMES.However, co
+-administration of  DORAVIRINE and the sensitive CYP3A substrate MIDAZOLAM resulted in a
+18 
+% decrease in MIDAZOLAM exposure, suggesting that DORAVIRINE may be a weak CYP3A inducer.Theref ore, caution should be used when co
+-administering DORAVIRINE with medicinal products
+ that aresensitive CYP3A substrates that also have a narrow therapeutic window (e.g., tacro limus andsirolimus).LAMIVUDINE
+> Table 1  shows the established and other potential medicinal product interactions with the individualcomponents of  DELSTRIGO  but is not  all inclusive  (increase is indicated as ↑, decrease is indicated as ,and no change as 
+). For potential medicinal product interactions with tenof ovir disoproxil orlamivu dine, (see section s 4.4 and  5.2).Table 1 : Interactions between the individual components of DELSTRIGO  and other medicinalproducts
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated
+.Antibioticsnaf cillin
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected: 
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately
+12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Anticonvulsantscarbamazepineoxcarbazepinephenobarbitalphenytoin
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated.Antidiabeticsmetf ormin(1 000 mg SD,DORAVIRINE 100
+ mg QD)  metf ormin
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, 12 h af ter the  dose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Antigout and uricosuric agentslesinurad
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected: 
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately 
+12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .ANTIMYCOBACTERIALS
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated.rif abutin(300 mg QD, DORAVIRINE  100 mg SD) DORAVIRINE
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated.Antipsychoticsthioridazine
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected: 
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately 12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Azole antif ungal agentsketoconazole(400 mg QD, DORAVIRINE  100 mg SD) DORAVIRINE
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated
+.Endothelin receptor antagonistsbosentan
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately
+12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Hepatitis C antiviral agentselbasvir + GRAZOPREVIR(50 mg ELBASVIR QD +
+200 mg GRAZOPREVIR QD,DORAVIRINE  100 mg QD) DORAVIRINE
+> St. John’s wort(Hypericum perforatum)Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected:
+ DORAVIRINE(Induction of  CYP3A)Co-administration iscontraindicated.HIV antiviral agentstenof ovir disoproxil(300 mg QD,DORAVIRINE  100 mg SD)  DORAVIRINE
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected: 
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co
+-administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately
+ 12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Miscellaneoussorbitol solution (3.2
+ g,
+10.2 g, 13.4  g)/LAMIVUDINE
+> Interaction not studied withdoravirine ordoravirine/ LAMIVUDINE/ tenof ovirdisoproxil.Expected: 
+↓ DORAVIRINE(Induction of  CYP3A)Co-administration should beavoided. If  co -administrationcannot be avoided, a 100
+ mg doseof  DORAVIRINE should be takendaily, approximately
+12 h af ter thedose ofdoravirine/ LAMIVUDINE/ tenof ovirdisoproxil .Sedatives/Hypnoticsmidazolam(2 mg SD,DORAVIRINE  120 mg QD) MIDAZOLAM

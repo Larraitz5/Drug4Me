@@ -1,0 +1,24 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Potential for other medicines to affect pharmacokinetics of abrocitinib  
+ Abrocitinib  is metabolised predominantly by CYP2C19 and CYP2C9 enzymes, and to a lesser extent by CYP3A4 and CYP2B6 enzymes, and its active metabolites are renally excreted and are substrates of the organic anion transporter 3 (OAT3). Therefore, exposures of abrocitinib  and/or its active metabolites may be affected by medicinal products that inhibit or induce  these enzymes and transporter. Dose adjustments, as appropriate, are outlined in  section 4.2 . 
+ Co-administration  with CYP2C19/CYP2C9 inhibitors  
+ When 100 mg abrocitinib was administered concomitantly with fluvoxamine (a strong CYP2C19 and moderate CYP3A inhibitor) or fluconazole (a strong CYP2C19, moderate CYP2C9 and CYP3A inhibitor), the extent of exposure of abrocitinib  active moiety (see section 5.2) increased by 91% and 
+155% , respectively , compared with administration alone  (see section 4.2) . 
+ Co-administration  with CYP2C19/CYP2C9 inducers  
+ Administration of 200  mg abrocitinib  after multiple dos es with rifamp icin, a strong inducer of CYP enzymes, resulted in reduction of  abrocitinib  active moiety exposures by approximately 56%  (see section 4.2) . 
+ Co-administration  with OAT3 inhibitors  
+ When abrocitinib  200 mg was administered concomitantly with probenecid, an OAT3 inhibitor, abrocitinib  active moiety exposures increased by approximately 66%. This is not clinically significant, and a dose adjustment is not needed.  
+ 10 
+ 
+ 
+ Co-administration with products which increa se gastric p 
+ H  
+ When abrocitinib 200  mg was administered concomitantly with famotidine 40  mg, an H2 -receptor antagonist, abrocitinib active moiety exposures decreased by approximately 35%. The effect of elevating gastric p 
+ H with antacids, or proton pump inh ibitors (omeprazole) on the pharmacokinetics of abrocitinib has not been studied and may  be similar to that seen with famotidine . The higher 200 mg daily dose  should be considered for patients treated concomitantly with  products which increase gastric p 
+ H,  as they may  reduce  the efficacy  of abrocitinib.  
+ Potential for abrocitinib  to affect pharmacokinetics of other medicinal products  
+ No clinically significant effects of abrocitinib  were observed in interaction studies with oral contraceptives ( e.g. ethinyl oestradiol/levonorgestrel) .  
+ In vitro , abrocitinib is an inhibitor of P glycoprotein (P -gp). Co-administration  of dabigatran etexilate (a P-gp substrate ), with a single dose of abrocitinib  200 mg increased dabigatran AUC inf and C max by approximately 53% and 40%, respectively, compared with administration alone . Caution should  be exercised for concomitant use of abrocitinib with dabigatran . The effect of abrocitinib on the pharmacokinetics of other P -gp substrates has not been evaluat ed. Caution should be exercised as the levels of P-gp substrates with a narrow therapeutic index , such as digoxin , may increase.  
+ In vitro , abrocitinib is an inhibitor of CYP2C19 enzyme. Co-administration of abrocitinib 200  mg once daily with omeprazole 10  mg single dose increased the AUC inf and C max of omeprazole by approximately 189% and 134%, respectively, indicating that abrocitinib is a moderate inhibitor of CYP2C19 enzyme.  Caution should be exercised when using abrocitinib concomitantly w ith narrow therapeutic index medicines that are primarily metabolised by CYP2C19 enzyme (e.g.  S-mephenytoin and clopidogrel). Dose adjustment may be required for other medicines primarily metabolised by CYP2C19 enzyme in accordance with their product infor mation (e.g. citalopram, clobazam, escitalopram and selumetinib).  
+ Co-administration of abrocitinib 200 mg once daily with caffeine 100 mg single dose increased the AUC inf of caffeine by 40%  with lack of effect on C max, suggesting that abrocitinib is a mild inhibitor of CYP1A2 enzyme. No general dose adjustment can be recommended.  
+ 

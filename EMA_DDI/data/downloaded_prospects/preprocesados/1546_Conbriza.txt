@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ In a 30-day study, bazedoxifene increased hormone-binding globulin concentrations, including corticosteroid-binding globulin (CBG), sex hormone-binding globulin (SHBG) and thyroxine-binding globulin (TBG). 
+ Bazedoxifene undergoes metabolism by uridine diphosphate glucuronosyltransferase (UGT) enzymes in the intestinal tract and liver (see section 5.2). The metabolism of bazedoxifene may be increased by concomitant use of substances known to induce UGTs, such as rifampicin, phenobarbital, carbamazepine, and phenytoin, potentially leading to decreased systemic concentrations of bazedoxifene. 
+ Bazedoxifene undergoes little or no cytochrome P450 (CYP)-mediated metabolism. Bazedoxifene does not induce or inhibit the activities of major CYP isoenzymes. In vitro data suggest that bazedoxifene is unlikely to interact with co-administered medicinal products via CYP-mediated metabolism. 
+ There were no significant pharmacokinetic interactions between bazedoxifene and the following medicinal products: ibuprofen, atorvastatin, azithromycin, or an antacid containing aluminium and magnesium hydroxide. Based on in vitro bazedoxifene plasma protein binding characteristics, drug interactions with warfarin, digoxin and diazepam are unlikely. 
+ 

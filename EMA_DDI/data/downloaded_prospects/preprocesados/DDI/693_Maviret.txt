@@ -1,0 +1,83 @@
+> GLECAPREVIR and PIBRENTASVIR are inhibitor sof P-glycopr otein (P -gp), breast cancer resistance protein (BCRP), and organic anion transporting polypeptide (OATP) 1B1/3. Co -administration with Maviretmay increase plasm a concentration sof medicinal products that are substrates of P -gp(e.g. DABIGATRAN ETEXILATE, DIGOXIN), BCRP (e.g. ROSUVASTATIN), or OATP1B1/3 (e.g. ATORVASTATIN, LOVASTATIN, PRAVASTATIN, ROSUVASTATIN, SIMVASTATIN). See Table 3 for spec ific recommendations on interactions with sensitive substrates of P -gp, BCRP, and OATP1B1/3. For other P -gp, BCRP, or OATP1B1/3 substrates, dose adjustment may be needed.GLECAPREVIR and PIBRENTASVIR are weak inhibitors of cytochrome P450 (CYP) 3A and uri dine glucuronosyltransferase (UGT) 1A1 in vivo. Clinically significant increases in exposure were not observed for sensitive substrates of CYP3A (MIDAZOLAM, FELODIPINE) or UGT1A1 (RALTEGRAVIR) when administered with MAVIRET.Both GLECAPREVIR and pibrentas vir inhibit the bile salt export pump (BSEP) in vitro .Significant inhibition of CYP1A2, CYP2C9, CYP2C19, CYP2D6, UGT1A6, UGT1A9, UGT1A4, UGT2B7, OCT1, OCT2, OAT1, OAT3, MATE1 or MATE2K are not expected.Patients treated with VITAMIN K ANTAGONISTS
+> Medicinal products that are strong P -gp and CYP3A inducers (e.g., rifampicin, CARBAMAZEPINE, St. John’s wort ( Hypericum perforatum ), PHENOBARBITAL, PHENYTOIN, and PRIMIDONE) could significantly decrease GLECAPREVIR or PIBRENTASVIR plasma concentrations and may lead to reduce d therapeutic effect of MAVIRET or loss of virologic response. Co -administration of such medicinal products with MAVIRET is contraindicated (see section 4.3).Co-administration of MAVIRET with medicinal products that are moderate inducers P -gp/CYP3A may decrease GLECAPREVIR and PIBRENTASVIR plasma concentrations (e.g. OXCARBAZEPINE, eslicarbazepine, LUMACAFTOR, CRIZOTINIB). Co -administration of moderate inducers isnot recommended (see section 4.4).GLECAPREVIR and PIBRENTASVIR are substrates of the efflu x transporters P-gp and /or
+> BCRP . GLECAPREVIR is alsoa substrate of the hepatic uptake transporters OATP1B1/3. Co -administration of MAVIRET with medicinal products that inhibit P-gp and BCRP (e.g. c iclosporin, COBICISTAT, DRONEDARONE, ITRACONAZOLE, KETOCONAZOLE, RITONAVIR) may slow elimination of GLECAPREVIR and PIBRENTASVIR and thereby increase plasma exposure of the ANTIVIRALS. Medicinal products that inhibit OATP1B1/3 (e.g. ELVITEGRAVIR, CICLOSPORIN, DARUNAVIR, LOPINAVIR) increase systemic concent rations of GLECAPREVIR .6Established and other potential medicinal product interactions
+> MAVIRET and some common concomitant medicinal products. The directio n of the arrow indicates the direction of the change in exposures (C max,AUC , and C min) in GLECAPREVIR, PIBRENTASVIR ,and the co-administered medicinal product (↑= increase (more than 25%), ↓ = decrease (more than 20%), ↔ 
+= no change (equal to or less than 20% decrease or 25 %increase )). This is not an exclusive list. All interaction studies were performed in adults.Table 3: Interactions between MAVIRET and other medicinal products
+> ANGIOTENSIN -II RECEPTOR BLOCKERSLosartan
+50 mg single dose↑ LOSARTAN 2.51 (2.00 ,3.15)1.56(1.28, 
+1.89)-- No dose adjustment is required .
+↑ LOSARTAN carboxylic acid2.18 (1.88 ,2.53)↔ --VALSARTAN
+80 mg single dose(Inhibition of OATP1B1/3)↑ VALSARTAN 1.36 (1.17,1.58)1.31 (1.16,
+1.49)-- No dose adjustment is required.ANTIARRHYTHMICSDigoxin 
+0.5mg single dose(Inhibition of P -gp)↑ DIGOXIN 1.72(1.45, 2.04)1.48(1.40, 
+1.57)-- Caution and therapeuticconcentration monitoring of DIGOXIN isrecommended.ANTICOAGULANTSDabigatran etexilate 
+150mg single dose(Inhibition of P -gp)↑ DABIGATRAN 2.05(1.72, 2.44)2.38(2.11, 
+2.70)-- Co-administration is contraindicated (see section 4.3).ANTICONVULSANTSCarbamazepine 
+200mg twice daily(Induction of P -gp/CYP3A)↓ GLECAPREVIR 0.33(0.27, 0.41)0.34(0.28, 
+0.40)-- Co-administration may lea d to reduced therapeutic effect of MAVIRET and is contraindicated (see section 4.3).↓ PIBRENTASVIR 0.50(0.42, 0.59)0.49(0.43, 
+0.55)--PHENYTOIN, PHENOBARBITAL, PRIMIDONE
+> Not studied.  Expected: ↓ GLECAPREVIR and ↓ pibrentasvir7ANTIMYCOBACTERIALSRifampicin 
+600mg single dose(Inhibition of OATP1B1/3)↑ GLECAPREVIR 6.52(5.06, 8.41) 8.55(7.01, 
+10.4)--Co-administration is contraindicated (see section 4.3). 
+↔ PIBRENTASVIR↔ ↔ --Rifampicin 
+600mg once dailya(Induction of P -gp/BCRP/ CYP3A
+)↓ GLECAPREVIR 0.14(0.11, 0.19)0.12(0.09, 
+0.15)--
+↓ PIBRENTASVIR 0.17(0.14, 0.20)0.13(0.11, 
+0.15)--ETHINYL -OESTRADIOL -CONTAINING PRODUCTSEthinyloestradiol (EE)/NORGESTIMATE
+35µg/250 µg once daily↑ EE 1.31(1.24, 1.38)1.28(1.23, 
+1.32)1.38(1.25, 1.52)Co-administration of MAVIRET with ethinyloestradiol -containing products is contraindicated due to the risk of ALT elevations (see section 4.3).No dose adjustment is required with LEVONORGESTREL, norethidrone or NORGESTIMATE as contraceptive progestagen.↑ NORELGESTROMIN↔ 1.44(1.34, 
+1.54)1.45(1.33, 1.58)
+↑ NORGESTREL 1.54(1.34, 1.76)1.63(1.50, 
+1.76)1.75(1.62, 1.89)EE/LEVONORGESTREL
+20µg/100 µg once daily↑ EE 1.30(1.18, 1.44)1.40(1.33, 
+1.48)1.56(1.41, 1.72)
+↑ NORGESTREL 1.37(1.23, 1.52)1.68(1.57, 
+1.80)1.77(1.58, 1.98)HERBAL PRODUCTSSt. John’s wort (Hypericum perforatum )(Induction of P -gp/CYP3A)Not studied.  Expected: ↓ GLECAPREVIR and ↓ PIBRENTASVIR
+> Co-administration may lea d to reduced therapeutic effect of MAVIRET and is contraindicated(see section 4. 3).HIV-ANTIVIRAL AGENTSAtazanavir + RITONAVIR
+300/100 mg once dailyb↑ GLECAPREVIR ≥4.06 (3.15, 5.23)≥6.53 (5.24, 
+8.14)≥14.3(9.85, 20.7)Co-administration with ATAZANAVIR is contraindicated due to the risk of ALT elevations (see section 4.3). ↑ PIBRENTASVIR ≥1.29 (1.15, 1.45)≥1.64 (1.48, 
+1.82)≥2.29(1.95, 2.68)DARUNAVIR + RITONAVIR 
+800/100 mg once daily↑ GLECAPREVIR 3.09(2.26, 4.20)4.97(3.62, 
+6.84)8.24(4.40, 15.4)Co-administration with DARUNAVIR is not recommended . ↔ PIBRENTASVIR↔ ↔ 1.66(1.25, 2.21)EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE ↑ TENOFOVIR ↔ 1.29(1.23, 
+1.35)1.38(1.31, 1.46)Co-administration with EFAVIRENZ may lea d to reduced therapeutic effect The effect of EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE on GLECAPREVIR and PIBRENTASVIR was not directly 8600/200/300 mg once dailyquantified within this study, but GLECAPREVIR and PIBRENTASVIR exposures were significantly lower than historical controls .of MAVIRET and is not recommended. No clinically significant interactions are expected with TENOFOVIR DISOPROXIL FUMARATE.ELVITEGRAVIR/COBICISTAT/EMTRICITABINE/TENOFOVIR ALAFENAMIDE(P-gp, BCRP, and OATP inhibition by COBICISTAT, OATP inhibition by ELVITEGRAVIR)↔ TENOFOVIR ↔ ↔ ↔ No dose adjustment is required.↑ GLECAPREVIR 2.50(2.08, 3.00)3.05(2.55, 
+3.64)4.58 (3.15, 6.65)
+↑ PIBRENTASVIR ↔ 1.57(1.39, 
+1.76)1.89(1.63, 2.19)LOPINAVIR/RITONAVIR 400/100 mg twice daily↑ GLECAPREVIR 2.55(1.84, 3.52)4.38(3.02, 
+6.36)18.6(10.4, 33.5)Co-administration is not recommended.
+↑ PIBRENTASVIR 1.40(1.17, 1.67)2.46(2.07, 
+2.92)5.24(4.18, 6.58)RALTEGRAVIR
+400 mg twice daily(Inhibition of UGT1A1)↑ RALTEGRAVIR 1.34 (0.89,1.98)1.47 (1.15,
+1.87)2.64 (1.42,4.91)No dose adjustment is required.HCV -ANTIVIRAL AGENTSSofosbuvir 
+400 mg single dose(P-gp/BCRP inhibition)↑ SOFOSBUVIR 1.66(1.23, 2.22)2.25 (1.86, 
+2.72)-- No dose adjustment is required.
+↑ GS -331007 ↔ ↔ 1.85(1.67, 2.04)
+↔ GLECAPREVIR↔ ↔ ↔
+↔ PIBRENTASVIR↔ ↔ ↔HMG -COA REDUCTASE INHIBITORSAtorvastatin 
+10mg once daily(Inhibition of OATP1B1/3, P -gp, BCRP, CYP3A)↑ ATORVASTATIN 22.0(16.4, 29.5)8.28(6.06, 
+11.3)-- Co-administration with ATORVASTATIN and SIMVASTATIN is contraindicated (see section 4.3).SIMVASTATIN 
+5mg once daily(Inhibition of OATP1B1/3, P -gp, BCRP)↑ SIMVASTATIN 1.99(1.60, 2.48)2.32(1.93, 
+2.79)--
+↑ SIMVASTATIN acid10.7(7.88, 14.6)4.48(3.11, 
+6.46)--9Lovastatin 
+10mg once daily(Inhibition of OATP1B1/3, P -gp, BCRP)↑ LOVASTATIN ↔ 1.70(1.40, 
+2.06)-- Co-administration is not recommended. If used, LOVASTATIN should not exceed a dose of 20 mg/day and patients should be monitored.  ↑ LOVASTATIN acid5.73(4.65, 7.07)4.10(3.45, 
+4.87)--PRAVASTATIN 
+10mg once daily(Inhibition of OATP1B1/3)↑ PRAVASTATIN 2.23(1.87, 2.65)2.30(1.91, 
+2.76)-- Caution is recommended. PRAVASTATIN dose should not exceed 
+20 mg per day and ROSUVASTATIN dose should not exceed 5 mg per day.ROSUVASTATIN
+5mg once daily(Inhibition of OATP1B1/3, BCRP)↑ rosuvastatin5.62(4.80, 6.59)2.15(1.88, 
+2.46)--FLUVASTATIN, PITAVASTATIN Not studied.  Expected: ↑ FLUVASTATIN and ↑ PITAVASTATIN Interactions with FLUVASTATIN and PITAVASTATIN are likely and caution is recommended during the combination. A low dose of the statin is recommended at the initiation of the DAA treatment.IMMUNOSUPPRESSANTSCiclosporin
+100mg single dose↑ glecaprevirc1.30(0.95, 1.78)1.37(1.13, 
+1.66)1.34(1.12, 1.60)MAVIRET is not recommended for use in patients requiring stable CICLOSPORIN doses 
+>100mg per day.If the combination is unavoidable, use can be considered if the benefit outweighs the risk with a close clinical monitoring.↑ PIBRENTASVIR ↔ ↔ 1.26(1.15, 1.37)CICLOSPORIN 
+400mg single dose↑ GLECAPREVIR 4.51(3.63, 6.05)5.08(4.11, 
+6.29)--
+↑ PIBRENTASVIR ↔ 1.93(1.78, 
+2.09)--TACROLIMUS
+1 mg single dose(CYP3A4 and P -gp inhibition)↑ TACROLIMUS 1.50(1.24, 1.82)1.45(1.24, 
+1.70)-- The combination of MAVIRET with TACROLIMUS should be used with caution. Increase of TACROLIMUS exposure is expected. Ther efore, a ↔ GLECAPREVIR↔ ↔ ↔
+↔ PIBRENTASVIR↔ ↔ ↔10therapeutic drug monitoring of TACROLIMUS is recommended and a dose adjustment of TACROLIMUS made accordingly .PROTON PUMP INHIBITORSOmeprazole 
+20 mg once daily(Increase gastric p
+> Not studied. Close monitoring of INR is recommended with all VITAMIN K ANTAGONISTS. This is due to liver function changes during treatment with MAVIRET.DAA=direct acting antivirala.Effect of rifampicin on GLECAPREVIR and PIBRENTASVIR 24 hours after final rifampicin dose .b. Effect of ATAZANAVIR and RITONAVIR on the first dose of GLECAPREVIR and PIBRENTASVIR is reported.c. HCV -infected transplant recipients who received amedian CICLOSPORIN dose of 100 mg per day had increased GLECAPREVIR exposures to2.4-fold of those not receiving CICLOSPORIN.Additional drug -drug interaction studies were performed with the following medical products and showed no clinically significant interactions with MAVIRET: ABACAVIR, AMLODIPINE, BUPRENORPHINE, CAFFEINE, DEXTROMETHORPHAN, DOLUTEGRAVIR, EMTRICITABINE, FELODIPINE, LAMIVUDINE, LAMOTRIGINE, METHADONE, MIDAZOLAM, NALOXONE, NORETHINDRONE or other progest in-only contraceptives, RILPIVIRINE, TENOFOVIR ALAFENAMIDE andtolbutamid e.
+

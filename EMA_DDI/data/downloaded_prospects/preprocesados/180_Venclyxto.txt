@@ -1,0 +1,28 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Venetoclax is predominantly metabolised by CYP3A.  
+ Agents that may alter venetoclax plasma concentrations  
+ CYP3A inhibitors 
+ Co-administration of 400  mg once daily ketoconazole, a strong CYP3A, P -gp and BCRP inhibitor, for 
+7 days in 11 patients increased venetoclax C max to 2.3-fold and AUC to 6.4-fold. Co-administration of 
+50 mg once daily ritonavir, a strong CYP3A  and P-gp inhibitor, for 14 days in 6 healthy subjects increased venetoclax C max to 2.4-fold and AUC by 7.9-fold. Compared with venetoclax 400  mg administered alone, co -administration of 300  mg posaconazole, a strong CYP3A and P -gp inhibitor, with venetoclax 50 mg and 100 mg for 7 days in 12 patients increased venetoclax C max to 1.6-fold and 12 1.9-fold, and AUC to 1.9-fold and 2.4-fold, respectively. Co-administration of venetoclax with other strong CYP3A4 inhibitors is predicted to increase venetoclax AUC by on average 5.8- to 7.8-fold.   
+ For patients requiring c oncomitant use of venetoclax with strong CYP3A inhibitors (e.g., itraconazole , ketoconazole, posaconazole, voriconazole, clarithromycin , ritonavir) or moderate CYP3A inhibitors (e.g., ciprofloxacin, diltiazem, erythromycin , fluconazole, verapamil) , venetoclax dosing should be administered according to  Table 7. Patients should be monitored more closely for signs of toxicities  and the dose may need to be further adjusted . The venetoclax dose that was used prior to initiating the CYP3A inhibitor should be resumed 2 to 3  days after discontinuation of the i nhibitor (see section 4.2).  
+ Grapefruit products, Seville oranges, and starfruit (carambola) should be avoided during treatment with venetoclax as they contain inhibitors of CYP3A.  
+ P-gp and BCRP inhibitors  
+ Venetoclax is a substrate for P -gp and BCRP. Co-administration of a 600 mg single dose of rifampicin, a P-gp inhibitor, in 11 healthy subjects increased venetoclax C max by 106% and AUC by 
+78%. Concomitant use of venetoclax with P -gp and BCRP inhibitors at initiation and during the dose-titration phase should be avoided; if a P-gp and BCRP inhibitor must be used, p atients should be monitored closely for signs of toxicities (see section 4.4).  
+ CYP3A inducers 
+ Co-administration of 600 mg once daily rifampi cin, a strong CYP3A inducer, for 13  days in 10 healthy subjects decreased venetoclax C max by 42% and AUC by 71%. Concomitant use of venetoclax with strong CYP3A inducers (e.g., carbamazepine, phenytoin, rifampi cin) or moderate CYP3A inducers (e.g., bosentan, efavirenz, etravirine, modafinil, nafcillin)  should be avoided. Alternative treatments with less CYP3A induction should be considered. Preparations containing St. John's wort are contraindicated during treatment with venetoclax, as efficacy may be reduced (see section 4.3).  
+ Azithromycin 
+ In a drug-drug interaction study in 12 healthy subjects, c o-administration of 500  mg of azithromycin on the first day followed by 250  mg of azithromycin once daily for 4 days decreased venetoclax C max by 25% and AUC by 35%. No dose adjustment is needed during short-term use of azithromycin when administered concomitantly with venetoclax. 
+ Gastric acid reducing agents  
+ Based on population pharmacokinetic analysis, gastric acid reducing agents (e.g., proton pump inhibitors, H2-receptor antagonists, antacid s) do not affect venetoclax bioavailability.  
+ Bile acid sequestrants  
+ Co-administration of bile acid  sequestrants with venetoclax is not recommended  as this may reduce the absorption of venetoclax.  If a bile acid sequestrant is to be co-administered with venetoclax, the Sm 
+ PC for the bile acid sequestrant should be followed to reduce the risk for an interaction, and venetoclax should be administered at least 4 -6 hours after the sequestrant.  
+ Agents that may have their plasma concentrations altered by venetoclax 
+ Warfarin 
+ In a drug-drug interaction study in three healthy volunteers, administration of a single dose of 400  mg venetoclax with 5 mg warfarin resulted in an 18% to 28% increase in C max and AUC of R-warfarin and S-warfarin. Because venetoclax was not dosed to steady state, it is recommended that the international normalized ratio (INR) be monitored closely in patients receiving warfarin.  13  Substrates of P-gp, BCRP, and OATP1B1  
+ Venetoclax is a P-gp, BCRP and OATP1B1 inhibitor in vitro. In a drug-drug interaction study,  administration of a single 100  mg dose of venetoclax with 0.5 mg digoxin, a P-gp substrate, resulted in a 35% increase in digoxin C max and a 9% increase in digoxin AUC.  Co-administration of narrow therapeutic index P-gp, or BCRP substrates (e.g., digoxin, dabigatran, everolimus, sirolimus) with venetoclax should be avoided.  
+ If a narrow therapeutic index P -gp or BCRP substrate must be used , it should be used with caution. For an orally administered P -gp or BCRP substrate se nsitive to inhibition in the gastrointestinal tract (e.g., dabigatran etexilate), its administration should be separated from  venetoclax administration as much as possible to minimise a potential interaction.  
+ If a statin (OATP substrate) is used concomit antly with venetoclax, close m onitoring of statin-related toxicity is recommended.  
+ 

@@ -1,0 +1,45 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Prior to the use of Neofordex  in combination with any other medicinal product, reference should be made to the Summary of Product Characteristics of that product.  
+ Pharmacodynamic interactions  
+ The following combinations should be avoided due to safety concerns  
+• With acetylsalicylic ac id, at doses ≥  1 g per dose or 3 g per day, due to an increased risk of bleeding.  At doses ≥  500 mg per dose or < 3 g per day, precautions are required due to increased risk of haemorrhage, ulcerations and gastro -intestinal perforation. However, antithromb otic prophylaxis with low-dose acetylsalicylic acid is possible ;  
+• With live attenuated vaccines, due to risk of vaccine- related illness with risk of death  (see section 4.4) . 
+ The following combinations require precautions due to safety concerns  
+• With hypoka laemic medicinal products: hypokalemic diuretics, single or in combination, laxatives, tetracosa ctide, intravenous amphot ericin B, due to increased risk of hypokalaemia. Potassium levels should be monitored and corrected as necessary.  In addition, amphotericin B carries a risk of cardiac enlargement and cardiac failure with concurrent use.  
+• With digitalis, as hypokalaemia enhances the toxic effects of digitalis. Any hypokalaemia should be corrected and patients should be monitored clini cally, for electrolytes and by electrocardiograpy. 
+• With medicinal products that carry a risk of Torsades de Pointes, due to increased risk of ventricular arrhythmia. Any hypokalaemia should be corrected and patients should be monitored clinically, for electrolytes and by electrocardiography.  
+• With erythropoietic medicinal products or other medicinal products that may increase the risk of thrombosis, such as hormone replacement therapy, in patients receiving thalidomide or its analogues with Neofordex (see sections 4.4 and 4.8).  
+• With non-steroid al anti-inflammatory drugs (NSAIDs) , due to an  increased risk of gastrointestinal ulceration . 
+• With hypoglycaemic medicinal products, as dexamethasone can raise glycaemic levels and diminish glucose tolerance, with a possibility of ketoacidosis. Patients sh ould be made aware of this risk and self-monitoring of blood and urine should be reinforced, especially during the initiation of treatment. The posology of anti -diabetic medicinal products may have to be adjusted during and after the treatment with dexamet hasone . 
+• With anti -hypertensive medicinal products, due to a reduction of their effect (water and sodium retention).  The dose of the anti -hypertensive treatment may have to be adjusted during the treatment with dexamethasone.  
+• With fluoroquinolones, due to possibly increased risk of tendonitis and, in exceptional cases, rupture of the affected tendon, particularly after long -term treatment.  
+• With methotrexate, due to an increased risk of haematological toxicity.  
+ 8 Pharmacokinetic interactions  
+ Effects of other medicinal products on dexamethasone  Dexamethasone is metabolized via cytochrome P450 3A4 (CYP3A4), and transported by the P -glycoprotein (P-gp, also known as MDR1). Concomitant administration of dexamethasone with inducers or inhibitors of CYP3A4  or P-gp may lead to decreased or increased plasma concentrations of dexamethasone, respectively . 
+ The following combinations require precautions  due to changes in dexametha sone pharmacokinetics  
+ 
+− Medicinal products that may reduce dexamethasone plasma concentration:  
+• Aminogluthetimide, due to a reduction of the efficacy of dexamethasone through an increase of its hepatic metabolism.  
+• Anticonvulsants that are hepatic enzyme ind ucers: carbamazepine, fosphenytoin, phenobarbital, phenytoin, primidone, due to the reduction of dexamethasone plasma levels and hence its efficacy.  
+• With rifampicin, due to reduction of dexamethasone plasma concentrations and efficacy by an increase of its hepatic metabolism.  
+• Topical gastro -intestinal medicinal products, antacids and activated carbon, as well as colestyramin e, due to reduction of the intestinal absorption of dexamethasone. The administration of such medicinal products and Neofordex should be separated by at least two hours.  
+• Ephedrine, due to a reduction in dexamethasone plasma levels by increased metabolic clearance. 
+− Medicinal products that may increase dexamethasone plasma concentration:  
+• Aprepitant and fosaprepitant , due to an increase of dexamethasone plasma concentrations by a reduction of its hepatic metabolism.  
+• Clarithromycin, erythromycin, telithromycin,  itraconazole, ketoconazole, posaconazole, voriconazole , nelfinavir, ritonavir: Increased dexamethasone plasm a concentration due to reduction of its hepatic metabolism by these enzyme inhibitors.  
+ Effects of dexamethasone on other medicinal products  Dexamethasone is a moderate inducer of CYP3A4  and of P -gp. Concomitant administration of dexamethasone with substan ces that are metabolised via CYP3A4 or transported by P -gp could lead to increased clearance and decreased plasma concentrations of these substances :  
+ 
+• Oral contraceptives, as it cannot be excluded that the efficacy of oral contraceptives may be reduced during treatment. No interaction study has been performed with oral contraceptives. Effective measures to avoid pregnancy must be taken (see section 4.6). Efficacy of hormone replacement therapy may also be reduced.  
+• Oral anticoagulants, due to a possible imp act of cortico stero ids on the metabolism of the oral anticoagulant and on coagulation factors, as well as the haemorrhagic risk (mucosa of the digestive tract, vascular fragility) of dexamethasone therapy itself at high doses or treatment periods above 10 days. It the combination is required, monitoring should be reinforced and coagulation parameters controlled after one week and then every other week of treatment as well as after the end of treatment.  
+• Docetaxel  and cyclophosphamide, due to reduction of their plasma levels by induction of CYP3A and P-gp.  
+• Lapatinib , due to increased hepatotoxicity of lapatinib likely due to induction of CYP3A4 metabolism.  
+• Ciclosporin , due to a reduction of ciclosporin bioavailability and plasma levels.  Ciclosporin may also increase the intracellular uptake of dexamethasone. In addition, convulsions have been reported with concurrent use of dexamethasone and ciclosporin.  Concomitant use of dexamethasone and ciclosporine should be avoided.  
+• Midazolam, due a reduction in midazolam plasma levels by CYP3A4 induction. The efficacy of midazolam may be reduced.  
+• Ivermectin, due to a reduction of ivermectin plasma levels. Parasite eradication must be successfully terminated before dexamethasone use (see section 4. 4). 
+• Rifabutin , due to reduced rifabutin plasma levels by induction of intestinal and hepatic CYP3A4.  
+• Indinavir, due to a strong reduction of indinavir plasma levels by intestinal C YP3A4 induction.  
+• Erythromycin , due to increased metabolism of erythromycin i n non- carriers of the CYP3A5*1  allele after dexamethasone treatment.  9 • Isoniazid, as glucocorticoids may decrease isoniazid plasma concentrations, probably due to a stimulation of hepatic metabolism of isoniazid and a reduction of glucocorticoid metabolism . 
+• Praziquantel, due to the reduction of praziquantel plasma concentrations due to an increase of its hepatic metabolism by dexamethasone, with a risk of failure of treatment. The treatments with the two medicinal products should be separated by at least one week.  
+ Repeated, daily administration of dexamethasone also leads to reduced dexamethasone plasma levels due to the induction of CYP3A4  and P -gp. No dose adjustment is needed in the treatment of multiple myeloma.  
+ Dexamethasone has no clinically significant pharmacokinetic interaction with thalidomide, lenalidomide, pomalidomide, bortezomib , vincristine or doxorubicin.  
+ 

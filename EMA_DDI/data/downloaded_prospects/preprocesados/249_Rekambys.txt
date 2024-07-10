@@ -1,0 +1,53 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ REKAMBYS ,in combination with cabotegravir injection, is intended for use as a complete regimen for the treatment of HIV -1 infection and should not be administered with other antiretroviral medicinal products for the treatment of HIV -1. Therefore, information regarding drug -drug interactions with other antiretroviral medicinal products is not provided. From a drug interaction perspective, t here are no limitations on the use of other antiretroviral medicinal products after discontinuin g REKAMBYS.For the oral lead -in rilpivirine treatment and in case missed doses are replaced by oral rilpivirine treatment, refer to the oral rilpivirine tablet Sm 
+ PC for information about drug interactions .Medicinal products that affect rilpivirine expo sure 
+ Rilpivirine is primarily metabolised by cytochrome P450 (CYP)3A .Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section 5.2). Co -administration of rilpivirine and medicinal products that induce CYP3A hasbeen observed to decrease theplasma concentrations of rilpivirine ,which could reduce the therapeutic effect of rilpivirine .Co-administration of rilpivirine and medicinal products that inhibit CYP3A hasbeen o bserved toincrease the plasma concentrations of rilpivirine .When using oral rilpivirine, proton pump inhibitors are contraindicated (see rilpivirine tablet Sm 
+ PC , section 4.3).Medicinal products that are affected by the use of rilpivirine 
+ Rilpivirine is not likely to have a clinically relevant effe ct on the exposure of medicinal products metabolised by CYP enzymes.Rilpivirin einhibits P -glycoprotein in vitro (IC50is 9.2μM). In a clinical study ,oral rilpivirin e(25mgonce daily )did not significantly affect the pharmacokinetics of digoxin.Rilpivirine is an in vitro inhibitor of the transporter MATE -2K with an IC50of < 2.7n 
+ M. The clinical implications of this finding are currently unknown .9Interaction table 
+ Selected established and theoretical interactions between rilpivirine and co -administered medicinal products are listed in Table 6and are based on the studies conducted with oral rilpivirine or are potential drug interactions that may occur (increase is i ndicated as “ ↑”, decrease as “ ↓”, no change as 
+“↔”, not applicable as “N A”, confidence interval as “CI”) .Table 6 Interactions anddoserecommendations with other medicinal products 
+ Medicinal products by therapeutic areas 
+ Interaction 
+ Geometric mean change (%)ΩRecommendations concerning co-adm inistration 
+ ANTIVIRAL AGENTSCabotegravir cabotegravir AUC ↔cabotegravir C min↔cabotegravir C max ↔rilpivirine AUC ↔rilpivirine C min ↓ 8%rilpivirine C max ↔No dose adjustment is required. Ribavirin Not studied. No clinically relevantdrug-drug interaction is expected.No dose adjustment is required.ANTICONVULSANTSCarbamazepine 
+ Oxcarbazepine 
+ Phenobarbital 
+ Phenytoin 
+ Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine must not be used in combination with these anticonvulsants as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3).AZOLE ANTIFUNGAL AGENTSKetoconazole *#
+400mg o nce dailyketoconazole AUC ↓ 24%ketoconazole C min ↓ 66%ketoconazole C max ↔(induction of CYP3A due to high rilpivirine dose in the study)rilpivirine AUC ↑ 49%rilpivirine C min ↑ 76%rilpivirine C max ↑ 30%(inhibition of CYP3A enzymes)No dose adjustment is req uired.Fluconazole 
+ Itraconazole 
+ Posaconazole 
+ Voriconazole 
+ Not studied. Concomitant use of REKAMBYS with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine.(inhibition of CYP3A enzymes)No dose adjustment is required.ANTIMYCOBACTERIALSRifabutin *#
+300mg o nce dailyrifabutin AUC ↔rifabutin C min ↔rifabutin C max ↔
+25-O-desacetyl -rifabutin AUC ↔
+25-O-desacetyl -rifabutin C min ↔
+25-O-desacetyl -rifabutin C max ↔REKAMBYS must not be used in combination with rifabutin as specific dosing recommendations have not been established. Co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3).
+300mg o nce daily(+ 25mg once daily rilpivirine)rilpivirine AUC ↓ 42%rilpivirine C min ↓ 48%rilpivirine C max ↓ 31%10300mg o nce daily(+ 50mg once daily rilpivirine)rilpivirine AUC ↑ 16%*rilpivirine C min ↔*rilpivirine C max ↑ 43%*
+* compared to 2 5mg once daily rilpivirine alone(induction of CYP3A enzymes)Rifampicin *#
+600mg o nce dailyrifampicin AUC ↔rifampicin C min NArifampicin C max ↔
+25-desacetyl -rifam picin AUC ↓ 9%
+25-desacetyl -rifam picin C min NA
+25-desacetyl -rifam picin C max ↔rilpivirine AUC ↓ 80%rilpivirine C min ↓ 89%rilpivirine C max ↓ 69%(induction of CYP3A enzymes)Rilpivirine must not be used in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3).Rifapentine Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3).MACROLIDE ANTIBIOTICSClarithromycin 
+ Erythromycin 
+ Not studied. Increased exposure of rilpivirine is expected.(inhibition of CYP3A enzymes)Where possible, alternatives such as azithromycin should be considered.GLUCOCORTICOIDS OR CORTICOSTEROIDSDexamethasone (systemic, except for single dose use)Not studied. Dose dependent decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine should not be used in combination with systemic dexamethasone (except as a single dose) as co -administration may result in loss of therapeutic effect of rilpivirine (see section 4.3). Alternatives should be considered, particularly for long -term use.NARCOTIC ANALGESICSMethadone *
+60-100mg o nce daily, individualised dose 
+ R(-)methadone AUC ↓ 16%R(-)methadone C min ↓ 22%R(-)methadone C max ↓ 14%rilpivirine AUC ↔*rilpivirine C min ↔*rilpivirine C max ↔*
+* based on historic controls 
+ No dose adjustments are required when initiating co -administration of methadone with rilpivirine. How ever, clinical mo nitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients .ANTIARRHYTHMICSDigoxin * digoxin AUC ↔digoxin C min NAdigoxin C max↔No dose adjustment is required.ANTIDIABETICSMetformin * metformin AUC ↔metformin Cmin NAmetformin C max↔No dose adjustment is required.HERBAL PRODUCTSSt 
+ John's wort (Hypericum perforatum)Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine must not be used in combination with products containing St .John’s wort as co-administration may result in loss of therapeutic effect of rilpivirine (see section 4.3).11ANALGESICSParacetamol *#
+500mg single doseparacetamol AUC ↔paracetamol C min NAparacetamol C max ↔rilpivirine AUC ↔rilpivirine C min ↑ 26%rilpivirine C max↔No dose adjustment is required.ORAL CONTRACEPTIVESEthinylestradiol *
+0.035mg once daily 
+ Norethindrone *
+1mg once dailyethinylestradiol AUC ↔ethinylestradiol C min ↔ethinylestradiol C max ↑ 17%norethindrone AUC ↔norethindrone C min ↔norethindrone C max ↔rilpivirine AUC ↔*rilpivirine C min ↔*rilpivirine C max ↔*
+* based on historic controls 
+ No dose adjustment is required.HMG CO -A REDUCTASE INHIBITORSAtorvastatin *#
+40mg once dailyatorvastatin AUC ↔atorvastatin C min ↓ 15%atorvastatin C max ↑ 35%rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↓ 9%No dose adjustment is required .PHOSPHODIESTERASE TYPE 5 (PDE -5) INHIBITORSSildenafil *#
+50mg single dosesildenafil AUC ↔sildenafil C min NAsildenafil C max ↔rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↔No dose adjustment is required.Vardenafil 
+ Tadalafil 
+ Not studied. No dose adjustment is required .
+Ω% increase/decrease based on D rug-Drug Interaction studies with oral rilpivirine
+*The interaction between rilpivirine and the medicinal product was evaluated in a clinical study. All other drug -drug interactions shown are predicted.
+#This interaction study has been performed with a dose higher than the recommended dose for rilpivirine assessing the maximal effect on the co -administered medicinal product. The dosing recommendation is applicable to the recommended dose of rilpivirine of 2 5mg once daily.QT prolonging medicinal products 
+ Oral rilpivirine at the recommended dose of 25 mg once daily is not associated with a clinically relevant effect on QTc. Rilpivirine p lasma concentrations after REKAMBYS injections at the recommended dose of 600 mg monthly or 900 mg e very 2months ,are comparable to those achieved with oral rilpivirine at a dose of 25 mg qd. In a study of healthy subjects, supratherapeutic doses of oral rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the ECG (see section 5.1). REKAMBYS sho uld be used with caution when co -administered with a medicinal product with a known risk of Torsade de Pointes (see section 4.4).

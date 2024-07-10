@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ In a clinical drug -drug interaction study, givosiran resulted in a weak to moderate reduction in ac tivity of certain CYP450 enzymes in the liver thereby increasing plasma exposures:  
+• CYP1A2: 1.3 -fold increase in C max and 3.1 -fold increase in AUC 0–∞ of caffeine  
+• CYP2D6: 2.0 -fold increase in C max and 2.4 -fold increase in AUC 0–∞ of dextromethorphan  5 • CYP2C19: 1.1-fold increase in C max and 1.6 -fold increase in AUC 0–∞ of omeprazole  
+• CYP3A4: 1.2 -fold increase in C max and 1.5 -fold increase in AUC 0–∞ of midazolam  
+• CYP2C9: no effect on the exposure of losartan  
+ Caution is recommended during the use of medicinal product s that are substrates of CYP1A2 or CYP2D6 while on treatment with Givlaari as this medicinal product may increase or prolong their therapeutic effect or alter their adverse event profiles. Consider decreasing the CYP1A2 or CYP2D6 substrate dosage in accord ance with the approved product labelling . 
+ 

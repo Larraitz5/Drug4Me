@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ No clinically significant pharmacokinetic interactions are expected between enfuvirtide and concomitantly given medicinal products metabolised by CYP450 enzymes.  
+ Influence of enfuvirtide on metabolism of concomitant medicinal products:  In an in -vivo human metabolism study enfuvirtide, at the recommended dose of 90 mg twice daily, did not inhibit the metabolism of substrates by CYP3A4 (dapsone), CYP2D6 (debrisoquine), CYP1A2 (caffeine), CYP2C19 (mephenytoin), and CYP2E1 (chlorzoxazone).  
+ Influe nce of concomitant medicinal products on enfuvirtide metabolism:  In separate pharmacokinetic interaction studies, co- administration of ritonavir (potent CYP3A4 inhibitor) or saquinavir in combination with a booster dose of ritonavir or rifampicin (potent C YP3A4 inducer) did not result in clinically significant changes of the pharmacokinetics of enfuvirtide.  
+ 5 
+ 

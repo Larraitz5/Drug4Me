@@ -1,0 +1,17 @@
+4.5 Interaction  with other medicinal products and other forms of interaction 
+ Daptomycin undergoes little to no Cytochrome P450 (CYP450)
+-mediated metabolism
+. It is unlikelythat daptomycin will inhibit or induce the met abolism of  medicinal products  metabolised by the P45
+0system.Interaction studies for Cubicin were performed  with aztreonam, tobramycin, warf arin and probenecid.Daptomycin had no eff ect on the pharmacokinetics of warf arin or probenecid, nor did these medicinalproduct s alter the pharmacokinetics of daptomycin. The pharmacokinetics of daptomycin were
+ notsignif icantly altered by aztreonam.8Although small changes in the pharmacokinetics of daptomycin and tobramycin were observed duringco-administr ation by intravenous inf usion over a 
+30-minute period using a  Cubicin dos e of  2  mg/kg,the changes were not statistically signif icant. The interaction between daptomycin and tobramycinwith an approved
+ dose of  Cubicin is unknown.
+ Caution is warranted when Cubicin is co -administ eredwith tobra mycin.Experience with the concomitant administration of  Cubicin and wa rfarin is limit ed. Studies of 
+ Cubicin with anticoagulants other than warfarin have not been conducted. Anticoagulant activity inpatients receiving Cubicin  and warf arin should be monitored f or the first several days af te r therapywith Cubicin is initiated.There is limited experience regarding concomitant administration of daptomycin with other medicinalproducts that may trigger myopathy
+ (e.g. HMG -Co 
+ A redu ctase inhibito rs)
+. However, some cases ofmarked rise s in CPK levels and cases of rhabdomyolysis occu rred in adult patients taking one of  thesemedicinal products at the same time as Cubicin . It is recommended that other medicinal productsassociate d with myopathy should if  possible be temporarily discontinued during treatment with 
+ Cubicin  unless the bene fits of  concomitant administration outweigh the risk. If  co
+-administrationcannot be avoided, CPK levels should be measured more frequently than once weekl y and patientsshould be closely monitored for any signs or symptoms that might represent myopathy. Seesections 4.4, 4.8 and 5.3.Daptomycin is primarily cleared by renal f iltration and so plasma levels may be increased duringco-administration with medi cinal products  that reduce renal f iltration (e.g. NSAIDs and COX-2inhibitors). In addition, there is a potential f or a pharmacodynamic interaction to occur duringco-administration due to additive renal ef f ects. Theref ore, caution is advised when daptomyc in isco-admin istered with any other medicinal product known to reduce renal f iltration.During post–marketing surveillance, cases of  interf erence between daptomycin and particular reagentsused in some assays of prothrombin time/international normalised ratio (PT/INR)
+ have been reported.This interf erence led to a  f alse  prolongation of  PT and elevation of INR. If  unexplained abnormalitiesof  PT/INR are observed in patients taking daptomycin, consideration should be given to a possible invitro  interaction  with the labo ratory test
+. The possibility of  erroneous results may be minimised bydrawing samples for PT or INR testing near the time of trough plasma concentrations of  daptomycin(see se ction  4.4).

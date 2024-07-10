@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ P-gp and BCRP inhibitors  
+ Lusutrombopag is a substrate of P -gp and BCRP, but not a subs trate of OATP1B1, OATP1B3, and OCT1. In the clinical drug -drug interaction study, co -administration of cyclosporine, a P -gp and BCRP dual inhibitor, increased the C max and AUC inf values of lusutrombopag by approximately 20% compared with lusutrombopag admi nistration alone. Therefore, a potential interaction with either P -gp or BCRP inhibitors cannot be excluded, but no dose adjustment is necessary at the recommended clinical dose of 3  mg in adults.  
+ 

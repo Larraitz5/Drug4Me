@@ -1,0 +1,14 @@
+4.5 Interaction with  other medicinal products and other forms of interaction  
+ Interaction with medicinal products metabolised through CYP3A4 route (CYP3A4 inhibitors/inducers)  
+ Co-administration of brentuximab vedotin with ketoconazole, a strong CYP3A4 and P -gp inhibitor, increased the exposure to the antimicrotubule agent MMAE by approximately 73%, and did not alter the plasma exposure to brentuximab vedotin. Therefore, co- administration of brentuximab vedotin with strong CYP3A4 and P -gp inhibitors may increase the incidence of neutropenia. If neutropenia develops, refer to Tables  1 and 2 for dosing recommendations for neutropenia (see section  4.2).  
+ Co-administration of brentuximab vedotin with rifampicin, a strong C YP3A4 inducer, did not alter the plasma exposure to brentuximab vedotin. Though PK data are limited, co- administration of rifampicin appeared to reduce plasma concentrations of MMAE metabolites that could be assayed.   Co-administration of midazolam, a CYP 3A4 substrate, with brentuximab vedotin did not alter the metabolism of midazolam; therefore brentuximab vedotin is not expected to alter the exposure to medicines that are metabolised by CYP3A4 enzymes.  
+ Doxorubicin, vinblastine and dacarbazine (AVD)  
+ The serum and plasma pharmacokinetic characteristics of antibody drug conjugate ( ADC) and MMAE respectively following administration of brentuximab vedotin in combination with AVD were similar to that in mon otherapy. 
+ 11 Co-administration of brentuximab vedotin did not affect the plasma exposure of AVD. 
+ Cyclophosphamide, Doxorubicin and Prednisone (CHP)  
+ The serum and plasma pharmacokinetic characteristics of ADC and MMAE, respectively, following administration  of brentuximab vedotin in combination with CHP were similar to that in monotherapy.  
+ Co-administration of brentuximab vedotin is not expected to affect the exposure of CHP. 
+ Bleomycin  
+ There were no formal drug- drug interaction studies with brentuximab ve dotin and bleomycin (B). In a phase 1  dose finding and safety study (SGN35- 009), unacceptable pulmonary toxicity (including 
+2 fatal events) was noted in 11 of 25 patients (44%) treated with brentuximab vedotin plus ABVD. No pulmonary toxicity or fatal events were reported with brentuximab vedotin + AVD. Therefore, co-administration of ADCETRIS with bleomycin is contraindicated (see section 4.3). 
+ 

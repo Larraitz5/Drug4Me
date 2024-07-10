@@ -1,0 +1,6 @@
+4.5     Interaction with other medicinal products and other forms of interaction 
+ No forma l interaction studies with Praxbind and other medicinal products have been performed. Based on the pharmacokinetic properties and the high specificity in binding to dabigatran, clinically relevant interactions with other medicinal products are considered u nlikely.Preclinical investigations with idarucizumab have shown no interactions with
+ volume expanders.
+ coagulation factor concentrates, such as prothrombin complex concentrates (PCCs, e.g. 3 factor and 4 factor), activated PCCs (a 
+ PCCs) and recombinant fac tor VIIa.
+ other anticoagulants (e.g. thrombin inhibitors other than dabigatran, factor Xa inhibitors including low -molecular weight heparin, vitamin K -antagonists, heparin). Thus idarucizumab will not reverse the effects of other anticoagulants.

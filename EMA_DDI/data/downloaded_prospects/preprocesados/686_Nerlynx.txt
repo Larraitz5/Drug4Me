@@ -1,0 +1,24 @@
+4.5  and 5.2) . 
+ Grapefruit and pomegranate  Grapefruit  or pomegranate  juice may inhibit CYP3A4 and/or  P-gp and should be avoided during treatment with Nerlynx (see s ection s 4.2 and 4.5). 
+ Concomitant treatment with moderate inducers of CYP3A4 and P -gp Concomitant treatment with moderate CYP3A4  and P -gp inducer s is not recommended as it may lead to a loss of neratinib  efficacy  (see section s 4.5 and 5.2).  
+ Concomitant treatment with substrates of P -gp Patients who are treated concomitantly with therapeutic agents with a narrow therapeutic window  whose absorption  involves P -gp transporters  in the gastrointestinal tract should be carefully monitored  (see section s 4.5 and 5.2).  
+ 
+ 
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Effects of other substances on neratinib  
+ Neratinib is primarily metabolized by CYP3A4 and is a P -gp substrate.  
+ CYP3A4 /P-gp inducers  A clinical study demonstrated that concomitant use  of strong CYP3A4/P -gp inducers significantly decreased neratinib exposure, therefore concurrent use of neratinib with strong CYP3A4/P -gp inducers is contraindicated (e.g. strong inducers: phenytoin, carbamazepine, rifampic in, or herbal preparations containing St John’s Wort  (Hypericum perforatum) ). Concurrent use of neratinib with moderate CYP3A4/P -gp inducers  is not recommended as it may also lead to loss of efficacy (e.g. moderate inducers: bosentan, efavirenz, etravirine , phenobarbital, primidone, dexamethasone)  (see section s 4.3 and 5.2 ).
+ 
+ CYP3A4 /P-gp inhibitors  A clinical study and model -based predictions have demon strated that concomitant use of strong or moderate CYP3A4/P -gp inhibitors significantly  increased neratinib systemic exposure, therefore, concomitant use of neratinib with strong and moderate CYP3A4 /P-gp inhibitors is not recommended  (e.g. strong inhibitors: atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, lopinavir, ket oconazole, itraconazole, clarithromycin, troleandomycin, voriconazole, and cobicistat; moderate inhibitors: ciprofloxacin,   cyclosporin, diltiazem, fluconazole, erythromycin, fluvoxamine and verapamil) .  If the inhibitor can not be avoided, Nerlynx dose adjustment shoud be applied (see s ection s 4.2, 4.4 and 5.2) . 
+ Grapefruit /pomegranate  or grapefruit /pomegranate  juice may also increase neratinib plasma concentrations and should be avoided (see s ection 4.2 and 4.4) . Proton pump inhibitors , H
+2-receptor antagonists and antacids  The in -vitro  solubility of neratinib is p 
+ H -dependent . Concomitant treatment with substances that increase gastric p 
+ H may lower the absorption of neratinib, thus decreasing systemic exposure. Co -8 administration with proton pump inhibitors (PPIs)  is not recommended  (e.g. omeprazole or lansoprazole) (see sections  4.4 and 5.2).  
+ Nerlynx should be taken at least 2 hours before or 10 hours after the intake of the H 2-receptor antagonist  (see section s 4.2, 4.4 and 5.2) . Separate dosing of Nerlynx and antacid s by at least 3 hours  (see section s 4.2, 4.4 and 5.2) . 
+ Antidiarr hoeal loperamide  A clinical study has  demon strated that there were no clinically  significant differences in the exposure of subjects to neratinib with or without concurrent dosing with loperamide  (see section 
+5.2).  
+ Effects of neratinib on other substances  
+ Hormonal contraceptives  It is currently unknown whether Nerlynx reduce s the effectiveness of systemically acting hormonal contraceptives . Therefore , women using systemically acting hormonal contraceptives should add a barrier method (see s ection  4.6). 
+ P-glycoprotein efflux trans porters  In-vitro  studies  demonstrated that  neratinib is an inhibitor of P -glycoprotein (P -gp) efflux transporters. This has been confirmed by a clinical study using digoxin as probe substrate leading to an increase of 54 and 32% in Cmax and AUC, respectively . This might be clinically relevant for patients who are treated concomitantly with therapeutic agents with a narrow therapeutic window whose absorption involves P -gp transporters in the gastrointestinal tract (e.g. digoxin, colchicine, dabigatran, phenytoin, statins, cyclosporine, everolimus, sirolimus, tacrolimus) . They should be carefully monitored (see s ection s 4.4 and 5.2) . 
+ Breast cancer resistance protein efflux transporter  Neratinib may inhibit breast cancer resistance protein  (BCRP ) at intestinal level as suggested by in vitro studies. A c linical stud y with BCRP substrates has  not been conducted. As co -administration of neratinib with BCRP substrates may lead to an increase of their exposure, patients who are treated with BCRP substrates (e.g., rosuvastatin, sulfasalazine and irinotecan ) should be monitored carefully (see section  5.2). 
+  

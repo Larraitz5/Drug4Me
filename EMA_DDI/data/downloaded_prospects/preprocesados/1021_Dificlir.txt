@@ -1,0 +1,11 @@
+4.5 Interaction with other medicinal p roducts and o ther f orms of i nteraction  
+ Effect of P -gp inhibitors on fidaxomicin  
+ Fidaxomicin is a substrate of P -gp. Co -administration of single doses of the P -gp inhibitor cyclosporine A and fidaxomicin  in healthy volunteers, resulted in a 4-  and 2 -fold increase in fidaxomicin C max and AUC, respectively and in a 9.5 and 4- fold increase in C max and AUC, respectively, of  the main active metabolite OP -1118. As the clinical relevance of this increase in exposure is unclear, co -administration of potent inhibitors of P -gp, such as cyclosporine, ketoconazole, erythromycin, clarithromycin, verapamil, dronedarone and amiodarone is not recommended  (see section s 4.4 and 5.2) . 
+ Effect of fidaxomicin  on P -gp substrates  
+ Fidaxomicin  may be a mild to moderate inhibitor of intestinal P -gp. Fidaxomicin  (200  mg twice daily) had a small but not clinically relevant effect on digoxin exposure. However, a larger effect on P -gp substrates with lower bioavailability more sensitive to intestinal P -gp inhibition such as dabigatran etexilat cannot be excluded.  
+ Effect of fidaxomicin
+ on other transporters  
+ Fidaxomicin does not have a clinically significant effect on the exposure of rosuvastatin, a substrate for the transporters OATP2B1 and BCRP. Co -administration of 200 mg fidaxomicin twice daily with a single dose of 10  mg rosuvastatin to healthy subjects did not have a clinically significant effect on the AUC inf of rosuvastatin.  
+ Paediatric population  
+ Interaction studies have only been performed in adults . 
+ 

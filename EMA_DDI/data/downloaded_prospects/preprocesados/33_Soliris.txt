@@ -1,0 +1,11 @@
+4.5 mg/m 
+ L (0.45%) solution for injection, this medicinal product contains 0.67 g sodium per 240 m 
+ L at the maximal dose, equivalent to 33.5% of the WHO recommended maximum daily intake of 2  g sodium for an adult.  
+ 
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed. Based on the potential inhibitory effect of eculizumab on complement- dependent cytotoxicity of rituximab, eculizumab may redu ce the expected pharmacodynamic effects of rituximab.  
+ Plasma exchange (PE), plasmapheresis (PP), fresh frozen plasma infusion (PI) and intravenous immunoglobulin (IVIg) have been shown to reduce eculizumab serum levels. A supplemental dose of eculizumab  is required in these settings. See Section 4.2 for guidance in case of concomitant PE, PP, PI, or IVIg treatment.   
+ Concomitant use of eculizumab  with intravenous immunoglobulin (IVIg)  may reduce effectiveness of eculizumab . Closely monitor for reduced effe ctiveness of eculizumab . 
+ Concomitant use of eculizumab  with neonatal Fc receptor (Fc 
+ Rn) blockers may lower systemic exposures and reduce effectiveness of eculizumab . Closely monitor for reduced effectiveness of eculizumab . 
+ 

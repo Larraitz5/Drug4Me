@@ -1,0 +1,407 @@
+4.5 Interaction with other medicinal products a nd other forms of interaction  
+ As Harvoni contains ledipasvir and sofosbuvir, any interactions that have been identified with these active substances individually may occur with Harvoni.  
+ Potential for Harvoni to affect other medicinal products  
+ Ledipasvir  is an in  vitro  inhibitor of drug transporter P -gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of co -administered substrates for these transporters.   
+ Potential for other medicinal products to affect Harvoni  
+ Ledipasvir and sofosbuvir are substrates of drug transporter P -gp and BCRP while GS -331007 is not.  
+ Medicinal products that are strong P -gp inducers (carbamazepine, phenobarbital, phenytoin, rifampicin, rifabutin and St. John’s wort) may significantly decr ease ledipasvir and sofosbuvir plasma concentrations leading to reduced therapeutic effect of ledipasvir/sofosbuvir and thus are contraindicated with Harvoni (see section  4.3). Medicinal products that are moderate P -gp inducers in the intestine (e.g. oxcar bazepine) may decrease ledipasvir and sofosbuvir plasma concentrations leading to reduced therapeutic effect of Harvoni.  Co-administration with such medicinal products is not recommended with Harvoni (see section  4.4). Co-administration with medicinal prod ucts that inhibit P- gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS -331007 plasma concentration; Harvoni may be co-administered with P -gp and/or BCRP  inhibitors.  Clinically significant medicinal product interactions with ledipasvir/sofosbuvir mediated by CYP450s or UGT1A1 enzymes are not expected.  
+ Patients treated with vitamin  K antagonists  
+ As liver function may change during treatment with Harvoni, a close monitoring of International Normalised Ratio (INR) values is recommended.  
+ Impact of DAA therapy on drugs metabolized by the liver  
+ The pharmacokinetics of drugs that are metabolized by the liver (e.g. immunosuppressive agents such as calcineurin inhibitors) may be impacted by changes in liver functi on during DAA therapy, related to clearance of HCV virus.  
+ Interactions between Harvoni and other medicinal products  
+ Table  6 provides a listing of established or potentially clinically significant medicinal product interactions (where 90% confidence inter val [CI] of the geometric least -squares mean [GLSM] ratio were within “↔”, extended above “↑”, or extended below “↓” the predetermined equivalence boundaries).  The medicinal product interactions described are based on studies conducted with either ledipasv ir/sofosbuvir or ledipasvir and sofosbuvir as individual agents, or are predicted medicinal product interactions that may occur with ledipasvir/sofosbuvir.  The table is not all -inclusive.  
+ 9 Table 6: Interactions between Harvoni and other medicinal products  
+ Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  ACID REDUCING AGENTS  
+ Ledipasvir solubility decreases as p 
+ H  increases. Medicinal products that increase gastric p 
+ H are expected to decrease concentration of ledipasvir.  Antacids  e.g. Aluminium or magnesium hydroxide; calcium carbonate Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↔ Sofosbuvir  
+↔ GS -331007 
+ (Increase in gastric p 
+ H)  It is recommended to separate antacid and Harvoni administration by 4  hours.  H2-receptor antagonists  Famotidine  (40 mg single dose)/ ledipasvir (90  mg single dose)c/ sofosbuvir (400 mg single dose)c, d 
+ Famotidine dosed simultaneously with Harvonid 
+ 
+ Cimetidinee Nizatidinee Ranitidinee Ledipasvir  
+↓ Cmax 0.80 (0.69, 0.93)  
+↔ AUC  0.89 (0.76, 1.06)  
+ Sofosbuvir  
+↑ Cmax 1.15 (0.88, 1.50)  
+↔ AUC  1.11 (1.00, 1.24)  
+ GS-331007 
+↔ Cmax 1.06 (0.97, 1.14)  
+↔ AUC  1.06 (1.02, 1.11)  
+ (Increase in gastric p 
+ H)  H2-receptor antagonists may be administered simultaneously with or staggered from Harvoni at a dose that does not exceed doses comparable to famotidine 40  mg twice daily.  Famotidine  (40 mg single dose)/ ledipasvir (90  mg single dose)c/ sofosbuvir (400 mg single dose)c, d 
+ Famotidine dosed 12 hours prior to Harvonid Ledipasvir  
+↓ Cmax 0.83 (0.69, 1.00)  
+↔ AUC  0.98 (0.80, 1.20)  
+ Sofosbuvir  
+↔ Cmax 1.00 (0.76, 1.32)  
+↔ AUC  0.95 (0.82, 1.10)  
+ GS-331007 
+↔ Cmax 1.13 (1.07, 1.20)  
+↔ AUC  1.06 (1.01, 1.12)  
+ (Increase in gastric p 
+ H)  Proton pump inhibitors  Omeprazole  (20 mg once daily)/ ledipasvir (90  mg single dose)c/ sofosbuvir (400 mg single dose)c 
+ Omeprazole dosed simultaneously with Harvoni  
+ Lansoprazolee Rabeprazolee Pantoprazolee Esomeprazolee Ledipasvir  
+↓ Cmax 0.89 (0.61, 1.30)  
+↓ AUC  0.96 (0.66, 1.39)  
+ Sofosbuvir  
+↔ Cmax 1.12 (0.88, 1.42)  
+↔ AUC  1.00 (0.80, 1.25)  
+ GS-331007 
+↔ Cmax 1.14 (1.01, 1.29)  
+↔ AUC  1.03 (0.96, 1.12)  
+ (Increase in gastric p 
+ H)  Proton pump inhibitor doses comparable to omeprazole 20  mg can be administered simultaneously with Harvoni. Proton pump inhibitors should not be taken before Harvoni.  10 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  ANTIARRHYTHMICS  Amiodarone  Effect on amiodarone, sofosbuvir and ledipasvir concentrations unknown.  Coadministration  of amiodarone with a sofosbuvir -containing regimen may result in serious symptomatic bradycardia.  Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Harvoni (see sections  4.4 and 4.8). Digoxin  Interaction not studied.  Expected:  
+↑ Digoxin 
+↔ Ledipasvir  
+↔ Sofosbuvir  
+↔ GS -331007 
+ (Inhibition of P -gp) Co-administration of Harvoni with digoxin may increase the concentration of digoxin. Caution is warranted and therapeutic concentration monitoring of digoxin is recommended when co -administered with Harvoni.  ANTICOAGULANTS  Dabigatran etexilate  Interaction not studied.  Expected:  
+↑ Dabigatran 
+↔ Ledipasvir  
+↔ Sofosbuvir  
+↔ GS -331007 
+ (Inhibition of P -gp) Clinical monitoring, looking for signs  of bleeding and anaemia, is recommended when dabigatran etexilate is co -administered with Harvoni. A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure.  Vitamin K antagonists  Interaction not studied.  Close monitoring of INR is recommended with all vitamin K antagonists. This is due to liver function changes during treatment with Harvoni.  ANTICONVULSANTS  Phenobarbital  Phenytoin  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↓ Sofosbuvir  
+↔ GS -331007 
+ (Induction of P -gp) Harvoni is contraindicated with phenobarbital and phenytoin (see section 4.3). Carbamazepine  Interaction not studied  Expected:  
+↓ Ledipasvir  
+ Observed:  Sofosbuvir  
+↓ Cmax 0.52 (0.43, 0.62)  
+↓ AUC  0.52 (0.46, 0.59)  Cmin (NA) 
+ GS-331007 
+↔ Cmax 1.04 (0.97, 1.11)  
+↔ AUC  0.99 (0.94, 1.04)  Cmin (NA) 
+ (Induction of P -gp) Harvoni is contraindicated with carbamazepine (see section  4.3). 11 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Oxcarbazepine  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↓ Sofosbuvir  
+↔ GS -331007 
+ (Induction of P -gp) Co-administration of Harvoni with oxcarbazepine is expected to decrease the concentration of ledipasvir and sofosbuvir leading to reduced therapeutic effect of Harvoni. Such co -administration is not recommended (see section  4.4). ANTIMYCOBACTERIALS  Rifampicin (600  mg once daily)/ ledipasvir (90  mg single dose)d Interaction not studied.  Expected:  Rifampicin  
+↔ C max 
+↔ AUC  
+↔ C min 
+ Observed:  Ledipasvir  
+↓ C max 0.65 (0.56, 0.76)  
+↓ AUC  0.41 (0.36, 0.48)  
+ (Induction of P -gp) Harvoni is contraindicated with rifampicin (see section  4.3). Rifampicin (600  mg once daily)/ sofosbuvir (400  mg single dose)d Interaction not studied.  Expected:  Rifampicin  
+↔ C max 
+↔ AUC  
+↔ C min 
+ Observed:  Sofosbuvir  
+↓ C max 0.23 (0.19, 0.29)  
+↓ AUC  0.28 (0.24, 0.32)  
+ GS-331007 
+↔ C max 1.23 (1.14, 1.34)  
+↔ AUC  0.95 (0.88, 1.03)  
+ (Induction of P -gp) Rifabutin  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+ Observed:  Sofosbuvir  
+↓ Cmax 0.64 (0.53, 0.77)  
+↓ AUC  0.76 (0.63, 0.91)  Cmin (NA) 
+ GS-331007 
+↔ Cmax 1.15 (1.03, 1.27)  
+↔ AUC  1.03 (0.95, 1.12)  Cmin (NA) 
+ (Induction of P -gp) Harvoni is contraindicated with rifabutin (see section  4.3). 12 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Rifapentine  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↓ Sofosbuvir  
+↔ GS -331007 (Induction of P -gp) Co-administration of Harvoni with rifapentine  is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of Harvoni. Such co -administration is not recommended.  SEDATIVES/HYPNOTICS  Midazolam (2.5  mg single  dose)/ ledipasvir (90  mg single dose)  
+ 
+ 
+ Ledipasvir (90  mg once  daily)  Observed:  Midazolam  
+↔ Cmax 1.07 (1.00, 1.14)  
+↔ AUC  0.99 (0.95, 1.04)  (Inhibition of CYP3A)  
+ Midazolam  
+↔ Cmax 0.95 (0.87, 1.04)  
+↔ AUC  0.89 (0.84, 0.95)  (Induction of CYP3A)  
+ Expected:  
+↔ Sofosbuvir  
+↔ GS -331007  No dose adjustment  of Harvoni or midazolam is required.  HIV ANTIVIRAL AGENTS: REVERSE TRANSCRIPTASE INHIBITORS  Efavirenz/ emtricitabine/ tenofovir disoproxil fumarate (600 mg/ 200 mg/ 300 mg/ once daily)/ ledipasvir (90 mg once daily)c/ sofosbuvir (400 mg once daily)c, d Efavirenz  
+↔ Cmax 0.87 (0.79, 0.97)  
+↔ AUC  0.90 (0.84, 0.96)  
+↔ Cmin 0.91 (0.83, 0.99)  
+ Emtricitabine  
+↔ Cmax 1.08 (0.97, 1.21)  
+↔ AUC  1.05 (0.98, 1.11)  
+↔ Cmin 1.04 (0.98, 1.11)  
+ Tenofovir  
+↑ Cmax 1.79 (1.56, 2.04)  
+↑ AUC  1.98 (1.77, 2.23)  
+↑ Cmin 2.63 (2.32, 2.97)  
+ Ledipasvir  
+↓ Cmax 0.66 (0.59, 0.75)  
+↓ AUC  0.66 (0.59, 0.75)  
+↓ Cmin 0.66 (0.57, 0.76)  
+ Sofosbuvir  
+↔ Cmax 1.03 (0.87, 1.23)  
+↔ AUC  0.94 (0.81, 1.10)  
+ GS-331007 
+↔ Cmax 0.86 (0.76, 0.96)  
+↔ AUC  0.90 (0.83, 0.97)  
+↔ Cmin 1.07 (1.02, 1.13)  No dose adjustment of Harvoni or efavirenz/ emtricitabine/ tenofovir disoproxil fumarate is required.  13 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Emtricitabine/ rilpivirine/ tenofovir disoproxil fumarate (200 mg/ 25  mg/ 300  mg once daily)/ ledipasvir (90 mg once daily)c/ sofosbuvir (400 mg once daily)c, d Emtricitabine  
+↔ Cmax 1.02 (0.98, 1.06)  
+↔ AUC  1.05 (1.02, 1.08)  
+↔ Cmin 1.06 (0.97, 1.15)  
+ Rilpivirine  
+↔ Cmax 0.97 (0.88, 1.07)  
+↔ AUC  1.02 (0.94, 1.11)  
+↔ Cmin 1.12 (1.03, 1.21)  
+ Tenofovir  
+↔ Cmax 1.32 (1.25, 1.39)  
+↑ AUC  1.40 (1.31, 1.50)  
+↑ Cmin 1.91 (1.74, 2.10)  
+ Ledipasvir  
+↔ Cmax 1.01 (0.95, 1.07)  
+↔ AUC  1.08 (1.02, 1.15)  
+↔ Cmin 1.16 (1.08, 1.25)  
+ Sofosbuvir  
+↔ Cmax 1.05 (0.93, 1.20)  
+↔ AUC  1.10 (1.01, 1.21)  
+ GS-331007 
+↔ Cmax 1.06 (1.01, 1.11)  
+↔ AUC  1.15 (1.11, 1.19)  
+↔ Cmin 1.18 (1.13, 1.24)  No do se adjustment of Harvoni or emtricitabine/ rilpivirine/ tenofovir disoproxil fumarate is required.  Abacavir/ lamivudine  (600 mg/ 300 mg once daily)/ ledipasvir (90  mg once daily)c/ sofosbuvir (400 mg once daily)c, d Abacavir  
+↔ Cmax 0.92 (0.87, 0.97)  
+↔ AUC  0.90 (0.85, 0.94)  
+ Lamivudine  
+↔ Cmax 0.93 (0.87, 1.00)  
+↔ AUC  0.94 (0.90, 0.98)  
+↔ Cmin 1.12 (1.05, 1.20)  
+ Ledipasvir  
+↔ Cmax 1.10 (1.01, 1.19)  
+↔ AUC  1.18 (1.10, 1.28)  
+↔ Cmin 1.26 (1.17, 1.36)  
+ Sofosbuvir  
+↔ Cmax 1.08 (0.85, 1.35)  
+↔ AUC  1.21 (1.09, 1.35)  
+ GS-331007 
+↔ Cmax 1.00 (0.94, 1.07)  
+↔ AUC  1.05 (1.01, 1.09)  
+↔ Cmin 1.08 (1.01, 1.14)  No dose adjustment of Harvoni or abacavir/ lamivudine is required.  14 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  HIV ANTIVIRAL AGENTS: HIV PROTEASE INHIBITORS  Atazanavir boosted with ritonavir  (300 mg/ 100 mg once daily)/ ledipasvir (90  mg once daily)c/ sofosbuvir (400 mg once daily)c, d Atazanavir  
+↔ Cmax 1.07 (1.00, 1.15)  
+↔ AUC  1.33 (1.25, 1.42)  
+↑ Cmin 1.75 (1.58, 1.93)  
+ Ledipasvir  
+↑ Cmax 1.98 (1.78, 2.20)  
+↑ AUC  2.13 (1.89, 2.40)  
+↑ Cmin 2.36 (2.08, 2.67)  
+ Sofosbuvi r 
+↔ Cmax 0.96 (0.88, 1.05)  
+↔ AUC  1.08 (1.02, 1.15)  
+ GS-331007 
+↔ Cmax 1.13 (1.08, 1.19)  
+↔ AUC  1.23 (1.18, 1.29)  
+↔ Cmin 1.28 (1.21, 1.36)  No dose adjustment of Harvoni or atazanavir (ritonavir boosted) is required.  
+ For the combination of tenofovir/emtricitabine + atazanavir/ritonavir, please see below.  Atazanavir boosted with ritonavir (300 mg/ 100 mg once daily)  + emtricitabine/ tenofovir disoproxil fumarate (200  mg/ 300 mg once daily)/ ledipasvir (90 mg once daily)c/ sofosbuvir (400 mg once daily)c, d 
+ Dosed simultaneouslyf Atazanavir  
+↔ Cmax 1.07 (0.99, 1.14)  
+↔ AUC  1.27 (1.18, 1.37)  
+↑ Cmin 1.63 (1.45, 1.84)  
+ Ritonavir  
+↔ Cmax 0.86 (0.79, 0.93)  
+↔ AUC  0.97 (0.89, 1.05)  
+↑ Cmin 1.45 (1.27, 1.64)  
+ Emtricitabine  
+↔ Cmax 0.98 (0.94, 1.02)  
+↔ AUC  1.00 (0.97, 1.04)  
+↔ Cmin 1.04 (0.96, 1.12)  
+ Tenofovir  
+↑ Cmax 1.47 (1.37, 1.58)  
+↔ AUC  1.35 (1.29, 1.42)  
+↑ Cmin 1.47 (1.38, 1.57)  
+ Ledipasvir  
+↑ Cmax 1.68 (1.54, 1.84)  
+↑ AUC  1.96 (1.74, 2.21)  
+↑ Cmin 2.18 (1.91, 2.50)  
+ Sofosbuvir  
+↔ Cmax 1.01 (0.88, 1.15)  
+↔ AUC  1.11 (1.02, 1.21)  
+ GS-331007 
+↔ Cmax 1.17 (1.12, 1.23)  
+↔ AUC  1.31 (1.25, 1.36)  
+↑ Cmin 1.42 (1.34, 1.49)  When given with tenofovir disoproxil fumarate used in conjunction with atazanavir/ritonavir, Harvoni increased the concentration of tenofovir.  
+ The safety of tenofovir disoproxil fumarate in the setting of Harvoni and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are  not available (see section  4.4). 
+ Atazanavir concentrations are also increased, with a risk for an increase in bilirubin levels/icterus. That risk is even higher if ribavirin is used as part of the HCV treatment.  15 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Darunavir boosted with ritonavir  (800 mg/ 100 mg once daily)/ ledipasvir (90  mg once daily)d Darunavir  
+↔ Cmax 1.02 (0.88, 1.19)  
+↔ AUC  0.96 (0.84, 1.11)  
+↔ Cmin 0.97 (0.86, 1.10)  
+ Ledipasvir  
+↑ Cmax 1.45 (1.34, 1.56)  
+↑ AUC  1.39 (1.28, 1.49)  
+↑ Cmin 1.39 (1.29, 1.51)  No dose adjustment of Harvoni or darunavir (ritonavir boosted) is required.  
+ For the combination of tenofovir/emtricitabine + darunavir/ritonavir, please see below.  Darunavir boosted with ritonavir  (800 mg/ 100 mg once daily)/ sofosbuvir (400  mg once daily)  Darunavir  
+↔ Cmax 0.97 (0.94, 1 .01) 
+↔ AUC  0.97 (0.94, 1.00)  
+↔ Cmin 0.86 (0.78, 0.96)  
+ Sofosbuvir  
+↑ Cmax 1.45 (1.10, 1.92)  
+↑ AUC  1.34 (1.12, 1.59)  
+ GS-331007 
+↔ Cmax 0.97 (0.90, 1.05)  
+↔ AUC  1.24 (1.18, 1.30)  Darunavir boosted with ritonavir (800 mg/ 100 mg once daily)  + emtricitabine/ tenofovir disoproxil fumarate (200  mg/ 300 mg once daily)/ ledipasvir (90 mg once daily)c/ sofosbuvir (400 mg once daily)c, d 
+ Dosed simultaneouslyf Darunavir  
+↔ Cmax 1.01 (0.96, 1.06)  
+↔ AUC  1.04 (0.99, 1.08)  
+↔ Cmin 1.08 (0.98, 1.20)  
+ Ritonavir  
+↔ Cmax 1.17 (1.01, 1.35)  
+↔ AUC  1.25 (1.15, 1.36)  
+↑ Cmin 1.48 (1.34, 1.63)  
+ Emtricitabine  
+↔ Cmax 1.02 (0.96, 1.08)  
+↔ AUC  1.04 (1.00, 1.08)  
+↔ Cmin 1.03 (0.97, 1.10)  
+ Tenofovir  
+↑ Cmax 1.64 (1.54, 1.74)  
+↑ AUC  1.50 (1.42, 1.59)  
+↑ Cmin 1.59 (1.49, 1.70)  
+ Ledipasvir  
+↔ Cmax 1.11 (0.99, 1.24)  
+↔ AUC  1.12 (1.00, 1.25)  
+↔ Cmin 1.17 (1.04, 1.31)  
+ Sofosbuvir  
+↓ Cmax 0.63 (0.52, 0.75)  
+↓ AUC  0.73 (0.65, 0.82)  
+ GS-331007 
+↔ Cmax 1.10 (1.04, 1.16)  
+↔ AUC  1.20 (1.16, 1.24)  
+↔ Cmin 1.26 (1.20, 1.32)  When given with darunavir/ritonavir used in conjunction with tenofovir disoproxil fumarate, Harvoni increased the concentration of tenofovir.  
+ The safety of tenofovir disoproxil fumarate in the setting of Harvoni and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section  4.4). 16 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Lopinavir boosted with ritonavir  + emtricitabine/ tenofovir disoproxil fumarate Interaction not studied.  Expected:  
+↑ Lopinavir  
+↑ Ritonavir  
+ 
+↔ Emtricitabine  
+↑ Tenofovir  
+ 
+↑ Ledipasvir  
+↔ Sofosbuvir  
+↔ GS -331007 When given with lopinavir/ritonavir used in conjunction with tenofovir disoproxil fumarate, Harvoni is expected to increase the concentration of tenofovir.  
+ The safety of tenofovir disoproxil fumarate in the setting of Harvoni and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives  are not available (see section  4.4). Tipranavir boosted with ritonavir  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↓ Sofosbuvir  
+↔ GS -331007 
+ (Induction of P -gp) Co-administration of Harvoni with tipranavir (ritonavir boosted) is expected to decrease the concentration of ledipasvir, leading to reduced therapeutic effect of Harvoni. Co -administration is not recommended.  HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS  Raltegravir  (400 mg twice daily)/ ledipasvir (90  mg once daily)d Raltegravir  
+↓ Cmax 0.82 (0.66, 1.02)  
+↔ AUC  0.85 (0.70, 1.02)  
+↑ Cmin 1.15 (0.90, 1.46)  
+ Ledipasvir  
+↔ Cmax 0.92 (0.85, 1.00)  
+↔ AUC  0.91 (0.84, 1.00)  
+↔ Cmin 0.89 (0.81, 0.98)  No dose adjustment of Harvoni or raltegravir is required.  Raltegravir  (400 mg twice daily)/ sofosbuvir (400 mg once daily)d Raltegravir  
+↓ Cmax 0.57 (0.44, 0.75)  
+↓ AUC  0.73 (0.59, 0.91)  
+↔ Cmin 0.95 (0.81, 1.12)  
+ Sofosbuvir  
+↔ Cmax 0.87 (0.71, 1.08)  
+↔ AUC  0.95 (0.82, 1.09)  
+ GS-331007 
+↔ Cmax 1.09 (0.99, 1.19)  
+↔ AUC  1.02 (0.97, 1.08)  
+17 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Elvitegravir/ cobicistat/ emtricitabine/ tenofovir disoproxil fumarate  (150 mg/ 150 mg/ 200 mg/ 
+300 mg once daily)/ ledipasvir (90  mg once daily)c/ sofosbuvir (400  mg once daily)c Interaction not studied.  Expected:  
+↔ Emtricitabine  
+↑ Tenofovir  
+ Observed:  Elvitegravir  
+↔ Cmax 0.88 (0.82, 0.95)  
+↔ AUC  1.02 (0.95, 1.09)  
+↑ Cmin 1.36 (1.23, 1.49)  
+ Cobicistat  
+↔ Cmax 1.25 (1.18, 1.32)  
+↑ AUC  1.59 (1.49, 1.70)  
+↑ Cmin 4.25 (3.47, 5.22)  
+ Ledipasvir  
+↑ Cmax 1.63 (1.51, 1.75)  
+↑ AUC  1.78 (1.64, 1.94)  
+↑ Cmin 1.91 (1.76, 2.08)  
+ Sofosbuvir  
+↑ Cmax 1.33 (1.14, 1.56)  
+↑ AUC  1.36 (1.21, 1.52)  
+ GS-331007 
+↑ Cmax 1.33 (1.22, 1.44)  
+↑ AUC  1.44 (1.41, 1.48)  
+↑ Cmin 1.53 (1.47, 1.59)  When given with elvitegravir/ cobicistat/ emtricitabine/ tenofovir disoproxil fumarate, Harvoni is expected to increase th e concentration of tenofovir.  
+ The safety of tenofovir disoproxil fumarate in the setting of Harvoni and a pharmacokinetic enhancer (e.g. ritonavir or cobicistat) has not been established.  
+ The combination should be used with caution with frequent renal monitoring, if other alternatives are not available (see section  4.4). Dolutegravir  Interaction not studied.  Expected:  
+↔ Dolutegravir  
+↔ Ledipasvir  
+↔ Sofosbuvir  
+↔ GS -331007  No dose adjustment required.  HERBAL SUPPLEMENTS  St. John’s wort  Interaction not studied.  Expected:  
+↓ Ledipasvir  
+↓ Sofosbuvir  
+↔ GS -331007 
+ (Induction of P -gp) Harvoni is contraindicated with St. John’s wort (see section  4.3). HMG -Co 
+ A REDUCTASE INHIBITORS  Rosuvastating ↑ Rosuvastatin  
+ (Inhibition of drug transporters OATP and BCRP)  Co-administration of Harvoni with rosuvastatin may significantly increase the concentration of rosuvastatin (several fold -increase in AUC) which is associated with increased risk of myopathy, including rhabdomyolysis. Co- administration of Harvoni with rosuva statin is contraindicated (see section  4.3). Pravastating ↑ Pravastatin  Co-administration of Harvoni with pravastatin may significantly increase the concentration of pravastatin which is associated with increased risk of myopathy. Clinical and biochemical  control is recommended in these patients and a dose adjustment may be needed (see section  4.4). 18 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  Other statins  Expected:  
+↑ Statins  Interactions cannot be excluded with other HMG- Co 
+ A reductase inhibitors. When co-administered with Harvoni, a reduced dose of statins should be considered and careful monitoring for statin adverse reactions should be undertaken (see section  4.4). NARCOTIC ANALGESICS  Methadone  Interaction not studied.  Expected:  
+↔ Ledipasvir  No dose adjustment of Harvoni or methadone is required.  Methadone  (Methadone maintenance therapy [30  to 130 mg/ daily])/ sofosbuvir (400  mg once daily)d R-methadone  
+↔ Cmax 0.99 (0.85, 1.16)  
+↔ AUC  1.01 (0.85, 1.21)  
+↔ Cmin 0.94 (0.77, 1.14)  
+ S-methadone  
+↔ Cmax 0.95 (0.79, 1.13)  
+↔ AUC  0.95 (0.77, 1.17)  
+↔ Cmin 0.95 (0.74, 1.22)  
+ Sofosbuvir  
+↓ Cmax 0.95 (0.68, 1.33)  
+↑ AUC  1.30 (1.00, 1.69)  
+ GS-331007 
+↓ Cmax 0.73 (0.65, 0.83)  
+↔ AUC  1.04 (0.89, 1.22)  IMMUNOSUPPRESSANTS  Ciclosporing Interaction not studied.  Expected:  
+↑ Ledipasvir  
+↔ Ciclosporin  No dose adjustment of Harvoni or ciclosporin is required at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of ciclosporin may be required.  Ciclosporin  (600 mg single dose)/ sofosbuvir (400 mg single dose)h Ciclosporin  
+↔ C max 1.06 (0.94, 1.18)  
+↔ AUC  0.98 (0.85, 1.14)  
+ Sofosbuvir  
+↑ C max 2.54 (1.87, 3.45)  
+↑ AUC  4.53 (3.26, 6.30)  
+ GS-331007 
+↓ C max 0.60 (0.53, 0.69)  
+↔ AUC  1.04 (0.90, 1.20)  Tacrolimus  Interaction not studied.  Expected:  
+↔ Ledipasvir  No dose adjustment of Harvoni or tacrolimus is required at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of tacrolimus may be required.  Tacrolimus  (5 mg single dose)/ sofosbuvir (400 mg single dose)h Tacrolimus  
+↓ Cmax 0.73 (0.59, 0.90)  
+↑ AUC  1.09 (0.84, 1.40)  
+ Sofosbuvir  
+↓ Cmax 0.97 (0.65, 1.43)  
+↑ AUC  1.13 (0.81, 1.57)  
+ GS-331007 
+↔ Cmax 0.97 (0.83, 1.14)  
+↔ AUC  1.00 (0.87, 1.13)  
+19 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean ratio (90% confidence interval) for AUC, Cmax, C mina, b Recommendation concerning co -administration with Harvoni  ORAL CONTRACEPTIVES  Norgestimate/ ethinyl estradiol (norgestimate 
+0.180 mg/ 0.215  mg/ 
+0.25 mg/ ethinyl estradiol 
+0.025 mg)/ ledipasvir (90 mg once daily)d Norelgestromin  
+↔ Cmax 1.02 (0.89, 1.16)  
+↔ AUC  1.03 (0.90, 1.18)  
+↔ Cmin 1.09 (0.91, 1.31)  
+ Norgestrel  
+↔ Cmax 1.03 (0.87, 1.23)  
+↔ AUC  0.99 (0.82, 1.20)  
+↔ Cmin 1.00 (0.81, 1.23)  
+ Ethinyl estradiol  
+↑ Cmax 1.40 (1.18, 1.66)  
+↔ AUC  1.20 (1.04, 1.39)  
+↔ Cmin 0.98 (0.79, 1.22)  No dose adjustment of oral contraceptives is required.  Norgestimate/ ethinyl estradiol (norgestimate 
+0.180 mg/ 0.215  mg/ 
+0.25 mg/ ethinyl estradiol 
+0.025 mg)/ sofosbuvir (400 mg once daily)d Norelgestromin  
+↔ Cmax 1.07 (0.94, 1.22)  
+↔ AUC  1.06 (0.92, 1.21)  
+↔ Cmin 1.07 (0.89, 1.28)  
+ Norgestrel  
+↔ Cmax 1.18 (0.99, 1.41)  
+↑ AUC  1.19 (0.98, 1.45)  
+↑ Cmin 1.23 (1.00, 1.51)  
+ Ethinyl estradiol  
+↔ Cmax 1.15 (0.97, 1.36)  
+↔ AUC  1.09 (0.94, 1.26)  
+↔ Cmin 0.99 (0.80, 1.23)  a Mean ratio (90%  CI) of co- administered drug pharmacokinetics of study medicinal products alone or in combination.  No effect  = 1.00.  b All interaction studies conducted in healthy volunteers.  c Administered as Harvoni.  d Lack of pharmacokinetics interaction bounds 70-143%.  e These are drugs within class where similar interactions could be predicted.  f Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir disoproxil fumarate or darunavir/ritonavir + emtricitabine/tenofovir disoproxil fumarate and Harvoni provided similar results.  g This study was conducted in the presence of another two direct -acting antiviral agents.  h Bioequivalence/Equivalence boundary 80-125%.  
+ 

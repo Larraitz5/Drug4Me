@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Effects of alirocumab on other medicinal products   
+ Since alirocumab  is a biologic al medicinal product , no pharmacokinetic effects of alirocumab  on other medicinal pro ducts and no effect on cytochrome P450 enzymes  are anticipated.  
+ Effects of other medicinal products on alirocumab  
+ Statins and other lipid -modifying therapy are known to increase production of PCSK9, the protein targeted by alirocumab . This leads to the increased target -mediated clearance and reduced systemic exposure of alirocumab. Compared to alirocumab monotherapy, the exposure to alirocumab is about 40%, 15%, and 35% lower when used concomitantly with statins, ezetimibe , and fenofibrate, respectively. However, reduction of LDL -C is maintained during the dosing interval when alirocumab is administered every two weeks.  
+ 

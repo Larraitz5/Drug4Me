@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Interaction studies have only been performed in adults.  
+ Medicinal products that may increase sunitinib plasma concentrations  Effect of CYP3A4 inhibitors  In healthy volunteers,  concomitant administration of a single dose of sunitinib with the potent CYP3A4 inhibitor ketoconazole resulted in an increase of the combined [sunitinib + primary  
+9 metabolite] maximum concentration ( Cmax) and area under the curve ( AUC 0-) values of 49% and 
+51%, respectively.  
+ Administration of sunitinib with potent CYP3A4 inhibitors ( e.g., ritonavir , itraconazole, erythromycin, clarithromycin, grapefruit juice) may increase sunitinib concentrations . 
+ Combination with CYP3A4 inhibitors should therefore be avoided, or the selection of an alternate concomitant medicinal product with no or minimal potential to inhibit CYP3A4 should be considered.  
+ If this is not possible, the dose of sunitinib  may need to be  reduced to a minimum of 37.5  mg daily  for GIST and MRCC or 25  mg daily for p 
+ NET,  based on careful monitoring of tolerability (see section  4.2). 
+ Effect of Breast Cancer Resistance Protein (BCRP) inhibitors  Limited clinical data are available on the interaction between sunitinib and BCRP inhibitors and the possibility of an interaction between sunitinib and other BCRP inhibitors cannot be excluded (see section 5.2).  
+ Medicinal products that may decrease sunitinib plasma concentrations  Effect of CYP3A4 inducers  In healthy volunteers,  concomitant administration of a single dose of sunitinib  with the CYP3A4  inducer rifampicin resulted in a reduction of the combined [sunitinib + primary metabolite] Cmax and AUC 0- values of 23% and 46%, respectively.  
+ Administration of sunitinib  with potent CYP3A4 inducers ( e.g., dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or herbal preparations containing St. John’s Wort /Hypericum perforatum ) may decrease sunitinib concentrations.  Combination with CYP3A4  inducers should therefore be avoided, or selection of an alternate concomitant medicinal product,  with no or minimal potential to induce CYP3A4 should be considered . If this is not possible, the dose of sunitinib  may need to be increased in 12.5  mg increments (up to 87.5  mg per day for GIST and MRCC or 62.5  mg per day for p 
+ NET), based on careful monitoring of tolerability (see section  4.2). 
+ 

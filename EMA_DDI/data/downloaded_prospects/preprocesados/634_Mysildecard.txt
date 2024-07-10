@@ -1,0 +1,60 @@
+4.5 and 5.1).  
+ Concomitant use with other PDE5 inhibitors  
+ The safety and efficacy of silden afil when co-administered with  other PDE5 inhibitor products, including the combined use of s ildenafil for erectile dysfuncti on has not been studied in PAH patients and such concomitant use is not recommended (see section 4.5). 
+ Sodium content 
+ This medicinal product contains  less than 1 mmol sodium (23 mg)  per tablet, that is to say essentially 
+‘sodium-free’. 
+ 4.5 Interaction with other medici nal products and other forms o f interaction  
+ Effects of other medicinal products on sildenafil 
+ In -vitro studies 
+ Sildenafil metabolism is princip ally mediated by the cytochrome  P450 (CYP) isoforms 3A4 (major route) and 2C9 (minor route). T herefore, inhibitors of these is oenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildena fil clearance. For dose recommendations, see sections 4.2 and 4.3.   In vivo studies 
+ Co-administration of oral silden afil and intravenous epoprosten ol has been evaluated (see sections 4.8 and 5.1).  
+ The efficacy and safety of sildenaf il co-administered with othe r treatments for pulmonary arterial hypertension (e.g. ambrisentan, iloprost) has not been studied in controlled clinical trials. Therefore, caution is recommended in case of co-administration.  
+ The safety and efficacy of silden afil when co-administered with  other PDE5 inhibitors has not been studied in pulmonary arterial hypertension patients (see sectio n 4.4).  
+ Population pharmacokinetic anal ysis of pulmonary arterial hyper tension clinical trial data indicated a reduction in sildenafil clearance and/or an increase of oral bi oavailability when co-a dministered with CYP3A4 substrates and the combination of CYP3A4 substrates and beta-blockers. These were the only factors with a statistically  significant impact on sildena fil pharmacokinetics in patients with pulmonary arterial hypertension. T he exposure to sildenafil in patients on CYP3A4 substrates and CYP3A4 substrates plus beta-bloc kers was 43% and 66% higher, re spectively, compared to patients not receiving these classes of medicinal products. Sildenafil e xposure was 5-fold higher at a dose of 
+80 mg three times a day compared  to the exposure at a dose of 2 0 mg three times a day. This concentration range covers the  increase in sildenafil exposure observed in specifically designed drug interaction studies with CYP3A4 inhibitors (except with the mos t potent of the CYP3A4 inhibitors e.g. ketoconazole, itraconazole, ritonavir).  
+  
+7 CYP3A4 inducers seemed to have a substantial impact on the phar macokinetics of sildenafil in pulmonary arterial hypertension pa tients, which was confirmed i n the in -vivo  interaction study with CYP3A4 inducer bosentan.  
+ Co-administration of bosentan (a moderate inducer of CYP3A4, CY P2C9 and possibly of CYP2C19) 
+125 mg twice daily with sildenafil 80 mg three times a day (at steady state) concomitantly administered during 6 days in healthy volunteers resulted in a 63% decrease of sildenafil AUC. A population pharmacokinetic analysi s of sildenafil data from adu lt PAH patients in clinical trials including a 12 week study to asses s the efficacy and safety of oral sildenafil 20 mg three times a day when added to a stable dose of bosentan (62.5 mg – 125 mg twice  a day) indicated a decrease in sildenafil exposure with bosenta n co-administration, similar to  that observed in healthy volunteers (see sections 4.4 and 5.1).  
+ Efficacy of sildenafil should be c losely monitored in patients using concomitant potent CYP3A4 inducers, such as carbamazepine , phenytoin, phenobarbital, St J ohn’s wort and rifampicine.  
+ Co-administration of the HIV protease inhibitor ritonavir, whic h is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg singl e dose) resulted in a 300% (4-fold)increase in sildenafil C max and a 1,000% (11-fold) increase in sildenafil plasma AUC. At 
+24 hours, the plasma levels of sildenafil were still approximat ely 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone. T his is consistent with ritonavir’s marked effects on a broad range o f P450 substrates. Based on th ese pharmacokinetic results co-administration of sildenaf il with ritonavir is contraindicat ed in pulmonary arterial hypertension patients (see section 4.3).  
+ Co-administration of the HIV p rotease inhibitor saquinavir, a C YP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose ) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenaf il AUC. Sildenafil had no effec t on saquinavir pharmacokinetics. For dose recommendations, see section 4.2.  
+ When a single 100 mg dose of sild enafil was administered with e rythromycin, a moderate CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), the re was a 182% increase in sildenafil systemic exposure (AUC). For dose recommendations, see section 4.2. In healthy male volunteers, there was no evidence of an eff ect of azithromycin (500 mg dail y for 3 days) on the AUC, Cmax, Tmax, elimination rate constant, or s ubsequent half-life of sildenafi l or its principal circulating metabolite. No dose adjustment is required. C imetidine (800 mg), a cytochro me P450 inhibitor and a non-specific CYP3A4 inhibitor, caused a 56% i ncrease in plasma sildenafil co ncentrations when co-administered with sildenafil (50 mg) to healt hy volunteers. No dose adjustme nt is required.  
+ The most potent of the CYP3A4 inhibitors such as ketoconazole a nd itraconazole would be expected to have effects similar to ritonavir (see section 4.3). CYP3A4 inhibitors like clarithromycin, telithromycin and nefazodone are e xpected to have an effect in between that of ritonavir and CYP3A4 inhibitors like saquinavir or erythromycin, a seven-fold increa se in exposure is assumed. Therefore dose adjustments are recommende d when using CYP3A4 inhibitors ( see section 4.2). 
+ The population pharmacokinetic ana lysis in pulmonary arterial h ypertension patients suggested that co-administration of beta-blocke rs in combination with CYP3A4 s ubstrates might result in an additional increase in sildenafil exposure compared with admini stration of CYP3A4 substrates alone. 
+ Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabol ism and may give rise to modest increases in plasma levels of s ildenafil. No dose adjustment is  required but the concomitant use of sildenafil and grapefruit juice is not recommended. 
+ Single doses of antacid (magnesium  hydroxide/aluminium hydroxid e) did not affect the bioavailability of sildenafil.  
+  
+8 Co-administration of oral cont raceptives (ethinyloestradiol 30 μg and levonorgestrel 150 μg) did not affect the pharmacokinetics of sildenafil.  
+ Nicorandil is a hybrid of potassi um channel activator and nitra te. Due to the nitrate component it has the potential to have serious i nteraction with sildenafil (see section 4.3).  
+ Effects of sildenafil on other medicinal products 
+ In- vitro studies  
+ Sildenafil is a weak inhibitor of  the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC 50 > 150 μM).  
+ There are no data on the inter action of sildenafil and non-spec ific phosphodiesterase inhibitors such as theophylline or dipyridamole.  
+ In- vivo studies  
+ No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), bot h of which are metabolised by CYP2C9. 
+ Sildenafil had no significant effect on atorvastatin exposure ( AUC increased 11%), suggesting that sildenafil does not have a clini cally relevant effect on CYP3A4 . 
+ No interactions were observed between sildenafil (100 mg single  dose) and acenocoumarol. 
+ Sildenafil (50 mg) did not poten tiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).  Sildenafil (50 mg) did not potentiate the hypotensive effects o f alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.  In a study of healthy volunteers sildenafil at steady state (80  mg three times a day) resulted in a 50% increase in bosentan AUC (125 mg t wice daily). A population pha rmacokinetic analysis of data from a study of adult PAH patients on background bosentan therapy (62. 5 mg – 125 mg twice a day) indicated an increase (20% (95% CI: 9.8 - 30.8)) of bosentan AU C with co-administration of steady- state sildenafil (20 mg three times a day) of a smaller magnitu de than seen in healthy volunteers when co-administered with 80 mg sildenafil three times a day (see se ctions 4.4 and 5.1). 
+ In a specific interaction study, where sildenafil (100 mg) was co-administered with amlodipine in hypertensive patients, there w as an additional reduction on sup ine systolic blood p ressure of 8 mm 
+ Hg. The corresponding additional reduc tion in supine diastolic bloo d pressure was 7 mm 
+ Hg. These additional blood pressure reducti ons were of a similar magnitud e to those seen when sildenafil was administered alone to healthy volunteers.  In three specific drug-drug interaction studies, the alpha-bloc ker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg ) were administered simultan eously to patients with benign prostatic hyperplasia (BPH) stab ilised on doxazosin therapy. In  these study populations, mean additional reductions of supine  systolic and diastolic blood pr essure of 7/7 mm 
+ Hg, 9/5 mm 
+ Hg, and 
+8/4 mm 
+ Hg, respectively, and mean additional reductions of stand ing blood pressure of 6/6 mm 
+ Hg, 
+11/4 mm 
+ Hg, and 4/5 mm 
+ Hg, respectively were observed. When silde nafil and doxazosin were administered simultaneously to patients stabilised on doxazosin  therapy, there were infrequent reports of patients who experienced sym ptomatic postural hypotension. T hese reports included dizziness and lightheadedness, but not syncope . Concomitant administration of  sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in su sceptible individuals (see section 4.4). 
+  
+9 Sildenafil (100 mg single dose) d id not affect the steady state  pharmacokinetics of the HIV protease inhibitor saquinavir, which is a CYP3A4 substrate/inhibitor. 
+ Consistent with its known effect s on the nitric oxide/c 
+ GMP path way (see section 5.1), sildenafil was shown to potentiate the hypoten sive effects of nitrates, and it s co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (se e section 4.3). 
+ Riociguat: Preclinical studies showed additive systemic blood p ressure lowering effect when PDE5 inhibitors were combined with rio ciguat. In clinical trials, ri ociguat has been shown to augment the hypotensive effects of PDE5 inhibitors. There was no evidence o f favourable clinical effect of the combination in the population studied. Concomitant use of rioci guat with PDE5 inhibitors, including sildenafil, is contraindicated (see section 4.3).  Sildenafil had no clinically si gnificant impact on the plasma l evels of oral contraceptives (ethinyloestradiol 30 µg and levonorgestrel 150 µg).  
+ Addition of a single dose of s ildenafil to sacubitril/valsartan  at steady state in patients with hypertension was associated with  a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone. Therefore, cautio n should be exercised when sildenafil is initiated in patients treated with sacubitril/valsartan. 
+ Paediatric population 
+ Interaction studies have only been performed in adults. 
+ 

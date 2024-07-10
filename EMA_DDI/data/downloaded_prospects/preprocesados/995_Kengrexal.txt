@@ -1,0 +1,22 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Interaction studies have only been performed in adults.  
+ Oral P2Y12 agents (clopidogrel, prasugrel, ticagrelor) 
+ When clopidogrel is administered during infusion of cangrelor, the expected inhibitory effect of clopidogrel on platelets is not achieved. Administration of 600 mg clopidogrel immediately after the cessation of the cangrelor infusion results in the anticipated full pharmacodynamic effect. No clinically relevant interruption of P2Y12 inhibition was observed in phase  III studies when 600 mg clopidogrel was administered immediately after discontinuation of the cangrelor infusion.  
+ 5 A pharmacodynamic interaction study has been conducted with cangrelor and prasugrel, which demonstrated that cangrelor and prasugrel can be administered concomitantly. Patients can be transitioned from cangrelor to prasugrel when prasugrel is administered immediately following discontinuation of the cangrelor infusion or up to one hour before, optimally at 30 minu tes before the end of the cangrelor infusion to limit recovery of platelet reactivity.  
+ A pharmacodynamic interaction study has also been conducted with cangrelor and ticagrelor. No interaction on cangrelor was observed. Patients can be transitioned from cangrelor to ticagrelor without interruption of antiplatelet effect. 
+ Pharmacodynamic effects  
+ Cangrelor exhibits inhibition of activation and aggregation of platelets as shown by aggregometry (light transmission and impedance), point -of care assays, such as the Verify 
+ Now P2Y12 test, VASP -P and flow cytometry.  
+ Following the administration of a 30 micrograms/kg bolus followed by a 4  micrograms/kg/min infusion (the PCI dose), platelet inhibition is observed within two minutes. The pharmacokinetic/pharmacodynamic (PK/PD) effect of cangrelor is maintained consistently for the duration of the infusion.  
+ Irrespective of dose, following cessation of the infusion, cangrelor blood levels decrease rapidly and platelet function returns to normal within one  hour.  
+ Acetylsalicylic acid , hepari
+ n, nitrogycerin 
+ No pharmacokinetic or pharmacodynamic interaction with cangrelor was observed in an interaction study with aspirin, heparin, or nitroglycerin.  
+ Bivalirudin, low molecular weight heparin, fondaparinux, and GP  IIb
+ /IIIa inhibitors  
+ In clinical studies, cangrelor has been co -administered with bivalirudin, low molecular weight heparin, fondaparinux, and GP  IIb/IIIa inhibitors (abciximab, eptifibatide , tirofiban) with no apparent effect upon the pharmacokinetics or pharmacodynamics of cangrelor.  
+ Cytochrome P450 (CYP) 
+ Metabolism of cangrelor is not dependent on CYPs and CYP  isoenzymes are not inhibited by therapeutic concentrations of cangrelor or its major metabolites.  
+ Breast cancer resistance protein (BCRP)  
+ In vitro  inhibition of BCRP by the metabolite ARC -69712XX at clinically relevant concentrations has been observed. Possible implications for the in vivo  situation have not been investigated, but caution is advised when cangrelor is to be combined with a BCRP subst rate. 
+ 

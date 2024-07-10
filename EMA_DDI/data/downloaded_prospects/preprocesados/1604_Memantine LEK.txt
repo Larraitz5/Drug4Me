@@ -1,0 +1,12 @@
+4.5  Interaction with other medicinal products and other forms of interaction  
+ Due to the pharmacologica l effects and t he mechanism of action of memantine the following  interactions may occur:  
+ 
+• The mode of action suggests that the effects  of L-dopa,  dopaminergic agonists, and  anticholinergics may be enhanced by concomitant treatment with NMDA -antagonists suc h as memantine.  The effects of barbiturates and neuroleptics may be reduced. Concomitant  administration of memantine with the antispas modic medic inal products , dantrolene or baclofen, can modify  their effects and a dose adjustment may be necessary.  
+• Concomi tant use of mem antine and amantadine should be avoided, owing to the risk of  pharmacotoxic psychosis. Both active substances are chemi cally relat ed NMDA -antagonists. The  same may be true for ketamine and dextromethorphan (see also section 4.4). There is on e published cas e report on a possible risk also for the combination of memantine and phenytoin.  
+• Other active substances such as cimeti dine, ranit idine, procainamide, quinidine, quinine and  nicotine that use the same renal cationic transport system as amant adine may also possibly  interact with memantine leading to a potential risk of increased plasma levels.  
+• There may be a possibility of reduced ser um level of hydrochlorothiazide (HCT) when  memantine is co -administered with HCT or any combination with HCT.  
+• In post -marketin g experience, isolated cases with international normalized ratio (INR) increases  have been reported in patients concomi tantly trea ted with warfarin. Although no causal  relationship has been established, close monitoring of prothrombin time o r INR is advisa ble for  patients concomitantly treated with oral anticoagulants.  
+ In single -dose pharmacokinetic (PK) studies in young healthy sub jects, no relevant active substance – active  substance interaction of memantine with glyburide/metformin or don epezil was obse rved. 
+ In a clinical study in young healthy subjects, no relevant effect of memantine on the pharmacokinetics  of galant amine  was o bserved.  
+ Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin -containing monooxygenase,  epoxide hydrolase or sul phation  in vitro . 
+ 

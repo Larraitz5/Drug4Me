@@ -1,0 +1,32 @@
+4.5 Interaction with other medicinal products and other forms of interacti on 
+ Edoxaban is predominantly absorbed in the upper gastrointestinal (GI) tract. Thus, medicinal products  or disease conditions that increase gastric emptying and gut motility have the possibility of reducing edoxaban dissolution and absorption.  
+ P-gp inhibitors 
+ Edoxaban is a substrate for the efflux transporter P -gp. In pharmacokinetic (PK) studies, concomitant administration of edoxaban with the P -gp inhibitors  ciclosporin , dronedarone, erythromycin, ketoconazole, quinidine, or verapamil resulted in i ncreased plasma concentrations of edoxaban. Concomitant use of edoxaban with ciclosporin , dronedarone, erythromycin, or ketoconazole requires dose reduction to 30  mg once daily. Concomitant use of edoxaban with quinidine, verapamil, or amiodarone does not require dose reduction based on clinical data (see section  4.2). The use of edoxaban with other P -gp inhibitors including human immunodeficiency virus ( HIV) protease inhibitors has no t been studied.  
+ Edoxaban  30 mg once daily must be administered during co ncomitant use with the following P -gp inhibitors:  
+• Ciclosporin : Concurrent administration of a single dose of ciclosporin  500 mg with a single dose of edoxaban 60  mg increased edoxaban AUC and maximum serum concentration ( Cmax) by 
+73% and 74%, respectively.  
+• Dronedarone: Dronedarone 400  mg twice daily for 7  days with a single concomitant dose of edoxaban 60  mg on day 5 increased edoxaban AUC and C max by 85% and 46%, respectively.  
+• Erythromycin: Erythromycin 500  mg four times daily for 8  days with a single concomitant dose of edoxaban 60  mg on day 7 increased the edoxaban AUC and C max by 85% and 68%, respectively.  
+• Ketoconazole: Ketoconazole 400  mg once daily for 7  days with a single concomitant dose of edoxaban 60  mg on day 4, increased edoxaban AUC and C max by 87% and 89%, respectively.  
+ 11 Edoxaban 60 mg once daily is recommended during concomitant use with the following P -gp inhibitors: 
+• Quinidine: Quinidine 300  mg once daily on days 1 and 4 and three times daily on days 2 and 3, with a single concomitant dose of edoxaban 60  mg on day 3, increased edoxaban AUC over 
+24 hours by 77% and C max by 85%, respectively.  
+• Verapamil: Verapamil 240  mg once daily for 11  days with a single concomitant dose of edoxaban 60  mg on day 10 increased the edoxaban AUC and C max by approximately 53%.  
+• Amiodarone: Co-administration of  amiodarone 400  mg once daily with edoxaban 60  mg once daily increased AUC by 40% and C max by 66%. This was not considered clinically significant.  In ENGAGE AF -TIMI 48 study in NVAF, efficacy and safety results were similar for subjects with and without concomitant amiodarone use.  
+• Clarithromycin:  Clarithromycin (500  mg twice daily) for 10  days with a single concomitant dose of edoxaban 60  mg on day  9 increased the edoxaban AUC and C max by approximately 53% and 27%, respectively.  
+ P-gp inducers 
+ Co-administration of edoxaban with the P-gp inducer rifampicin led to a decrease in mean edoxaban AUC and a shortened half -life, with possible decreases in its pharmacodynamic  effects. The concomitant use of edoxaban with other P-gp inducers (e.g. phenytoin, carbamazepine, phenobarbital or St. John's Wort) may lead to reduced edoxaban plasma concentrations. Edoxaban should be used with caution when co -administered with P-gp inducers.  
+ P-gp substrates 
+ Digoxin Edoxaban 60  mg once daily on days  1 to 14 with coadministration of multiple daily doses of digoxin 
+0.25 mg twice daily ( days 8 and 9) and 0.25  mg once daily (days  10 to 14) increased the C max of edoxaban by 17%, with no significant effect on AUC or renal clearance at steady state. When the effects of edoxaban on digoxin PK were also examined,  the Cmax of digoxin increased by approximately 28% and AUC by 7%. This was not considered clinically relevant.  No dose modification  is necessary  when edoxaban is administered with digoxin.  
+ Anticoagulants, antiplatelets, NSAIDs  and SSRIs/SNRIs  
+ Anticoagulants  Co-administration of edoxaban with other anticoagulants is contraindicated due to increased risk of bleeding (see section  4.3). 
+ ASA Co-administration of ASA (100  mg or 325  mg) and edoxaban increased bleeding time relative to either medicinal product  alone. Co -administration of high dose ASA (325  mg) increased the steady state C max and AUC of edoxaban by 35% and 32%, respectively. The conc omitant chronic use of high dose ASA (325  mg) with edoxaban is not recommended. Concomitant administration of higher doses than 100 mg ASA should only be performed under medical supervision.  
+ In clinical studies concomitant use of ASA (low dose ≤ 100 mg/day), other antiplatelet agents, and  thienopyridines was permitted and resulted in approximately a 2 -fold increase in major bleeding in comparison with no concomitant use, although to a similar extent in the edoxaban and warfarin groups (see section  4.4). Co-administration of low dose ASA (≤  100 mg) did not affect the peak or total exposure of edoxaban either after single dose or at steady -state. Edoxaban  can be co -administered with low dose ASA ( ≤ 100 mg/day). 
+ Platelet inhibitors In ENGAGE AF -TIMI 48 concomitant use of thienopyridines (e.g. clopidogrel) monotherapy was permitted and resulted in increased clinically relevant bleeding although with a lower risk of bleeding on edoxaban compared to warfarin (see section  4.4). 12  There is very limited exper ience on the use of edoxaban with dual antiplatelet therapy or fibrinolytic agents. 
+ NSAIDs Co-administration of naproxen and edoxaban increased bleeding time relative to either medicinal product alone. Naproxen had no effect on the C max and AUC of edoxaba n. In clinical studies, co -administration of NSAIDs resulted in increased clinically relevant bleeding. Chronic use of NSAIDs with edoxaban is not recommended.  
+ SSRIs/SNRIs  As with other anticoagulants the possibility may exist that patients are at increas ed risk of bleeding in case of concomitant use with SSRIs or SNRIs due to their reported effect on platelets (see section  4.4). 
+ Effect of edoxaban on other medicin al products  
+ Edoxaban increased the C max of concomitantly administered digoxin by 28%; however, the AUC was not affected. Edoxaban had no effect on the C max and AUC of quinidine.  
+ Edoxaban decreased the C max and AUC of concomitantly administered verapamil by 14% and 16%, respectively . 
+ 

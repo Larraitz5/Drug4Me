@@ -1,0 +1,9 @@
+> An additive effect on QT interval prolongation between FARESTON and the following drugs and other medicinal products that may prolong the QTc interval cannot b e excluded. This might lead to an increased risk of ventricular arrhythmias, including Torsade de pointes. Therefore co -administration of FARESTON with any of the following medicinal products is contraindicated (see also section 4.3):
+- antiarrhythmics cla ss
+> IA (e.g. QUINIDINE, HYDROQUINIDINE, DISOPYRAMIDE) or
+- antiarrhythmics class III (e.g. AMIODARONE, SOTALOL, DOFETILIDE, IBUTILIDE),
+- neuroleptics (e.g. phenothiazines, PIMOZIDE, SERTINDOLE, HALOPERIDOL, sultopride), 
+- certain antimicrobials agents ( MOXIFLOXACIN, ERYTHROMYCIN IV, PENTAMIDINE, ANTIMALARIALS particularly HALOFANTRINE),
+- certain antihistaminics (TERFENADINE, ASTEMIZOLE, MIZOLASTINE),
+- others (CISAPRIDE, vinca mine IV, BEPRIDIL, diphemanil).Drugs which decrease renal CALCIUM excretion, e.g. thiazide DIURETICS, may increase the risk ofhypercalcaemia.Enzyme inducers, like PHENOBARBITAL, PHENYTOIN and CARBAMAZEPINE, may increase the rate of toremifene metabolism thus lowering the steady -state concentration in serum. In such cases doublin g of the daily dose may be necessary.There is a known interaction between anti -estro gens and WARFARIN -type anticoagulants leading to aseriously increased bleeding time. Therefore, the concomitant use of toremifene with such drugs should be avoided.Theoretically the metabolism of toremifene is inhibited by drugs known to inhibit the CYP3A enzymesystem which is reported to be responsible for its main metabolic pathways. Examples of such drugs areantifungal imidazoles (KETOCONAZOLE); other antifungal ag ents (ITRACONAZOLE, VORICONAZOLE, POSACONAZOLE); PROTEASE INHIBITORS (RITONAVIR, NELFINAVIR), MACROLIDES (CLARITHROMYCIN, ERYTHROMYCIN, telithromycine). Concomitant use of those drugs with toremifene should be carefully considered.
+

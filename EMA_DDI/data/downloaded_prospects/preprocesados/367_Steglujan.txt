@@ -1,0 +1,37 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacokinetic drug interaction studies with Steglujan  have not  been perf ormed; however, suchstudies have been conducted with ertuglif lozin and sitagliptin, the individual active substances
+ of 
+ Steglujan .Ertuglif lozin 
+ Pharmacodynamic interactions 
+ Diuretics 
+ Ertuglif lozin may add to the diuretic ef f ect of  diuretics and may increase the risk of  dehydration andhypotension (see section
+ 4.4).Insulin and insulin secretagogues 
+ Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycaemia. Ertuglif lozin mayincrease the risk of  hypoglycaemia when used in combination with insulin and/or an insulinsecretagogue. Theref ore, a lower dose of  insulin or an insulin secretagogue may be required to reducethe risk of  hypoglycaemia when used in combination with Steglujan  (see sections
+ 4.2, 4.4 , and 4.8). Pharmacokinetic interactions 
+ Effects of other medicinal products
+ on the pharmacokinetics of ertugliflozin 
+ Metabolism by UGT1A9 and UGT2B7 is the primary clearance mechanism for ertuglif lozin. Interaction studies conducted in healthy subjects, using a single dose design, suggest that thepharmacokinetics of  ertuglif lozin  are not altered by sitagliptin, metf ormin, glimepiride, or simvastatin.8Multiple -dose administration of  rif ampicin (a uridine 5’ -diphospho -glucuronosyltransf erase [UGT ]and cytochrome P450 [CYP ] inducer) decreases ertuglif lozin area under the
+ concentration
+-time curve(AUC ) and maximum plasma concentration (Cmax) by 39% and 1
+5
+%, respectively. This decrease inexposure is not considered clinically relevant and theref ore, no dose adjustment is recommended. Aclinically relevant ef f ect with other inducers (e.g., carbamazepine, phenytoin, phenobarbital) is notexpected. The impact of  UGT inhibitors on the pharmacokinetics of ertuglif lozin has not been studied clinically,but potential increase in ertuglif lozin exposure due to UGT inhibition is not considered to be clinicallyrelevant.Effects of ertugliflozin on the pharmacokinetics of other medicinal products 
+ Interaction studies conducted in healthy volunteers suggest that ertuglif lozin had no clinically relevanteff ect on the pharmacokinetics of sitagliptin, metf ormin
+, and glimepiride. Coadministration of  simvastatin with ertuglif lozin resulted in a 24% and 19% increase in AUC and 
+ Cmax of  simvastatin, respectively, and 30%
+ and 1 6
+% increase in AUC and Cmax of  simvastatin acid,respectively. The mechanism for the small increases in simvastatin and simvastatin acid is unknownand is not perpetrated through
+ organic anion transporting polypeptide
+ (OATP ) inhibition byertuglif lozin. These increases are not considered to be clinically meaningf ul. 
+ Sitagliptin 
+ Pharmacokinetic interactions 
+ Effects of other medicinal products on sitagliptin 
+ Sitagliptin is primarily eliminated unchanged in urine, and metabolism is a minor pathway. In vitrostudies indicate that the primary enzyme responsible f or the limited metabolism of  sitagliptin is 
+ CYP3A4, with contribution f rom CYP2C8.Metabolism may play a more signif icant role in the elimination of  sitagliptin in the setting of  severerenal impairment or ESRD. For this reason, it is possible that potent CYP3A4 inhibitors (i.e.,ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the pharmacokinetics of  sitagliptin inpatients with severe renal impairment or ESRD.Interaction studies conducted in patients with type 2 diabetes or healthy volunteers suggest thatmetf ormin and ciclosporin had no clinically relevant ef f ect on the pharmacokinetics of sitagliptin.Effects of sitagliptin on other medicinal products 
+ In drug interaction studies, sitagliptin did not have clinically meaningf ul ef f ects on thepharmacokinetics of  the following: metf ormin, rosiglitazone, glyburide, simvastatin, warf arin, and oralcontraceptives.Digoxin:Sitagliptin had a small ef f ect on plasma digoxin concentrations. Following administration of
+ 0.25 mgdigoxin concomitantly with 100
+ mg of sitagliptin daily f or 10
+ days, the plasma AUC of
+ digoxin wasincreased on average by 11%
+ and the plasma Cmax on average by 18%. No dose
+ adjustment of  digoxinis recommended. However, patients at risk of  digoxin toxicity should be
+ monitored f or this whensitagliptin and digoxin are administered concomitantly.

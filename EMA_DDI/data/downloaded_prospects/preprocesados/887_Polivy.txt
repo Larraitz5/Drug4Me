@@ -1,0 +1,14 @@
+4.5 Interaction  with other medicinal products and other forms of interaction  
+ No dedicated  clinical drug -drug interaction studies with polatuzumab vedotin in humans have been conducted.  
+ Drug interactions with concomitant medicines  that are CYP3A 4 inhibitors, substrates  or inducers and co-medications that are P-gp inhibitors  
+ Based on physiological -based pharmacokinetic (PBPK) model simulations of MMAE released from polatuzumab vedotin, strong CYP3A 4 and P -gp inhibitors (e.g., ketoconazole) may increase the area under the concentration- time curve (AUC) of unconjugated MMAE by 48% . Caution is advised in case of concomitant treatment with CYP3A4 inhibitor. Patients rece iving concomitant strong CYP3A 4 inhibitors  (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprev ir, telithromycin, voriconazole ) should be monitored more  closely for si gns of toxicities.  
+ Unconjugated MMAE is not predicted to alter the AUC of concomitant medicines that are CYP3A 4 substrates (e.g., midazolam).  
+ Strong CYP3A4 inducers (e.g., rifampicin , carbamazepine, phenobarbital, phenytoin, St John’s wort 
+[Hypericum perforatum ]) may decrease the exposure  of unconjugated MMAE.  
+ 10 Drug interactions of rituximab, bendamustine , cyclophosphamide, and doxorubicin in combination with polatuzumab vedotin  
+ The pharmacokinetics (PK) of rituximab, bendamustine , cyclophosphamide, and doxorubicin are not affected by co -administration with polatuzumab vedotin. Concomitant rituximab is associated with increased antibody conjugated MMAE (ac 
+ MMAE) plasma AUC by 24% and decreased unconjugated MMAE plasma AUC by 37%, based on population PK  analysis.  The plasma AUC of ac 
+ MMAE and unconjugated MMAE for Polivy plus R -CHP are in line with other studies of Polivy. No dose adjustment is required.  
+ Bendamustine does not affect ac 
+ MMAE and unconjugated MMAE plasma AUC.  
+ 

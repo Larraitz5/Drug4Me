@@ -1,0 +1,34 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Kivexa  contains abacavir and lamivudine, therefore any interactions identified for these individually are relevant to Kivexa. Clinical studies have shown that there are no clinically significant interactions between abacavir and lamivudine.  
+ Abacavir is metaboli sed by UDP -glucuronyltransferase (UGT) enzymes and alcohol dehydrogenase; co-administration of inducers or inhibitors of UGT enzymes or with compounds eliminated through alcohol dehydrogenase could alter abacavir exposure. Lamivudine is cleared renally. Active renal secretion of lamivudine  in the urine is mediated through organic cation transporters (OCTs); co-administration of lamivudine with OCT inhibitors may increase lamivudine exposure.  
+ Abacavir and lamivudine are not significantly metabolised by cytochrome P 450 enzymes (such as CYP 
+3A4, CYP 2C9 or CYP 2D6) nor do they induce this enzyme system. Lamivudine does not inhibit cytochrome P450 enzymes. Abacavir shows limited potential to inhib it metabolism mediated by CYP3A4 and has been shown in vitro not to inhibit CYP2C9 or CYP 2D6 enzymes. In vitro studies have shown that abacavir has potential to inhibit cytochrome P450 1A1 (CYP1A1). Therefore, there is little potential for interactions with antiretroviral protease inhibitors, non -nucleosides and other medicinal products metabolised by major P 450 enzymes.  
+ Kivexa should not be taken with any other medicinal products containing lamivudine (see section 4.4).  
+ The list below should not be considered exhaustive but is representative of the classes studied.  
+ 
+ Drugs by Therapeutic Area  
+ Interaction  Geometric mean change (%)  (Possible mechanism)  Recommendation concerning co-administration  ANTIRETROVIRAL MEDICINAL PRODUCTS  Didanosine  /Abacavir  Interaction not studied.  No dosage adjustment necessary.  Didanosine/Lamivudine  Interaction not studied.  Zidovudine/Abacavir  Interaction not studied  Zidovudine/Lamivudine  Zidovudine 300 mg single dose  Lamivudine 150 mg single dose   Lamivudine: AUC  ↔ Zidovudine : AUC  ↔  Emtricitabine/Lamivudine   Due to similarities, Kivexa  should not be administered concomitantly with other cytidine analogues, such as emtricitabine.  ANTI -INFECTIVE PRODUCTS  Trimethoprim/sulfamethoxazole (Co-trimoxazole)/Abacavir  Interaction not studied.  No Kivexa dosage adjustment necessary.  
+ When concomitant administration with co-trimoxazole is warranted, Trimethoprim/sulfamethoxazole  (Co-trimoxazole)/Lamivudine  (160 mg/800 mg once daily for 
+5 days/ 300 mg single dose)  Lamivudine: AUC ↑40% 
+ Trimethoprim: AUC ↔  Sulfamethoxazole: AUC ↔ 8    (organic cation transporter inhibition)  patients should be monitored clinically. High doses of trimethoprim/ sulfamethoxazole  for the treatment of Pneumocystis jirovecii  pneumonia (PCP) and toxoplasmosis have not been studied and should be avoided  ANTIMYCOBACTERIALS  Rifampicin/Abacavir  Interaction not studied.  
+ Potential to slightly decrease abacavir plasma concentrations through UGT induction.  Insufficient data to recommend dosage adjustment.  Rifampicin/Lamivudine  Interaction not studied.  ANTICONVULSANTS  Phenobarbital/Abacavir  Interaction not studied.  
+ Potential to slightly decrease abacavir plasma concentrations through UGT induction.  Insufficient data to recommend dosage adjustment.  
+ Phenobarbital/Lamivudine  Interaction not studied.  Phenytoin/Abacavir  Interaction not studied.  
+ Potential to slightly decrease abacavir plasma concentrations through UGT induction.  Insufficient data to recommend dosage adjustment.  
+ Monitor phenytoin concentrations.  Phenytoin/Lamivudine  Interaction not studied.  9  
+ 
+ 
+  Drugs by Therapeutic Area  
+ Interaction  Geometric mean change (%)  (Possible mechanism)  Recommendation concerning co-administration  ANTIHISTAMINES (HISTAMINE H 2 RECEPTOR ANTAGONISTS)  Ranitidine/Abacavir  Interaction not studied.  No dosage adjustment necessary.  Ranitidine/Lamivudine  Interaction not studied.  
+ Clinically significant interaction unlikely.  Ranitidine eliminated only in part by renal organic cation transport system.  Cimetidine/Abacavir  Interaction not studied.  No dosage adjustment necessary.  Cimetidine/Lamivudine  Interaction not studied.  
+ Clinically significant interaction unlikely. Cimetidine eliminated only in part by renal organic cation transport system.  CYTOTOXICS  Cladribine/Lamivudine  Interaction not studied.  
+ In vitro  lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between lamivudine an d cladribine  Therefore, t he concomitant use of lamivu dine with cladribine is not recommended (see section 4.4).  OPIOIDS    Methadone/Abacavir  (40 to 90mg once daily for 14 days/600mg single dose, then 
+600mg twice daily for 14 days)  Abacavir:  AUC ↔ 
+                 C max ↓35% 
+ Methadone: CL/F ↑ 22% No Kivexa dosage adjustment necessary.  
+ Methadone dosage adjustment unlikely in majority of patients; occasionally methadone re -titration may be required.  Methadone/Lamivudine  Interaction not studied.  
+ RETINOIDS  Retinoid compounds  (e.g. isotretinoin)/Abacavir  Interaction not studied.  
+ Possible interaction given common pathway of elimination via alcohol dehydrogenase.  Insufficient data to recommend dosage adjustment.  Retinoid compounds  (e.g. isotretinoin)/Lamivudine  No drug interaction studies  Interaction not studied.   10 Abbreviations: ↑ = Increase; ↓  = decrease; ↔ = no significant change; AUC  = area under the concentration versus time curve; Cmax = maximum observed concentration; CL/F  = apparent oral clearance  
+ Paediatric popu lation  
+ Interaction studies have only been performed in adults.  
+ 

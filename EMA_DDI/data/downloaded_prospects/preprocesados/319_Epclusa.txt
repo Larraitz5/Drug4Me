@@ -1,0 +1,268 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ As Epclusa contains sofosbuvir  and velpatasvir , any interactions that have  been identified with these  active substances individually may occur with Epclusa . 
+ Potential for Epclusa to affect other medicinal products  
+ Velpatasvir is an inhibitor of drug transporter P -gp, breast cancer resistance protein (BCRP), organic anion- trans porting polypeptide ( OATP ) 1B1 and OATP1B3. Co -administration of Epclusa with medicinal products that are substrates of these transporters  may increase the exposure of such medicinal products. See Table  4 for examples of interactions with sensitive substra tes of P -gp (digoxin), BCRP (rosuvastatin), and OATP (pravastatin).  
+ Potential for other medicinal products to affect Epclusa  
+ Sofosbuvir and velpatasvir are substrates of drug transporter s P-gp and BCRP. Velpatasvir is also a substrate of drug transporter OATP1B. In  vitro,  slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8 and CYP3A4 was observed. Medicinal products that are strong inducers of P -gp and/or strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g. carbamazepine, phenobarbital and phenytoin, rifampicin, rifabutin and St. John’s wort)  may decrease plasma concentrations of sofosbuvir or velpatasvir leading to reduced therapeutic effect of sofosbuvir /velpatasvir . The use of such medicinal 7 products with Epclusa  is contraindicated (see section  4.3). Medicinal products that are moderate P-gp inducers and/or moderate CYP inducers (e.g. efavirenz,  modafinil , oxcarbazepine or rifapentine ) may decrease sofosbuvir or velpatasvir plasma concentratio n leading to reduced therapeutic effect of Epclusa . Co-administration with such medicinal products is not recommended with Epclusa  (see section  4.4). Co-administration with medicinal products that inhibit P -gp or BCRP may increase sofosbuvir or velpatasvir  plasma concentrations . Medicinal products that inhibit  OATP,  CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir. Clinically significant medicinal product interactions with Epclusa  mediated by P -gp, BCRP, OATP, or CYP450 inhibitors are not expected ; Epclusa  may be c o-administered with P -gp, BCRP , OATP  and CYP  inhibitors.  
+ Patients treated with vitamin  K antagonists  
+ As liver function may change during treatment with Epclusa, a close monitoring of International Normalised Ratio (INR) values is recommended. 
+ Impact of DAA therapy on medicinal products  metabolized by the liver  
+ The pharmacokinetics of medicinal products  that are metabolized by the liver (e.g. immunosuppressive medicinal products such as calcineurin inhibitors) may be impacted by changes in liver function during DAA therapy, related to clearance of HCV.  
+ Interactions between Epclusa and other medicinal products  
+ Table  4 provides a listing of established or potentially clinically significant medicinal product interactions (where 90% confidence interval [CI] of the geometric least -squares mean [GLSM] ratio were within “↔”, extended above “↑”, or extended below “↓” the pred etermined interaction boundaries). The medicinal product interactions described are based on studies conducted with either sofosbuvir /velpatasvir  or velpatasvir  and sofosbuvir as individual agents, or are predicted medicinal product interactions that may occur with sofosbuvir /velpatasvir . The table is not all -inclusive.  
+ Table  4: Interactions between Epclusa  and other medicinal products  
+ Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin ACID REDUCING AGENTS  
+  Velpatasvir solubility decreases as p 
+ H increases. Medicinal products that increase gastric p 
+ H are expected to decrease the concentration of velpatasvir.  Antacids  e.g. Aluminium or magnesium hydroxide; calcium carbonate 
+ (Increase in gastric p 
+ H)  Interaction not studied.  Expected.  
+↔ Sofosbuvir  
+↓ Velpatasvir  It is recommended to separate antacid and Epclusa  administration by 4 hours. 8 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin H2-receptor antagonists  Famotidine  (40 mg single dose)/ sofosbuvir/ velpatasvir (400/ 100 mg single dose)c 
+ Famotidine dosed simultaneously with Epclusad 
+ Cimetidinee Nizatidinee Ranitidinee 
+ (Increase in gastric p 
+ H) Sofosbuvir  ↔ ↔  H2-receptor antagonists may be administered simultaneously with or staggered from Epclusa at a dose that does not exceed doses comparable to famotidine 40 mg twice daily.  Velpatasvir  ↓ 
+0.80 (0.70, 
+0.91)  ↓ 
+0.81 (0.71, 
+0.91)   Famotidine  (40 mg single dose)/ sofosbuvir/ velpatasvir (400/ 100 mg single dose)c 
+ Famotidine dosed 12 hours prior to Epclusad 
+ (Increase in gastric p 
+ H)  Sofosbuvir  ↓ 
+0.77 (0.68, 
+0.87)  ↓ 
+0.80 (0.73, 
+0.88)    Velpatasvir  ↔ ↔  Proton pump inhibitors  Omeprazole  (20 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg single dose fasted)c 
+ Omeprazole dosed simultaneously with Epclusad 
+ Lansoprazolee Rabeprazolee Pantoprazolee Esomeprazolee 
+ (Increase in gastric p 
+ H)  Sofosbuvir  ↓ 
+0.66 (0.55, 
+0.78)  ↓ 
+0.71 (0.60, 
+0.83)   Co-administration with proton pump inhibitors is not recommended. If it is considered necessary to co -administer, then Epclusa should be administered with food and taken 4 hours before proton pump inhibitor at max doses comparable to omeprazole 20 m g. Velpatasvir  ↓ 
+0.63 (0.50, 0.78)  ↓ 
+0.64 (0.52, 0.79)   Omeprazole  (20 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg single dose fed)c 
+ Omeprazole dosed 4 hours after Epclusad 
+ (Increase in gastric p 
+ H)  Sofosbuvir  ↓ 
+0.79 (0.68, 
+0.92)  ↔   Velpatasvir  ↓ 
+0.67 (0.58, 
+0.78)  ↓ 
+0.74 (0.63, 
+0.86)   9 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin ANTIARRHYTHMICS  Amiodarone  Effect on amiodarone, velpatasvir, and sofosbuvir concentrations unknown. Co-administration of amiodarone with a sofosbuvir containing regimen may result in serious symptomatic bradycardia.  Use only if no other alternative is available. Close monitoring is recommended if this medicinal product is administered with Epclusa  (see sections  4.4 and 4.8).  Digoxin  Interaction  only studied with velpatasvir.  Expected:  
+↔ Sofosbuvir  Co-administration of Epclusa  with digoxin may increase the concentration of digoxin. Caution is warranted and therapeutic concentration monitoring of digoxin is recommended when co-administered with Epclusa . Digoxin (0.25  mg single dose)f/ velpatasvir (100  mg single dose)  
+ (Inhibition of P -gp) Effect on velpatasvir exposure not studied  Expected:  
+↔ Velpatasvir  Observed:  Digoxin  
+↑ 
+1.9 (1.7, 
+2.1)  
+↑ 
+1.3 (1.1, 
+1.6)  ANTICOAGULANTS  Dabigatran etexilate  
+ 
+ 
+  (Inhibition of P -gp) Interaction not studied.  Expected:  
+↑ Dabigatran  
+↔ Sofosbuvir  
+↔ Velpatasvir  Clinical monitoring, looking for signs of bleeding and anaemia, is recommended when dabigatran etexilate is co -administered with Epclusa . A coagulation test helps to identify patients with an increased bleeding risk due to increased dabigatran exposure.  Vitamin  K antagonists  Interaction not studied  Close monitoring of INR is recommended with all vitamin  K antagonists. This is due to liver function changes during treatment with Epclusa . ANTICONVULSANTS  Phenytoin  Phenobarbital  
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  Epclusa is contraindicated with phenobarbital and phenytoin (see section  4.3). Carbamazepine  
+ 
+ 
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Velpatasvir  
+ Epclusa is contraindicated with carbamazepine (see section  4.3). Observed:  Sofosbuvir  ↓0.52 (0.43, 
+0.62)  
+ ↓ 0.52 (0.46, 0.59)   
+ Oxcarbazepine  
+  (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  Co-administration of Epclusa  with oxcarbazepine is expected to decrease the concentration of sofosbuvir and velpatasvir, leading to reduced therapeutic effect of Epclusa . Co- administration is not recommended (see section  4.4). 10 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin ANTIFUNGALS  Ketoconazole  Interaction only studied with velpatasvir  Expected:  
+↔ Sofosbuvir  No dose adjustment of Epclusa  or ketoconazole is required. Ketoconazole (200  mg twice daily)/ velpatasvir (100 mg single dose)d 
+ 
+  (Inhibition of P -gp and CYPs)  
+ Itraconazolee Voriconazolee Posaconazolee Isavuconazolee Effect on ketoconazole exposure not studied. Expected:  
+↔ Ketoconazole  Observed:  Velpatasvir   
+↑ 
+1.3 (1.0, 1.6)  
+↑ 
+1.7 (1.4, 2.2)  ANTIMYCOBACTERIALS  Rifampicin (600  mg once daily)/ sofosbuvir (400 mg single dose)d 
+  (Induction of P -gp and CYPs)  Effect on rifampicin exposure not studied.  
+ Expected:  
+↔ Rifampicin  Epclusa  is contraindicated with rifampicin (see section  4.3). Observed:  Sofosbuvir   
+↓ 
+0.23 (0.19, 
+0.29)   
+↓ 
+0.28 (0.24, 
+0.32)   Rifampicin (600  mg once daily)/ velpatasvir (100  mg single dose)  
+  
+ 
+ (Induction of P -gp and CYPs)  Effect on rifampicin exposure not studied.  
+ Expected:  
+↔ Rifampicin  Observed:  Velpatasvir   
+↓ 
+0.29 (0.23, 
+0.37)   
+↓ 
+0.18 (0.15, 
+0.22)   Rifabutin  
+ 
+ 
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Velpatasvir  
+ Epclusa  is contraindicated with rifabutin (see section  4.3). 
+ Observed:  Sofosbuvir  ↓ 
+0.64 (0.53, 
+0.77)  ↓  
+0.76 (0.63, 
+0.91)   11 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin Rifapentine  
+ 
+ 
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  Co-administration of Epclusa with rifapentine is expected to decrease the concentration of sofosbuvir and velpatasvir, leading to reduced therapeutic effect of Epclusa. Co-administration is not recommended (see section 4.4).  HIV ANTIVIRAL AGENTS: REVERSE TRANSCRIPTASE INHIBITORS  Tenofovir disoproxil fumarate  Epclusa  has been shown to increase tenofovir exposure (P -gp-inhibition). The increase in tenofovir exposure (AUC and C max) was around 40- 80% during co-treatment with Epclusa and tenofovir disoproxil fumarate/emtricitabine as part of various HIV regimens.  
+ Patients receiving tenofovir disoproxil fumarate and Epclusa concomitantly should be monitored for adverse reactions  associated with tenofovir disoproxil fumarate. Refer to the tenofovir disoproxil fumarate -containing product’s Summary of Product Characteristics for recommendations on renal monitoring (see section  4.4). Efavirenz/ emtricitabine/ tenofovir disoproxil fumarate (600/ 200/ 300  mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Efavirenz  ↔ ↔ ↔ Co-administration of Epclusa  with efavirenz/ emtricitabine/ tenofovir disoproxil fumarate is expected to decrease the concentration of velpatasvir.  Co-administration of Epclusa  with efavirenz -containing regimens is not recommended (see section  4.4). Sofosbuvir  ↑ 
+1.4 (1.1, 
+1.7) ↔  Velpatasvir  ↓ 
+0.53 (0.43, 
+0.64)  ↓ 
+0.47 (0.39, 
+0.57)  ↓ 
+0.43 (0.36, 
+0.52)  Emtricitabine/ rilpivirine / tenofovir disoproxil fumarate (200/ 25/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Rilpivirine  ↔ ↔ ↔ No dose adjustment of Epclusa  or emtricitabine/ rilpivirine/ tenofovir disoproxil fumarate is required.  Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ HIV ANTIVIRAL AGENTS: HIV PROTEASE INHIBITORS  Atazanavir  boosted with ritonavir (300/ 100 mg once daily)  + emtricitabine/ tenofovir disoproxil fumarate (200/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Atazanavir  ↔ ↔ ↑ 
+1.4 (1.2, 
+1.6) No dose adjustment of Epclusa , atazanavir (ritonavir boosted) or emtricitabine/ tenofovir disoproxil fumarate is required.  Ritonavir  ↔  ↑ 
+1.3 (1.5, 
+1.4) Sofosbuvir  ↔ ↔  Velpatasvir  ↑ 
+1.6 (1.4, 
+1.7) ↑ 
+2.4 (2.2, 
+2.6) ↑ 
+4.0 (3.6, 
+4.5) Darunavir  boosted with ritonavir (800/ 100 mg once daily)  + emtricitabine/ tenofovir disoproxil fumarate (200/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400 / 100 mg once daily)c, d Darunavir  ↔ ↔ ↔ No dose adjustment of Epclusa , darunavir (ritonavir boosted) or emtricitabine/ tenofovir disoproxil fumarate is required.  Ritonavir  ↔ ↔ ↔ Sofosbuvir  ↓ 
+0.62 (0.54, 
+0.71)  ↓ 
+0.72 (0.66, 
+0.80)   Velpatasvir  ↓ 
+0.76 (0.65, 
+0.89)  ↔ ↔ 12 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin Lopinavir  boosted with ritonavir  (4x200 mg/ 50  mg once daily)  + emtricitabine/ tenofovir disoproxil fumarate (200/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Lopinavir  ↔ ↔ ↔ No dose adjustment of Epclusa , lopinavir (ritonavir boosted) or emtricitabine/ tenofovir disoproxil fumarate is required.  Ritonavir  ↔ ↔ ↔ Sofosbuvir  ↓ 
+0.59 (0.49 
+0.71)  ↓ 
+0.7 (0.6, 
+0.8)  Velpatasvir  ↓ 
+0.70 (0.59, 
+0.83)  ↔ ↑ 
+1.6 (1.4, 
+1.9) HIV ANTIVIRAL AGENTS: INTEGRASE INHIBITORS  Raltegravir (400 mg twice daily)g + emtricitabine/ tenofovir disoproxil fumarate (200/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Raltegravir  ↔ ↔ ↓ 
+0.79 (0.42, 
+1.5) No dose adjustment of Epclusa , raltegravir or emtricitabine/ tenofovir disoproxil fumar ate is required. Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ Elvitegravir / cobicistat/ emtricitabine/ tenofovir alafenamide fumarate  (150/ 150/ 200/ 10 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Elvitegravir  ↔ ↔ ↔ No dose adjustment of Epclusa  or elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide fumarate is required.  Cobicistat  ↔ ↔ ↑ 
+2.0 (1.7, 
+2.5) Tenofovir alafenamide  ↔ ↔  Sofosbuvir  ↔ ↑ 
+1.4 (1.2, 
+1.5)  Velpatasvir  ↑ 
+1.3 (1.2, 
+1.5) ↑ 
+1.5 (1.4, 
+1.7) ↑ 
+1.6 (1.4, 
+1.8) Elvitegravir / cobicistat/ emtricitabine/ tenofovir disoproxil fumarate  (150/ 150/ 200/ 300 mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)c, d Elvitegravir  ↔ ↔ ↔ No dose adjustment of Epclusa  or elvitegravir/ cobicistat/ emtricitabine/ tenofovir disoproxil fumarate is required.  Cobicistat  ↔ ↔ ↑ 
+1.7 (1.5, 
+1.9) Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↑ 
+1.4 (1.2, 
+1.5) Dolutegravir (50  mg once daily)/ sofosbuvir/ velpatasvir (400/ 100 mg once daily)  Dolutegravir  ↔ ↔ ↔ No dose adjustment of Epclusa  or dolutegravir is required.  Sofosbuvir  ↔ ↔  Velpatasvir  ↔ ↔ ↔ HERBAL SUPPLEMENTS  St. John’s wort  
+ 
+ 
+ (Induction of P -gp and CYPs)  Interaction not studied.  Expected:  
+↓ Sofosbuvir  
+↓ Velpatasvir  Epclusa  is contraindicated with St. John’s wort (see section 4.3). 13 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin HMG -Co 
+ A REDUCTASE INHIBITORS  Atorvastatin (40  mg single dose)  + sofosbuvir / velpatasvir (400/ 100  mg once daily)d  Observed:  Atorvastatin  ↑ 
+1.7  (1.5, 
+1.9)  ↑ 
+1.5  (1.5, 
+1.6)   No dose  adjustment of Epclusa or atorvastatin is required.  Rosuvastatin  Interaction only studied with velpatasvir  Expected:  
+↔ Sofosbuvir  Co-administration of Epclusa  with rosuvastatin increases the concentration of rosuvastatin, which is associated with increased risk of myopathy, including rhabdomyolysis. Rosuvastatin, at a dose that does not exceed 10 mg, may be administered with Epclusa . Rosuvastatin (10  mg single  dose)/ velpatasvir (100 mg once daily)d 
+ 
+ 
+ (Inhibition of OATP1B and BCRP)  Observed:  Rosuvastatin   
+↑ 
+2.6 (2.3, 
+2.9)  
+↑ 
+2.7 (2.5, 
+2.9)  Effect on velpatasvir exposure not studied  Expected:  
+↔ Velpatasvir  Pravastatin  Interaction only studied with velpatasvir  Expected:  
+↔ Sofosbuvir  No dose adjustment of Epclusa  or pravastatin is required. Pravastatin (40  mg single dose)/ velpatasvir (100 mg once daily)d 
+ 
+ (Inhibition of OATP1B)  Observed:  Pravastatin   
+↑ 
+1.3 (1.1, 
+1.5)  
+↑ 
+1.4 (1.2, 
+1.5)  Effect on  velpatasvir exposure not studied  Expected:  
+↔ Velpatasvir  Other statins  Expected:  
+↑ Statins  Interactions cannot be excluded with other HMG -Co 
+ A reductase inhibitors. When co- administered with Epclusa , careful monitoring for statin adverse reactions should  be undertaken and a reduced dose of statins should be considered if required.  NARCOTIC ANALGESICS  Methadone  (Methadone maintenance therapy [30 to 130 mg daily])/ sofosbuvir (400 mg once daily)d R-methadone  
+ ↔ 
+ ↔ 
+ ↔ 
+ No dose adjustment of Epclusa  or methadone is required.  S-methadone  
+ ↔ 
+ ↔ 
+ ↔ 
+ Sofosbuvir  ↔ ↑ 
+1.3 (1.0, 
+1.7)  Methadone  Interaction only studied with sofosbuvir  Expected:  
+↔ Velpatasvir  14 Medicinal product by therapeutic areas/Possible Mechanism of Interaction  Effects on medicinal product levels.  Mean ratio (90% confidence interval)a,b Recommendation concerning co-administration with Epclusa  Active  Cmax AUC  Cmin IMMUNOSUPPRESSANTS  Ciclosporin  (600 mg single dose)/ sofosbuvir (400 mg single dose)f Ciclosporin  ↔ 
+ ↔ 
+  No dose adjustment of Epclusa  or ciclosporin is required at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of ciclosporin may be required . Sofosbuvir  ↑ 
+2.5 (1.9, 
+3.5) ↑ 
+4.5 (3.3, 
+6.3)  Ciclosporin  (600 mg single dose)f/ velpatasvir (100  mg single dose)d Ciclosporin  ↔ ↓ 
+0.88 (0.78, 
+1.0)  Velpatasvir  ↑ 
+1.6 (1.2, 
+2.0) ↑ 
+2.0 (1.5, 
+2.7)  Tacrolimus  (5 mg single dose)f/ sofosbuvir (400 mg single dose)d Tacrolimus  ↓ 
+0.73 (0.59, 
+0.90)  ↑ 
+1.1 (0.84, 
+1.4)  No dose adjustment of Epclusa  or tacrolimus is required  at initiation of co -administration. Afterwards, close monitoring and potential dose adjustment of tacrolimus may be required . Sofosbuvir  ↓ 
+0.97 (0.65, 
+1.4) ↑ 
+1.1 (0.81, 
+1.6)  Tacrolimus  Effect on velpatasvir exposure not studied.  Expected:  
+↔ Velpatasvir  ORAL CONTRACEPTIVES  Norgestimate/ ethinyl estradiol (norgestimate 
+0.180 mg/ 0.215 mg/ 
+0.25 mg/ ethinyl estradiol 
+0.025 mg)/ sofosbuvir (400 mg once daily)d Norel -gestromin  ↔ 
+ ↔ 
+ ↔ 
+ No dose adjustment of oral contraceptives is required.  Norgestrel  ↔ ↑ 
+1.2 (0.98, 
+1.5) ↑ 
+1.2 (1.0, 
+1.5) Ethinyl estradiol  ↔ 
+ ↔ 
+ ↔ 
+ Norgestimate/ ethinyl estradiol (norgestimate 0.180 mg/ 0.215 mg/ 
+0.25 mg/ ethinyl estradiol 
+0.025 mg)/ velpatasvir (100 mg once daily)d Norel -gestromin  ↔ 
+ ↔ 
+ ↔ 
+ Norgestrel  ↔ 
+ ↔ 
+ ↔ 
+ Ethinyl estradiol  ↑ 
+1.4 (1.2, 
+1.7) ↔ ↓ 
+0.83 (0.65, 
+1.1) a Mean ratio (90%  CI) of co -administered drug pharmacokinetics of study medicinal products alone or in combination. No effect  = 1.00.  b All interaction studies conducted in healthy volunteers.  c Administered as Epclusa . d Lack of pharmacokinetics interaction bounds 70 -143%.  e These are medicinal products within class where similar interactions could be predicted.  f Bioequivalence/Equivalence boundary 80 -125%.  g Lack of pharmacokinetics interaction bounds 50 -200%.  
+ 15 

@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Ipilimumab is a human monoclonal antibody that is not metabolized by cytochrome P450 enzymes (CYPs) or other drug metabolizing enzymes.  
+ A drug-interaction study in adults of ipilimumab administered alone and in combination with chemotherapy (dacarbazine or paclitaxel/carboplatin) was conducted evaluating interaction with CYP isozymes (particularly CYP1A2, CYP2E1, CYP2C8, and CYP3A4) in patients with treatment- naive advanced melanoma. No clinically relevant pharmacokinetic drug- drug interaction was observed between ipilimumab and paclitaxel/carboplatin, dacarbazine or its metabolite, 
+5-aminoimidazole -4-carboxamide (AIC).  
+ Other forms of interaction  
+ Corticosteroids The use of systemic corticosteroids at baseline, before starting ipilimumab, should be avoided because of their potential interference with the pharmacodynamic activity and efficacy of ipilimumab. However, systemic corticosteroids or other immunosuppressants can be used after starting ipilimumab to treat immune -related adverse reactions. The use of systemic corticosteroids after starting ipilimumab treatment does not appear to impair the efficacy of ipilimumab.  
+ 20 Anticoagulants  The use of anticoagulants is known to increase the risk of gastrointestinal haemorrhage. Since gastrointestinal haemorrhage is an adverse reaction with ipilimumab (see section  4.8), patients who require concomitant anticoagulant therapy should be monitored closely.  
+ 

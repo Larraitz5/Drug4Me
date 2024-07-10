@@ -1,0 +1,49 @@
+4.5 Interaction with other me dicinal products and
+ other forms of interaction 
+ Co-administration of  multiple doses of sitagliptin (50
+ mg twice daily) and metf ormin (1,000
+ mg twicedaily) did not meaningf ully
+ alter the pharmacokinetics of  either sitagliptin or metf ormin in patientswith type 2 diabetes.Pharm acokinetic drug interaction studies with Ef f icib  have not been perf ormed; however, such studieshave been conducted with the individual active substances
+, sitagliptin and metf ormin.Concomitant use not  recommended 
+ Alcoho l 
+ Alcohol intoxication is associat ed with an increased risk of  lactic acidosis, particularly in cases off asting, malnutrition or hepatic impairment
+.Iodinated contrast agents 
+ Ef f icib must be discontinued prior to or at the time of  the imaging procedure and not res tarted  until atleast 48 hours af ter, provided that
+ renal f unction has been re
+-evaluated and f ound to be stable  (seesection s 4.3 and 4.4).Combination s requiring precautions for use 
+ Some medicinal products can adversely
+ af f ect renal function
+, which may i ncrease the risk of  lacticacidosis
+, e.g. NSAIDs, including selective cyclo
+-oxygenase (COX) II inhibitors, ACE inhibitors,7angiotensin II receptor antagonists and diuretics, especially loop diuretics. When starting or using su chproducts in combination wit h metf ormin, close
+ monit oring of renal f unction is necessary.Concomitant use of  medicinal products
+ that interf ere with common renal tubular transport systemsinvolved in the renal elimination of  metf ormin (e.g., organic cationic transporter-2 [OCT2] / mul tidrugand t oxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine)could increase systemic exposure to metf ormin and may increase the
+ risk f or lactic
+ acidosis. Considerthe benef its and risks of concomitant use.
+ Close monitoring  of  glycaemic control, dose adjustmentwithin the recommended posology and changes in diabetic treatment should be considered when suchproducts are co
+-administe red.Glucocorticoids (given by systemic and local routes) beta
+-2-agonists, an d diu retics have intrinsichyperglycaemic
+ activity. The patient should be inf ormed and more f requent blood glucose monitoringperformed, especially at the beginning of  treatment with such medicinal products. If  necessary
+, thedose of  the anti -hyperglycaemic med icinal produ ct should be adjusted during therapy with the othermedicinal product and on its discontinuation.ACE -inhibitors  may decrease the blood glucose levels. If  necessary, the dose of  theanti-hyperglycaemic medicinal product should be adjusted
+ during therapy w ith the other medicinalproduct and on its discontinuation.Effects of other medicinal products on sitagliptin 
+ In vitro  and clinical data described below suggest that the risk f or clinically meaningf ul interactionsf ollowing co-administra tion of other med icinal products is low.In vitro studies indicated that the primary enzyme responsible f or the limited metabolism of  sitagliptinis CYP3A4, with contribution f rom CYP2C8. In patients with normal renal function, metabolism,including via CYP3A4 , plays only  a small role in the clearance of  sitagliptin. Metabolism may play amore signif icant role in the elimination of  sitagliptin in the setting of  severe renal impai rment  orend-stage renal disease
+ (ESRD ). For this reason, it is possible that poten t CYP3A4 inhibitors (i.e.,ketoconaz ole, itraconazole, ritonavir, clarithromycin) could alter the pharmacokinetics of  sitagliptin inpatients with severe renal impairment
+ or ESRD. The ef f ects of potent CYP3A4 inhibitors in the settingof  renal impairm ent have not been  assessed in a clinical study.In vitro  transport studies showed that sitagliptin is a substrate for p
+-glycoprot ein and organic aniontransporter -3 (OAT3 ). OAT3  mediated transport of sitagliptin was inh ibited in vitro  by prob enecid,altho ugh t he risk of  c linically meaningf ul interactions is considered to be low. Concomitantadministration of  OAT3 inhibitors has not been evaluated in vivo.Ciclosporin: A study was conducted to assess the ef f ect of  ciclosporin, a potent inhibitor ofp-glyco prote in, on the p harmacokinetics of  sitagliptin. Co-administration of  a single 100
+ mg oral doseof  sitagliptin and a single 600
+ mg oral dose of  ciclosporin increased the AUC and Cmax of  sitaglip tin byapproximately
+ 29 % and 68  
+%, respectively.
+ These changes in sitagliptin pharmacokinetics were notconsidered to be clinically meaningf ul. The renal clearance of  sitagliptin was not meaningf ully altered.Theref ore, meaningf ul interactions would not be expected with other p-glycoprotein
+ inhibitors.Ef f ects of  s itagliptin on oth er medicinal products 
+ Digoxin: Sitagliptin had a small ef f ect on plasma digoxin concentrations. Following administration of
+0.25 mg digoxin concomitantly with 10
+0 mg of  sitagliptin daily f or 10
+ days, the plasma AUC ofdigoxin was increased
+ on average by 11  
+%, and the plasma Cmax on average by 18  
+%. No doseadjustment of  digoxin is recommended. However, patients at risk of  digoxin toxicity should bemonitored f or this when sitagliptin and digoxin are
+ administered concomitantly.In vitro  data sug gest that si tagliptin does not inhibit nor induce CYP450 isoenzymes. In clinicalstudies
+, sitagliptin did not meaningf ully alter the pharmacokinetics of  metf ormin, glyburide
+,simvastatin, rosiglitazone, warf ar in, or  oral contraceptives, providing in vivo evidence of  a  low8propensity f or causing interactions with substrates of  CYP3A4, CYP2C8, CYP2C9, and organiccationic transporter (OCT). Sitagliptin may be a mild inhibitor of  p-glycoprotein
+ in vivo. 

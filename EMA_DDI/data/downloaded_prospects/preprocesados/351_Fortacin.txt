@@ -1,0 +1,6 @@
+4.5 Interaction with other med icinal products and other forms of interaction  
+ Methaemoglobinaemia may be accentuated in patients already taking medicinal products known to induce the condition, e.g. sulphonamides, acetanilid, aniline dyes, benzocaine, chloroquine, dapsone, metoclopramide, naphthalene, nitrates and nitrites, nitrofurantoin, nitroglycerin, nitroprusside, pamaquine, para- aminosalicylic acid, phenobarbital, phenytoin, primaquine and quinine (see section  4.4). 
+ The risk of additional systemic toxicity should be considered when large doses of Fortacin are applied to patients already using other local anaesthetics or structurally related medicinal products, e.g. class I anti-arrhythmics such as mexiletine.  
+ Specific interaction studies with lidocaine/prilocaine and anti-arrhyt hmic medicinal products class III (e.g. amiodarone) have not been performed, but caution is advised due to the potential increase of antiarrhythmic effect . 
+ Medicinal products that  inhibit cytochrome P450 (CYP) 1A2 reduce the clearance of lidocaine (e.g. fluvoxamine, cimetidine or betablockers) and may cause potentially toxic plasma concentrations when lidocaine is given intravenously in repeated high doses over a long time period (30 hours). 
+ 

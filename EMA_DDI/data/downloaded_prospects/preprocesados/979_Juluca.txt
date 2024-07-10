@@ -1,0 +1,412 @@
+4.5 ).  
+ Metformin  Dolutegravir increased metformin concentrations. A dose adjustment of metformin should be considered when starting and sto pping co- administration of dolutegravir/rilpivirine  with metformin, to maintain glycaemic control (see section 4.5). Metformin is eliminated renally and therefore it is of importance to monitor renal function when co- treated with dolutegravir/rilpivirine . This combination may increase the risk for lactic acidosis in patients with mode rate renal impairment (stage 3a creatinine clearance [Cr 
+ Cl] 45 – 59 m 
+ L/min) and a cautious approach is recommended. Reduction of the metformin dose should be highly considered .
+  
+ Immune Reconstitution Syndrome  
+ In HIV -infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic  pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia. Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves’ disease and autoimmune hepatitis ) have also been reported to occur in the setting of immune reconstitution, however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.  
+ Excipients   
+ Juluca  contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose -galactose malabsorption should not take this medicinal product .  
+ This medicine contains less than 1 mmol sodium (23 mg) per tablet , that is to say essentially ‘sodium -free’.   
+ 
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Juluca is intended for use as a complete regimen for the treatment of HIV -1 infection and should not be administered with other antiretroviral medicinal products for the treatment of HIV . Therefore, information regarding drug- drug interactions with other antiretroviral medicinal products is not provided. Juluca  contains dolutegravir and rilpivirine, therefore any interactions identified with  these active substances are relevant to Juluca . Interaction studies have only been performed in adults.  
+ Effect of o ther medicinal products  on the pharmacokinetics of dolutegravir  and rilpivirine  
+ Dolutegravir is eliminated mainly through metabolism by uridine diphosphate glucuronosyl transferase (UGT )1A1. Dolutegravir is also a substrate of UGT1A3, UGT1A9, cytochrome P450 ( CYP )3A4, P -glycoprotein ( P-gp), and breast cancer resistance protein ( BCRP ); therefore medicinal products that induce those enzymes may decrease dolutegravir plasma concentration and reduce the therapeutic effect of dolutegravir (see Table 1). Co-administration of dolutegravir/rilpivirine  and other medicinal products that inhibit these enzymes may increase dolutegravir plasma concentration (see Table 1).  
+ The absorption of dolutegravir is reduced by certain anti -acid medicinal products (see Table 1).  
+ Rilpivirine is primarily metabolised by CYP 3A. Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section 5.2). Co -administration of dolutegravir/rilpivirine  with medicinal products that induce CYP3A may result in  decrease d plasma concentrations of rilpivirine, which could reduce the therapeutic effect of dolutegravir/rilpivirine  (see Table 1) . Co-administration of 6 dolutegravir/rilpivirine  with medicinal products that inhibit CYP3A may result in  increased plasma concentratio ns of rilpivirine  (see Table 1) . In patients with severe renal impairment or end stage renal disease, the combination of dolutegravir/rilpivirine  with a strong CYP3A inhibitor should only be used if the benefit outweighs the risk  (see section  4.2). 
+ Co-administration of dolutegravir/rilpivirine  with medicinal products that increase gastric p 
+ H may result in decreased plasma concentrations of rilpivirine which could potentially reduce the therapeutic effect of dolutegravir/rilpivirine . 
+ Effect of dolutegravir and rilpivirine on the pharmacokinetics  of other medicinal products  
+ Based on in vivo and/or in vitro  data , dolutegravir is not expected to affect the pharmacokinetics of medicinal products that are substrates of any major enzyme or transporter  such as CYP3A4, CYP2C9 and P -gp (for more information see section 5.2) . 
+ In vitro , dolutegravir inhibited the renal organic cation transporter 2 (OCT2)  and multidrug and toxin extrusion transporter 1 (MATE 1). In vivo , a 10 -14% decrease of creatinine clearance ( secretory fraction is dependent on OC T2 and MATE1  transport ) was observed in patients. In vivo, dolutegravir may increase plasma concentrations of medicinal products in which excretion is dependent upon OCT2 and/ or MATE1 (e.g. fampridine  [also known as dalfampridine] , metformin) (see Table 1  and sections  4.3 and 4.4 ). 
+ In vitro , dolutegravir inhibited the renal  uptake transporter s, organic anion transporters  (OAT )1 and OAT3. Based on the lack of effect on the in vivo  pharmacokinetics of the OAT substrate tenofovir , in vivo  inhibition of OAT1 is unlikely. Inhibition of OAT3 has not been studied in vivo . Dolutegravir may increase plasma concentrations of medic inal products in which excretion is dependent upon OAT3.  
+ Rilpivirine 25  mg once daily is not likely to have a clinica lly relevant effect on the exposure of medicinal products metabolised by CYP enzymes.  
+ Rilpivirine inhibits P -gp in vitro  (IC
+50 is 9.2 μM). In a clinical study, rilpivirine did not significantly affect the pharmacokinetics of digoxin. However, it may not be completely excluded that rilpivirine can increase the exposure to other medicinal products  transported by P -gp that are more sensitive to intestinal P -gp inhibition, e.g. dabigatran etexilate.  
+ Rilpivirine is an in vitro  inhibitor of the transporter MATE -2K with an IC
+50 of < 2.7 n 
+ M. The clinical implications of this finding are currently unknown.  
+ Interaction table  
+ Selected established and theoretical i nteractions between dolutegravir , rilpivirine  and co- administered medicinal products are listed in T able 1 . (increase is indicated as “↑”, de crease as “↓”, no change as “↔ ”, area under the concentration versus time curve  as “AUC”,  maximum observed concentration as “C max”, minimum observed concentration as 
+“Cmin”concentration at end of dosing interval as “ Cτ”). 
+ Table 1:  Drug Interactions  
+ Medicinal products by therapeutic area s Interaction  Geometric mean change (%)  Recommendations concerning co-administration  Antiviral active substances  Tenofovir disoprox il / Dolutegravir1 
+ 
+ Dolutegravir ↔ 
+   AUC ↑  1% 
+   C max ↓ 3% 
+   Cτ ↓ 8% No dose adjustment is required . 7  
+ 
+ Tenofovir disoproxi l / Rilpivirine1,2  Tenofovir ↔  
+  Rilpivirine  
+   AUC ↔  
+   Cmin ↔ 
+   C max ↔ 
+ Tenofovir   
+   AUC ↑ 23%  
+   C min ↑ 24%  
+   Cmax ↑ 19%  Tenofovir alafenamide  
+/ Dolutegravir  
+ Tenofovir a lafenamide  
+/ Rilpivirine1 Dolutegravir ↔ (Not studied)  
+ 
+ Rilpivirine  ↔ 
+ No dose adjustment is required . Lamivudine / Dolutegravir   
+ Lamivudine / Rilpivirine  Dolutegravir ↔ 
+ 
+ Rilpivirine ↔  (Not studied)  No dose adjustment is required . Entecavir / Dolutegravir  
+ Entecavir / Rilpivirine  Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↔  (Not studied)  No dose adjustment is required . Daclatasvir / Dolutegravir1 
+ 
+  
+ 
+ Daclatasvir/  Rilpivirine  Dolutegravir ↔ 
+   AUC ↑  33%  
+   C max ↑ 29%  
+   Cτ ↑ 45%  
+ Daclatasvir ↔  
+ Rilpivirine ↔  
+ No dose adjustment is required . Simeprevir/ Dolutegravir  
+ Simeprevir/ Rilpivirine  
+ 
+ Dolutegravir  ↔ 
+ 
+ Rilpivirine ↔  
+   AUC ↔  
+   C min ↑ 25%  
+   C max ↔   Simeprevir ↔  
+   AUC ↔  
+   C min ↔ 
+   Cmax ↑ 10% No dose adjustment is required . Sofosbuvir / Dolutegravir1 
+ Sofosbuvir / Rilpivirine  Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↔  
+   AUC ↔ No dose adjustment is required . 8    Cmin ↔ 
+   C max ↔ Sofosbuvir ↔  
+   AUC ↔  
+   C max ↑ 21%  Sofosbuvir metabolite GS -
+331007 ↔ 
+   AUC ↔  
+   Cmax ↔ Ledipasvir/Sofosbuvir 
+/ Dolutegravir1 
+ Ledipasvir/Sofosbuvir 
+/ Rilpivirine  Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↔  
+   AUC ↓  5% 
+   C min ↓ 7% 
+   C max ↓ 3% Ledipasvir ↔ 
+   AUC ↑  2% 
+   C min ↑ 2% 
+   C max ↑ 1% Sofosbuvir ↔  
+   AUC ↑  5% 
+   C max ↓ 4% Sofosbuvir metabolite GS -
+331007 ↔ 
+   AUC ↑  8% 
+   C min ↑ 10%  
+   Cmax ↑ 8% No dose adjustment is required . Sofosbuvir/  Velpatasvir/  Dolutegravir1 
+ Sofosbuvir/  Velpatasvir/  Rilpivirine  Dolutegravir ↔ (Not studied)  
+ 
+ Rilpivirine ↔  
+   AUC ↔  
+   C min ↔ 
+   C max ↔ Sofosbuvir ↔  
+   AUC ↔  
+   C max ↔ Sofosbuvir metabolite GS -
+331007 ↔ 
+   AUC ↔  
+   C min ↔ 
+   C max ↔ Velpatasvir ↔  
+   AUC ↔  
+   C min ↔ 
+   Cmax ↔ No dose adjustment is required . Ribavirin/ Dolutegravir  
+ Ribavirin / Rilp ivirine  Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↔  (Not studied)  No dose adjustment is required.  Other active substances  Antiarrhythmics  9 Digoxin/ Dolutegravir  
+ 
+ Digoxin/ Rilpivirine1 Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↔  
+ Digoxin  
+   AUC ↔  
+   Cmin NA  
+   Cmax ↔ No dose adjustment is required.  Anticonvulsants  Carbamazepine / Dolutegravir1 
+ 
+ 
+ Carbamazepine / Rilpivirine  Dolutegravir ↓ 
+   AUC ↓  49%  
+   C max ↓ 33%  
+   Cτ ↓ 73%  
+ Rilpivirine↓ Not studied. Significant decreases in rilpivirine plasma concentrations are expected  (induction of CYP3A enzymes) . Metabolic inducers may significantly decrease dolutegravir/rilpivirine  plasma concentrations, resulting in loss of therapeutic effect.  Co-administration of dolutegravir/rilpivirine  with these metabolic inducers is contraindicated  (see section 4.3) .  Oxcarbazepine  Phenytoin  Phenobarbital / Dolutegravir  
+ 
+ 
+ 
+ Oxcarbazepine  Phenytoin  Phenobarbital / Rilpivirine  Dolutegravir ↓ Not studied. D ecrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine is expected . 
+ Rilpivirine  ↓ Not studied. Significa nt decreases in rilpivirine plasma concentrations are expected  (induction of CYP3A enzymes) . Metabolic inducers may significantly decrease dolutegravir/rilpivirine plasma concentrations, resulting in loss of therapeutic effect.  Co-administration of dolute gravir/rilpivirine  with these metabolic inducers is contraindicated  (see section 4.3) . Azole anti -fungals  Ketoconazole / Dolutegravir  
+ Ketoconazole / Rilpivirine1,2 Dolutegravir ↔ (Not studied)  
+ Rilpivirine  
+   AUC ↑ 49%  
+   Cmin ↑ 76%  
+   C max ↑ 30%  (inhibition of CYP3A enzymes) . 
+ Ketoconazole  
+   AUC ↓ 24%  
+   C min ↓ 66%  
+   C max ↔ (induction of CYP3A due to high rilpivirine dose in the study) . No dose adjustment is required .  10 Fluconazole  Itraconazole  Isavuconazole  Posaconazole  Voriconazole / Dolutegravir  
+ 
+ Fluconazole  Itraconazole  Isavuconazole  Posaconazole  Voriconazole / Rilpivirine  
+ Dolutegravir ↔ (Not studied)  
+ 
+ 
+ 
+ 
+ 
+ Rilpivirine ↑  Not studied. May cause an increase in the  plasma concentrations of rilpivirine  (inhibition  of CYP3A enzymes) . No dose adjustment is required . Herbal products  St. John’s wort / Dolutegravir  
+ 
+ 
+ 
+ 
+ 
+ St. John’s wort / Rilpivirine  
+  Dolutegravir ↓ Not studied. D ecrease expected due to induction of UGT1A1 and CYP3A enzymes, a similar reduction in exposure as observed with carbamazepine  is expected . 
+ Rilpivirine  ↓ Not studied. Significant decreases in rilpivirine plasma concentrations are expected   (induction of CYP3A enzymes) . Co-administration may cause significant decreases in rilpivirine plasma concentrations. This may result in loss of therapeutic effect of dolutegravir/rilpivirine .  Co -administration of dolutegravir/rilpivirine  with St. John’s wort  is contraindicated  (see section 4.3) . Potassium channel blocker s Fampridine  (also known as dalfampridine) / Dolutegravir  
+  Fampridine  ↑ 
+ Co-administration of dolutegravir has the potential to cause seizures due to increased fampridine plasma concentration via inhibition of OCT2 transporter; co -administration has not been studied. Fampridine co -administration with dolutegravir/rilpivirine  is contraindicated  (see section 4. 3). Proton pump inhibitors  Omeprazole  Lansoprazole  Rabeprazole  Pantoprazole  Esomeprazole/ Dolutegravir  
+ Omeprazole/ Rilpivirine1,2 
+ 
+ 
+ 
+ 
+ Dolutegravir ↔ (Not studied)  
+ 
+ 
+ 
+  Rilpivirine  
+   AUC ↓ 40%  
+   Cmin ↓ 33%  
+   C max ↓ 40%  (reduced absorption due to gastric p 
+ H increase).  
+ Co-administration may significantly decrease rilpivirine plasma concentration. This may result in loss of therapeutic eff ect of dolutegravir/rilpivirine . Co-administration of dolutegravir/rilpivirine  with proton pump inhibitors is c ontraindicated  (see section 4.3) . 11  
+ 
+ 
+ 
+ 
+ Lansoprazole  Rabeprazole  Pantoprazole  Esomeprazole/  Rilpivirine  Omeprazole  
+   AUC ↓ 14%  
+   C min NA  
+   C max ↓ 14%  
+ 
+ Rilpivirine ↓ Not studied. Significant decreases in rilpivirine plasma concentrations are expected  (reduced absorption due to gastric p 
+ H increase).  H2-recepter  antagonists  Famotidine Cimetidine  Nizatidine  Ranitidine/ Dolutegravir  
+ Famotidine/ Rilpivirine1,2  
+40 mg single dose taken 12 hours before rilpivirine  
+ Famotidine/ Rilpivirine
+1,2  
+40 mg single dose taken 2 hours before rilpivirine  
+ 
+ Famotidine/ Rilpivirine
+1,2  
+40 mg single dose taken 4 hours after rilpivirine  
+ Cimetidine  Nizatidine  Ranitidine/  Rilpivirine  Dolutegravir ↔ (Not studied)  
+ 
+ 
+ 
+ Rilpivirine  
+   AUC ↓ 9%  
+   C min NA  
+   C max ↔ 
+ 
+ Rilpivirine  
+   AUC ↓ 76%  
+   C min NA  
+   C max ↓ 85%  (reduced absorption due to gastric p 
+ H increase).  
+ Rilpivirine  
+   AUC ↑ 13%  
+   C min NA  
+   C max ↑ 21%  
+ 
+ Rilpivirine  ↓ Not studied. Significant decreases in rilpivirine plasma concentrations are expected  (reduced absorption due to gastric p 
+ H increase).  The combination of dolutegravir/rilpivirine  and H2-receptor antagonists should be used with particular caution. Only H 2-receptor antagonists that can be dosed once daily should be used.  
+ H2-receptor antagonists  should be taken well separated in time from the administration of dolutegravir/rilpivirine  (minimum 4 hours after or 
+12 hours before)  Antacids and supplements  Antacids (e.g., aluminium magnesium hydroxide, and/or calcium carbonate) / Dolutegravir1 
+ Dolutegravir ↓ 
+   AUC ↓  74%  
+   C max ↓ 72%  
+   C 24 ↓ 74%  (Complex binding to polyvalent ions) . 
+ Rilpivirine  ↓ The combinati on of dolutegravir/rilpivirine  and antacid s should be used with particular caution. Antacids  should be taken well separated in time from the administration of dolutegravir/rilpivirine  (minimum 6 hours before  or 4 hours after).  12 Antacids (e.g., aluminium magnesium hydroxide, and/or calcium carbonate) / Rilpivirine  Not studied. Significant decreases in rilpivirine plasma concentrations are expected  (reduced absorption due to gastric p 
+ H increase) . Calcium supplements / Dolutegravir1  Dolutegravir ↓ 
+   AUC ↓  39%  
+   C max ↓ 37%  
+   C 24 ↓ 39%  (Complex binding to polyvalent ions) . The combination of dolutegravir/rilpivirine  and supplements should be used with particular caution. Calcium supplements, iron suppleme nts or multivitamins should be co-administer ed at the same time as dolutegravir/rilpivirine  with a meal . 
+ If calcium supplements, iron  supplements or multivitamins  cannot be taken at the same time as dolutegravir/rilpivirine , these  supplements should be taken well separated in time from the administration of dolutegravir/rilpivirine  (minimum 6 hours before or 4 hours after).  Iron supplements / Dolutegravir1  Dolutegravir ↓ 
+   AUC ↓  54%  
+   C max ↓ 57%  
+   C 24 ↓ 56%  (Complex binding to polyvalent ions) . Multivitamin / Dolutegravir1 Dolutegravir ↓ 
+   AUC ↓  33%  
+   C max ↓ 35%  
+   C 24 ↓ 32%  (Complex binding to polyvalent ions) . Corticosteroids  Prednisone / Dolutegravir1 
+ 
+ 
+ Prednisone / Rilpivirine  Dolutegravir ↔ 
+   AUC ↑  11%  
+   C max ↑ 6% 
+   Cτ ↑ 17%  
+ Rilpivirine ↔  (Not studied)  No dose adjustment is required . Dexamethasone/ Dolutegravir  
+ Dexamethasone/ Rilpivirine  (systemic, except for single dose use)  Dolutegravir ↔ (Not studied)  
+ Rilpivirine ↓ Not studied. Dose dependent  decreases i n rilpivirine plasma concentrations are expected  (induction of CYP3A enzymes).  Co-administration may cause significant decreases in rilpivirine plasma concentrations. This may result in loss of therapeutic effect of dolutegravir/rilpivirine . Co-administrat ion of dolutegravir/rilpivirine  with systemic  dexamethasone  is contraindicated  (except as a single dose) see section 4.3. Alternatives should be considered, particularly for long- term use.  Antidiabetics  Metformin / Dolutegravir1 
+ 
+ 
+ Metformin/ Rilpivirine1 Metformin ↑ 
+   AUC ↑  79%  
+   C min NA 
+   C max ↑ 66%  
+ Metformin  
+   AUC ↔  
+   C min NA 
+   C max ↔ A dose adjustment of metformin should be considered when starting and stopping co-administration of dolutegravir/rilpivirine  with metformin, to maintain glycaemic control.  In patients with moderate renal impairment a dose adjustment of metformin should be considered when co- administered with dolutegravir, because of the increased risk for lactic acidosis in patients with moderate renal impairment due to increased metformin concentration (section 4.4).  Antimycobacterials  13 Rifampicin / Dolutegravir1 
+ 
+ 
+ 
+ 
+ Rifampicin / Rilpivirine1,2 Dolutegravir ↓ 
+   AUC ↓  54%  
+   C max ↓ 43%  
+   Cτ ↓72% (induction of UGT1A1 and CYP3A enzymes) . 
+ Rilpivirine  
+   AUC ↓ 80%  
+   C min ↓ 89%  
+   C max ↓ 69%  (induction of CYP3A enzymes) . 
+ Rifampicin  
+   AUC ↔  
+   C min NA  
+   C max ↔ 
+25-desacetyl -rifampicin  
+   AUC ↓ 9%  
+   C min NA  
+   Cmax ↔ Co-administration may cause significant decreases in rilpivirine plasma concentrations. This may result in loss of therapeutic effect of dolute gravir/rilpivirine . Co-administration of dolutegravir/rilpivirine  with rifampicin  is contraindicated  (see section 4.3) . Rifabutin / Dolutegravir1 
+ 
+  
+ 
+ Rifabutin / Rilpivirine
+1 
+300 mg once daily2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+300 mg once daily  (+ 25 mg once daily rilpivirine)  
+ 
+ 
+300 mg once daily  (+ 50 mg once daily rilpivirine)  
+ 
+ Dolutegravir ↔ 
+   AUC ↓  5% 
+   C max ↑ 16%  
+   Cτ ↓ 30%  (induction of UGT1A1 and CYP3A enzymes) . 
+ Rifabutin  
+   AUC ↔  
+   C min ↔  
+   C max ↔  
+25-O-desacetyl -rifabutin  
+  AUC ↔  
+  Cmin ↔  
+   C max ↔ 
+ Rilpivirine  
+   AUC ↓ 42%  
+   Cmin ↓ 48%  
+   C max ↓ 31%  
+ Rilpivirine  
+   AUC ↑ 16%*  
+   C min ↔*  
+   C max ↑ 43%*  
+ 
+* compared to 25 mg once daily rilpivirine alone  
+ (induction of CYP3A enzymes).  Co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes). When Juluca is co-administered with rifabutin, an additional 25 mg tablet of rilpivirine per day should be taken at the same time with Juluca, for the duration of the rifabutin co -administration (a separate formulation  of rilpivirine is available for this dose adjustment, see section 4.2).  Rifapentine / Dolutegravir  Dolutegravir ↓  (Not studied)  Co-administration may cause significant decreases in rilpivirine plasma concentrations. This may 14  Rifapentine / Rilpivirine   Rilpivirine ↓  Not studied. Significant decreases in rilpivirine plasma concentrations are expected.  result in loss of therapeutic effect of dolutegravir/rilpivirine  (induction of CYP3A enzymes) .  Co -administration of dolutegravir/rilpivirine  with rifapentine  is contraindicated  (see section 4.3) .  Antimalarials  Artemether/ Lumefantrine / Dolutegravir  
+ Artemether/ Lumefantrine / Rilpivirine  Dolutegravir ↔ (Not studied)  
+ 
+ Rilpivirine ↓  Not studied. De creased exposure of rilpivirine is expected  (induction of CYP3A  enzymes ). The combination of dolutegravir/rilpivirine  and artemether/lumefantrine should be used with caution.  Atovaquone/  Proguanil / Dolutegravir  
+ Atovaquone/  Proguanil / Rilpivirine  Dolutegravir ↔ (Not studied)  
+ 
+ Rilpivirine ↔  (Not studied).  No dose adjustment is required.  Macrolide antibiotics  Clarithromycin  Erythromycin  
+/Dolutegravir  
+ Clarithromycin  Erythromycin  
+/Rilpivirine  Dolutegravir ↔ (Not studied)  
+ 
+ Rilpivirine ↑ Not studied. Increased exposure of rilpivirine is expected  (inhibition of CYP3A enzymes).  Where possible, alternatives such as azithromycin should be considered.  Oral contraceptives  Ethinyl estradiol  (EE)1 and Norelgestromin (NGMN)1 / Dolutegravir  
+ 
+ 
+ 
+ 
+ 
+ Ethinyl estradiol (EE)1 and Norethindrone1/ Rilpivirine  Dolutegravir ↔ EE ↔  
+   AUC ↑  3%  
+   C max ↓ 1% 
+ NGMN ↔  
+   AUC ↓  2%  
+   C max ↓ 11%  
+ 
+ Rilpivirine ↔ * EE ↔  
+   AUC ↔  
+   C min ↔ 
+   C max ↑ 17% 
+ Norethindrone  ↔ 
+   AUC ↔  
+   Cmin ↔ Dolutegravir  or rilpivirine  did not change ethinyl estradiol and norelgestromin (dolutegravir) or norethindrone (rilpivirine) plasma  concentrations to a clinically relevant extent. No dose adjustment of oral contraceptives is required  when co-administered with Juluca .  15    Cmax ↔ 
+ 
+*based on historic controls . Analgesics  Methadone / Dolutegravir1 
+ 
+ 
+ 
+ Methadone /  Rilpivirine1 Dolutegravir ↔ Methadone ↔  
+   AUC ↓  2%  
+   C max ↔ 0% 
+   Cτ ↓ 1% 
+ Rilpivirine:  
+   AUC: ↔*  
+   Cmin: ↔* 
+   C max: ↔*  
+ R(-) methadone:   
+   AUC: ↓ 16%  
+   Cmin: ↓ 22%  
+   C max: ↓ 14%  
+ 
+*based on historic controls . No dose adjustment s are required when initiating co-administration of methadone with dolutegravir/rilpivirine . However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients.  Paracetamol / Dolutegravir  
+ Paracetamol  / Rilpivirine
+1,2 Dolutegravir ↔ (Not studied)  
+ Rilpivirine  
+   AUC ↔  
+   C min ↑ 26%  
+   C max ↔ 
+ Paracetamol  
+   AUC ↔  
+   C min NA  
+   Cmax ↔ No dose adjustment is required.  Anticoagulants  Dabigatran etexilate / Dolutegravir  
+ Dabigatran etexilate / Rilpivirine  Dolutegravir ↔ (Not studied)  
+ Rilpivirine  ↔ Not studied. Dabigatran etexilate ↑  A risk for increases in dabigatran plasma concentrations cannot be excluded  (inhibition of intestinal P -gp). The combination of dolutegravir/rilpivirine  and dabigatran etexilate should be used with caution.  HMG CO -A reductase  inhibitors  Atorvastatin / Dolutegravir  
+ Atorvastatin / Rilpivirine1,2 Dolutegravir  ↔ (Not studied)  
+ Rilpivirine  
+   AUC ↔  
+   C min ↔ 
+   C max ↓ 9%  
+ No dose adjustment is required.  16 Atorvastatin  
+   AUC ↔  
+   C min ↓ 15%  
+   Cmax ↑ 35%  Phosphodiesterase type 5  (PDE -5) inhibitors  Sildenafil  / Dolutegravir  
+ Sildenafil / Rilpivirine1,2 Dolutegravir  ↔ 
+ 
+ Rilpivirine  
+   AUC ↔  
+   C min ↔ 
+   C max ↔ 
+ Sildenafil  
+   AUC ↔  
+   C min NA  
+   Cmax ↔ No dose adjustment is required.  Vardenafil  Tadalafil/ Dolutegravir  
+ Vardenafil  Tadalafil / Rilpivirine  Dolutegravir  ↔ (Not studied)  
+ 
+ Rilpivirine ↔  (Not studied)  No dose adjustment is required.  
+1 The interaction between dolutegravir and/or rilpivirine and the medicinal product  was evaluated in a clinical study. All other drug- drug interactions shown are predicted.  
+2 This interaction study has been performed with a dose higher than the recommended dose for rilpivirine assessing the maximal effect on the co -administered medicinal product . NA = Not applicable  
+ QT prolonging medicinal products  
+ There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and medicinal products that prolong the QTc interval of the ECG. In a study of healthy subjects, supratherapeut ic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the ECG (see section 5.1).  Dolutegravir/rilpivirine  should be used with caution when co-administered with a medicinal product with a known risk of Torsade de Pointes.  
+ 

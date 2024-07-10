@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ Pharmacokinetic interactions 
+ No interaction studies have been perform ed. Sotrovimab is not renally excreted or metaboli sed by cytochrome P450 (CYP) enzymes; therefore, interactions with medicinal products that are renally excreted or that are substrates, inducers, or inhibitors of CYP  enzymes are unlikely.   
+ Pharmacodynamic interactions  
+ In vitro  pharmacodynamic studies showed no antagonism between sotrovimab and remdesivir or bamlanivimab . 
+ 

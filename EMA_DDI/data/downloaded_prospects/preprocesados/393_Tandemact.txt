@@ -1,0 +1,20 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ There have been no forma l interaction studies for Tandemact, however, the concomitant use of the active substances in patients in clinical use has not resulted in any unexpected interactions. The following statements reflect the information available on the individual active subs tances (pioglitazone and glimepiride).  
+ Pioglitazone  
+ Co-administration of pioglitazone with gemfibrozil ( an inhibitor of cytochrome P450 2C8) is reported to result in a 3-fold increase in AUC of pioglitazone. A decrease in the dose of pioglitazone may be needed when gemfibrozil is concomitantly administered. Close monitoring of glycaemic control should be considered (see section 4.4) . Co-administration of pioglitazone with rifampicin (an inducer of cytochrome P4 50 2C8) is reported to result in a 54% decrease in AUC of pioglitazone. The pioglitazone dose may need to be increased when rifampicin is concomitantly administered. Close monitoring of glycaemic control sh ould be considered (see section 4.4). 
+ Interaction studies have shown that pioglitazone
+ has no relevant effect on either the pharmacokinetics or pharmacodynamics of digoxin, warfarin, phenprocoumon and metformin. Co-administration of pioglitazone with sulphonylureas does not appear to affect the pharmacokinetics of the sulphonylurea. Studies in man suggest no induction of the main inducible cytochrome P450, 1A, 2C8/9 and 3A4. In vitro  studies have shown no inhibition of any subtype of cytochrome P450. Interactions with substances metabolised by these enzymes, e.g.  oral contraceptives, cyclosporin, calcium channel blockers, and HMGCo 
+ A reductase inhibitors are not to be expected.  
+ 7 Glimepiride  
+ If glimepiride is taken simultaneously with certain other medicinal products, both undesired increases and decreases in the hypoglycaemic action of glimepiride can occur. For this reason, other medicinal products should only be taken with Tandemact with th e knowledge (or at the prescription) of the doctor.  
+ Based on the experience with glimepiride and with other sulphonylurea s the following interactions have to be mentioned.  
+ Potentiation of the blood- glucose -lowering effect and, thus, in some instances hyp oglycaemia may occur when one of the following active substances is taken, for example:  
+ phenylbutazone, azapropazone  and oxyfenbutazone  insulin and oral antidiabetic products  metformin  salicylates and p -amino -salicylic acid  anabolic steroids and male sex hormones  chloramphenicol  clarithromycin  coumarin anticoagulants  disopyramide  fenfluramine  fibrates  angiotensin -converting enzyme ( ACE ) inhibitors  fluoxetine  allopurinol  sympatholytics  cyclo -, tro-  and iphosphamides  sulphinpyrazone  certain long -acting sulphonamides  tetracyclines  MAO- inhibitors  quinolone antibiotics  probenecid  miconazol e pentoxyfylline (high dose parenteral)  tritoqualine  fluconazole  
+ Weakening of the blood- glucose -lowering effect and, thus raised blood glucose levels may occur when one of the following active substances is taken, for example:  
+ oestrogens and progestagens, saluretics, thiazide diuretics,  thyroid stimulating agents, glucocorticoids,  phenothiazine derivatives, chlorpromazine,  adrenaline and sympathicomimetics,  nicotinic  acid (high dose s) and nicotinic acid derivatives,  laxatives (long- term use),  phenytoin, diazoxide,  glucagon, barbiturates and rifampicin.  acetozolamide  
+ H
+2 antagonists, betablockers, clonidine and reserpine may lead to either potentiation or weakening of the blood glucose lowering effect.  
+ 8 Under the influence of sympatholytic active substances such as betablockers, clonidine, guanethidine and reserpine, the signs of adrenergic counterregulation to hypoglycaemia may be reduced or absent.  
+ Alcohol intake may potentiate or weaken the hypoglycae mic action of glimepiride in an unpredictable fashion.  
+ Glimepiride may either potentiate or weaken the effects of coumarin derivatives.  
+ 

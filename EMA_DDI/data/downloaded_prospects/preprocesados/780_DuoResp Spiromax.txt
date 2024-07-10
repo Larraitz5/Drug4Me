@@ -1,0 +1,19 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacokinetic interactions 
+ Potent inhibitors of CYP3A4 (e .g. ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone and HIV protease inhibitors) are likely to markedly increase plasma levels of budesonide and c oncomitant use should be avoided. If this is not possible the time interval between administration of the inhibitor and budesonide should be as long as possible ( see section 4.4). In patients 9 using potent CYP3A4 inhibitors, a fixed -dose combination of bude sonide and formoterol fumarate dihydrate maintenance and reliever therapy is not recommended.  
+ The potent CYP3A4 inhibitor ketoconazole, 200 mg once daily, increased plasma levels of concomitantly orally administered budesonide (single dose 3 mg) on average six -fold. When ketoconazole was administered 12 hours after budesonide the concentration was on average increased only three-fold showing that separation of the administration times can reduce the increase in plasma levels. Limited data about this intera ction for high-dose inhaled budesonide indicates that marked increases  in plasma levels (on average four fold) may occur if itraconazole, 200 mg once daily, is administered concomitantly with inhaled budesonide (single dose of 1000  micrograms).  
+ Co-treatment with CYP3A inhibitors, including cobicistat-containing products, is expected to increase the risk of systemic side-effects. The combination should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid side-effects, in whi ch case patients should be monitored for systemic corticosteroid side-effects.  
+ Pharmacodynamic interactions 
+ 
+β adrenergic blockers can weaken or inhibit the effect of formoterol. A fixed -dose combination therapy of budesonide and formoterol fumarate dihydrate should therefore not be given together with β  adrenergic blockers (including eye drops) unless there are compelling reasons.  
+ Concomitant treatment with quinidine, disopyramide, procainamide, phenothiazines, antihistamines (terfenadine) and tricyclic antidepressants can prolong the QTc-interval and increase the risk of ventricular arrhythmias.  
+ In addition L -Dopa, L -thyroxine, oxytocin and alcohol can impair cardiac tolerance towards β
+2 sympathomimetics.  
+ Concomitant treatment with monoamine oxidase inhibitors including medicinal products with similar properties such as furazolidone and procarbazine may precipitate hypertensive reactions.  
+ There is an elevated risk of arrhythmias in patients receiving concomit ant anaesthesia with halogenated hydrocarbons.  
+ Concomitant use of other β  adrenergic medicinal products and anticholinergic medicinal products can have a potentially additive bronchodilating effect. 
+ Hypokalaemia may increase the disposition towards arrhy thmias in patients who are treated with digitalis glycosides.  
+ Budesonide and formoterol have not been observed to interact with any other medicinal products used in the treatment of asthma.  
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

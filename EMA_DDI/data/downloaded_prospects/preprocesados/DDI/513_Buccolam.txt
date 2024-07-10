@@ -1,0 +1,14 @@
+> Midazolam is metabolized by CYP3A4. Inhibitors and inducers of CYP3A4 have the potential to respectively increase and decrease the plasma concentrations and, subsequently, the effects of midazolam thus requiring dose adjustments accordingly. Pharmacokineti c interactions with CYP3A4 inhibitors or inducers are more pronounced for oral as compared to oromucosal or parenteral midazolam as CYP3A4 ENZYMES are also present in the upper gastro- intestinal tract. After oromucosal administration, only systemic clearan ce will be affected. After a single dose of oromucosal midazolam, the consequence on the maximal clinical effect due to CYP3A4 inhibition will be minor while the duration of effect may be prolonged. Hence, a careful monitoring of the clinical effects and vital signs is recommended during the use of midazolam with a CYP3A4 inhibitor even after a single dose. 
+> Co-administration with midazolam may cause enhanced sedation or respiratory or cardiovascular depression.  Midazolam may interact with other hepatically metabolised medicinal products, e.g. PHENYTOIN, causing potentiation. 
+> E.g. BACLOFEN. Midazolam may cause potentiation of MUSCLE RELAXANTS, with increased CNS depressant effects. 
+> KETOCONAZOLE increased the plasma concentrations of intravenous midazolam by 5 -fold while the terminal half -life increased by about 3- fold.
+> VORICONAZOLE increased the exposure of intravenous midazolam by 3- fold whereas its elimination half -life increased by about 3- fold.
+> FLUCONAZOLE and ITRACONAZOLE both increased the plasma concentrations of intravenous midazolam by 2 to 3-fold associated with an increase in terminal half -life by 2.4- fold for ITRACONAZOLE and 1.5- fold for FLUCONAZOLE. 
+> POSACONAZOLE increased the plasma concentrations of intravenous midazolam by about 2- fold.
+> ERYTHROMYCIN resulted in an increase in the plasma concentrations of intravenous midazolam by about 
+1.6 to 2 –fold associated with an increase of the terminal half -life of midazolam by 1.5 to 1.8- fold.
+> CLARITHROMYCIN increased the plasma concentrations of intravenous midazolam by up to 2.5- fold associated with an increase in terminal half -life by 1.5 to 2- fold.
+> Co-administration with PROTEASE INHIBITORS (e.g. SAQUINAVIR and other HIV PROTEASE INHIBITORS) may cause a large increase in the concentration of midazolam. Upon co -administration with RITONAVIR -boosted LOPINAVIR, the plasma concentrations of intravenous midazolam increased by 5.4- fold, associated with a similar increase in terminal half -life.
+> A single dose of DILTIAZEM increased the plasma concentrations of intravenous midazolam by about 
+25% and the terminal half -life was prolonged by 43%. 
+> ATORVASTATIN showed a 1.4- fold increase in plasma concentrations of intravenous midazolam compared to control group. 

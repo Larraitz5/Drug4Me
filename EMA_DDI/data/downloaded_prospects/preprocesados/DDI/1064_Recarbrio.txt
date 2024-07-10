@@ -1,0 +1,8 @@
+> Case reports in the lit erature have shown that co
+-administration of  CARBAPENEMS, includingimipenem/CILASTATIN
+ (component s of  RECARBRIO
+), to patients receiving VALPROIC ACID or div alproexsodium results in a reduction in VALPROIC ACID concentrations. The VALPROIC ACID  concentrations maydrop below the therapeutic range as a result of this interaction, therefore increasing the risk ofbreakthrough seizures. Although the mechanism of this interaction is unknown, data f r om in vitro  andanimal studies suggest that CARBAPENEMS may inhibit the hydrolysis of VALPROIC ACID's glucuronidemetabolite (VPA
+-g) back to VALPROIC ACID, thus decreasing the serum concentrations of VALPROIC ACID.The concomitant use of RECARBRIO  and VALPROIC ACID/DIVALPROEX SODIUM is not recommended (seesection 4.4).Oral anti -coagulants
+> OAT -inhibitor proben ecid, indicating a lack of clinically meaningf ul OAT -mediated drug -druginteractions. Concomitant  administ ration o f IMIPENEM/CILASTATIN
+ and PROBENECID increased  the plasm alevel and half -life of CILASTATIN , though not to a clinically meaningful extent. Theref ore, RECARBRIO  maybe administered concomitantly with OAT  inhibitor s.
+

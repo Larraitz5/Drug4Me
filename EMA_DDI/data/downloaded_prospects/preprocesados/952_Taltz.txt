@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ In plaque psoriasis studies, the safety of Taltz  in combination with other immunomodulatory agents or phototherapy has not been evaluated.  In population pharmacokinetic analyses , clearance of ixekizumab was not affected by concomitant administration of oral corticosteroids, NSAIDs, sulfasalazine,  or methotrexate.  
+ Cytochrome P450 s ubstrates  
+ Results from an  interaction study in patients with moderate -to-severe psoriasis determined that 
+12 weeks of administration of ixekizumab with substances metaboli sed by CYP3A4 (i.e., midazolam), CYP2C9 (i.e., warfarin), CYP2C19 (i.e., omeprazole), CYP1A2 (i.e., caffeine) or CYP2D6 (i.e., dextromethorphan) does not have a clinically significant impact on the pharmacokinetics of these substances.  
+ 

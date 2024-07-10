@@ -1,0 +1,5 @@
+4.5 Interactions with other medicinal products and other forms of interaction  
+ No interaction studies have been performed. 
+ It is recommended to monitor the coagulation function when administered with anti-vitamins K treatment (see section 4.4). 
+ Due to inhibition of P-Glycoprotein transporter, tocofersolan may also enhance intestinal absorption of other concomitant fat-soluble vitamins (A, D, E, K) or that of highly lipophilic medicinal products (such as steroids, antibiotics, antihistamines, cyclosporine, tacrolimus). Therefore, monitoring should be performed and, when necessary, doses should be adjusted. 
+ 

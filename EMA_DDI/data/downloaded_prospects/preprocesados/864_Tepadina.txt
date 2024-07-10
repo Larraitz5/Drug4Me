@@ -1,0 +1,20 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Specific interactions with thiotepa  Live virus and bacterial vaccines must not be administered to a patient receiving an immunosuppressive chemotherapeutic agent and at least three months must elapse between discontinuation of therapy and vaccination.  
+ Thiotepa appears to be metabolised via  CYP2B6 and CYP3A4. Co -administration with inhibitors of CYP2B6 (for example clopidogrel and ticlopidine) or CYP3A4 (for example azole antifungals, macrolides like erythromycin, clarithromycin, telithromycin, and protease inhibitors) may increase the plasm a concentrations of thiotepa and potentially decrease the concentrations of the active metabolite TEPA. Co -administration of inducers of cytochrome P450 (such as rifampicin, carbamazepine, phenobarbital) may increase the metabolism of thiotepa leading to i ncreased plasma concentrations of the active metabolite. Therefore, during the concomitant use of thiotepa and these medicinal products, patients should be carefully monitored clinically.  
+ Thiotepa  is a weak inhibitor for CYP2B6, and may thereby potentially increase plasma concentrations of substances metabolised via CYP2B6, such as ifosfamide, tamoxifen, bupropion, efavirenz and cyclophosphamide. CYP2B6 catalyzes the metabolic conversion of cycloph osphamide to its active form 4 -hydroxycyclophosphamide (4 -OHCP) and co -administration of thiotepa may therefore lead to decreased concentrations of the active 4 -OHCP. Therefore, a clinical monitoring should be exercised during the concomitant use of thiote pa and these medicinal products.  
+ Contraindications of concomitant use  Yellow fever vaccine: risk of fatal generalized vaccine -induced disease.  
+ More generally, live virus and bacterial vaccines must not be administered to a patient receiving an immunosupp ressive chemotherapeutic agent and at least three months must elapse between discontinuation of therapy and vaccination.  
+ Concomitant use not recommended  Live attenuated vaccines (except yellow fever): risk of systemic, possibly fatal disease. This risk is  increased in subjects who are already immunosuppressed by their underlying disease.  
+ An inactivated virus vaccine should be used instead, whenever possible (poliomyelitis).  
+ Phenytoin: risk of exacerbation of convulsions resulting from the decrease of phe nytoin digestive absorption by cytotoxic medicinal product or risk of toxicity enhancement and loss of efficacy of the cytotoxic medicinal product due to increased hepatic metabolism by phenytoin.  
+ Concomitant use to take into consideration  Ciclosporine, t acrolimus: excessive immunosuppression with risk of lymphoproliferation.  
+ Alkylating chemotherapeutic agents, including thiotepa, inhibit plasma pseudocholinesterase by 35% to 70%. The action of succinyl -choline can be prolonged by 5 to 15  minutes.  
+ Thiote pa must not be concurrently administered with cyclophosphamide when both medicinal products are present in the same conditioning treatment. TEPADINA must be delivered after the completion of any cyclophosphamide infusion.  
+ The concomitant use of thiotepa  and other myelosuppressive or myelotoxic agents (i.e. cyclophosphamide, melphalan, busulfan, fludarabine, treosulfan) may potentiate the risk of haematologic adverse reactions due to overlapping toxicity profiles of these medicinal products.  
+ 
+ 
+ 
+ 8 
+ Interacti on common to all cytotoxics  
+ Due to the increase of thrombotic risk in case of malignancy, the use of anticoagulative treatment is frequent. The high intra -individual variability of the coagulation state during malignancy and the potential interaction betw een oral anticoagulants and anticancer chemotherapy require, if it is decided to treat the patient with oral anticoagulants, to increase the frequency of the INR (International Normalised Ratio) monitoring.  
+ 

@@ -1,0 +1,76 @@
+> Posaconazole is metabolised via UDP glucuronidation (phase
+ 
+2 ENZYMES) and is a substrate f orp-glycoprote in (P-gp) ef f lux  in vitro. The ref ore, inhibitors (e.g. VERAPAMIL, CICLOSPORIN, q uinidine,CLARITHROMYCIN, ERYTHROMYCIN, etc
+.) or inducers (e
+.g. rif ampicin, RIFABUTIN, certain anticonv ulsants, etc.)of  these cl earance pathways may increase or decrease posac onazole plasma concentrations,respectively.RIFABUTIN
+> Rif abutin  (300 mg once a  day) decreased the Cmax (maximum plasma concentration) and AUC (areaunder the  plasma concentration ti me curve)  of  posaconazole to 57 % and 51  
+%, respectively.Concomi tant use of  posaconazole and rif abutin  and similar inducers (e.g. rif ampicin)
+ should beavoided unless the benef it to the patient outweighs the risk
+. See also below regarding the ef f ect ofposaconazole on rif abutin plasma levels. EFAVIRENZ
+> Combining FOSAMPRENAVIR with posaconazo le may lead to decreased posac onazole plasmaconcentrations. If  concomitant administration is required,
+ close monitoring f or breakthrough f ungalinf ections is recommended. Repeat dose  administration of  FOSAMPRENAVIR (700  mg twice daily x
+10 days) d ecreased  the Cmax and AUC of  posaconaz ole oral suspension  (200 mg once daily on the
+1st day, 200  mg twice daily  on the 2nd day, the n 400  mg twice da ily x 8 days) by 21  % and 23  %,respectivel y. The eff ect of posaconazole on FOSAMPRENAVIR levels when f osamprenavir is given withritonavi r is unk nown.PHENYTOIN
+> PHENYTOIN (200  mg once  a day) decreased the Cmax and AUC  of posaconazole by 41 % and 50  %,respectively. Concomitant use of posaconazole  and PHENYTOIN and similar
+ inducers (e.g.CARBAMAZEPINE, PHENOBARBITAL, PRIMIDONE) should be avoided un less the benef it to  the patientoutweig hs the risk .H2 receptor antagonists and PROTON PUMP INHIBITORS
+> Posaconazole plasma concentrations (C max and AUC)  were red uced by 39  % when  posaconazole wasadministered with CIMETIDINE (400 mg twice a day) due to re duced absorption possibly secondary to a7decrease in gastric acid production. Co-administration of posaconazole with H 2 receptor antagonistsshou ld be av oided if  possible. Simila rly, administration of  400
+ mg posaconazole with ESOMEPRAZOLE (40  mg d aily) de creased mean
+> Posaconazole is a potent inhibitor of  CYP3A4. Co-administration of posaconazole with CYP3A4substrates may result in large increases in exposure to
+ CYP3A4 substrates as exemplif ied by theef f ects on TACROLIMUS, SIROLIMUS, ATAZANAVIR and MIDAZOLAM below. Caution is advised during co
+-administration of posacon azole with CYP3A4 substrates administered intravenously and the dose ofthe CYP3A4 substrate may need t o be reduced. If  posaconazole is used concomitantly with CYP3A4substrates that are administered orally, and for which an increase in plasma concentrations may beassociated with unacceptable adverse reactions , plasma co ncentrations of  the CYP3A4 substrateand/or adverse react ions should be closely monitored and the dose adjusted
+ as needed. Several of  theinteraction studies were conducted in healthy
+ volun teers in whom a higher exposure to posaconazoleoccurs compared to patients administered the same dose.  The ef f ect of  posaconazole on CYP3A4substrates in patients might be somewhat lower than that observed in healthy volunteers, and isexpected to be variable between patients due to the variable posaconazole exposure in patients. Theef f ect of  co -administr ation wit h posaconazole on plasma levels of CYP3A4
+ substrates may also bevariable within a patient, unless posaconazole is administered in a strictly standardised way with f ood,given the large f ood ef f ect on posaconazole exposure (see section  5.2).TERFENADINE, ASTEMIZOLE, CISAPRIDE, PIMOZIDE,
+ HALOFANTRINE and QUINIDINE (CYP3A
+4 substrates)Co-administration of posaconazole and terf enadine, ASTEMIZOLE, CISAPRIDE, PIMOZIDE, halof antrine orquinidine is contraindicated. Co-administration may result in incre ased plasma concentrations of thesemedic inal products, leading to QTc prolongation and rare occurrences of torsades de pointes (seesection  4.3).Ergot  alkaloid s
+> Posaconazole may increase the plasma concentration of ERGOT ALKALOIDS (ERGOTAMINE anddihydr oergotami ne), which may lead to ergotism.
+ Co-administration of posaconazole
+ and ergotalkaloids  is contraindicated (see section
+ 4.3).HMG -Co
+> A redu ctase inhibitors metabolised through CYP3A4 (e.g. SIMVASTATIN, LOVASTATIN
+, andatorvastatin)Posacona zole may  substant ially increase plasma levels of  HMG -Co
+> Most of  the vinca alkaloids (e.g. VINCRISTINE and VINBLASTINE) are substrates of  CYP3A4. Concomitantadministration of azole antif ungals, including posaconazole
+, with vi ncristine has been associated withserious ad verse reacti ons (see section  4.4). Posac onazole  may increase the plasma concentrations  ofvinca alkaloids which may lead to neurotoxicity and other serious adverse reactions. Therefore,reserve azole antif ungals
+, including posaconazole
+, f or patien ts receiv ing a vinca alkaloid, includingvincristine, who have no alternative antifungal treatment options.RIFABUTIN
+> Posaconazole increased the Cmax and AUC of  rif abutin by 31
+ % and 72  
+%, respectively. Concomitantuse of  posacon azole and rif abutin should  be avoid ed unless the benef it to the patient out weighs therisk (see also above regarding the ef f ect of rif abutin on plasma levels of posaconazole
+). If these8medicinal products are co-administered, careful monitoring of
+ f ull blood counts and adverse react ionsrelated to increased rif abutin levels (e.g. uveitis) is recommended.SIROLIMUS
+> Repeat dose administration of posaconazole oral suspension (400 mg twice dai ly f or 16  days)increased the Cmax and AUC of  SIROLIMUS (2
+ mg single dose) an average of 6.7-f old and 8. 9-f old (rang e
+3.1 to 17.5 -f old),  respectively, in healthy subjects
+. The effect of  posaconazole on SIROLIMUS in patientsis unknown, but is
+ expe cted to be variable due to the variable posaconazole exposure in patients. Co-administration of posacona zole with SIROLIMUS is not recommended and should  be avoided wheneverpossi ble. If it is consid ered that co -administration is unavoidable, then it is recommended  that the doseof SIROLIMUS should be greatly reduced at the time of initiation of posaconazole  therapy and that the reshould be very f requent monitoring of  trough concentrations of  SIROLIMUS in whole blood. Sirolimusconcentrations should be
+ meas ured upon  initiation, during co-administration, and at discontinuation ofposaconazole treatment
+, with s irolimus doses adjusted accordingly
+. It should be  noted that therelationsh ip between SIROLIMUS  trough concentration and AUC is changed during co
+-administrationwith posaconazole.
+ As a result, SIROLIMUS trough concentrations that f all within the usual ther apeuticrange may result in sub -therapeut ic levels. Theref ore trough concentrations that f all in the upper partof  the usual therapeutic range should be targeted  and caref ul attention should be paid to clinical signsand symptoms,  laboratory parame ters and  tissue b iopsies.CICLOSPORIN
+> In heart t ransplant patients on stable doses
+ of CICLOSPORIN, posaconazole oral suspension 200 mg oncedaily increased CICLOSPORIN concentrations requiring dose reductions. Cases of elevated
+ ciclosporinlevels resulting in ser ious adve rse reaction s
+, including nephrotoxicity and one f atal case ofleukoencephalopathy, were reported in clinical ef f icacy studies. When initiating treatment  withposaconazole
+ in patients already receiving CICLOSPORIN, the dose of CICLOSPORIN should be  reduced (e.g.to about three quarters of
+ the current dose). Thereaf ter blood levels of  CICLOSPORIN should be
+ monitoredcaref ully during co
+-adminis tration, and upon discontinuation of posaconazole treatment, and the doseof CICLOSPORIN should be adjusted a s necessa ry.Tacroli mus
+> Posaconazole increased C max and AUC of  TACROLIMUS (0.05 mg/kg body weight single dose) by 121  %and 358  
+%, respectively. Clinically signif icant interactions resulting in hospitalisation and/orposaconazole discontinuation were repo rted in clinical ef f icacy studies. When initiating posaconazoletreatment i n patients already receiving TACROLIMUS, the dose of TACROLIMUS should be reduced (e.g. toabout one third of the current dose). Thereaf ter blood
+ levels of TACROLIMUS should
+ be moni toredcaref ully durin g co-administration,
+ and upon discontinuation of posaconazole, and the dose oftacrolimus should be adjusted as necessary.HIV Protease inh ibitors
+> Cmax and AUC of  ATAZANAVIR increased by an average o f 2.6-f old and 3.7 -f old (range 1.2 to 26
+-f old),respectively. Following co
+-administration of  posaconazole oral suspension (400 mg twice daily) withatazanavir and RITONAVIR (300/1
+00 mg once daily) f or 7
+ days in healthy subjects C max and AUC ofatazanavir i ncreased by an averag e of  1.5 -f old and 2. 5-f old (range 0.9 to 4.1
+-f old), re spectively. Theaddition of  posaconazole to therapy with ATAZANAVIR or with ATAZANAVIR  plus RITONAVIR was associatedwith increases in plasma bilirubin levels. Frequent monitoring f or advers e reactions and toxicityrelated  to antiretroviral agents that are
+ substrates of CYP3A
+4 is recommended during co
+-administration with posaconazo le.MIDAZOLAM and other benzodiazepines metabolised by CYP3A4In a study in healthy volunteers posacona zole oral suspension (200 mg once daily for 10  days)increased the exposure
+ (AUC) of intravenous MIDAZOLAM (0
+.05 mg/kg) by 83
+ %. In another study inhealthy volunteers, repeat dos e administration of posaconazole oral suspension (200 mg twice dailyf or 7  days) incre ased the C max and AUC of  intravenous mid azolam (0.4  mg single dose
+) by an average9of  1.3- and 

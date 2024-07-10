@@ -1,0 +1,34 @@
+4.5  and 5.2). 
+ Excipients  
+ Volibris 2.5 mg, 5  mg and 10 mg film -coated tablets  Lactose  This medicinal product contain s lactose. Patients with rare hereditary problems of galactose intolerance, total  lactase deficiency or glucose- galactose malabsorption should not take this medicin al product . 
+ Lecithin (soya)  This medicinal product contain s lecithin derived from soya. If a  patient is hypersensitive to soya, ambrisentan  must not be used (see section  4.3). 
+ Sodium  This medicinal product contain s less than 1  mmol sodium (23 mg) per tablet , that is to say essentially 
+‘sodium -free’.  
+ Volibris 5  mg and 10 mg film -coated tablets  Allura red AC aluminium l ake Volibris 5  mg and 10 mg tablets contain the azo colouring agent allura red AC a luminium l ake (E129), which may cause allergic reactions.  
+ 
+ 
+4.5 Interaction with other medicinal products and other forms of int eraction   
+ Ambrisentan does not inhibit or induce phase I or II drug metaboli sing enzymes at clinically relevant concentrations in in vitro  and in vivo non- clinical studies, suggesting a low potential for ambrisentan to alter the profile of medicinal products metaboli sed by these pathways.  
+ The potential for ambrisentan to induce CYP3A4 activity was explored in healthy volunteers with results suggesting a lack of inductive effect of ambrisentan on the CYP3A4 isoenzyme.  
+ Cyclosporine A  
+ Steady -state co -administration of ambrisentan and cyclosporine A resulted in a 2- fold increase in ambrisentan exposure in healthy volunteers. This may be due to the inhibiti on by cyclosporine A of transporters and metabolic enzymes involved in the pharmacokinetics of ambrisentan. Therefore, 7 when co- administered with cyclosporine A, the dose of ambrisentan in adult patients or paediatric patients weighing ≥50 kg should be limi ted to 5 mg once daily ; for paediatric patients ≥20 to <50 kg the dose  should be limited to 2.5 mg once daily (see section  4.2). Multiple doses of ambrisentan had no effect on cyclosporine A exposure, and no dose adjustment of cyclosporine A is warranted.  
+ Rifampicin  
+ Co-administrat ion of rifampicin (an inhibitor of Organic Anion Transporting Polypeptide  [OATP], a strong inducer of CYP3A and 2C19, and inducer of P -gp and u ridine -diphospho-glucuronosyltransferases [UGTs]) was associat ed with a  transient (approximatel y 2-fold) increase i n ambrisentan exposure following initial doses in healthy volun teers. However, by day 8, steady state administration of rifampicin had no clinically relevant effect on ambrisentan exposure. Patients on ambrisentan therapy should be closely monitored when starting treatment with rifampicin (see sections 4.4 and 5.2).  
+ Phosphodiesterase inhibitors  
+ Co-administration of ambrisentan with a phosphodiesterase inhibitor, either sildenafil or tadalafil (both substrates of  CYP3A4) in healthy volunteers did not significantly affect the pharmacokinetics of the phosphodiesterase inhibitor or ambrisentan (see section  5.2).  
+ Other targeted PAH treatments  
+ The efficacy and safety of ambrisentan when co -administered with other tre atments for PAH (e.g. prostanoids and soluble guanylate cyclase stimulators ) has not been specifically studied in controlled clinical trials in PAH patients (see section  5.1). No specific interactions between ambrisentan and soluble guanylate cyclase stimulators or prostanoids are anticipated based on the known biotransformation data (see section  5.2). However, no specific interactions studies have been conducted with these medicinal products . Therefore, caution is recommende d in the case of co -administration.  
+ Oral contraceptives  
+ In a clinical study in healthy volunteers, steady- state dosing with ambrisentan 10  mg once daily did not significantly affect the single -dose pharmacokinetics of the ethinyl estradiol and norethindr one components of a combined oral contraceptive (see section  5.2). Based on this pharmacokinetic study, ambrisentan would not be expected to significantly affect exposure to oestrogen-  or progestogen-  based contraceptives.  
+ Warfarin  
+ Ambrisentan  had no effects on the steady- state pharmacokinetics and anti -coagulant activity of warfarin in a healthy volunteer study (see section  5.2). Warfarin also had no clinically significant effects on the pharmacokinetics of ambrisentan. In addition, in patient s, ambrisentan had no overall effect on the weekly warfarin -type anticoagulant dose, prothrombin time (PT) and international normali sed ratio (INR).  
+ Ketoconazole  
+ Steady -state administration of ketoconazole (a strong inhibitor of CYP3A4) did not result in a clinically significant increase in exposure to ambrisentan (see section  5.2). 
+ Effect of ambrisentan on xenobiotic transporters  
+ In vitro , ambrisentan has no inhibitory effect on human transporters at clinically relevant concentrations, including the P -glycoprotein (Pgp) , breast cancer resistance protein (BCRP), multi -drug resistance related protein 2 (MRP2), bile salt export pump (BSEP), organic anion transporting 8 polypeptides (OATP1B1 and OATP1B3) and the sodium -dependent taurocholate co -transporting polypeptide (NTCP).  
+ Ambrisentan is a substrate for Pgp -mediated efflux.  
+ In vitro  studies in rat hepatocytes also showed that ambrisentan did no t induce Pgp, BSEP or MRP2  protein expression.  
+ Steady -state administration of ambrisentan  in healthy volunteers had no clinically relevant effects on the single -dose pharmacokinetics of digoxin, a substrate for Pgp (see section 5.2).  
+ Paediatric population  
+ Interaction studies have  only been performed in adults.  
+ 

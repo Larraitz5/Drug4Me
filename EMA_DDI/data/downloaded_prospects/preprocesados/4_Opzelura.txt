@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies have been performed  with topically administered ruxolitinib.  
+ The potential for interactions with ruxolitinib is considered to be low because of the limited systemic exposure following topical administration.  
+ Based on in vitro  data, ruxolitinib is predominantly cleared by cytochrome P450 3A4 (CYP3A4) metabolism. Interaction potential was evaluated for oral ruxolitinib in dedicated clinical pharmacology studies that included co -administration of strong or moderate CYP3A4 inhibitors or a strong inducer. The plasma AUC is approximately doubled with co -administration of a potent inhibitor of CYP3A4 while only a modest increase was seen with co -administration of a moderate CYP3A4 inhibitor.  
+ The use of ruxolitinib cream in combination with other topical medicinal products used to treat vitiligo has not been evaluated and co -application on the same skin areas is not recommended.  
+ Other topical medicinal products used to treat other conditions on the same skin areas should be applied with a minimum of 2  hours after the application of ruxolitinib cream. This is also applicable to the use of sunscreen or emollients.  
+ 

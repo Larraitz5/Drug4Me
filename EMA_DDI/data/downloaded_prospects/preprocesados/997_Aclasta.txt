@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies with other medicinal products have been performed . Zoledronic acid is not systemically metabolised and does not affect human cytochrome P450 enzymes in vitro (see section  5.2). Zoledronic acid is not highly bound to plasma proteins (approximately 43- 55% bound) and interactions resulting from displacement of highly protein-bound medicinal products are therefore unlikely.  
+ Zoledronic acid is eliminated by renal excretion. Caution is indicated when zoledronic acid is administered in conjunction with medicinal products that can significantly impact renal function (e.g. aminoglycosides or diuretics that may cause dehydration)  (see section  4.4). 
+ In patients with renal impairment, the systemic exposure to concomitant medicinal products that are primarily excreted via the kidney may increase.  

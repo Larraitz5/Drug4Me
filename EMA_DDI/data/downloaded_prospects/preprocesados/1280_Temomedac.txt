@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ In a separate phase I study, administration of TMZ with ranitidine did not result in alterations in the extent of absorption of t emozolomide or the exposure to its active metabolite monomethyl triazenoimidazole carboxamide (MTIC). 
+ Administration of TMZ with food resulted in a 33 % decrease in Cmax and a 9 % decrease in area under the curve (AUC).  As it cannot be excluded that the change in C max is clinically significant, Temomedac should be administered without food.  8 
+ Based on an analysis of population pharmacokinetics in phase II trials, co -administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H 2 receptor antagonists, or phenobarbital did not alter the clearance of TMZ. Co- administration with valproic acid was associated with a small but statistically significant decrease in clearance of TMZ.  
+ No studies have been conducted to determine the effect  of TMZ on the metabolism or elimination of other medicinal products. However, since TMZ does not undergo hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products (see section  5.2). 
+ Use of TMZ in combination with other myelosuppressive agents may increase the likelihood of myelosuppression.  Paediatric population 
+ Interaction studies have only been performed in adults. 
+ 

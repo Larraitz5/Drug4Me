@@ -1,0 +1,14 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Thalidomide is a poor substrate for cytochrome  P450 isoenzymes and therefore clinically important interactions with medicinal products that are inhibitors and/or inducers of this enzyme system are unlikely. Non-enzymatic hydrolysis of thalidomide, being the primary clearance mechanism, suggests that the potential for drug -drug interactions with thalidomide is low.  
+ Increase of sedative effects of other medicinal products  
+ Thalidomide has sedative properties, thus may enhance the sedation induced by anxiolytics, hypnotics, antipsychotics, H
+1 antihistamines, opiate derivatives, barbiturates and alcohol. Caution should be used when thalidomide is given in combination with medicinal products that cause drowsiness.   Bradycardic effect  
+ Due to thalidomide’s potential to induce bradycardia, caution should be exercised with medicinal products having the same pharmacodynamic effect such as active substances known to induce torsade de pointes, beta blockers or anticholinesterase agents.   
+ Medicinal products known to cause peripheral neuropathy 
+ Medicinal products known to be associated with peripheral neuropathy (e.g. vincristine and bortezomib) should be used with caution in patients receiving thalidomide. 
+ Hormonal contraceptives  
+ Thalidomide does not interact with hormonal contraceptives. In 10 healthy women, the pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of a single dose containing 1.0 mg of norethindrone acetate and 0.75 mg of ethinyl estradiol were studied. The results were similar with and without co -administration of thalidomide 200  mg/day to steady -state levels. However, combined hormonal contraceptives are not recommended due to the increased risk of venous thromboembolic disease.   Warfarin  
+ Multiple dose administration of 200  mg thalidomide q.d. for 4 days had no effect on the international normalized ratio (INR) in healthy volunteers. However, due to the increased risk of thrombosis in cancer patients, and a potentially accelerated metabolism of warfarin with corticosteroids, close monitoring of INR values is advised during thalidomide-prednisone combi nation treatment as well as during the first weeks after ending these treatments.  
+ 12 Digoxin 
+ Thalidomide does not interact with digoxin. In 18 healthy male volunteers, multiple dose administration of 200 mg thalidomide had no apparent effect on the single dose pharmacokinetics of digoxin. In addition, single dose administration of 0.5 mg digoxin had no apparent effect on thalidomide pharmacokinetics. It is not known whether the effect will be different in multiple myeloma patients.  
+ 

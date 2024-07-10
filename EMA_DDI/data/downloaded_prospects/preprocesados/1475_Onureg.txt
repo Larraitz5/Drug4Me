@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No formal clinical drug-drug interaction studies with azacitidine  have been conducted.  
+ In case of concomitant administration with other antineoplastic agents, caution and monitoring is recommended as an antagonistic, additive, or synergistic pharmacodynamic effect cannot be excluded. These effects may be dependent on the dose, sequence and schedule of administration.  
+ Onureg exposure was minimally affected when co -administered with a proton pump inhibitor (omeprazole).  Therefore, dose modification is not required when Onureg is co-administered with proton pump inhibitors or other p 
+ H modifiers.  
+ An in vitro  study of azacitidine with human liver fractions indicated that azacitidine was not metaboli sed by cytochrome P450 i soforms (CYPs) . Therefore, interactions with CYP inducers or inhibitors are considered unlikely  (see section  5.2). Clinically relevant inhibitory or inductive effects of azacitidine on the metabolism of cytochrome P450 substrates are unlikely (see section  5.2). No clinically relevant drug -drug interactions are expected when Onureg  is co-administered with substrates  of P-glycoprotein (P -gp), breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and OAT3, organic anion 6 transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter (OCT) OCT2.  Azacitidine  is not a substrate of P -gp, therefore it  is not expected to interact with P -gp inducers or inhibitors.  
+ 

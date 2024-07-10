@@ -1,0 +1,12 @@
+4.5 Interaction with other medicinal products and other forms o f interaction 
+ Co-administration of  dacomitinib with agent s that increase gast ric p 
+ H 
+ The aqueous solubility of dacom itinib is p 
+ H dependent, with low  (acidic) p 
+ H resulting in higher solubility. Data from a study in  24 healthy subjects indicated that co-administration of a single 45 mg dacomitinib dose with the PPI rab eprazole 40 mg o nce daily for 7 days decreased dacomitinib C max, AUC 0-96h (area under the concentration-time curve from time 0 to 96 hour s), and AUC inf (AUC from time 0 to infinity) (n=14) by approximately 51%, 39%, and 29%, respectively, when compared to a single 45 mg dose of d acomitinib administere d alone. PPIs shoul d be avoided while receiving treatment with dacomiti nib (see section 4.4). 
+ Based on data from observations in 8 patients from Study A74710 01, there was no apparent effect of local antacid administration on Cmax and AUC inf of dacomitinib. Based on poo led data in patients, there was no apparent effect of histamine-2 (H2) receptor antagonists  on steady-state tro ugh concentration of dacomitinib (geometric mean ra tio of 86% (90% CI: 73; 101). Local antacids and H2 receptor antagonists may be use d if needed. Da comitinib should be admini stered 2 hours before or at least 
+10 hours after taking H2 receptor antagonists. 
+ Co-administration of dacomitinib and CY P2D6 substrates 
+ Co-administratio n of single 45 mg oral dose of dacomitinib incr eased the mean exposure (AUC last and Cmax) of dextromethorphan, a probe C YP2D6 substrate, 855% and 874%,  respectively, compared with administration of dextromethorphan alone. These results suggest  that dacomitinib may increase exposure of other medicinal products (or decrease exposure to a ctive metabolites) primarily metabolised by CYP2D6. Concomitant use of  medicinal products predominantly metabolised by CYP2D6 should be avoided (see section 4.4). If concomitant use of such medicinal products is considered necessary, they should follow their respective label s for dose recommendation regarding co-administration with s trong CYP2D6 inhibitors. 
+ Effect of dacomitinib o n drug transporters 
+ Based on in vitro  data, dacomitinib may  have the potential to  inhibit the activi ty of P-glycoprotein (P-gp) (in the gastrointestinal [ GI] tract), Breast Cancer Resi stance Protein (BCRP) (systemically and GI tract), and organic cation tr ansporter (OCT)1 at clinically relevant concentrations (see section 5.2). 7  

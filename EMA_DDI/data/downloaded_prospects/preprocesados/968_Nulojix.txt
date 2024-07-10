@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Belatacept is a fusion protein that is not expected to be metabolised by the cytochrome P450 enzymes (CYPs) and UDP -glucuronosyltransferases (UGTs).  Belatacept appears not to have any relevant direct effects on cytokine levels in liver transplant recipients or in healthy volunteers. Belatacept is therefore not expected to affect cytochrome P450 enzymes via effects on cytokines.  
+ Belatacept is not expected to interrupt the enterohepatic recirculation of MPA. At a given dose of MMF, MPA exposure is approximately 40% higher with belatacept coadministration than with ciclosporin coadministration.  
+ Immunosuppressant therapy may affect response to vaccination. Therefore, during treatment with belatacept, vaccinations may be less effective although this has not been studied in clinical trials. The use of live vaccines should be avoided (see section  4.4). 
+ 

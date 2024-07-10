@@ -1,0 +1,17 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No specific interaction studies were conducted with indacaterol/glycopyrronium/mometasone furoate . Information on the potential for interactions is based on the potential for each of the monotherapy components.  
+ Medicinal products known to prolong the QTc interval  
+ Like other medicinal products containing a beta 2-adrenergic agonist, this medicinal product should be administered with caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or medicinal products known to prolong the QT interval, as any effect of these on the QT interval may be potentiated. Medicinal products known to prolong the QT interval may increase the risk of ventricular arrhythmia (see section s 4.4 and 5.1).  
+ Hypokalaemic treatment  
+ Concomitant hypokalaemic treatment with methylxanthine derivatives, steroids, or non-potassium -sparing diuretics may potentiate the possible hypokalaemic effect of beta 2-adrenergic agonists (see section  4.4). 
+ Beta-adrenergic blockers  
+ Beta-adrenergic blockers may weaken or antagoni se the effect of beta 2-adren ergic agonists. Therefore, this medicinal product  should not be given together with beta -adrenergic blockers unless there are compelling reasons for their use. Where required, cardioselective beta -adrenergic blockers should be preferred, although they shou ld be administered with caution.  
+ Interaction with CYP3A4 and P -glycoprotein inhibitors  
+ Inhibition of CYP3A4 and P -glycoprotein (P -gp) has no impact on the safety of therapeutic doses of Zimbus  Breezhaler . 
+ Inhibition of the key contributors of indacaterol clearance (CYP3A4 and P -gp) or mometasone furoate clearance (CYP3A4) raises the systemic exposure of indacaterol or mometasone furoate up to two-fold. 
+ Due to the very low plasma concentration achieved after inhaled dosing, clinically significa nt interactions with mometasone furoate are unlikely. However, there may be a potential for increased systemic exposure to mometasone furoate when strong CYP3A4 inhibitors (e.g. ketoconazole, itraconazole, nelfinavir, ritonavir, cobicistat) are co -administ ered.  
+ Cimetidine or other inhibitors of organic cation transport  
+ In a clinical study in healthy volunteers, cimetidine, an inhibitor of organic cation transport which is thought to contribute to the renal excretion of glycopyrronium, increased total expo sure (AUC) to glycopyrronium by 22% and decreased renal clearance by 23%. Based on the magnitude of these changes, no clinically relevant drug interaction is expected when glycopyrronium is co -administered with cimetidine or other inhibitors of the organic  cation transport.  
+ Other long -acting antimuscarinics and long -acting beta 2-adrenergic agonists  
+ The co -administration of this medicinal product  with other medicinal products containing long -acting muscarinic antagonists or long -acting beta 2-adrenergic ago nists has not been studied and is not recommended as it may potentiate adverse reactions (see section s 4.8 and 4.9).  
+ 8 

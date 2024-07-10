@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal pr oducts and other fo rms of interaction  
+ Interactions caused by inhibition of P-glycoprotein-mediated cleara nce or CYP-mediated clearance of medicinal products are unlikely (see section 5.2). 
+ Decreases in valproic acid levels that may fall be low the therapeutic range have been reported when valproic acid was co-administered with carbapenem ag ents. The lowered valproic  acid levels can lead to inadequate seizure control; th erefore, concomitant use of ertapenem and valproic acid/sodium valproate is not recommended and alternative antib acterial or anti-convulsant therapies should be considered. 
+ 

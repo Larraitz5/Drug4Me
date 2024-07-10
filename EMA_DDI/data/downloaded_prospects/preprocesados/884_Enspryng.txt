@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interactio n studies have been performed. 
+ Population pharmacokinetic  (PK)  analyses did not detect any effect of azathioprine ( AZA ), oral corticosteroids (OCs) or mycophenolate mofetil  (MMF ) on the clearance of satralizumab . 
+ Both in vitro  and in vivo  studies have shown that the expression of specific hepatic CYP450 enzymes (CYP 1A2, CYP2C9, CYP2C19, and CYP3A4) is suppressed by cytokines such as IL -6.  
+ Therefore  caution should be exercised when starting or discontinuing satralizumab treatment in patients also receiving substrates of CYP450  3A4, 1A2, 2C9 or 2C19, particularly those  with a narrow therapeutic index (such as warfarin, carbamazepine, phenytoin and theophylline), and doses adjusted if needed.  
+ Given the prolonged terminal half -life of satralizumab, the effect of satralizumab may persist for several weeks after stopping treatment . 
+ 

@@ -1,0 +1,17 @@
+{
+  "base_path": {
+      "base_path": "D:/Drug4Me_GitLab/drug4me/EMA_DDI"
+  },
+
+  "ema": {
+      "download_url": "https://www.ema.europa.eu/system/files/documents/other/medicines_output_european_public_assessment_reports_en.xlsx",
+      "file_path_medicines": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/ema_medicines/medicines_output_european_public_assessment_reports_en.xlsx",
+      "db_columns":["Category", "Medicine name", "Therapeutic area", "International non-proprietary name (INN) / common name", "Active substance", "Authorisation status", "ATC code", "Condition / indication", "URL"],
+      "output_path_prospects": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/downloaded_prospects/",
+      "path_prospects_prepocesados": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/downloaded_prospects/preprocesados/",
+      "path_prospects_no_prepocesados": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/downloaded_prospects/no_preprocesados/",
+      "path_ddi": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/downloaded_prospects/preprocesados/DDI/",
+      "path_ddi_no": "D:/Drug4Me_GitLab/drug4me/EMA_DDI/data/downloaded_prospects/preprocesados/DDI_NO/"
+  }
+
+}

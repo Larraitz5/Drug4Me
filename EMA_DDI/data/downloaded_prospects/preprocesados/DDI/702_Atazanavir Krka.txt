@@ -1,0 +1,141 @@
+> CYP3A4 andhaveanarrow therapeutic index: QUETIAPINE, LURASIDONE, ALFUZOSIN, ASTEMIZOLE, TERFENADINE, CISAPRIDE, PIMOZIDE, QUINIDINE, BEPRIDIL,triazola m,orallyadministered midazol am,LOMITAPIDE, andergotalkaloids, particularly ergotamineanddihydr oergota mine(seesection 4.3).Co-administration of ATAZANAVIR with GRAZOPREVIR -containing products, including ELBASVIR/GRAZOPREVIR fixed dose combi nation is contraindicated because of the increase in GRAZOPREVIR and ELBASVIR plasm a concentrations and potential for the increase in risk of ALT elevations associated with increased GRAZOPREVIR concentrations (see section 4.3). Co-administration of ATAZANAVIR with GLECAPREVIR/PIBRENTASVIR fixed dose combination is contraindicated because of the potential increase in the risk of ALT elevations due to a significant increase in glecapre vir and PIBRENTASVIR plasma concentrations (see section 4.3).Other intera ctions
+> Interactions between ATAZANAVIR andothermedicinal products arelisted inthetable below (increase is indicated as“↑”,decrea seas“↓”,nochange as“↔”). Ifavailable, 90% confidence intervals (CI)are shown inparentheses. Thestudies presented in
+> ANTI -HCV AGENTSGrazoprevir 200 mg once daily(ATAZANAVIR 300 mg/ RITONAVIR 100 mg once daily )ATAZANAVIR AUC ↑43% (↑30% 
+↑57%)ATAZANAVIR cmax ↑12% (↑1% 
+↑24%)ATAZANAVIR cmin ↑23% (↑13% 
+↑134%)GRAZOPREVIR AUC: ↑958% (↑678% 
+↑1339%)GRAZOPREVIR cmax: ↑524% (↑342% 
+↑781%)GRAZOPREVIR cmin: ↑1064% (↑696% 
+↑1602%)GRAZOPREVIR concentrations were greatly  increased when co -administered with atazanav ir/rito navir.Co-administration of ATAZANAVIR and ELBASVIR/GRAZOPREVIR is contraindicated because of a significant increase in GRAZOPREVIR plasma concentrations and an associated potential increase in the risk of ALT elevations (see section 4.3).ELBASVIR 50 mg once daily(ATAZANAVIR 300 mg/ RITONAVIR 100 mg once daily )ATAZANAVIR AUC ↑7% (↓2% 
+↑17%)ATAZANAVIR cmax ↑2% (↓4% ↑8%)ATAZANAVIR cmin ↑15% (↑2% ↑29%)ELBASVIR AUC: ↑376% (↑307% 
+↑456%)ELBASVIR cmax: ↑315% (↑246% 
+↑397%)ELBASVIR cmin: ↑545% (↑451%
+↑654%)ELBASVIR concentrations were increased when co -administered with ATAZANAVIR/RITONAVIR.SOFOSBUVIR 400 mg / VELPATASVIR 100 mg 
+/VOXILAPREVIR 100 mg single dose*(ATAZANAVIR 300 mg / RITONAVIR 100 mg once daily )SOFOSBUVIR AUC : ↑40% (↑25% 
+↑57%)SOFOSBUVIR cmax :↑29% (↑9% 
+↑52%)VELPATASVIR AUC: ↑93% (↑58% 
+↑136%)VELPATASVIR cmax: ↑29% (↑7% 
+↑56%)VOXILAPREVIR AUC : ↑331% (↑276% ↑393%)VOXILAPREVIR cmax : ↑342% (↑265% 
+↑435%)
+*Lack of pharmacokinetics interaction bounds 70 -143%Effect on ATAZANAVIR and RITONAVIR exposure has not been studied.Expected:
+↔ ATAZANAVIR
+↔ RITONAVIR
+> Co-administration of ATAZANAVIR with VOXILAPREVIR -containing products is expected to increase the concentration of VOXILAPREVIR. Co-administration of atazan avirwith VOXILAPREVIR -containing regimens is not recommended.10The mechanism of interaction between ATAZANAVIR/RITONAVIR and SOFOSBUVIR/VELPATASVIR/VOXILAPREVIR is inhibitio n of OATP1B, Pgp, and CYP3A.GLECAPREVIR 300 mg / PIBRENTASVIR 120 mg once daily(ATAZANAVIR 300 mg / RITONAVIR 100 mg once daily *)GLECAPREVIR AUC : ↑553% (↑424% ↑714%)GLECAPREVIR cmax : ↑306% (↑215% 
+↑423%)GLECAPREVIR cmin : ↑1330% (↑885% 
+↑1970%)PIBRENTASVIR AUC : ↑64% (↑48% 
+↑82%)PIBRENTASVIR cmax : ↑29% (↑15% 
+↑45%)PIBRENTASVIR cmin: ↑129% (↑95% 
+↑168%)
+* Effect of ATAZANAVIR and RITONAVIR on the first dose of GLECAPREVIR and PIBRENTASVIR is reported.Co-administration of atazan avirwith GLECAPREVIR/PIBRENTASVIR is contraindicated because of the potential increase in the risk of ALT elevations due to a significant increase in GLECAPREVIR and PIBRENTASVIR plasma concentrations (see section 4.3)ANTI -RETROVIRALSProtease inhibitors: Theco-administrationofatazanavir /RITONAVIR andother PROTEASE INHIBITORS hasnotbeen studied butwould beexpected toincrease exposure toother protease inhibito rs.Therefore, such co-administration isnotrecommended.RITONAVIR 100mgonce daily(ATAZANAVIR 300mgonce daily)Studies conducted in
+> UGT.Co-administration of ATAZANAVIR andindinavir isnot recommend ed (see section
+4.4).Nucleoside/nucleotide reversetranscr iptase inhibitors (NRTIs)LAMIVUDINE 150 mgtwice daily + ZIDOVUDINE 300 mg twice daily(ATAZANAVIR 400mgoncedaily)Nosignificant effect onlamivudine and zidovudineconcentrations was observed.Based onthese data andbecause RITONAVIR isnotexpected tohave a significantimpactonthe pharmacokinetics of
+> Hrelated to thepresence ofanti-acidagent in DIDANOSINE buffered tablets.Nosignificant effect ondidanosine andstavudine concentrations was observed.thefasted state 2hours after ATAZANAVIR taken with food. Theco-administration of STAVUDINE with ATAZANAVIR is notexpected tosignificantly alter theexposure ofstavudine.DIDANOSINE (enteric coated capsules) 400mgsingle dose(ATAZANAVIR 300mgonce dailywith RITONAVIR 100mgonce dail y)DIDANOSINE (with food)DIDANOSINE AUC ↓34%(↓41%
+↓27%) DIDANOSINE cmax ↓38%(↓48%↓26%) DIDANOSINE cmin 
+↑25%(↓8%↑69%)Nosignificant effect onatazanavir concentrations wasobserv edwhen administered with enteric -coated DIDANOSINE, butadministration with food decreased DIDANOSINE concentrations.TENOFOVIR DISOPROXIL FUMARATE
+300mgonce daily(ATAZANAVIR 300mgonce daily  with RITONAVIR 100mgonce daily)
+300 mg TENOFOVIR disoproxilfumarate is equivalent to
+245 mg TENOFOVIR DISOPROXIL
+> ATAZANAVIR AUC↔0% (↓9%
+↑10%)*ATAZANAVIR cmax↑17% (↑8%
+↑27%)*ATAZANAVIR cmin↓42% (↓51%
+↓31%)*Co-administration ofefavirenz andatazanavir isnot recommend ed(seesection
+4.4)EFAVIRENZ 600mgonce daily(ATAZANAVIR 400mgonce daily  with RITONAVIR 200mgonce dail y)ATAZANAVIR (pm):alladministeredwithfood
+> NEVIRAPINE AUC ↑26%(↑17%
+↑36%)NEVIRAPINE cmax↑21%(↑11%
+↑32%)NEVIRAPINE cmin↑35%(↑25%
+↑47%)ATAZANAVIR AUC ↓19%(↓35%
+↑2%)*ATAZANAVIR cmax ↔2%(↓15%
+↑24%)*ATAZANAVIR cmin ↓59%(↓73%
+↓40%)*Co-administration ofnevirapine and ATAZANAVIR isnot recommend ed(seesection
+4.4)13*Whencompared toatazanavir 
+300mgandritonavir 100mgwithout NEVIRAPINE. This decrea seinatazanavir Cmin,mightnegatively impactthe effic acyofatazanavir. Themechani sm ofnevirapine/ATAZANAVIR interaction is CYP3A4 induction.Integrase Inhibitors
+> AUC↓70% (↓74%↓66%)
+14-OHclarithro mycincmax↓72% (↓76%↓67%)
+14-OHclarithro mycincmin↓62% (↓66%↓58%)ATAZANAVIR AUC↑28%(↑16%
+↑43%)ATAZANAVIR cmax↔6%(↓7%
+↑20%)ATAZANAVIR cmin↑91%(↑66%
+↑121%)Adose reductio nofclarith romycinmay result insubtherapeuticconcentrations of14-OHclarithr omycin.The mechanismofthe clarithr omycin/atazanavirinteraction is CYP3A4 inhibition.Norecommendation regarding dose reduction canbemade; therefore, cautionshould be exercised ifatazanavir is co-administered with clarithr omycin.ANTI FUNGALSKetocon azole200mgonce daily(ATAZANAVIR 400mgonce daily)Nosignificant effect onatazanavir concentrations wasobserv ed.KETOCONAZOLE anditraconazole should beused cautious lywith ATAZANAVIR /RITONAVIR, highdoses of KETOCONAZOLE anditraconazole (>200 mg/day)arenot recommended.Itracona zole ITRACONAZOLE, likeketocon azole, isa potent inhibitor aswell asasubstrate of CYP3A4.Based ondata obtained with other boosted PIsandketoconazole,where KETOCONAZOLE AUC showeda3-fold increase, ATAZANAVIR
+/RITONAVIR is expected toincrea seketoconazole or itraconazole14concentrations.Voricona zole200mgtwice daily (ATAZANAVIR 300mg/RITONAVIR 100mgonce daily)Subjects with atleast one functional CYP2C19 allele.VORICONAZOLE AUC ↓33%(↓42% 
+↓22%)VORICONAZOLE cmax↓10%(↓22%
+↓4%)VORICONAZOLE cmin↓39%(↓49%
+↓28%)ATAZANAVIR AUC↓12%(↓18%
+↓5%ATAZANAVIR cmax↓13%(↓20%
+↓4%)ATAZANAVIR cmin↓ 20%(↓28%
+↓10%)RITONAVIR AUC ↓12%(↓17%↓7%)RITONAVIR cmax↓9%(↓17%↔0%)RITONAVIR cmin↓25%(↓35%↓14%)Inthemajorityofpatients with atleast o nefunctional CYP2C19allele, a reduction inbothvoriconazole and atazanavirexposures areexpected.Co-administration of VORICONAZOLE andatazanavirwith RITONAVIR isnot recommend edunless an assessment ofthebenefit/riskto the patient justifies theuseof VORICONAZOLE (seesection
+4.4).Atthetime VORICONAZOLE treatment isrequired, apatient 's CYP2C19 geno typeshouldbe performed iffeasible.Therefore ifthecombinationis unavoidable, thefollowing recomendati onsaremade according tothe
+> CYP2C19 allele.VORICONAZOLE AUC ↑561 %(↑451% ↑699%)VORICONAZOLE cmax ↑438%(↑355% 
+↑539%)VORICONAZOLE cmin ↑765%(↑571%
+↑1,020%)ATAZANAVIR AUC↓20%(↓35%
+↓3%)ATAZANAVIR cmax↓19%(↓34%
+↔0.2 %)ATAZANAVIR cmin ↓ 31%(↓46%
+↓13%)RITONAVIR AUC ↓11%(↓20%↓1%) RITONAVIR cmax ↓11%(↓24%↑4%) RITONAVIR cmin ↓19%(↓35%↑1%)Inasmallnumberofpatientswithout a functional CYP2C19allele, significantly increa sedvoriconazole exposures areexpected.Flucona zole200mgonce daily(ATAZANAVIR 300mgand RITONAVIR 100mgoncedaily)ATAZANAVIR andfluconazole concentrations were notsignificantly modified whenatazanavir /RITONAVIR was co-administered with FLUCONAZOLE.Nodosage adjustments are needed forfluconazole and ATAZANAVIR .ANTI MYCOBACTERIALRifabutin 150mgtwice weekly(ATAZANAVIR 300mgandritonavir 100mgoncedaily)RIFABUTIN AUC ↑48%(↑19%
+↑84%)**RIFABUTIN cmax↑149%(↑103%
+↑206%)**RIFABUTIN cmin↑40%(↑5%↑87%)
+**When given with ATAZANAVIR , therecommended dose of RIFABUTIN is150mg3times per week onsetdays(forexample Mond ay-Wednesday-Friday). Increased monitoringfor 1525-O-desace tyl-RIFABUTIN AUC
+↑990% (↑714 %↑1361%)**
+25-O-desace tyl-RIFABUTIN cmax
+↑677% (↑513 %↑883%) **
+25-O-desace tyl-RIFABUTIN cmin
+↑1045% (↑715 %↑1510%)**
+**Whencompared torifabutin 
+150mgonce daily alone. Total RIFABUTIN and25-O-desace tyl-RIFABUTIN AUC ↑119 %(↑78%
+↑169%).Inprevious studies, the pharmacokinetics ofatazanavirwas not altered byrifabutin.RIFABUTIN -associated adver se reactions includingneutr openia and uveitis iswarranted dueto an expectedincrease inexposure torifabutin. Further dosage reductio nofrifabutin to150mg twice weekly onsetdaysis rec ommended forpatientsin whom the150mgdose 3times per week isnottolerated. It should bekeptinmindthatthe twice weeklydosage of150mg may notprovideanoptimal exposuretorifabutin thus leading toariskofrifamycin resistan ceandatreatment failure. Nodose adjus tmentis needed foratazanavir .Rifampicin Rifampicinisastrong
+> AUC which can result invirolog icalfailure and resistancedevelop ment.During att emptstooverc omethedecre ased exposureby increasing thedose of ATAZANAVIR orother proteaseinhibito rs with RITONAVIR,ahighfrequency of liver reactio nswasseen.Thecombinationofrifampicin andatazanavir is contraindicated (seesection
+4.3).ANTIP SYCHOTICSQuetiapine Due to
+> CYP3A4 inhibit ionby ATAZANAVIR, concentrations of QUETIAPINE areexpected toincrease.Co-administration ofquetiapine with ATAZANAVIR is contraindicated asatazanavirmay increase QUETIAPINE -related toxicit y.Increasedplasma concentrations ofquetiapine may lead tocoma (seesection 4.3).LURASIDONE ATAZANAVIR is expected to increaseplasma levels of LURASIDONE due to
+> CYP3A4 inhibition.Co-administration oflurasidone with ATAZANAVIR is contraindicated as this may increase LURASIDONE -related toxicity (see section 4.3).ACIDREDUCINGAGENTSH2-Receptor antagonists
+> H2-RECEPTOR ANTAGONISTS areco-administered, a doseequivalent tofamotidine 20mgtwice daily shou ldnotbe exceeded. Ifa higher dose ofan H 2-receptor antagonist is required (e.g., FAMOTIDINE 40mg twice daily orequivalent)an increase ofthe ATAZANAVIR
+> FAMOTIDINE 20mgtwice daily ATAZANAVIR AUC↑18%(↑6.5%
+↑30%)*ATAZANAVIR cmax↑18%(↑6.7%
+↑31%)*ATAZANAVIR cmin↑24%(↑10%
+↑39%)*FAMOTIDINE 40mgtwice daily ATAZANAVIR AUC↔2.3% (↓13% 
+↑10%)*ATAZANAVIR cmax↔5%(↓17%
+↑8.4%)*ATAZANAVIR cmin↔1.3% (↓10%
+↑15)*
+*Whencompared toatazanavir 
+300mgonce daily with RITONAVIR 
+100mgonce daily andtenofovir disoproxil fumarate 300mgallasa single dose with food. Whencompared to ATAZANAVIR 300mgwith RITONAVIR 100mgwithouttenofovir disoproxil ,atazanavirconcentrations are expected tobeadditionally decreased byabout
+20%.Themechani smofinteractionis decreased solubility ofatazanaviras intra -gastric p
+> ATAZANAVIR AUC↓61%(↓65%
+↓55%)ATAZANAVIR cmax↓66%(↓62%
+↓49%)ATAZANAVIR cmin↓65%(↓71%
+↓59%)Co-administration of ATAZANAVIR with RITONAVIR and proton pumpinhibi torsis not recommended. Ifthe combinatio nisjudged unavoidable, close clinical monitoring isrecommended in combinatio nwith anincrease17Omepr azole20mgonce daily(ATAZANAVIR 400mgonce daily  withritonavir 100mgonce dail y)ATAZANAVIR (am):1hrafteromeprazole
+> Reduced plasma concentrations of ATAZANAVIR maybetheconsequenceof increased gastricp
+> CYP3A4 inhibitionby ataz anavir and/or RITONAVIR.Co-administration ofalfuzosin with ATAZANAVIR is contraindicated (seesection
+4.3)ANTICOAGULANTSDirect -acting oral anticoagulants (DOACs)APIXABAN
+> Potential for increased APIXABAN and RIVAROXABAN concentrations which can result in a higher risk of bleeding. The mechanism of interaction is inhibition of CYP3A4 /and P -gp by ATAZANAVIR/RITONAVIR.RITONAVIR is a strong inhibitor of both CYP3A4 and P -gp.ATAZANAVIR is an inhibitor of CYP3A4. The potential inhibition of P-gp by  ATAZANAVIR is unknown and cannot be excluded.Co-administration of APIXABAN or rivaroxab an and ATAZANAVIR with rito navir is not recommended
+> Potential for increased DABIGATRAN  concentrations which can result in a higher risk of bleeding. The Co-administration of DABIGATRAN and ATAZANAVIR with RITONAVIR is not recommended.18mechanism of interaction is P -gp inhibition.RITONAVIR is a strong P -gp inhibitor.Potential P -gp inhibition by ATAZANAVIR is unknown and cannot be excluded.EDOXABAN
+> Potential for increased EDOXABAN concentrations which can result in a higher risk of bleeding. The mechanism of interaction is P -gp inhibition by ATAZANAVIR /RITONAVIR.RITONAVIR is a strong P -gp inhibitor.Potential P -gp inhibition by ATAZANAVIR is unknown and cannot be excluded. Exercise caution when EDOXABAN is used with ATAZANAVIR.Please refer to EDOXABAN Sm
+> PC section 4.2 and 4.5 for appropriate EDOXABAN dosage recommendations for co-administration with P -gp inhibito rs.VITAMIN K ANTAGONISTS
+> WARFARIN Co-administration with ATAZANAVIR hasthepotential toincrease or decre asewarfarinconcentrations.Itisrecommended thatthe International Normalised
+> Ratio (INR) be monitoredcarefully during treatmentwith ATAZANAVIR ,especiallywhen commencing therap y.ANT IEPILEPTICSCarbam azepine Ataz anavir may increase plasma levels ofcarba mazepine dueto CYP3A4 inhibition.Due tocarbamazepine inducingeffect, a reduction inatazanavirexposure cannot beruledout.Carbamazep ineshould beused with caution incombination with ATAZANAVIR .Ifneces sary, monitorcarbamazepine serum concentrations andadjust the dose accordingl y.Close monitoring ofthepatient 's virologic response should be excerci sed.PHENYTOIN, PHENOBARBITAL RITONAVIR maydecrease plasmalevels of phenytoinand/orphenobarbital due to CYP2C9 and
+> CYP2C19 inductio n.Due tophenytoin/phenoba rbital inducingeffect, areductio nin atazanavirexposure cannotberuled out.PHENOBARBITAL andphenytoin should beused with caution in combinatio nwith ATAZANAVIR
+/RITONAVIR.When ATAZANAVIR /RITONAVIR is co-administered with either phenytoinorphenobarbita l,a dose adjustment ofphenytoinor PHENOBARBITAL may berequired.Close monitoring ofpatient 's virologic response should be exercised.LAMOTRIGINE Co-administration oflamotrigineand ATAZANAVIR /RITONAVIR maydecrease LAMOTRIGINE plasmaconce ntrations due to UGT1A4inductio n.LAMOTRIGINE should beusedwith caution incombinationwith ATAZANAVIR /RITONAVIR.Ifneces sary,monitor LAMOTRIGINE concentrationsand adjust thedoseaccordingly.19ANT INEOPLAST ICSANDIMM UNOSUP RESSANTSAntineop lastics
+> CYP3A4and have anarrowtherapeutic index.Co-administration wi thbepridiliscontraindicated (se esectio n
+4.3)DILTIAZEM 180mgonce daily(ATAZANAVIR 400mgonce daily)DILTIAZEM AUC ↑125 %(↑109%
+↑141%)DILTIAZEM cmax ↑98%(↑78%
+↑119%)DILTIAZEM cmin↑142%(↑114%
+↑173%)Desacetyl-diltiaz em
+> Co-administration of ATAZANAVIR /RITONAVIR andthese glucocortico idsisnot 20(RITONAVIR 100mgcapsules twice daily)decre ased by approximately 86%(90% confidence interval 82%-
+89%). Greater effectsmaybeexpected when fluticasonepropionate isinhaled.Systemiccorticosteroid effects including Cushing’ssyndrome and adrenal suppression have been reported inpatients receiv ingritonavir and inhaled orintranasally  administeredfluticasone propionate; this couldalsooccur with other CORTICOSTEROIDS metabolised viathe P450 3Apathway,e.g.,BUDESONIDE. The effects ofhighfluticasone s ystemicexposure onritonavirplasma levels areyetunknown.The mechanism ofinteraction is
+> CYP3A4. Co-administration with ATAZANAVIR may result inincreased concent rationsof the PDE5 inhibitor andanincrea sein PDE5 -assoc iatedadverse events, includinghypotension, visual changes, andpriapis m.Themechan ismofthis interaction is
+> St.John'swort with ATAZANAVIR maybeexpected to result insignificant reduction in plasmalevelsofatazanavir. Thiseffect may beduetoaninduction of CYP3A4 .There isariskoflossof therapeutic effectanddevelop mentof resistan ce(seesection 4.3).Co-administration of ATAZANAVIR with products containing St.John'swortis contraindicated.HORMONALCONTRA CEPTI VESEthinyloestradiol 25μg+NORGESTIMATE(ATAZANAVIR 300mgonce daily  with RITONAVIR 100mgonce daily)Ethin yloestradiol AUC ↓19%(↓25% ↓ 13%)Ethin yloestradiol cmax↓16%(↓26% ↓ 5%)Ethin yloestradiol cmin↓37%(↓45% ↓ 29%)Norgest imate
+> Ifanoralcontraceptive is administered with ATAZANAVIR /RITONAVIR, itis recommend edthattheoral contraceptive contain atleast 
+30μgofethinyloestradiol and thatthepatient bereminded of strict compliance with this contraceptive dosing regimen. Co-administration of ATAZANAVIR /RITONAVIR withother hor monalcontraceptivesororal contraceptivescontaining PROGESTOGENS otherthan NORGESTIMATE hasnotbeen studied, andthereforeshould be avoided. Analternate reliable method of21by ATAZANAVIR, theneteffect of ATAZANAVIR/ri tonavir isadecrea sein ethin yloestradiol levels because ofthe inducing effect ofritonavi r.Theincrease inprogestin exposure may lead torelated side-effects(e.g. insulin resistance,dyslipid emia, acne and spotting),thus possib lyaffecting thecompliance.contraception is recommended.Ethinyloestradiol 35µg+NORETHINDRONE(ATAZANAVIR 400mgonce daily)Ethin yloestradiol AUC ↑48%(↑31% ↑ 68%)Ethin yloestradiol cmax↑15%(↓1% 
+↑32%)Ethin yloestradiol cmin↑91%(↑57% ↑ 133%)Norethindro ne
+> CYP3A4 fortheir metabolism andco-administration with ATAZANAVIR mayresult inincreased concentrations.Co-administration ofsimvastatin or LOVASTATIN withatazanavir is contraindicatedduetoan increased riskofmyopathy  includingrhabdomyolysis (see section
+4.3).ATORVASTATIN Theriskofmyopathy inclu ding rhabdo myolysismayalsobeincreased with ATORVASTATIN, whichisalso metabolised by
+> CYP3A4.Co-administration of ATORVASTATIN with ATAZANAVIR is notrecommended. Iftheuseof ATORVASTATIN isconsideredstrictly  neces sary,thelowestpossible dose ofatorvastatinshould be administered withcareful safety monito ring(seesection 4.4).PRAVASTATIN
+> LOMITAPIDE LOMITAPIDE is highly dependent on CYP3A4 for metabolism and co -Co-administration of LOMITAPIDE and ATAZANAVIR 22administration with ATAZANAVIR with rito navir may result in increased concentrations.with rito navir is contraindicated due to a potential risk of markedly increased transaminase levels and hepatotoxicity (see section 4.3).INHAL EDBETA AGONISTSSalmeterol Co-administration with atazanavirmay result inincreasedconcentrations of salmeterolandanincrease in SALMETEROL -associated adverseevents.Themechani smofinteractionis CYP3A4 inhibition by ATAZANAVIR and/o rritonavir.Co-administration ofsalmeterol with ATAZANAVIR isnot rec ommend ed(seesection
+4.4).OPIOIDSBuprenorph ine,once daily, stable maintenance dose(ATAZANAVIR 300mgonce dailywith RITONAVIR 100mgonce daily)Bupreno rphine
+> UGT1A1 inhibitio n. Concentrations ofatazan avir(when given with RITONAVIR) werenot significantly affec ted.Co-administration with ATAZANAVIR with RITONAVIR warrants clinicalmonitoringfor sedation andcognitiveeffects. A dose reductio nofbupreno rphine may beconsidered.METHADONE, stable maintenance dose(ATAZANAVIR 400mgonce daily)Nosignificant effect onmethadone concentrations wasobserved.Given that lowdose RITONAVIR (100mgtwice dail y)hasbeen shown tohaveno significant effect onmethado ne concentrations, nointeraction is expected ifmethado neisco-administeredwith ATAZANAVIR, based on thesedata.Nodosage adjustment is necessary ifmethadone isco-administered with ATAZANAVIR .PULMON ARYARTERIAL HYPERTENSIONPDE5 Inhibi tors
+> SILDENAFIL Co-administration with atazanavirmay result inincreasedconcentrations of the
+> Co-administration of ATAZANAVIR with TRIAZOLAM or orallyadministeredmidazolam is contraindicated (seesection 4.3), whereas caution shouldbeused withco-administration of23perfor medfortheco-administration ofatazanavir with benzodiazepines. Based ondata for other CYP3A4 inhibitors, plasma concentrations ofmidazolamare expected tobesignificantly higher whenmidazolamisgiven orally .Data from concomitant useofparenteral midazol amwithotherprotease inhibi torssuggestapossible 3-4fold increase inmidazol amplasmalevels.ATAZANAVIR andparenteralmidazola m.If ATAZANAVIR isco-administered withparenteral MIDAZOLAM, it should bedoneinanintensive care unit(ICU) orsimilarsetting w hichensures closeclinical monitoring andappropriate medicalmanage mentincase of respiratory depression and/or prolo ngedsedation. Dosa ge adjus tmentformidazolam should beconsidered,especially  ifmorethan a single dose of midazol amis administered.Incase ofwithdrawal ofritonavir from therecom mended atazanav irboosted regimen (seesection 4.4)Thesame recommendations fordrug interactions would applyexcept:
+- thatco-administration isnotrecommended with TENOFOVIR, carba mazepine, PHENYTOIN, phenobarbita l,protonpumpinhibitors, andbuprenor phine.
+- thatco-administration with FAMOTIDINE isnotrecommended butifrequired, ATAZANAVIR without RITONAVIR shouldbeadministered either2hours after FAMOTIDINE or12hoursbefore. Nosingledose offamotidine should exceed 20mg,andthetotaldailydose offamotidine shou ldnotexceed 40 mg.
+- theneed toconsider that
+- co-administration of APIXABAN, DABIGATRAN, or RIVAROXABAN and ATAZANAVIR without RITONAVIR may affect APIXABAN, DABIGATRAN, or RIVAROXABAN concentrations
+- co-administration ofvoriconazole andatazanavir without RITONAVIR mayaffect ATAZANAVIR concentrations
+- co-administr ationoffluticasone andatazanavir withoutritonavir mayincrease fluticasoneconcentrations relativetofluticasone given alone
+- ifanoralcontraceptive isadministe redwith ATAZANAVIR without RITONAVIR,itis recommend edthattheoralcontraceptive contain nomorethan 30µgofethinyloestradiol
+- nodose adjus tmentoflamotrigine isrequired

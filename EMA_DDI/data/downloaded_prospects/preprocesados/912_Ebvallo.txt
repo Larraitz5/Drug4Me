@@ -1,0 +1,10 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ No interaction studies have been performed.  
+ Immunosuppressive and cytotoxic therapies  
+ Certain concomitant or recently administered medicinal products  including chemotherapy (systemic or intrathecal), anti -T-cell antibody- based therapies, extracorporeal photoph eresis or brentuximab vedotin could potentially impact the efficacy of Ebvallo . Ebvallo  should only be administered  after an adequate washout period of such agents.  
+ For patients receiving chronic corticosteroid  therapy, the dose of these drugs  should be reduced as much as is clinically safe and appropriate; recommended no greater than 1 mg/kg per day  of prednisone  or equivalent. Ebvallo has not been evaluated in patients receiving corticosteroid do ses greater than 1  mg/kg per day of prednisone or equivalent.  
+ In clinical studies , patients received ciclosporin, tacrolimus, sirolimus  and other immunosuppress ive therapies at the lowest dose considered clinically safe and appropriate . 
+ 7 
+ CD20 -targeting antibodies  
+ Because in  vitro  characteri sation data demonstrated the absence of CD20 expression on tabelecleucel , it is not expected that anti -CD20 antibody treatments will affect tabelecleucel  activity.  
+ 

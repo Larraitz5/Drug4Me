@@ -1,0 +1,13 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Pharmacokinetic interactions  
+ Since glycopyrronium is eliminated mainly by the renal route, interaction could potentially occur with medicinal products  affecting renal excretion mechanisms  (see section  5.2). The effect of organic cation transport inhibition (using cimetidine as a probe inhibitor of  OCT2 and MATE1 transporters) in the kidneys on inhaled glycopyrronium disposition showed a limited increase in its total systemic exposure (AUC 0-t) by 16% and a slight decrease in renal clearance by 20% due to co administration of cimetidine.  
+ Beclometaso ne is less dependent on CYP3A metabolism than some other corticosteroids, and in general interactions are unlikely; however , the possibility of systemic effects with concomitant use of strong CYP3A inhibitors (e.g. ritonavir, cobicistat) cannot be excluded, and therefore caution and appropriate monitoring is advised with the use of such medicinal products . 
+ Pharmacodynamic interactions  
+ Related to formoterol  Non-cardioselective beta- blockers (including eye drops) should be avoided in patients taking inhaled formoterol. If they are administered for compelling reasons, the effect of formoterol will be reduced or abolished.  
+ Concomitant use of other beta -adrenergic medicinal products can have potentially additive effects ; therefore , caution is required when ot her beta- adrenergic medicinal products  are prescribed concomitantly with formoterol.  
+ Concomitant treatment with quinidine, disopyramide, procainamide, antihistamines, monoamine oxidase inhibitors, tricyclic antidepressants and phenothiazines can prolong the QT interval and increase the risk of ventricular arrhythmias. In addition, L- dopa, L -thyroxine, oxytocin and alcohol can impair cardiac tolerance towards beta2 -sympathomimetics.  
+ Concomitant treatment with monoamine oxidase inhibitors, including medicin al products with similar properties such as furazolidone and procarbazine, may precipitate hypertensive reactions.  
+ There is an elevated risk of arrhythmias in patients receiving concomitant anaesthesia with halogenated hydrocarbons.  
+ Concomitant treatment with xanthine derivatives, steroids, or diuretics may potentiate a possible hypokalaemic effect of beta2 -agonists (see section  4.4). Hypokalaemia may increase the disposition towards arrhythmias in patients who are treated with digitalis glycosides.  
+ Related to glycopyrronium  The long- term co -administration of Trimbow with other anticholinergic -containing medicinal products has not been studied and is therefore not recommended (see section  4.4). 
+ 

@@ -1,0 +1,18 @@
+4.5 Interaction with other med icinal products and other forms of interaction  
+ Iloprost may increase the  effects of vasodilatators and antihypertensive agents and then favour the risk of hypotension  (see section  4.4). Caution is recommended in case of co -administration of Ventavis with other antihypertensive or vasodilatating agents as dose adjustment might be required.  
+ Since  iloprost inhibit s platelet function its use with the following substances may enhance iloprost -mediated platelet inhibition, thereby  increasing the risk of bleeding:  
+• anticoagulants,  such as  
+- heparin,  
+- oral anticoagulants  (either coumarin -type or direct ), 
+• or other inhibitors of platelet aggregation , such as  
+- acetylsalicylic acid,  
+- non-steroidal anti -inflammatory medicinal products,  
+- non-selective phosphodiesterase inhibitors like pentoxifylline,  
+- selective phosphodiesterase 3 (PDE3) inhibitors like cilostazol or anagrelide,  
+- ticlopidine,  
+- clopidogrel , 
+- glycoprotein  IIb/IIIa antagonists , like o abciximab,  o eptifibatide , o tirofiban , 
+- defibrotide . 
+ A careful monitoring of the patients taking anticoagulants or other inhibitors of platelet aggregation according to common medical practice is recommended.  
+ Intravenous infusion of iloprost has no effect either on the pharmacokinetics of multiple oral dos es of digoxin or on the pharmacokinetics of co -administered tissue plasminogen activator (t -PA) in patients.  Although, clinical studies have not been conducted, in vitro  studies investigating the inhibitory potential of iloprost on the activity of cytochro me P450  enzymes revealed that no relevant inhibition of drug metabolism via these enzymes by iloprost is to be expected.  
+ 

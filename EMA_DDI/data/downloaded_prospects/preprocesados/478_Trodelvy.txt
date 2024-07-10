@@ -1,0 +1,8 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies have been performed.  
+ UGT1A1 inhibitors  
+ Concomitant administration of sacituzumab govitecan  with inhibitors of UGT1A1 may increase the incidence of adverse reactions due to potential increase in systemic exposure to SN-38. Sacituzumab govitecan  should be used with caution in patients receiving UGT1A1 inhibitors (e.g. propofol, ketoconazole, EGFR tyrosine kinase inhibitors).  
+ UGT1A1 induce rs 
+ Exposure to SN -38 may be reduced in patients concomitantly receiving UGT1A1 enzyme inducers. Sacituzumab govitecan  should be used with caution in patients receiving UGT1A1 inducers (e.g. carbamazepine, phenytoin, rifampicin, ritonavir, tipranavir ).  
+ Based on the limited data available from patients who received UGT1A1 inhibitors ( n=16)  or inducers (n=5) while being treated with sacituzumab govitecan, free SN-38 exposures  in these patients were comparable to those in patients who did not receive UGT1A1  inhibitor or inducer.  
+ 

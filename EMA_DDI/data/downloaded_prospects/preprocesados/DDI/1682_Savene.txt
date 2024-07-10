@@ -1,0 +1,10 @@
+> Concomitant use not recommended:  
+• Other live attenuated VACCINES: risk of systemic, possible fatal disease. This risk is increased in subjects who are already immunosuppressed by their underlying disease or by concomitant chemotherapy . Use an inactivated vaccine where this exists (poliomyelitis).  
+• Dimethylsulfoxide (DMSO) should not be used in patients who are administered DEXRAZOXANE to treat anthracycline extravasation (see section  5.3) 
+• PHENYTOIN: cytotoxic agents may reduce the absor ption of PHENYTOIN leading to an exacerbation of convulsions. DEXRAZOXANE is not recommended in combination with PHENYTOIN.
+> Concomitant use to assess carefully:  CICLOSPORIN, TACROLIMUS: Excessive immunosuppression with risk of lymphoproliferative disease.  Interactions common to all cytotoxics:  
+• Due to an increased thrombotic risk in patients with malignant diseases, the use of anticoagulants treatment is frequent. Patients treated with anticoagulants should be monitored more frequently as cytotoxic agents may interact with oral anticoagulants.  
+• DEXRAZOXANE may add to the toxicity induced by the chemotherapy cycle during which the accident took place, requiring careful monitoring of haematological parameters (see section  4.4).
+> Co-administration of DOXORUBICIN (50 to 60 mg/m
+2) or EPIRUBICIN (60 to 100 mg/m2) did not affect DEXRAZOXANE pharmacokinetics significantly.  In studies, DEXRAZOXANE did not affect the pharmacokinetics of DOXORUBICIN. There is limited evidence from studies that suggests EPIRUBICIN clearance may be increased when DEXRAZOXANE is pre- administered, this occurred at high doses of EPIRUBICIN (120-135 mg/m
+2).  Note that in these studies DEXRAZOXANE was administered prior to anthracyline administration. 

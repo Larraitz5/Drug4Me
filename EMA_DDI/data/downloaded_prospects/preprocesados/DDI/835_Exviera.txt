@@ -1,0 +1,157 @@
+> DASABUVIR must always be administered together with OMBITASVIR/PARITAPREVIR/ritona vir . When co -administered they exert mutual effects on each other (see section 5.2) .Ther efore,the interaction profile of the compounds must be considered as a combination.Pharmacodynamic interactions
+> In vivo drug interaction studies evaluated the net effect of the combination treatment, including RITONAVIR. The following section describes the specific transporters and metabolizing ENZYMES that are affected by DASABUVIR when combined with OMBITASVIR/PARITAPREVIR/RITONAVIR . See Table 2 for guidance regarding potential drug interactions and dosing recommendations for DASABUVIR admin istered with OMBITASVIR/PARITAPREVIR/RITONAVIR.Medicinal products metabolised by CYP3A4Refer to the OMBITASVIR/PARITAPREVIR/RITONAVIR Summary of Product Characteristics for details. (see also Table 2) . Medicinal products transported by the OATP family
+> Refer to the OMBITASVIR/PARITAPREVIR/RITONAVIR Summary of Product Characteristics for details on OATP1B1 , OATP1B3 and OATP2B1 substrates (see also Table 2) .Medicinal products transported by BCRPDasabuvir is an inhibitor of BCRP in vivo . Co-administration of DASABUVIR with OMBITASVIR/PARITAPREVIR/RITONAVIR together with medicinal products that are substrates of BCRP may increase plasma concentrations of these transporter substrates, potentially requiring dose 9adjustment/clinical monitori ng. Such medicinal products include SULFASALAZINE, IMATINIB and some of the statins (see Table 2). See also Table 2 for specific advice on rosuvastati n which has been evaluated in a drug interaction study.Medicinal products transported by Pgp in the inte stine
+> While DASABUVIR is an in vitro inhibitor of P -gp, no significant change was observed in the exposure of the P -gp substrate, DIGOXIN, when administered with DASABUVIR with OMBITASVIR/PARITAPREVIR/RITONAVIR. It may not be excluded that the systemic exp osure of DABIGATRAN ETEXILATE is increased by DASABUVIR due to inhibition of P -gp in the intestine.Medicinal products metabol ised by glucuronidation
+> DASABUVIR is an inhibitor of UGT1A1 invivo. Co-administration of DASABUVIR with medicinal productsthat are primarily metabolized by UGT1A1 result in increased plasma concentrations of such medicinal products ; routine clinical monitoring is recommended for narrow therapeutic index medicinal products (i.e. LEVOTHYROXINE). See also Table 2 for specific a dvice onraltegravir and BUPRENORPHINE which have been evaluated in drug interaction studies. DASABUVIR has also been found to inhibit UGT1A4, 1A6 and intestinal UGT2B7 in vitro at in vivo relevant concentrations.Medicinal products metabolised by CYP2C19Co-administration of DASABUVIR with OMBITASVIR/PARITAPREVIR/RITONAVIR can decrease exposures of medicinal products that are metabolized by CYP2C19 (e.g. LANSOPRAZOLE, ESOMEPRAZOLE, s-MEPHENYTOIN) , which may requir edose adjustment/clinical monitoring. CY P2C19 substrates evaluated in drug interaction studies include OMEPRAZOLE and ESCITALOPRAM (Table 2). Medicinal products metabolised by CYP2C9Dasabuvir administered with OMBITASVIR/PARITAPREVIR/RITONAVIR did not affect the exposures of the CYP2C9 substr ate WARFARIN. Other CYP2C9 substrates (NSAIDs (e.g. IBUPROFEN), antidiabetics (e.g. GLIMEPIRIDE, GLIPIZIDE) are not expected to require dose adjustments. Medicinal products metabolised by CYP2D6 or CYP1A2Dasabuvir administered with OMBITASVIR/ PARITAPREVIR/RITONAVIR did not affect the exposures of the CYP2D6 /CYP1A2 substrate DULOXETINE. Exposures of CYCLOBENZAPRINE, a CYP1A2 substrate, were decreased. Clinical monitoring and dose adjustment may be needed for other CYP1A2 substrates (e.g. ciprof loxacin, CYCLOBENZAPRINE, THEOPHYLLINE and CAFFEINE) .CYP2D6 substrates (e.g. DESIPRAMINE, METOPROLOL and DEXTROMETHORPHAN) are not expected to require dose adjustments. Medicinal products renally excreted via transport proteins
+> DASABUVIR does not inhibi t organic anion transporter (OAT1) in vivo as shown by the lack of interaction with TENOFOVIR (OAT1 substrate). In vitro studies show that DASABUVIR is not an inhibitor oforganic cation transporters (OCT2), organic anion transporters (OAT3), or multidrug and toxin extrusion proteins (MATE1 and MATE2K) at clinically relevant concentrations. Ther efore, DASABUVIR is not expected to affect medicinal products which are primari ly excreted by the renal route via these transporters (see section 5.2) . Potential for other medicina l products to affect the pharmacokinetics of DASABUVIR
+> Medicinal products that inhibit CYP2C8Co-administration of DASABUVIR with medicinal products that inhibit CYP2C8 (e.g. TERIFLUNOMIDE, DEFERASIROX) may increase DASABUVIR plasma concentrations. Strong CYP2C8 inhibitors are contraindicated with DASABUVIR (see section 4.3 and Table 2 ).Enzyme inducers10Co-administration of DASABUVIR with medicinal prod ucts that are moderate or strong enzyme inducers is expected to decrease DASABUVIR plasma concentrations and reduce its therapeutic effect. Contraindicated enzyme inducers are provided in section 4.3 and Table 2 . DASABUVIR is a substrate of P -gp and BCRP and its major metabolite M1 is a substrate of OCT1 in vitro . Inhibition of P -gp and BCRP is not expected to show clinically relevant increases in exposures of DASABUVIR (Table 2).DASABUVIR M1 metabolite was quantified in all the drug interaction studies . Changes in exposures of the metabolite were generally consistent with that observed with DASABUVIR except for studies with CYP2C8 inhibitor, GEMFIBROZIL, where the metabolite exposures decreased by up to 95% and CYP3A inducer, CARBAMAZEPINE, where the me tabolite exposures decreased by only up to 39%.Patients treated with VITAMIN K ANTAGONISTS
+> Recommendations for co -administration of DASABUVIR with OMBITASVIR/PARITAPREVIR/RITONAVIR for a number of medicinal products are provided in Table 2.If a patient is already taking medic inal product (s) or initiating a medicinal product while receiving DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR for which potential for drug interaction is expected, dose adjustment of the concomitant medicinal product (s) or appropriate clinical monitoring sh ould be considered (Table 2) .If dose adjustments of concomitant medic inal products are made due to treatment with DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR , doses should be re -adjusted after administration of DASABUVIR and OMBITASVIR/PARITAPREVIR/r itonavir is completed.Table 2 provides the Least Squares Means Ratio (90% Confidence Interval) effect on concentration of DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR andconcomitant medicinal products . The direction of the arrow indicates the direction of the change in exposures (C max,and AUC) in the PARITAPREVIR , OMBITASVIR, DASABUVIR and the co -administered medicinal product (↑= increase more than 
+20%, ↓ = decrease more than 20%, ↔ = no change orchange less than 20% ).This is not an exclu sive list. DASABUVIR is administered with OMBITASVIR/PARITAPREVIR/RITONAVIR. For interactions with OMBITASVIR/ PARITAPREVIR /RITONAVIR refer to the Summary of Product Characteristics.Table 2. Interactions between DASABUVIR with OMBITASVIR/PARITAPREVIR /RITONAVIR and other medicinal products
+> Mechanism: increase in DASABUVIR possibly due to CYP2C8 inhibition by trimethoprimdasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ Sulfameth -oxazole,1.21(1.15 -1.28)1.17(1.14 -1.20)1.15(1.10 -1.20)No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR .↑ trimethoprim1.17(1.12 -1.22)1.22(1.18 -1.26)1.25(1.19 -1.31)
+↑ DASABUVIR 1.15(1.02 -1.31)1.33(1.23 -1.44)NA
+↔ ombitasvir0.88(0.83 -0.94)0.85(0.80 -0.90) NA
+↓ paritaprevir0.78(0.61 -1.01)0.87(0.72 -1.06)NAANTICANCER AGENTSApalutamide
+> Clinical monitoring and lower doses of IMATINIB are recommended.ANTICOAGULANTSWarfarin 
+5mg single dose and other VITAMIN K antagonistsdasabuvir+  OMBITASVIR/PARITAPREVIR/RITONAVIR↔ R-warfarin1.05(0.95 -1.17)0.88(0.81 -0.95)0.94(0.84 -1.05)While no change in thepharmacokinetics of WARFARIN is expected , close monitoring of INR is recommended with all VITAMIN K ANTAGONISTS .This is due to liver function changes during treatment with DASABUVIR +OMBITASVIR/PARITAPREVIR/RITONAVIR↔ S-warfarin0.96(0.85 -1.08)0.88(0.81 -0.96)0.95(0.88 -1.02)
+↔ dasabuvir0.97(0.89 -1.06)0.98(0.91 -1.06)1.03(0.94 -1.13)
+↔ ombitasvir0.94(0.89 -1.00)0.96(0.93 -1.00)0.98(0.95 -1.02)
+↔ paritaprevir0.98(0.82 -1.18)1.07(0.89 -1.27)0.96(0.85 -1.09)DABIGATRAN ETEXILATE
+> Not Studied. Expected:
+↑ DABIGATRAN etexilatedasabuvir + OMBITASVIR/PARITAPREVIR/RITONAVIR may increase the plasma concentrations of DABIGATRAN ETEXILATE. Use with caution.ANTICONVULSANTScarbamaze -pine     
+200mg o nce daily  followed by 
+200mg twice daily
+> Mechanism: CYP3A4 inductio n by CARBAMAZEPINE.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ carba -mazepine1.10(1.07 -1.14)1.17(1.13 -1.22)1.35(1.27 -1.45)Concomitant use is contraindicated (see section 4.3). ↓ carbamaze pine 10, 11 -epoxide 0.84(0.82 -0.87)0.75(0.73 -0.77)0.57(0.54 -0.61)
+↓ dasabuvir0.45(0.41 -0.50)0.30(0.27 -
+0.33)NA
+↓ ombitasvir0.69(0.61 -0.78)0.69(0.64 -0.74)NA
+↓ paritaprevir0.34(0.25 -0.48)0.30(0.23 -0.38)NA13Medicinal Product/Possible Mechanism of Interaction
+> Concomitant use is contraindicated (see section 4.3).PHENYTOIN
+> Clinical monitoring and dose adjustment maybe needed for s -mepheny toin.ANTIDEPRESSANTSEscitalopram
+10mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ es -citalopram1.00(0.96 -1.05)0.87(0.80 -0.95)NA No dose adjustment is necessary for ESCITALOPRAM. ↑ S-Desmethyl CITALOPRAM 1.15(1.10 -1.21)1.36(1.03 -1.80)NA
+↔ dasabuvir1.10(0.95 -1.27)1.01(0.93 -1.10)0.89(0.79 -1.00)
+↔ ombitasvir1.09(1.01 -1.18)1.02(1.00 -1.05)0.97(0.92 -1.02)
+↔ paritaprevir1.12(0.88 -1.43)0.98(0.85 -1.14)0.71(0.56 -0.89)DULOXETINE
+60mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↓ duloxetine0.79(0.67 -0.94)0.75(0.67 -0.83)NA No dose adjustment is necessary for DULOXETINE.No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR
+/RITONAVIR.↔ dasabuvir0.94(0.81 -1.09)0.92(0.81 -1.04)0.88(0.76 -1.01)
+↔ ombitasvir0.98(0.88 -1.08)1.00(0.95 -1.06)1.01(0.96 -1.06)
+↓ paritaprevir0.79(0.53 -1.16)0.83(0.62 -1.10)0.77(0.65 -0.91)ANTIFUNGALSKetoconazole
+400mg o nce daily  Mechanism: CYP3A4/P -gp inhibition by KETOCONAZOLE DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ keto -conazole1.15(1.09 -1.21)2.17(2.05 -2.29)NA Concomitant use is contraindicated (see the Summary of Product Characteristics for OMBITASVIR/PARITAPREVIR/RITONAVIR ).↑ DASABUVIR 1.16(1.03 -1.32)1.42(1.26 -1.59)NA
+↔ ombitasvir0.98(0.90 -1.06)1.17(1.11 -1.24)NA
+↑ paritaprevir1.37(1.11 -1.69)1.98(1.63 -2.42)NA14Medicinal Product/Possible Mechanism of Interaction
+> Mechanism: Increase in DASABUVIR exposure is due to CYP2C8 inhibition and increase in paritapreviris possibly due to OATP1B1 inhibition by GEMFIBROZIL.DASABUVIR+ PARITAPREVIR/RITONAVIR↑ DASABUVIR 2.01(1.71 -2.38)11.25(9.05 -
+13.99)NA Concomitant use is contraindicated (see section 4.3).
+↑ paritaprevir1.21(0.94 -1.57)1.38(1.18 -1.61)NAANTIMYCOBACTERIALSRifampicin
+> Concomitant use is contra -indicated (see section 4.3).BIGUANIDE ORAL  ANTIHYPERGLYCEMICSMetformin 
+500 mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↓ METFORMIN 0.77(0.71 -0.83)0.90(0.84 -0.97)NA No dose adjustment needed for METFORMIN when co -administered with DASABUVIR + OMBITASVIR/ PARITAPREVIR/RITONAVIR.↔ dasabuvir0.83(0.74 -0.93)0.86(0.78 -0.94)0.95(0.84 -1.07)
+↔ ombitasvir0.92(0.87 -0.98)1.01(0.97 -1.05)1.01(0.98 -1.04)
+↓ paritaprevir0.63(0.44 -0.91)0.80(0.61 -1.03)1.22(1.13 -1.31)CALCIUM CHANNEL BLOCKERSAmlodipine
+5mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/↑ AMLODIPINE 1.26(1.11 -1.44)2.57(2.31 -2.86)NA Decrease in AMLODIPINE dose by 50% and monitor patients for clinical effects.↔ dasabuvir1.05(0.97 -1.14)1.01(0.96 -1.06)0.95(0.89 -1.01)
+↔ ombitasvir1.00(0.95 -1.06)1.00(0.97 -1.04)1.00(0.97 -1.04)15Medicinal Product/Possible Mechanism of Interaction
+> Mechanism: CYP3A4 inhibition by RITONAVIR.RITONAVIR↓ paritaprevir0.77(0.64 -0.94)0.78(0.68 -0.88)0.88(0.80 -0.95)CONTRACEPTIVESethiny loestradiol/ NORGESTIMATE
+0.035/0.25 mg once daily Mechanism: possibly due to UGT inhibition by PARITAPREVIR, OMBITASVIR and DASABUVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ ethiny l oestradiol1.16(0.90 -1.50)1.06(0.96 -1.17)1.12(0.94 -1.33)Ethinyl oestradiolcontaining oral contraceptives are contraindicated (see section 4.3).NORGESTIMATE metabolites:
+↑ NORGESTREL 2.26(1.91 -2.67)2.54(2.09 -3.09)2.93(2.39 -3.57)
+↑ nor -elgestromine2.01(1.77 -2.29)2.60(2.30 -2.95)3.11(2.51 -3.85)
+↓ DASABUVIR 0.51(0.22 -1.18)0.48(0.23 -1.02)0.53(0.30 -0.95)
+↔ ombitasvir1.05(0.81 -1.35)0.97(0.81 -1.15)1.00(0.88 -1.12)
+↓ paritaprevir0.70(0.40 -1.21)0.66(0.42 -1.04)0.87(0.67 -1.14)nor-ethindrone (progestin only pill)
+0.35 mg once dailydasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ nor -ethindrone0.83(0.69 -1.01)0.91(0.76 -1.09)0.85(0.64 -1.13)No dose adjustment is necessary for norethindro ne or DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir1.01(0.90 -1.14)0.96(0.85 -1.09)0.95(0.80 -1.13)
+↔ ombitasvir1.00(0.93 -1.08)0.99(0.94 -1.04)0.97(0.90 -1.03)
+↑ paritaprevir1.24(0.95 -1.62)1.23(0.96 -1.57)1.43(1.13 -1.80)DIURETICSFurosemide 
+20mg single dose Mechanism: possibly due to UGT1A1 inhibition by PARITAPREVIR, OMBITASVIR and DASABUVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ furosemide1.42(1.17 -1.72)1.08(1.00 -1.17)NA Monitor patients for clinical effects; a decrease in FUROSEMIDE dose of up to 50% may be required.No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir1.12(0.96 -1.31)1.09(0.96 -1.23)1.06(0.98 -1.14)
+↔ ombitasvir1.14(1.03 -1.26)1.07(1.01 -1.12)1.12(1.08 -1.16)
+↔ paritaprevir0.93(0.63 -1.36)0.92(0.70 -1.21)1.26(1.16 -1.38)16Medicinal Product/Possible Mechanism of Interaction
+> Concomitant use is contraindicated (see section 4.3).HIV ANTIVIRALS: PROTEASE INHIBITORS For a general comment on treatment of HIV co -infected patients, including a discussion on different antiretroviral regimens that may be used, please see section 4.4 (Treatment of HIV co -infected patients) and the Summary of Product Characteristics of ombit asvir/ PARITAPREVIR /RITONAVIR.ATAZANAVIR
+300mg o nce daily  (given at the same time)DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ atazanavir0.91(0.84 -0.99)1.01(0.93 -1.10)0.90(0.81 -1.01)The recommended dose of ATAZANAVIR is 300 mg, without RITONAVIR, in combinatio n with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR. ATAZANAVIR ↔ dasabuvir0.83(0.71 -0.96)0.82(0.71 -0.94)0.79(0.66 -0.94)
+↓ ombitasvir0.77(0.70 -0.85)0.83(0.74 -
+0.94)0.89(0.78 -1.02)17Medicinal Product/Possible Mechanism of Interaction
+> Mechanism: Increase in PARITAPREVIR exposures may be due to inhibition of OATPs by ATAZANAVIR.↑ paritaprevir1.46(1.06 -1.99)1.94(1.34 -2.81)3.26(2.06 -5.16)must be administered at the same time as DASABUVIR
++OMBITASVIR/ PARITAPREVIR/RITONAVIR. RITONAVIR dose in OMBITASVIR/PARITAPREVIR/RITONAVIR will provide ATAZANAVIR pharmacokinetic enhancement.No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.The combination of ATAZANAVIR and OMBITASVIR/pari taprevir/RITONAVIR + DASABUVIR increase bilirubin levels, in particular when RIBAVIRIN is part of the hepatitis C regimen, see sections 
+4.4 and 4.8.ATAZANAVIR/ RITONAVIR 
+300/100 mg once dailydasabuvir+ OMBITASVIR/parit↔ atazanavir1.02(0.92 -1.13)1.19(1.11 -1.28)1.68(1.44 -1.95)
+↔ dasabuvir0.81(0.73 -0.91)0.81(0.71 -0.92)0.80(0.65 -0.98)
+↔ ombitasvir0.83(0.72 -0.96)0.90(0.78 -1.02)1.00(0.89 -1.13)18Medicinal Product/Possible Mechanism of Interaction
+> GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments(administered in the evening)Mechanism: Increase in paritaprevirexposures may be due to inhibition of OATP1B1/B
+3 and CYP3A by ATAZANAVIR and CYP3A inhibition by the additional dose of RITONAVIR.aprevir/RITONAVIR↑ paritaprevir2.19(1.61 -2.98)3.16(2.40 -4.17)11.95(8.94 -15.98)DARUNAVIR
+800mg o nce daily  (given DASABUVIR+ OMBITASVIR/PARITAPREVIR/↓ DARUNAVIR 0.92(0.87 -0.98)0.76(0.71 -0.82)0.52(0.47 -0.58)The recommended dose of DARUNAVIR is 800 mg once daily , without RITONAVIR, when administered at the ↔ dasabuvir1.10(0.88 -1.370.94(0.78 -1.14)0.90(0.76 -1.06)
+↔ ombitasvir0.86(0.77 -0.95)0.86(0.79 -0.94)0.87(0.82 -0.92)19Medicinal Product/Possible Mechanism of Interaction
+> GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments
+400/100 mg twice daily1Mechanism: Increase in PARITAPREVIR exposures may be due to inhibition of CYP3A/efflux transporters by LOPINAVIR and higher dose of RITONAVIR.OMBITASVIR/PARITAPREVIR/RITONAVIR↔ dasabuvir0.99 (0.75 -1.31)0.93 (0.75 -1.15)0.68 (0.57 -0.80)or 800/200 mg o nce daily  is contraindicated with DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR due to increase in PARITAPREVIR exposures (see Summary of Product Characteristics of OMBITASVIR/PARITAPREVIR/ritonav ir).↔ ombitasvir1.14 (1.01 -1.28)1.17 (1.07 -1.28)1.24 (1.14 -1.34)
+↑ paritaprevir2.04 (1.30 -3.20)2.17 (1.63 -2.89)2.36 (1.00 -5.55)HIV ANTIVIRALS: NON -NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS Rilpivirine2  
+25 mg o nce dailyadministered in the morning, with food
+> Mechanism: CYP3A inhibition by RITONAVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ RILPIVIRINE 2.55(2.08 -3.12)3.25(2.80 -3.77)3.62(3.12 -4.21)Co-administration of DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR with RILPIVIRINE once daily should o nly be considered in patients without known QT -prolongation, and without other QT -prolongation co -administered medicinal products. If the combinatio n is used, repeated ECG -monitoring should be done, see section 4.4. No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir1.18(1.02 -1.37)1.17(0.99 -1.38)1.10(0.89 -1.37)
+↔ ombitasvir1.11(1.02 -1.20)1.09(1.04 -1.14)1.05(1.01 -1.08)
+↑ paritaprevir1.30(0.94 -1.81)1.23(0.93 -1.64)0.95(0.84 -1.07)EFAVIRENZ/ EMTRICITABINE
+/ TENOFOVIR DISOPROXIL FUMARATE 
+600/300/200mg o nce dailydasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR
+> Co-administration of EFAVIRENZ (enzyme inducer) based regimens with PARITAPREVIR /RITONAVIR + DASABUVIR resulted in ALT elevations and therefore, early discontinuation of the study .Concomitant use with EFAVIRENZ containing regimens is contraindicated (seesection 4.3).21Medicinal Product/Possible Mechanism of Interaction
+> Concomitant use is contraindicated (see section 4.3).HIV ANTIVIRALS: INTEGRASE STRAND TRANSFER INHIBITORDolutegravir
+50 mg o nce daily
+> Concomitant use with FLUVASTATIN and PITAVASTATIN is not recommended (see section 4.4).A temporary suspension of FLUVASTATIN and PITAVASTATIN is recommended for the duration of treatment. If statin treatment is 23Medicinal Product/Possible Mechanism of Interaction
+> OATP1B inhibition by PARITAPREVIR.required during the treatment period, a switch to dose reduced PRAVASTATIN or ROSUVASTATIN is possible.No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.IMMUNOSUPPRESSANTSCiclosporin 
+30mg o nce daily  single dose3Mechanism: Effect on CICLOSPORIN is due to CYP3A4 inhibition by RITONAVIR and increase in PARITAPREVIR exposures may be due to OATP/BCRP
+/P-gp inhibition by CICLOSPORIN.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ ciclosporin1.01(0.85 -1.20)5.82(4.73 -7.14)15.8(13.8 -18.09)When starting co -administration with DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR, give one fifth of the total daily dose of CICLOSPORIN once daily  with OMBITASVIR/PARITAPREVIR /RITONAVIR . Monitor CICLOSPORIN levels and adjust dose and/o r dosing frequency  as needed. No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↓ DASABUVIR 0.66(0.58 -0.75)0.70(0.65 -0.76)0.76(0.71 -0.82)
+↔ ombitasvir0.99(0.92 -1.07)1.08(1.05 -1.11)1.15(1.08 -1.23)
+↑ paritaprevir1.44(1.16 -1.78)1.72(1.49 -1.99)1.85(1.58 -2.18)EVEROLIMUS
+0.75 mg single dose
+> Mechanism: Effect on everolimu s is due to CYP3A4 inhibition by RITONAVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ everolimus4.74(4.29 -5.25)27.1(24.5 -30.1)16.1(14.5 -17.9)4Co-administration of DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR with EVEROLIMUS is not recommended because of a significant increase in everolimusexposures which cannot be properly dose adjusted with available dose strengths.↔dasabuvir1.03(0.90 -1.18)1.08(0.98 -1.20)1.14(1.05 -1.23)
+↔ombitasvir0.99(0.95 -1.03)1.02(0.99 -1.05)1.02(0.99 -1.06)
+↔paritaprevir1.22(1.03 -1.43)1.26(1.07 -1.49)1.06(0.97 -1.16)SIROLIMUS DASABUVIR+ ombitas↑ SIROLIMUS 6.40(5.34 -7.68)38.0(31.5 -45.8)19.6 (16.7 -22.9)6Concomitant use of SIROLIMUS with DASABUVIR + 24Medicinal Product/Possible Mechanism of Interaction
+> GIVEN WITHEFFECT Cmax AUC Ctrough Clinical Comments
+0.5 mg single dose5Mechanism: Effect on SIROLIMUS is due to CYP3A4 inhibition by RITONAVIR.vir/PARITAPREVIR/RITONAVIR↔dasabuvir1.04(0.89 -1.22)1.07(0.95 -1.22)1.13(1.01 -1.25)OMBITASVIR/PARITAPREVIR/RITONAVIR is not recommended unless the benefits outweigh the risks (see section 
+4.4). If SIROLIMUS is used together with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR , administer SIROLIMUS 0.2 mg twice a week (ever y 3 or 4 days on the same two days each week). SIROLIMUS blood concentrations should be monitored ever y 4 to 
+7 day s until 3 consecutive trough levels have shown stable concentrations of SIROLIMUS. SIROLIMUS dose and/o r dosing frequency  should be adjusted as needed.
+5 day s after completion of DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR treatment, the SIROLIMUS dose and dosing f requency  prior to receiving DASABUVIR
++ OMBITASVIR/PARITAPREVIR/RITONAVIR should be resumed, al ong with routine monitoring of SIROLIMUS blood concentrations.↔ombitasvir1.03(0.93 -1.15)1.02(0.96 -1.09)1.05(0.98 -1.12)
+↔paritaprevir1.18(0.91 -1.54)1.19(0.97 -1.46)1.16(1.00 -1.34)TACROLIMUS    
+2 mg single dose7Mechanism: Effect on DASABUVIR+ OMBITASVIR/PARITAPREVIR/↑ tacrolimus3.99(3.21 -4.97)57.1(45.5 -
+71.7)16.6(13.0 -21.2)Concomitant use of TACROLIMUS with DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR is not recommended unless the benefits outweigh ↔ dasabuvir0.85(0.73 -0.98)0.90(0.80 -1.02)1.01(0.91 -1.11)
+↔ ombitasvir0.93(0.88 -0.99)0.94(0.89 -0.98)0.94(0.91 -0.96)25Medicinal Product/Possible Mechanism of Interaction
+> DEFERASIROX may increase DASABUVIR exposures and should be used with caution.MEDICINAL PRODUCTS USED IN MULTIPLE SCLEROSISTeriflunomidedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR
+> TERIFLUNOMIDE may increase DASABUVIR exposures and should be used with caution.OPIOIDSMethadone
+20-120mg once daily8dasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ R -Methadone1.04(0.98 -1.11)1.05(0.98 -1.11)0.94(0.87 -1.01)No dose adjustment is necessary for methado ne and DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ S-Methadone0.99(0.91 -1.08)0.99(0.89 -1.09)0.86(0.76 -0.96)
+↔ OMBITASVIR /PARITAPREVIR and DASABUVIR (based on the cross -study  comparison)bupreno rphine/ NALOXONE  
+4-24mg/1 -
+6mg once daily8Mechanism: CYP3A4 inhibition by RITONAVIR and UGT inhibition by PARITAPREVIR, OMBITASVIR and DASABUVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ bu-prenorphine2.18(1.78 -2.68)2.07(1.78 -2.40)3.12(2.29 -4.27)No dose adjustment is necessary for bupreno rphine/NALOXONE and DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↑ norbu -prenorphine2.07(1.42 -3.01)1.84(1.30 -2.60)2.10(1.49 -2.97)
+↑ NALOXONE 1.18(0.81 -1.73)1.28(0.92 -1.79)NA
+↔ OMBITASVIR /PARITAPREVIR and DASABUVIR (based on the cross -study  comparison)MUSCLE RELAXANTSCarisoprodol 
+250 mg single dose
+> Mechanism: CYP2C19 inductio n by ritonavirdasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↓ Carisoprodol0.54(0.47 -0.63)0.62(0.55 -0.70)NA No dose adjustment required for CARISOPRODOL; increase dose if clinically indicated.↔ DASABUVIR 0.96(0.91 -1.01)1.02(0.97 -1.07)1.00(0.92 -1.10)
+↔ ombitasvir0.98(0.92 -1.04)0.95(0.92 -0.97)0.96(0.92 -0.99)
+↔ paritaprevir0.88(0.75 -1.03)0.96(0.85 -1.08)1.14(1.02 -1.27)27Medicinal Product/Possible Mechanism of Interaction
+> Mechanism: decrease possibly due to CYP1A2 inductio n by ritonavirdasabuvir+ OMBITASVIR/PARITAPREVIR /RITONAVIR↓ cyclobenzaprine0.68(0.61 -0.75)0.60(0.53 -0.68)NA No dose adjustment for CYCLOBENZAPRINE required; increase dose if clinically indicated.↔ DASABUVIR 0.98(0.90 -1.07)1.01(0.96 -1.06)1.13(1.07 -1.18)
+↔ ombitasvir0.98(0.92 -1.04)1.00(0.97 -1.03)1.01(0.98 -1.04)
+↔ paritaprevir1.14(0.99 -1.32)1.13(1.00 -1.28)1.13(1.01 -1.25)NARCOTIC ANALGESICSParacetamol (given as fixed dose HYDROCODONE
+/paracetamol
+)
+300 mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔Paracetamol1.02(0.89 -1.18)1.17(1.09 -1.26)NA No dose adjustment is necessary for paracetamol when administered with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir1.13(1.01 -1.26)1.12(1.05 -
+1.19)1.16(1.08 -1.25)
+↔ ombitasvir1.01(0.93 -1.10)0.97(0.93 -1.02)0.93(0.90 -0.97)
+↔ paritaprevir1.01(0.80 -1.27)1.03(0.89 -1.18)1.10(0.97 -1.26)HYDROCODONE (as given in a fixed -dose HYDROCODONE
+/paracetamol
+)
+5 mg single dose
+> PROTON PUMP INHIBITORSOmeprazole 
+40mg o nce daily  Mechanism: CYP2C19 inductio n by RITONAVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↓ omeprazole0.62(0.48 -0.80)0.62(0.51 -0.75)NA If clinically indicated, higher doses of OMEPRAZOLE should be used. No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir1.13(1.03 -1.25)1.08(0.98 -1.20)1.05(0.93 -1.19)
+↔ ombitasvir1.02(0.95 -1.09)1.05(0.98 -1.12)1.04(0.98 -1.11)
+↔ paritaprevir1.19(1.04 -1.36)1.18(1.03 -1.37)0.92(0.76 -1.12)28Medicinal Product/Possible Mechanism of Interaction
+> If clinically indicated,  higher doses of ESOMEPRAZOLE/LANSOPRAZOLE may be needed.SEDATIVES / HYPNOTICSZolpidem 
+5mg single dosedasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↔ zolpidem0.94(0.76 -1.16)0.95(0.74 -1.23)NA No dose adjustment is necessary for ZOLPIDEM.No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir0.93(0.84 -1.03)0.95(0.84 -1.08)0.92(0.83 -1.01)
+↔ ombitasvir1.07(1.00 -1.15)1.03(1.00 -1.07)1.04(1.00 -1.08)
+↓ paritaprevir0.63(0.46 -0.86)0.68(0.55 -0.85)1.23(1.10 -1.38)DIAZEPAM
+2 mg single dose
+> Mechanism: CYP2C19 inductio n by ritonavirdasabuvir+ OMBITASVIR/PARITAPREVIR/RITONAVIR↓DIAZEPAM 1.18(1.07 -1.30)0.78(0.73 -0.82)NANo dose adjustment required for DIAZEPAM; increase dose if clinically indicated.↓ nordiazepam1.10(1.03 -1.19)0.56(0.45 -0.70)NA
+↔ dasabuvir1.05(0.98 -1.13)1.01(0.94 -1.08)1.05(0.98 -1.12)
+↔ ombitasvir1.00(0.93 -1.08)0.98(0.93 -1.03)0.93(0.88 -0.98)
+↔ paritaprevir0.95(0.77 -1.18)0.91(0.78 -1.07)0.92(0.82 -1.03)ALPRAZOLAM 
+0.5mg single dose  Mechanism: CYP3A4 inhibition by RITONAVIR.DASABUVIR+ OMBITASVIR/PARITAPREVIR/RITONAVIR↑ alprazolam1.09(1.03 -1.15)1.34(1.15 -1.55)NA Clinical monitoring of patients is recommended. A decrease in ALPRAZOLAM dose can be considered based on clinical response. No dose adjustment needed for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.↔ dasabuvir0.93(0.83 -1.04)0.98(0.87 -1.11)1.00(0.87 -1.15)
+↔ ombitasvir0.98(0.93 -1.04)1.00(0.96 -1.04)0.98(0.93 -1.04)
+↔ PARITAPREVIR 0.91(0.64 -1.31)0.96(0.73 -1.27)1.12(1.02 -1.23)THYROID HORMONES29Medicinal Product/Possible Mechanism of Interaction
+> Clinical monitoring and dose adjustment may be required for levothy roxine.
+1.LOPINAVIR/RITONAVIR 800/200 mg once daily (administered in the evening) was also administered with DASABUVIR with OMBITASVIR/PARITAPREVIR/RITONAVIR. The effect on C max and AUC of DAAs and LOPINAVIR was similar to that observed when LOPINAVIR/RITONAVIR 400/ 100mg twice daily was administered with DASABUVIR and OMBITASVIR/PARITAPREVIR/RITONAVIR.
+2.RILPIVIRINE was also administered with food in the evening and 4 hours after dinner with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR in the study. The effect on ril pivirine exposures was similar to that observed when RILPIVIRINE was administered in the morning with food with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.
+3.CICLOSPORIN 100 mg dosed alone and 30 mg administered with DASABUVIR + OMBITASVIR/PARITAPREVIR/r itonavir. Dose normalized CYCLOSPORINE ratios are shown for interaction with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR. 
+4.C12:= concentration at 12 hours following single dose of EVEROLIMUS.
+5.SIROLIMUS 2 mg was dosed alone, 0.5 mg administered with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR. Dose normalized SIROLIMUS ratios are shown for interaction with OMBITASVIR/PARITAPREVIR/RITONAVIR + DASABUVIR .
+6.C24:= concentration at 24 hours following single dose of CYCLOSPORINE, TACROLIMUS or SIROLIMUS.
+7.TACROLIMUS 2 mg was dosed alone and 2 mg was administered with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR. Dose normalized TACROLIMUS ratios are shown for interaction with DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR.
+8.Dose normalised parameters report ed for METHADONE, BUPRENORPHINE and NALOXONE.Note: Doses used for DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR were: OMBITASVIR 25 mg PARITAPREVIR 150mg, RITONAVIR 100 mg, o nce daily  and DASABUVIR 400 mg twice daily or 250 mg twice daily. The DASABUVIR exposures obtained with the 400 mg formulation and the 250 mg tablet are similar. DASABUVIR + OMBITASVIR/PARITAPREVIR/RITONAVIR was administered as multiple doses in all the drug interaction studies except the drug interaction studies with CARBAMAZEPINE, GEMFIBROZIL, KETOCONAZOLE, and SULFAMETHOXAZOLE/TRIMETHOPRIM.Paediatric population

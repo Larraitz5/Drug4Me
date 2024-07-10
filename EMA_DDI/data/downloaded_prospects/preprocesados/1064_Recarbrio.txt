@@ -1,0 +1,16 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Ganciclov ir 
+ Generalised seizures have been reported in patients who received ganciclovir concomitantly withimipenem /cilastatin, compo nents of  Recarbrio
+. Ganciclovir should not be used concomitantly with 
+ Recarbrio  unless the potential benef its outweigh the risks.Valproic acid 
+ Case reports in the lit erature have shown that co
+-administration of  carbapenems, includingimipenem/cilastatin
+ (component s of  Recarbrio
+), to patients receiving valproic acid or div alproexsodium results in a reduction in valproic acid concentrations. The valproic acid  concentrations maydrop below the therapeutic range as a result of this interaction, therefore increasing the risk ofbreakthrough seizures. Although the mechanism of this interaction is unknown, data f r om in vitro  andanimal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid's glucuronidemetabolite (VPA
+-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid.The concomitant use of Recarbrio  and valproic acid/divalproex sodium is not recommended (seesection 4.4).Oral anti -coagulants 
+ Simultaneous administration of antibacterial agents with warfarin may augment its anticoagulanteff ects. It is recommended that the
+ INR should be monitored as appropriate during and shortly af terco-administ ration of  antibiotics with oral anti
+-coagulant medi cinal  products .Clinical drug interaction studies 
+ A clinical drug-drug interaction study demonstrated that imipenem and relebac tam exposures  do notincrease  by a clinically signif icant extent when Recarbrio is co-adminis tered with the prototypical 
+ OAT -inhibitor proben ecid, indicating a lack of clinically meaningf ul OAT -mediated drug -druginteractions. Concomitant  administ ration o f imipenem/cilastatin
+ and probenecid increased  the plasm alevel and half -life of cilastatin , though not to a clinically meaningful extent. Theref ore, Recarbrio  maybe administered concomitantly with OAT  inhibitor s.

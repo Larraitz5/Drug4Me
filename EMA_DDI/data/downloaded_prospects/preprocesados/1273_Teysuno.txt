@@ -1,0 +1,33 @@
+4.5 Interaction with other medicinal products and other forms of interaction No interaction studies have been performed in adult or paediatric patients.  Brivudine  A clinically significant interaction between brivudine and fluoropyrimidines (e.g. capecitabine, 5 - Fluorouracil, tegafur), resulting from the inhibition of dihydropyrimidine dehydrogenase by brivudine, has been described. This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal. Therefore, brivudine must not be administered concomitantly with Teysuno (see section 4.3 and 
+4.4). There must be at least a 4 -week waiting period between end of treatment with brivudine and start of Teysuno therapy. Treatment with brivudine can be started 24 hours after the last dose of Teysuno.  
+ Other fluoropyrimidines  
+ Co-administration of other fluoropyrimidines such as capecitabine, 5 -FU, tegafur, or flucytosine can lead to additive toxicities, and is contraindicated. A minimum washout period of 7 days is recommended between administration of Teysuno and other fluoropyrimidines. The washout period described in the Sm 
+ PC of other fluoropyrimidine medicinal products should be followed if  Teysuno is to be administered subsequent to other fluoropyrimidine medicinal products.  
+ CYP2A6 inhibitors  
+ 13 
+ As CYP2A6 is the major enzyme responsible for the conversion of tegafur to 5 -FU, co -administration of a known CYP2A6 inhibitor and Teysuno should be avoided as effectiveness of Teysuno could be decreased (see section 5.2).  
+ Folinate/folinic acid  
+ No data are available on the concomitant use of folinic acid with Teysuno in combination with cisplatin. However, metabolites of folinate/folinic acid will form a ternary structure with thymidylate synthase and fluorodeoxyuridine monophosphate (Fd 
+ UMP), pot entially increasing the cytotoxicity of 
+5-FU. Caution is advised as folinic acid is known to enhance the activity of 5 -FU. 
+ Nitroimidazoles, including metronidazole and misonidazole  
+ No data are available on the concomitant use of nitromidazoles with Teysuno in combination with cisplatin. However, nitromidazoles  may reduce clearance of 5 -FU and thus increase plasma levels of 
+5-FU. Caution is advised as co -administration may increase the toxicity of Teysuno.  
+ Methotrexate  
+ No data are available on the concomitant use of methotrexate with Teysuno in combination with cisplatin. However, polyglutamated methotrexate inhibits thymidylate synthase and dihydrofolate reductase, potentially increasing cytotoxicity of 5 -FU. Caution is  advised as co -administration may increase the toxicity of Teysuno.  
+ Clozapine  
+ No data are available on the concomitant use of clozapine with Teysuno in combination with cisplatin. However, due to possible additive pharmacodynamic effects (myelotoxicity), caution is advised as co - administration may increase the risk and severity of haematologic toxicity of Teysuno.  
+ Cimetidine  
+ No data are available on the concomitant use of cimetidine with Teysuno in combination with cisplatin. However, co -administration may decrease clearance and, thus increase plasma levels of 
+5-FU. Caution is advised as co -administration may increase the toxi city of Teysuno.  
+ Coumarin -derivative anticoagulant  
+ The activity of a coumarin -derivative anticoagulant was enhanced by Teysuno. Caution is advised as co-administration of Teysuno and coumarin anticoagulation therapy may increase the risk of bleeding (see section 4.4).  
+ Phenytoin  
+ Fluoropyrimidines may increase phenytoin plasma concentration when administered concomitantly with phenytoin causing phenytoin toxicity. Frequent monitoring of phenytoin blood/plasma levels is advised when Teysuno and phenytoin are administered concomitant ly. If indicated, the dose of phenytoin should be adjusted according to the phenytoin Sm 
+ PC. If phenytoin toxicity develops, appropriate measures should be taken.  
+ Other  
+ Based on non -clinical data, allopurinol may decrease anti -tumour activity due to suppression of phosphorylation of 5 -FU. Therefore, concurrent administration with Teysuno should be avoided.  
+ Food  
+ Administration of Teysuno with a meal reduced exposure to oteracil and gimeracil, with a more 14 
+ pronounced effect for oteracil than for gimeracil (see section 5.2). It should be taken with water at least 1 hour before or 1 hour after a meal (see section 4.2).  
+ 

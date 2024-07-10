@@ -1,0 +1,27 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Pharmacodynamic interactions 
+ Diuretics 
+ Canagliflozin may add to the effect of diuretics and may increase the risk of dehydration and hypotension (see section 4.4).Insulin and ins ulin secretagogues 
+ Insulin and insulin secretagogues, such as sulphonylureas, can cause hypoglycaemia. Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with canaglif lozin (see sections 4.2 and 4.8).Pharmacokinetic interactions 
+ Effects of other medicinal products on canagliflozin 
+ The metabolism of canagliflozin is primarily via glucuronide conjugation mediated by UDP glucuronosyl transferase 1A9 (UGT1A9) and 2B4 (U GT2B4). Canagliflozin is transported by P-glycoprotein (P -gp) and Breast Cancer Resistance Protein (BCRP).8Enzyme inducers (such as St. John’s wort [ Hypericum perforatum ], rifampicin, barbiturates, phenytoin, carbamazepine, ritonavir, efavirenz) may decre asetheexposure to canagliflozin. Following co-administration of canagliflozin with rifampicin (an inducer of various active transporters and medicinal product -metabolising enzymes), 51% and 28% decreases in canagliflozin systemic exposure (AUC) and peak concentration (C max) were observed. These decreases in exposure to canagliflozin may decrease efficacy.If a combined inducer of these UGT enzymes and transport proteins must be co -administered with canagliflozin, monitoring of glycaemic control to assess response to canagliflozin is appropriate. If an inducer of these UGT enzymes must be co -administered with canagliflozin, increasing the dose to 
+300mg once daily may be considered if patients are currently tolerating canagliflozin 100 mg once daily, have an e 
+ GFR ≥60m 
+ L/min/1.73 m2or Cr 
+ Cl ≥60m 
+ L/min, and require additional glycaemic control. In patients with an e 
+ GFR 45m 
+ L/min/1.73 m2to <60m 
+ L/min/1.73 m2or Cr 
+ Cl 45m 
+ L/min to 
+<60m 
+ L/min taking canagliflozin 100 mg who are receiving concurrent therapy w ith a UGT enzyme inducer and who require additional glycaemic control, other glucose -lowering therapies should be considered (see sections 4.2 and 4.4).Cholestyramine may potentially reduce canagliflozin exposure. Dosing of canagliflozin should occur at least 1 hour before or 4 -6hours after administration of a bile acid sequestrant to minimise possible interference with their absorption.Interaction studies suggest that the pharmacokinetics of canagliflozin are not altered by metformin, hydrochlorothiaz ide, oral contraceptives (ethinyl estradiol and levonorgestrol), ciclosporin, and/or probenecid.Effects of canagliflozin on other medicinal products 
+ Digoxin 
+ The combination of canagliflozin 300 mg once daily for 7 days with a single dose of digoxin 0.5 mg followed by 0.25 mg daily for 6 days resulted in a 20% increase in AUC and a 36% increase in C maxof digoxin, probably due to inhibition of P -gp. Canagliflozin has been observed to inhibit P -gp in vitro . Patients taking digoxin or other cardiac glycosid es (e.g., digitoxin) should be monitored appropriately.Lithium 
+ The concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. Monitor serum lithium concentration more closely during treatment with canagliflozin, especially during initiation and dosage changes.Dabigatran 
+ The effect of concomitant administration of canagliflozin (a weak P -gp inhibitor) on dabigatran etexilate (a P -gp substrate) has not been studied. As dabigatran concentrations may be increased in the presence of canagliflozin, monitoring (looking for signs of bleeding or anaemia) should be exercised when dabigatran is combined with canagliflozin.Simvastatin 
+ The combination of canagliflozin 300 mg once daily for 6 days with a single dose of simva statin (CYP3A4 substrate) 40 mg resulted in a 12% increase in AUC and a 9% increase in C maxof simvastatin and an 18% increase in AUC and a 26% increase in C maxof simvastatin acid. The increases in simvastatin and simvastatin acid exposures are not consid ered clinically relevant.Inhibition of BCRP by canagliflozin cannot be excluded at an intestinal level and increased exposure may therefore occur for medicinal products transported by BCRP, e.g. certain statins like rosuvastatin and some anti -cancer medi cinal products.9In interaction studies, canagliflozin at steady -state had no clinically relevant effect on the pharmacokinetics of metformin, oral contraceptives (ethinyl estradiol and levonorgestrol), glibenclamide, paracetamol, hydrochlorothiazide, or w arfarin.Medicinal product/Laboratory test interference
+1,5-AG assay 
+ Increases in urinary glucose excretion with Invokana can falsely lower 1,5 -anhydroglucitol (1,5 -AG) levels and make measurements of 1,5 -AG unreliable in assessing glycaemic control. Therefore, 
+1,5-AG assays should not be used for assessment of glycaemic control in patients on canagliflozin. For further detail, it may be advisable to contact the specific manufacturer of the 1,5 -AG assay.

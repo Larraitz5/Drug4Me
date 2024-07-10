@@ -1,0 +1,15 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No specific interaction studies were conducted with indacaterol/m ometasone furoate . Information on the potential for interactions is based on the potential for each of the monotherapy components.  
+ Medicinal products known to prolong the QTc interval  
+ Like other medicinal products containing a beta 2-adrenergic agonist, this medicinal product should be administered with caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants or medicinal products known to prolong the QT interval, as any effect of these on the QT interval may be potentiated. Medicinal products known to prolong the QT interval may increase the risk of ventricular arrhythmia (see section s 4.4 and 5.1).  
+ Hypokalaemic treatment  
+ Concomitant hypokalaemic treatment with methylxanthine derivatives, steroid s or non-potassium -sparing diuretics may potentiate the possible hypokalaemic effect of beta 2-adrenergic agonists (see section  4.4). 
+ Beta-adrenergic  blockers  
+ Beta-adrenergic blockers may weaken or antagonise the effect of beta 2-adrenergic agonists. Therefore, this medicinal product  should not be given together with beta -adrenergic blockers unless there are compelling reasons for their use. Where required, cardioselective beta -adrenergic blockers should be preferred, although they  should be administered with caution.  
+ 7 Interaction with CYP3A4 and P -glycoprotein inhibitors  
+ Inhibition of CYP3A4 and P -glycoprotein (P -gp) has no impact on the safety of therapeutic doses of Atectura Breezhaler . 
+ Inhibition of the key contributors of indacaterol clearance (CYP3A4 and P -gp) or mometasone furoate clearance (CYP3A4) raises the systemic exposure of indacaterol or mometasone furoate up to two-fold. 
+ Due to the very low plasma concentration achieved after inhaled dosing, clin ically significant interactions with mometasone furoate are unlikely. However, there may be a potential for increased systemic exposure to mometasone furoate when strong CYP3A4 inhibitors (e.g. ketoconazole, itraconazole, nelfinavir, ritonavir, cobicistat)  are co -administered.  
+ Other long -acting beta 2-adrenergic agonists  
+ The co -administration of this medicinal product  with other medicinal products containing long -acting beta 2-adrenergic agonists has not been studied and is not recommended as it may potenti ate adverse reactions (see section s 4.8 and 4.9).  
+ 

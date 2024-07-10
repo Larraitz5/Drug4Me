@@ -1,0 +1,12 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Cytochrome P450 metabolised drugs  
+ Data from an interaction study performed in growth hormone deficient adults suggests that growth hormone administration may increase the clearance of compounds known to be metabolised by cytochrome P450 isoenzymes. The clearance of compounds metabolised by cytochrome P450 (e.g. sex steroids, corticosteroids, anticonvulsants and cyclosporine) may be especially increased resulting in lower plasma levels of these compounds. The clinical significance of this is unknown.  
+ Glucocorticoids  
+ Growth hormone decreases the conversion of cortisone to cortisol and may unmask previously undiscovered central hypoadrenalism or render low glucocorticoid replacement doses ineffective, see section 4.4.  
+ Oral oestrogens 
+ In females on oral oestrogen therapy, a higher dose of somapacitan may be required to achieve the treatment goal, see sections 4.2 and 4.4.  
+ Antihyperglycaemic products  
+ Antihyperglycaemic treatment including insulin may require dose adjustment in case of somapacitan co-administration since somapacitan may decrease insulin sensitivity, see sections 4.4 and 4.8.  
+ Other  
+ The metabolic effects of somapacitan can also be influenced by concomitant therapy with other hormones, e.g. testosterone and thyroid hormones, see section 4.4.  
+ 

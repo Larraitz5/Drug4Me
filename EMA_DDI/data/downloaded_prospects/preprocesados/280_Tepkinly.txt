@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No interaction studies have been performed.  
+ Transient elevation of certain proinflammatory cytokines by epcoritamab may suppress CYP450 enzyme activities. On initiation of epcoritamab therapy in patients being treated with CYP450 substrates with a narrow therapeutic index, therapeutic monitoring should be considered.  
+ 

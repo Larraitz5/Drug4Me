@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Due to a potential increase of haematologi cal toxicity and bone marrow suppression, cladribine must not be used concomitantly with other myelosuppressive medicinal products. An influence of cladribine on the activity of other antineoplastic agents  has not been observed  in vitro  (e.g. doxorubicin, vincristine, cytarabine, cyclophosphamide) and in vivo . However, an in vitro  study r evealed cross -resistance between cladribine and nitrogen mustard (chlormethine); for cytarabine, one author has described an in vivo  cross -reaction without loss of activity .  
+ Due to the similar intracellular metabolism, cross -resistance with other nucleoside analo gues, such as fludarabine or 2’ -deoxycoformycin may occur. Therefore, simultaneous administration of nucleoside analogues with cladribine is not advisable.  
+ Cortic osteroids have been shown to enhance the risk for severe infections when used in combination with cladribine and should not be given concomitantly with cladribine.  
+ Since interactions with  medicinal products undergoing intracellular phosphorylation, such as antiviral agents, or with inhibitors of adenosine uptake may be expected, their concomitant use with cladribine is not recommended.  
+ 

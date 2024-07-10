@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction   
+ No interaction studies have been performed. Enjaymo  is an unlikely candidate for cytochrome P450 mediated drug -drug interactions as  it is a recombinant human protein.  The interaction of sutimlimab with substrates of CYPs has not been studied. However, suti mlimab decreases the levels of proinflammatory cytokines in patients, such as IL -6 which is known to supress the expression of specific hepatic CYP450 enzymes (CYP1A2, CYP2C9, CYP2C19, and CYP3A4). Therefore, caution should be exercised when starting or di scontinuing sutimlimab treatment in patients also receiving substrates of CYP450 3A4, 1A2, 2C9 or 2C19, particularly those with a narrow therapeutic index (such as warfarin, carbamazepine, phenytoin and theophylline), and doses adjusted if needed.  
+ 6 
+ 

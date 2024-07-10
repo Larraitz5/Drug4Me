@@ -1,0 +1,6 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Formal topical drug interaction studies with tacrolimus ointment have not been conducted.  
+ Tacrolimus is not metabolised in human skin, indicating that there is no potential for percutaneous interactions that could affect the metabolism of tacrolimus.  
+ Systemically available tacrolimus is metabolised via the hepatic Cytochrome P450  3A4 (CYP3A4). Systemic exposure from topical application of tacrolimus ointment is low (<1.0  ng/ml) and is unlikely to be affected by concomitant use of substances known to be inhibitors of CYP3A4. However, the possibility of interactions cannot be ruled ou t and the concomitant systemic administration of known CYP3A4 inhibitors (e.g. erythromycin, itraconazole, ketoconazole and diltiazem) in patients with widespread and/or erythrodermic disease should be done with caution.  
+ Paediatric population  An interacti on study with protein -conjugated vaccine against Neisseria menigitidis serogroup C has been investigated in children aged 2 -11 years. No effect on immediate response to vaccination, the generation of immune memory, or humoral and cell -mediated immunity has  been observed (see section 5.1).  
+ 

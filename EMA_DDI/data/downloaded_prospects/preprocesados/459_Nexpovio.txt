@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ No dedicated clinical drug interaction studies have been conducted. 
+ Concomitant use of strong CYP3A4 inducer might lead to lower exposure of selinexor.  
+ No clinically significant differences in selinexor pharmacokinetics were observed when co -administered wi th a strong CYP3A4 inhibitor, clarithromycin (500 mg PO twice daily for 7 days). 
+ No clinically significant differences in selinexor pharmacokinetics were observed when co -administered with up to 1000 mg daily dose of paracetamol.  

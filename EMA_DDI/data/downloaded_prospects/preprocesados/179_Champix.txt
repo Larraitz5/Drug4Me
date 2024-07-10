@@ -1,0 +1,22 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Based on varenicline characteristics and clinical experience to date, CHAMPIX has no clinically meaningful drug interactions. No dosage adjustment of CHAMPIX or  co-administered medicinal products listed below is recommended.  
+ In vitro  studies indicate that varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.  
+ Furthermore since metabolism of varenicline represents less than 10% of its clearance, active substances known to affect the cytochrome P450 system are unlikely to alter the pharmacokinet ics of varenicline (see section  5.2) and therefore a dose adjustment of CHAMPIX would not be required.  
+ In vitro  studies demonstrate that varenicline does not inhibit human renal transport proteins at therapeutic concentrations. Therefore, active substances that are cleared by renal secretion (e.g. , metformin - see below) are unlikely to be affected by varenicline.  
+ Metformin   
+ Varenicline did not affect the pharmacokinetics of metformin. Metformin had no effect on varenicline pharmacokinetics.  
+ Cimetidine  
+ Co-administration of cimetidine, with varenicline increased the systemic exposure of varenicline by 
+29% due to a reduction in varenicline renal clearance. No dosage adjustment is recommended based on concomitant cimetidine administration  in subjects with normal renal function or in patients with mild to moderate renal impairment. In patients with severe renal impairment, the concomitant use of cimetidine and varenicline should be avoided.  
+ Digoxin  
+ Varenicline did not alter the steady -state pharmacokinetics of digoxin.  
+ Warfarin   
+ Varenicline did not alter the pharmacokinetics of warfarin. Prothrombin time (INR) was not affected by varenicline. Smoking cessation itself may result in changes to warfari n pharmacokinetics (see section  4.4).  
+ 6 Alcohol  
+ There are limited clinical data on any potential interaction between alcohol and varenicline.  There have been post marketing reports of increased intoxicating effects of alcohol in patients treated with varenicline. A causal relationship between these events and varenicline use has not been established . 
+ Use with other therapies for smoking cessation  
+ Bupropion  Varenicline did not alter the steady -state pharmacokinetics of bupropion.  
+ Nicotine replacement therapy (NRT) When varenicline and transdermal NRT were co -administered to smokers for 12  days, there was a statistically significant decrease in average systolic blood pressure (mean 2.6  mm 
+ Hg) measured on the final day of the study. In this study, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.  
+ Safety and efficacy of CHAMPIX in combination with other smoking cessation therapies have not been studied.  
+ 

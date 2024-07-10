@@ -1,0 +1,31 @@
+4.5 Interaction with other medicinal products and
+ other forms of i nteraction 
+ Effects of other medicinal products on sitagliptin 
+ Clinical data described below suggest that the risk f or clinically meaningf ul interactions byco-administered medicina l products is low.In vitro  studies  indicated that the primary  enzyme responsible  f or the limited metabolism of  sitagliptinis CYP3A4, with contribution from CYP2C8. In patients with normal renal f unction, metabolism,including via CYP3A4, plays only a sm all role in the clearance of  sitagliptin. Metabolism may play amore significant role in the elimination of sitagliptin in the setting of  severe renal impairment
+ orend-stage renal disease
+ (ESRD). For this reason, it is possible that potent CYP3A4 inhibito rs (i.e.ketoconazole, itraconazole, ritonavir, clarithromycin)  could alter  the pha rmacokinetics of  sitagliptin inpatients with severe renal impairment
+ or ESRD. The ef f ect of  potent CYP3A4 inhibitors in the settingof  renal impairment
+ has not been assesse d in a clinical study.In vitro  transport studies showed that sitagliptin is a substrate for p
+-glycoprotein and organic aniontransporter -3 (OAT3). OAT3 mediated transport of sitagliptin was inhibited
+ in vitro  by probenecid,although the risk of  clinicall y meaningf ul interactions is considered to be low. Concomitantadministration of  OAT3 inhibitors has not been evaluated in vivo .Metformin:  Co-administration of multiple twice
+-daily doses of  1,000
+ mg metformin with 50
+ mgsitagliptin did not meaningfully a lter the pharmacokinetics of sitagliptin in patients with type 2diabetes.Ciclosporin: A study was conducted to assess the ef f ect of ciclosporin, a potent inhibitor ofp-glycoprotein, on the pharmacokinetics of  sitagliptin. Co
+-administration of  a single 100 mg oral doseof  sitagliptin and a single 600
+ mg oral d ose o f ciclosporin increased the AUC and Cmax of  sitagliptin byapproximately 29
+ % and 68  
+%, respectively. These changes in sitagliptin pharmacokinetics were notconsidered to be clinically meaningf ul. The renal clearance of  sitagliptin was not meaningf ully altered.Therefore, meaningf ul interactions would not be expected with other p
+-glycoprotein inhibitors.Effects of sitagliptin on other medicinal products 
+ Digoxin:  Sitagliptin had a small ef f ect on plasma  digoxin concentrations. Following administration
+ of
+0.25 mg digoxin concomitantly with 100
+ mg of  sitagliptin daily f or 10
+ days, the plasma AUC ofdigoxin was increased on average by 11
+ %, and  the plasma C max on average by 18
+ 
+%. No doseadjustment  of  digoxin is recommended. However, patients at risk of digoxi n toxicity s hould bemonitored f or this when sitagliptin and digoxin are administered concomitantly.In vitro  data suggest that sitagliptin does not inhibit nor induce CYP450 isoenzymes.
+ In clinicalstudies, sitagliptin did not meaningf ully alter the
+ pharmacokinetics  of  metf ormin, glyburide,simvastatin, rosiglitazone, warf arin, or oral contraceptives, providing in vivo  evidence of  a lowpropensity f or causing interactions with substrates
+ of  CY P3A4, CYP
+2C8, CYP2C9, and organiccationic transporter (OCT). Sitagliptin may be a mild inhibitor of p
+-glycoprotein in vivo .6

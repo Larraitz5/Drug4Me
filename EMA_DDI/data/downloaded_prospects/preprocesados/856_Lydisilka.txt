@@ -1,0 +1,32 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Note: The prescribing information of concomitant medicinal  products should be consulted to identify potential interactions.  
+ Pharmacokinetic interactions  
+ Effects of other medicinal products on Lydisilka 
+ Interactions can occur with medicinal products  that induce microsomal enzymes , resulting in increased clearance of sex hormones, which may lead to breakthrough bleeding and/or contraceptive failure.  
+ 
+- Management  Enzyme induction can already be observed after a few days of treatment. Maximum enzyme induction is generally observed within a few  weeks. After the cessation of medicinal product  therapy, enzyme induction may be sustained for about 4  weeks. 
+ 
+- Short-term treatment  Women on treatment with enzyme -inducing medicinal products  should temporarily use a barrier method or another method of contraception in addition to the C HC. The barrier method must be used during the whole time of the concomitant medicinal product  therapy and for 28  days after its discontinuation. If the medicinal product  therapy runs beyond the end of the  pink active tablets in the CHC pack, the white placebo tablets must be discarded and the next C HC pack should be started right away. 
+ 
+- Long-term treatment  In women on long -term treatment with hepatic enzyme-inducing active substances, another reliable, non-hormonal, method of contraception is recommended.  
+ The following interactions have been reported in the literature .  
+ Medicinal products  increasing the clearance of C HCs (enzyme -induction), e.g.:  barbiturates, bosentan, carbamazepine, phenytoin, primidone, rifampicin and HIV medicinal products  (e.g. ritonavir, nevirapine and efavirenz ) and possibly also felbamate, griseofulvin, oxcarbazepine, topiramate and products containing the herbal St. John's wort ( Hypericum perforatum ).  
+ Medicinal products  with variable effects on the clearance of C HCs: When co-administered with C HCs, many combi nations of HIV protease inhibitors and non -nucleoside reverse transcriptase inhibitors, including combinations with HCV inhibitors can increase or decrease plasma concentrations of oestrogens and progestogens . The effect of these changes may be clinically relevant in some cases.  
+ Therefore, the prescribing information of concomitant HIV/HCV medicinal products  should be consulted to identify potential interactions and any related recommendations. In case of any doubt, an additional barrier method  of contrace ption should be used by women on protease inhibitor or non -nucleoside reverse transcriptase inhibitor therapy.  
+ Medicinal products  decreasing the clearance of C HCs (enzyme inhibitors):   
+13 The clinical relevance of potential interactions with enzyme inhibitors remains unknown.  Concomitant administration of strong CYP3A4 inhibitors can increase plasma concentrations of oestrogens or progestogens  or both. 
+ 
+- Potential interactions with drospirenone  In a multiple dose study with a drospirenone (3  mg/day) / ethinylestradiol  (0.02 mg/day) combination, co-administration of the strong CYP3A4 inhibitor ketoconazole for 10  days increased the area under the curve during a 24 -hour period ( AUC(0-24 h)) of drospirenone (and ethinylestradiol ) 2.7-fold (and 
+1.4-fold, respectively).  
+ 
+- Potential interactions with estetrol  Estetrol is predominantly glucuronised by UDP-glucuronosyltransferase ( UGT) 2B7 enzyme (see section 5.2 ‘Pharmacokinetic properties ’). No clinical ly relevant  interaction was observed with estetrol and the strong UGT inhibitor valproic acid.  
+ Effects of Lydisilka on other medicinal products  
+ Oral contraceptives may affect the metabolism of certain other active substances. Accordingly, plasma and tissue concentr ations may either increase (e.g., ciclosporin) or decrease (e.g., lamotrigine).  
+ Based on in vitro inhibition studies and in vivo interaction studies in female volunteers using omeprazole, simvastatin and midazolam as marker substrate, an interaction of dr ospirenone at doses of 
+3 mg with the metabolism of other active substances is unlikely.  
+ Based on in vitro inhibition studies, an interaction of estetrol contained in Lydisilka with the metabolism of other active substances is unlikely.   
+ Pharmacodynamic interactions  Concomitant use with the HCV medicinal products containing ombitasvir/paritaprevir/ritonavir and dasabuvir, with or without ribavirin, may increase the risk of ALT elevations in women using ethinylestradiol  containing  medicinal products  such as CHCs (see section  4.4). Women using medicinal products containing oestrogens other than ethinylestradiol , had a rate of ALT elevation similar to those not receiving any oestrogens; however, due to the limited number of women taking these other oestrogens, caution is warranted for co -administration with the combination therapeutic regimen ombitasvir/paritaprevir/ritonavir and dasabuvir with or without ribavirin  and also the regi men with glecaprevir/pibrentasvir  or sofosbuvir/velpatasvir/voxilaprevir  (see section 4.4) . 
+ In patients without renal impairment , the concomitant use of drospirenone and angiotensin  converting  enzyme (ACE)-inhibitors or non-steroidal anti-inflammatory drugs ( NSAIDs) did not show a significant effect on serum potassium. Nevertheless, concomitant use of Lydisilka  with aldosterone antagonists or potassium -sparing diuretics has not been studied. In this case, serum potassium should be tested during the first treatment cycle. See also section  4.4. 
+ Paediatric population  
+ Interaction studies have only been performed in adults.  
+ 

@@ -1,0 +1,86 @@
+4.5 Interaction with other medicinal products a nd other forms of interaction 
+ Medicinal products that affect rilpivirine exposure 
+ Rilpivirine is primarily metabolised by cytochrome P450 (CYP)3A .Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section 5.2). Co -administration of rilpivirine and medicinal products that induce CYP3A hasbeen observed to decrease theplasma concentrations of rilpivirine ,which could reduce the therapeutic effect of rilpivirine .Co-administration of rilpivirine and medicinal p roducts that inhibit CYP3A hasbeen observed toincrease the plasma concentrations of rilpivirine .Co-administration of rilpivirine with medicinal products that increase gastric p 
+ H may result indecrease dplasma concentrations of rilpivirine which could po tentially reduce the therapeutic effect of EDURANT .Medicinal products that are affected by the use of rilpivirine 
+ Rilpivirine at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolis ed by CYP enzymes.Rilpivirin einhibits P -glycoprotein in vitro (IC50is 9.2 μM). In a clinical study ,rilpivirin edid not significantly affect the pharmacokinetics of digoxin. However, it may not be completely excluded that rilpivirin ecan increase the ex posure to other medicines transported by P-glycoprotein that are more sensitive to intestinal P -gp inhibition, e.g. dabigatran etexilate.Rilpivirine is an in vitro inhibitor of the transporter MATE -2K with an IC50of < 2.7n 
+ M. The clinical implications o f this finding are currently unknown .Established and theoretical interactions with selected antiretrovirals and non -antiretroviral medicinal products are listed in table 1.Interaction table 
+ Interaction studies have only been performed in adults.Inter actions between rilpivirine and co -administered medicinal products are listed in table 1(increase is indicated as “ ↑”, decrease as “ ↓”, no change as “ ↔”, not applicable as “N A”, confidence interval as 
+“CI”) .Table 1: INTERACTIONS AND DOSE RECOMMENDATIONS WITH OTHER MEDICINAL PRODUCTSMedicinal products by therapeutic areas 
+ Interaction 
+ Geometric mean change (%)Recommendations concerning co-adm inistration 
+ ANTI -INFECTIVESAntiretrovirals 
+ HIV NRTIs/N[t] RTIs 
+ Didanosine*#
+400mg o nce dailydidanosine AUC ↑ 12%didanosine C min NAdidanosine C max ↔rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↔No dose adjustment is required. Didanosine should be administered at least two hours before or at least four hours after rilpivirine .Tenofovir disoproxil *#
+245mg o nce dailytenofovir AUC ↑ 23%tenofovir C min ↑ 24%tenofovir C max ↑ 19%rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↔No dose adjustment is required.6Other NRTIs(abacavir, emtricitabine, lamivudine, stavudine and zidovudine)Not studi ed. No clinically relevant drug-drug interactions are expected.No dose adjustment is required.HIV NNRTIs 
+ NNRTIs(delavirdine, efavirenz, etravirine, nevirapine)Not studied. It is not recommended to co-administer rilpivirine with other NNRTIs.HIV PIs–with co -administration of low dose ritonavir 
+ Darunavir/ritonavir*#
+800/100 mg once dailydarunavir AU C ↔darunavir C min ↓ 11%darunavir C max ↔rilpivirine AUC ↑ 130%rilpivirine C min ↑ 178%rilpivirine C max ↑ 79%(inhibition of CYP3A enzymes)Concomitant use of rilpivirine with ritonavir -boosted PIs causes an increase in the plasma concentrations of rilp ivirine, but no dose adjustment is required.Lopinavir/ritonavir(soft gel capsule)*#
+400/100 mg twice dailylopinavir AUC ↔lopinavir C min ↓ 11%lopinavir C max↔rilpivirine AUC ↑ 52%rilpivirine C min ↑ 74%rilpivirine C max ↑ 29%(inhibition of CYP3A en zymes)Other boosted PIs (atazanavir/ritonavir, fosamprenavir/ritonavir, saquinavir/ritonavir, tipranavir/ritonavir)Not studied.HIV PIs –without co -administration of low dose ritonavir 
+ Unboosted PIs (atazanavir, fosamprenavir, indinavir, nelfinavir )Not studied. Increased exposure of rilpivirine is expected.(inhibition of CYP3A enzymes)No dose adjustment is required.CCR5 Antagonists 
+ Maraviroc Not studied. No clinically relevant drug-drug interaction is expected.No dose adjustment is required.HIV Integrase Strand Transfer Inhibitors 
+ Raltegravir * raltegravir AUC ↑ 9%raltegravir C min ↑ 27%raltegravir C max ↑ 10%rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max ↔No dose adjustment is required.Other Antiviral Agents 
+ Ribavirin Not studi ed. No clinically relevant drug-drug interaction is expected.No dose adjustment is required.Simeprevir* simeprevir AUC ↔simeprevir C min ↔simeprevir C max ↑ 10%rilpivirine AUC ↔rilpivirine C min ↑ 25%rilpivirine C max ↔No dose adjustment is required.OTHER AGENTSANTICONVULSANTSCarbamazepine 
+ Oxcarbazepine 
+ Phenobarbital 
+ Phenytoin 
+ Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine must not be used in combination with these anticonvulsants as co -administration may result in loss of therapeutic effect of rilpivirine (see section 4.3).7AZOLE ANTIFUNGAL AGENTSKetoconazole*#
+400mg o nce dailyketoconazole AUC ↓ 24%ketoconazole C min ↓ 66%ketoconazole C max ↔(induction of CYP3A due to high rilpivirine dose in the study)rilpivirine AUC ↑ 49%rilpivirine C min ↑ 76%rilpivirine C max ↑ 30%(inhibition of CYP3A enzymes)At the recommended dose o f 25mg once daily, no dose adjustment is required w hen rilpivirine is co-administered with ketoconazole.Fluconazole 
+ Itraconazole 
+ Posaconazole 
+ Voriconazole 
+ Not studied. Concomitant use of EDURANT with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine.(inhibition of CYP3A enzymes)No dose adjustment is required.ANTIMYCOBACTERIALSRifabutin*
+300mg o nce daily†rifabutin AUC ↔rifabutin C min ↔rifabutin C max ↔
+25-O-desacetyl -rifabutin AUC ↔
+25-O-desacetyl -rifabutin C min ↔
+25-O-desacetyl -rifabutin C max ↔Throughout co-administration ofrilpivirine with rifabutin, the rilpivirinedose should be increased from 25 mg once daily to 50 mg once daily. When rifabutin co -administration is stopped, the rilpivirine dose should be decreased to 25 mg once daily .
+300mg o nce daily(+ 25 mg once dailyrilpivirine )rilpivirine AUC ↓ 42%rilpivirine C min ↓ 48%rilpivirine C max ↓31%
+300mg o nce daily(+ 50 mg once dailyrilpivirine )rilpivirine AUC ↑16%*rilpivirine C min ↔*rilpivirine C max ↑43%*
+* compared to 25 mg once daily rilpivirine alone(induction of CYP3A enzymes)Rifampicin*#
+600mg o nce dailyrifampicin AUC ↔rifampicin C min NArifampicin C max ↔
+25-desacetyl -rifam picin AUC ↓ 9%
+25-desacetyl -rifam picin C min NA
+25-desacetyl -rifam picin C max ↔rilpivirine AUC ↓ 80%rilpivirine C min ↓ 89%rilpivirine C max ↓ 69%(induction of CYP3A enzymes)Rilpivirine must not be u sed in combination with rifampicin as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3).Rifapentine Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CY P3A enzymes)Rilpivirine must not be used in combination with rifapentine as co-administration is likely to result in loss of therapeutic effect of rilpivirine (see section 4.3).MACROLIDE ANTIBIOTICSClarithromycin 
+ Erythromycin 
+ Not studied. Increased ex posure of rilpivirine is expected.(inhibition of CYP3A enzymes)Where possible, alternatives such as azithromycin should be considered.8GLUCOCORTICOIDSDexamethasone (systemic , except for single dose use )Not studied. Dose dependentdecreases in rilpiv irine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine should not be used in combination with systemic dexamethasone (except as a single dose) as co -administration may result in loss of therapeutic effect of rilpivirine (see se ction 4.3).Alternatives should be considered, particularly for long -term use.PROTON PUMP INHIBITORSOmeprazole*#
+20mg once dailyomeprazole AUC ↓ 14%omeprazole C min NAomeprazole C max ↓ 14%rilpivirine AUC ↓ 40%rilpivirine C min ↓ 33%rilpivirine C max↓ 40%(reduced absorption due to gastric p 
+ H increase)Rilpivirine must not be used in combination with proton pump inhibitors as co -administration is likely toresult in loss of therapeutic effect of rilpivirine (see section 4.3).Lansoprazole 
+ Rabepraz ole 
+ Pantoprazole 
+ Esom eprazole 
+ Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(reduced absorption due to gastric p 
+ H increase)H2-RECEPTOR ANTAGONISTSFamotidine*#
+40mg single dose taken 
+12hours before rilpivirinerilpivirine AUC ↓ 9%rilpivirine C min NArilpivirine C max ↔The combination of rilpivirine and H2-receptor antagonists should be used with particular caution. Only H2-receptor antagonists that can be dosed once daily should be used.A strict dosing schedul e, with intake of H2-receptor antagonists at least 
+12hours before or at least 4 hours after rilpivirine should be used.Famotidine*#
+40mg single dose taken 
+2hours before rilpivirinerilpivirine AUC ↓ 76%rilpivirine C min NArilpivirine C max ↓ 85%(reduced absorption due to gastric p 
+ H increase)Famotidine*#
+40mg single dose taken 
+4hours after rilpivirinerilpivirine AUC ↑ 13%rilpivirine C min NArilpivirine C max↑ 21%Cimetidine 
+ Nizatidine 
+ Ranitidine 
+ Not studied.(reduced absorption due to gastri c p 
+ H increase)ANTACIDSAntacids (e.g., aluminium or magnesium hydroxide, calcium carbonate)Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(reduced absorption due to gastric p 
+ H increase)The combination of rilpiv irine and antacids should be used w ith particular caution. Antacids should only be administered either at least 2 hours before or at least 4 hours after rilpivirine .NARCOTIC ANALGESICSMethadone*
+60-100mg o nce daily, individualised dose 
+ R(-)methadone AUC ↓ 16%R(-)methadone C min ↓ 22%R(-)methadone C max ↓ 14%rilpivirine AUC ↔*rilpivirine C min ↔*rilpivirine C max ↔*
+* based on historic controls 
+ No dose adjustments are required when initiating co -administration of methadone with rilpivirine .How ever,clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients .ANTIARRHYTHMICSDigoxin * digoxin AUC ↔digoxin C min NAdigoxin C max↔No dose adjustment is required.9ANTICOAGULANTSDabigatran etexilate Notstudied. A risk for i ncreases in dabigatran plasma concentrations cannot be excluded .(inhibition of intestinal P -gp)The combination of rilpivirine and dabigatran etexilate should be used with caution.ANTIDIABETICSMetformin *
+850mg single dosemetfo rmin AU C ↔metformin C min NAmetformin C max↔No dose adjustment is required.HERBAL PRODUCTSSt 
+ John's wort (Hypericum perforatum)Not studied. Significant decreases in rilpivirine plasma concentrations are expected.(induction of CYP3A enzymes)Rilpivirine must not be used in combination with products containing St 
+ John’s wort as co -administration may result in loss of therapeutic effect of rilpivirine (see section 4.3).ANALGESICSParacetamol*#
+500mg single doseparacetamol AUC ↔paracetamol C min NAparac etamol C max ↔rilpivirine AUC ↔rilpivirine C min ↑ 26%rilpivirine C max↔No dose adjustment is required.ORAL CONTRACEPTIVESEthinylestradiol*
+0.035 mg once daily 
+ Norethindrone*
+1mg once dailyethinylestradiol AUC ↔ethinylestradiol C min ↔ethinylestra diol C max ↑ 17%norethindrone AUC ↔norethindrone C min ↔norethindrone C max ↔rilpivirine AUC ↔*rilpivirine C min ↔*rilpivirine C max ↔*
+* based on historic controls 
+ No dose adjustment is required.HMG CO -A REDUCTASE INHIBITORSAtorvastatin*#
+40mg once dailyatorvastatin AUC ↔atorvastatin C min ↓ 15%atorvastatin C max ↑ 35%rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↓ 9%No dose adjustment is required .PHOSPHODIESTERASE TYPE 5 (PDE -5) INHIBITORSSildenafil*#
+50mg single dosesildenafil AUC ↔sildenafil C min NAsildenafil C max ↔rilpivirine AUC ↔rilpivirine C min ↔rilpivirine C max↔No dose adjustment is required.Vardenafil 
+ Tadalafil 
+ Not studied. No dose adjustment is required .
+*The interaction between rilpivirine and the medicinal produ ct was evaluated in a clinical study. All other drug -drug interactions shown are predicted.
+#This interaction study has been performed with a dose higher than the recommended dose for rilpivirine assessing the maximal effect on the co -administered medicin al product. The dosing recommendation is applicable to the recommended dose of rilpivirine of 25 mg once daily .
+†This interaction study has been performed with a dose higher than the recommended dose for rilpivirine .QT prolonging medicinal products 
+ There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and medicinal products that prolong the QTc interval of the ECG . In a study of healthy subjects, supratherapeutic doses of rilpivirine (75 mg once d ailyand 300 mg once daily ) have been 10shown to prolong the QTc interval of the ECG (see section 5.1). EDURANT should be used with caution when co -administered with a medicinal product with a known risk of Torsade de Pointes.

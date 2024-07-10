@@ -1,0 +1,4 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Sodium thiosulfate  should only be given at least 6 hours after the end of cisplatin infusion. Sodium thiosulfate should not be given when cisplatin  is infused for longer than 6  hours  or if a subsequent cisplatin  infusion is planned within 6  hours  (see section  4.2). The dela yed administration prevents potential interference with cisplatin chemotherapy efficacy  against the tumour . 
+ No other interaction studies have been performed . Relevant pharmacokinetic interactions are unlikely as administration of thiosulfate is infrequent , only in  conjunction with cisplatin  and thiosulfate is rapidly eliminated within hours after administration. Sodium thiosulfate potentially induces CYP2B6 (see section  5.2). 
+ 

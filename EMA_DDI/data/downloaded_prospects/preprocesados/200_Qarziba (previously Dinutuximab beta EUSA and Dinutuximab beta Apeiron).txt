@@ -1,0 +1,5 @@
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No interaction studies have been performed.  A risk for indirect reduction of CYP activity due to higher TNF -α and IL-6 levels and , therefore , interactions with concomitantly used medicinal products, cannot be excluded.  
+ Corticosteroids Due to their immunosuppressive activity, concomitant treatment with corticosteroids is not recommended within 2  weeks prior to the first treatment course  until 1  week after the last treatment course  with dinutuximab beta, except for life -threatening conditions. 
+ Vaccinations  Vaccinations should be avoided during administration of d inutuximab beta  until 10  weeks after the last treatment course,  due to immune stimulation through dinutuximab beta and possible risk for rare neurological toxicities.  Intravenous immunoglobulin Concomitant use of intravenous immunoglobulins is not recommended as they may interfere with dinutuximab beta-dependent cellular cytotoxicity.  
+ 

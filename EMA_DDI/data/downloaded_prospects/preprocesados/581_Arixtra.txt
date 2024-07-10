@@ -1,0 +1,5 @@
+4.5 Interaction  with other medicinal  products  and other forms of interaction   
+ Bleeding risk is increased  with concomitant  administration  of fondaparinux  and agents that may enhance the risk of haemorrhage  (see section 4.4). 
+ Oral anticoagulants  (warfarin),  platelet inhibitors  (acetylsalicylic  acid), NSAIDs (piroxicam)  and digoxin did not interact with the pharmacokinetics  of fondaparinux.  The fondaparinux  dose (10 mg) in the interaction  studies was higher than the dose recommended  for the present indications.  Fondaparinux  neither influenced  the INR activity of warfarin, nor the bleeding time under acetylsalicylic  acid or piroxicam  treatment,  nor the pharmacokinetics  of digoxin at steady state. 
+ Follow -up therapy  with another  anticoagulant  medicinal  product  If follow-up treatment  is to be initiated with heparin or LMWH, the first injection should, as a general rule, be given one day after the last fondaparinux  injection. If follow up treatment  with a Vitamin K antagonist  is required, treatment  with fondaparinux  should be continued  until the target INR value has been reached. 
+ 

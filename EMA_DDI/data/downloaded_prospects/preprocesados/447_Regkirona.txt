@@ -1,0 +1,7 @@
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Pharmacokinetic interactions 
+ No interaction studies have been performed with regdanvimab.  
+ Regdanvimab is a monoclonal antibody, which is not renally excreted or metabolised by cytochrome P450 enzymes; therefore, interactions with concomitant medicinal products that are renally excreted or that are substrates, inducers, or inhibitors of cytochrome P450 enzymes are considered unlikely. 
+ Pharmacod ynamic interactions 
+ No interaction studies have been performed.  
+ 
