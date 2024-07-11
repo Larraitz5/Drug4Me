@@ -38,5 +38,5 @@ def set_alcance_page():
                 "EMA. ")
     st.markdown("- **Procesamiento del archivo VCF:** El procesamiento de archivos VCF puede no ser óptimo"
                 " en algunos casos y podría estar limitado a archivos pequeños con pocas variantes genéticas.")
-    st.markdown("- Hasta el momento se cuenta con 3 archivos VCF para poder realizar simulaciones ("
-                "paciente1, paciente2, paciente3)")
+    st.markdown("- Hasta el momento se cuenta con 4 archivos VCF para poder realizar simulaciones ("
+                "paciente1, paciente2, paciente3, paciente4)")

@@ -121,13 +121,17 @@ def set_main_page():
                     2.- Obtener indicaciones PGx basadas en el Genotipo del Paciente.
                 </div>
                 <ul style="margin-bottom: 5px;">
-                    <li>Introducir el <b>id del paciente (paciente+número)</b>.</li>
+                    <li>Introducir el <b>id del paciente (paciente+número, por ejemplo: paciente3)</b>.
+                        <ul>
+                            <li>Por ahora, se han creado 4 archivos VCF para testear la aplicación (paciente1, 
+                            paciente2, pacietne3, paciente4).</li>
+                        </ul>
                     <li>Se analiza el correspondiente  archivo VCF, obteniendo su perfil genético y su genotipo.</li>
                     <li>Resultados: 
                         <ul>
                             <li>Asociaciones con fármacos e indicaciones PGx en base a las variantes genéticas y el 
                             genotipo que presenta.</li>
-                        </ul>
+                        </ul></li>
             """, unsafe_allow_html=True)
     st.write("")
     st.markdown("""
