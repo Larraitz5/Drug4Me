@@ -9,7 +9,7 @@
  
 β-adrenergic blockers may weaken or antagoni se the effect of β2-adrenergic agonists. If β-adrenergic blockers are  required  (including eye drops) , cardioselective beta -adrenergic blockers are preferred, although they should also be administered with caution.  
  Other p harmacodynamic interaction s 
- Brimi ca Genuair should be administered with caution to patients being treated with medicinal products known to prolong the QTc interval such as monoamine oxidase inhibitors,  tricyclic antidepressants , antihistamines  or macrolides because the action of formotero l, a component of Brimica  Genuair , on the cardiovascular system may be potentiated by these medicinal products . Medicinal products  that are known to prolong the QTc interval are associated with an  increased risk of ventricular arrhythmias.  
- Metabolic inter actions  
- In vitro  studies have shown that aclidinium or its metabolites at the therapeutic dose are not expected to cause interactions with P-glycoprotein ( P-gp) substrate drugs or  drugs metabolised by cytochrome P450 (CYP450) enzymes  and esterases. Formot erol does not inhibit the CYP450 enzymes at therapeutically relevant concentrations (see section 5.2).  
+ Brimi ca Genuair should be administered with caution to patients being treated with medicinal products known to prolong the QTc interval such as monoamine oxidase inhibitors,  tricyclic antidepressants , antihistamines  or macrolides because the action of formoterol, a component of Brimica  Genuair , on the cardiovascular system may be potentiated by these medicinal products . Medicinal products  that are known to prolong the QTc interval are associated with an  increased risk of ventricular arrhythmias.  
+ Metabolic interactions  
+ In vitro  studies have shown that aclidinium or its metabolites at the therapeutic dose are not expected to cause interactions with P-glycoprotein ( P-gp) substrate drugs or  drugs metabolised by cytochrome P450 (CYP450) enzymes  and esterases. Formoterol does not inhibit the CYP450 enzymes at therapeutically relevant concentrations (see section 5.2).  
  5 

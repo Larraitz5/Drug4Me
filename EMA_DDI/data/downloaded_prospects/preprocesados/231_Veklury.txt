@@ -1,6 +1,6 @@
 4.5 and 5.1)  
  Immunocompromised patients:  
- It is unclear if the treatment duration of three days is sufficien t to clear the virus in immunocompromised patients, in whom prolonged viral shedding occurs. There is a potential risk of resistance development. Only limited data  are available.  
+ It is unclear if the treatment duration of three days is sufficient to clear the virus in immunocompromised patients, in whom prolonged viral shedding occurs. There is a potential risk of resistance development. Only limited data are available.  
  Excipients  
  This medicinal product contains 212 mg sodium per 100 mg dose , equivalent to 10.6% of the  WHO recommended maximum daily intake of  2 g sodium  for an adult.  
  
@@ -8,8 +8,8 @@
  Pharmacodynamic interactions 
  Due to antagonism observed in vitro, concomitant use of remdesivir with chloroquine phosphate or hydroxychloroquine sulphate is not recommended.  
  Pharmacokinetic interactions 
- Effects of other medicinal products on remdesivir  In vitro , remdesivir is a substrate for esterases in plasma and tissue, drug metabolizing enzyme CYP3A4 and is a substrate for Organic Anion Transporting Polypeptides  1B1 (OATP1B1) and P-glycoprotein (P -gp) transporters.  GS-704277 (a metabolite of remdesivir) is a substrate for OATP1B1 and OATP1B3 . 
- A drug-drug interaction study wa s conducted with remdesivir. Table 5 summarises the pharmacokinetic effects of studied drugs on remdesivir and metabolites GS -704277 and GS -441524. 6  Table 5: Effect of o ther d rugs on r emdesivir and m etabolites GS -704277 and GS-441524  NOTE: Interaction study conducted in healthy volunteers.  
- Effects of remdesivir on other medicinal products In vitro , remdesivir is an inhibitor of CYP3A4, UGT1A1, MATE1, OAT3, OCT1 , OATP1B1 and OATP1B3.  Until respective clinical data become available, the coadministration of sensitive substrates of these enzymes and/or transporters should be considered with caution. Remdesivir induced CYP1A2 and potentially CYP3A in vitro.  Co-administration of remdesivir with CYP1A2 or CYP3A4 substrates with narrow therapeutic index may lead to loss of their efficacy.  
+ Effects of other medicinal products on remdesivir  In vitro , remdesivir is a substrate for esterases in plasma and tissue, drug metabolizing enzyme CYP3A4 and is a substrate for Organic Anion Transporting Polypeptides  1B1 (OATP1B1) and P-glycoprotein (P -gp) transporters. GS -704277 (a metabolite of remdesivir) is a substrate for OATP1B1 and OATP1B3.  
+ A drug-drug interaction study was conducted with remdesivir. Table 5 summarises the pharmacokinetic effects of studied drugs on remdesivir and metabolites GS -704277 and GS -441524. 6  Table 5: Effect of other drugs on remdesivir and metabolites GS -704277 and GS -441524  NOTE: Interaction study conducted in healthy volunteers.  
+ Effects of remdesivir on other medicinal products In vitro , remdesivir is an inhibitor of CYP3A4, UGT1A1, MATE1, OAT3, OCT1, OATP1B1 and OATP1B3. Until respective clinical data  become available, the coadministration of sensitive substrates of these enzymes and/or transporters should be considered with caution.  Remdesivir induced CYP1A2 and potentially CYP3A in vitro.  Co-administration of remdesivir with CYP1A2 or CYP3A4 substrat es with narrow therapeutic index may lead to loss of their efficacy.  
  Dexamethasone is a substrate of CYP3A4 and although remdesivir inhibits CYP3A4, due to remdesivir's rapid clearance after IV administration, remdesivir is unlikely to have a significant effect on dexamethasone exposure.  
  

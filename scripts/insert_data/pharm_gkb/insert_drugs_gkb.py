@@ -4,11 +4,7 @@ import pandas as pd
 from db_funciones import read_json_file, solicitud_downloadzip_url
 
 # Insertar los datos de PharmGKB: fármacos
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["drugs_gkb"]
+properties = read_json_file("properties/properties.json")["drugs_gkb"]
 
 
 def insert_drugsgkb_data_db(session, db):

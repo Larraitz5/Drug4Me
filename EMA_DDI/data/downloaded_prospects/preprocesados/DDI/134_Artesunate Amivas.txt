@@ -1,2 +1,2 @@
-> 5 Co-administration of intravenous artesunate with strong inhib itors of UGT ENZYMES (e.g. AXITINIB, VANDETANIB, IMATINIB, DICLOFENAC ) may increase plasma exposures to DHA. Co -administration should be avoided if possible.
-> Co-administration of ARTESUNATE AMIVAS  with UGT inducers (e.g. NEVIRAPINE, RITONAVIR, rifampicin, CARBAMAZEPINE, PHENYTOIN) may decrease DHA  exposures, leading to a reduction in, or loss of, efficacy. Co -administration should be avoided. 
+> 5 Co-administration of intravenous artesunate with strong inhibitors of UGT ENZYMES (e.g. AXITINIB, VANDETANIB, IMATINIB, DICLOFENAC ) may increase plasma exposures to DHA. Co -administration should be avoided if possible. 
+> Co-administration of ARTESUNATE AMIVAS  with UGT inducers (e.g.  NEVIRAPINE, RITONAVIR, rifampicin, CARBAMAZEPINE, PHENYTOIN) may decrease DHA exposures, leading to a reduction in, or loss of, efficacy. Co -administration should be avoided. 

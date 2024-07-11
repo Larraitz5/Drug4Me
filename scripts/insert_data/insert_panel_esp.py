@@ -1,14 +1,9 @@
-import os
 import pandas as pd
 from unicodedata import normalize
 from db_funciones import read_json_file
 
 # Insertar los datos del panel genético
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["panel_esp"]
+properties = read_json_file("properties/properties.json")["panel_esp"]
 
 
 def insert_paneldata_db(session, db):

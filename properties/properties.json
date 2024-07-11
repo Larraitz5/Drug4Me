@@ -1,7 +1,6 @@
 {
 
-  "database_path": "D:/Drug4Me_GitLab/drug4me/db/",
-  "base_path": "D:/Drug4Me_GitLab/drug4me",
+  "database_path": "db/",
 
   "cima_esp": {
       "download_url": "https://listadomedicamentos.aemps.gob.es/Medicamentos.xls",
@@ -13,25 +12,21 @@
   "panel_esp": {
       "file_path": "data/source/panel_esp/prueba-genetica.xlsx",
       "db_columns": ["Patología", "Genes o Regiones a Estudiar", "Tratamiento Farmacológico Asociado", "Observaciones"]
-
   },
   "ema": {
       "download_url": "https://www.ema.europa.eu/system/files/documents/other/medicines_output_european_public_assessment_reports_en.xlsx",
       "file_path": "data/source/ema/medicines_output_european_public_assessment_reports_en.xlsx",
       "db_columns":["Category", "Medicine name", "Therapeutic area", "International non-proprietary name (INN) / common name", "Active substance", "Authorisation status", "ATC code", "Condition / indication", "URL"]
-
   },
   "drugs_gkb": {
       "download_url": "https://api.pharmgkb.org/v1/download/file/data/drugs.zip",
-      "save_pathZIP" : "D:\\Drug4Me_GitLab\\drug4me\\data\\source\\pharm_gkb\\drugs\\drugs.zip",
+      "save_pathZIP" : "data/source/pharm_gkb/drugs/drugs.zip",
       "save_path": "data/source/pharm_gkb/drugs/drugs.tsv",
       "db_columns":  ["PharmGKB Accession Id", "Name", "Generic Names", "Trade Names", "External Vocabulary", "RxNorm Identifiers", "ATC Identifiers"]
-
-
   },
   "drugslabel": {
     "download_url": "https://api.pharmgkb.org/v1/download/file/data/drugLabels.zip",
-    "save_pathZIP": "D:\\Drug4Me_GitLab\\drug4me\\data\\source\\pharm_gkb\\drugslabel\\drugLabels.zip",
+    "save_pathZIP": "data/source/pharm_gkb/drugslabel/drugLabels.zip",
     "save_path": "data/source/pharm_gkb/drugslabel/drugLabels.tsv",
     "db_columns": ["PharmGKB ID", "Name", "Source", "Biomarker Flag", "Testing Level",
                "Has Prescribing Info", "Has Dosing Info", "Has Alternate Drug", "Has Other Prescribing Guidance",
@@ -39,13 +34,12 @@
   },
   "relationships": {
     "download_url": "https://api.pharmgkb.org/v1/download/file/data/relationships.zip",
-    "save_pathZIP": "D:\\Drug4Me_GitLab\\drug4me\\data\\source\\pharm_gkb\\relationships\\relationsgips.zip",
+    "save_pathZIP": "data/source/pharm_gkb/relationships/relationsgips.zip",
     "save_path": "data/source/pharm_gkb/relationships/relationships.tsv"
   },
-
   "clinicalannotations": {
     "download_url": "https://api.pharmgkb.org/v1/download/file/data/clinicalAnnotations.zip",
-    "save_pathZIP": "D:\\Drug4Me_GitLab\\drug4me\\data\\source\\pharm_gkb\\clinicalannotations\\clinicalAnnotations.zip",
+    "save_pathZIP": "data/source/pharm_gkb/clinicalannotations/clinicalAnnotations.zip",
     "clinann_path":  "data/source/pharm_gkb/clinicalannotations/clinical_annotations.tsv",
     "clinnan_columns": ["Clinical Annotation ID", "Variant/Haplotypes", "Gene", "Level of Evidence", "Phenotype Category",
                "Drug(s)", "Phenotype(s)", "URL"],
@@ -54,14 +48,13 @@
   },
   "variantannotations": {
     "download_url": "https://api.pharmgkb.org/v1/download/file/data/variantAnnotations.zip",
-    "save_pathZIP": "D:\\Drug4Me_GitLab\\drug4me\\data\\source\\pharm_gkb\\variantannotations\\variantAnnotations.zip",
+    "save_pathZIP": "data/source/pharm_gkb/variantannotations/variantAnnotations.zip",
     "db_columns": ["Variant Annotation ID", "Variant/Haplotypes", "Gene", "Drug(s)", "Phenotype Category", "Sentence"],
     "file_path": "data/source/pharm_gkb/variantannotations/var_drug_ann.tsv",
     "db_columns_pheno":["Variant Annotation ID", "Variant/Haplotypes","Gene", "Drug(s)", "Phenotype Category", "Significance",
     "Sentence", "Metabolizer types"],
     "file_path_pheno": "data/source/pharm_gkb/variantannotations/var_pheno_ann.tsv"
   },
-
   "ddi": {
     "download_url_a": "http://ddinter.scbdd.com/static/media/download/ddinter_downloads_code_A.csv",
     "download_url_b": "http://ddinter.scbdd.com/static/media/download/ddinter_downloads_code_B.csv",
@@ -80,5 +73,4 @@
     "path_r": "data/source/ddinter/ddinter_downloads_code_R.csv",
     "path_v": "data/source/ddinter/ddinter_downloads_code_V.csv"
   }
-
 }

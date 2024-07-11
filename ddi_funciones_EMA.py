@@ -1,14 +1,8 @@
-import json
+import time
+
 import requests
-
-
-def read_json_file2(file_path):
-    """Lee un archivo JSON y devuelve los datos como un diccionario.
-    Recibe la ruta al archivo JSON como un string.
-    Devuelve el contenido del archivo como un diccionario."""
-    with open(file_path, encoding="utf-8") as json_file:
-        data = json.load(json_file)
-    return data
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def solicitud_downloadfile_url(url, file_path):
@@ -18,7 +12,6 @@ def solicitud_downloadfile_url(url, file_path):
     try:
         # Realizar la solicitud GET para descargar el archivo
         response = requests.get(url, verify=False)
-
         # Verificar si la solicitud fue exitosa (código de estado 200)
         if response.status_code == 200:
             # Guardar el contenido del archivo en un archivo local (escritura binaria. Si ya existe, se sobreescribe)
@@ -26,6 +19,14 @@ def solicitud_downloadfile_url(url, file_path):
                 f.write(response.content)
             return True
         else:
+            print(f"Status code: {response.status_code} - Retry after: {float(response.headers["Retry-After"])}")
+            time.sleep(float(response.headers["Retry-After"]))
+            response = requests.get(url, verify=False)
+            # Verificar si la solicitud fue exitosa (código de estado 200)
+            if response.status_code == 200:
+                with open(file_path, "wb") as f:
+                    f.write(response.content)
+                return True
             return None
     except (Exception,):
         return None

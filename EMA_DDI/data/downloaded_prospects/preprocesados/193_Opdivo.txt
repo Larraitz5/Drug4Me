@@ -1,4 +1,4 @@
-4.5 and 5.1). In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.  
+4.5 and 5.1). In the absence of data, nivolumab should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual  basis.  
  Gastric, gastro -oesophageal junction or oesophageal adenocarcinoma Patients who had baseline ECOG performance score ≥ 2, untreated central nervous system metastases, active, known, or suspected autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the clinical study in gastric, GEJ or oesophageal adenocarcinoma (see sections 4.5 and 5.1). In the absence of data, nivolumab in combination with chemotherapy should be used with caution in these populations after careful consideration of the potential benefit/risk on an individual basis.  
  Study CA209649 excluded patients with known HER2-positive status. Patients with undetermined status were allowed in the study and represented 40.3% of patients (see section  5.1). 
  Patients on controlled sodium diet  Each m 
@@ -8,9 +8,9 @@
  L vial or 
 60 mg sodium per 24 m 
  L vial, which is equivalent to 0.5%, 1.25%, 1.5% or 3% respectively, of the WHO recommended maximum daily intake of 2  g sodium for an adult.  
- Patient alert card All prescribers of OPDIVO must be familiar with the p hysician information and m anagement guidelines. The prescriber must discuss the risks of OPDIVO therapy with the patient. The patient will be provided with the p atient alert card with each prescription.  
- 4.5 Interaction with other medicinal products and other forms of interaction 
- Nivolumab is a human monoclonal antibody , as such pharmacokinetic interaction studies have not been conducted. As monoclonal antibodies are not metabolised by cytochrome P450 (CYP) enzymes or other drug metabolising enzymes, inhibition or induction of these enzymes by co-administered medicinal products is not anticipated  to affect the pharmacokinetics of nivolumab.  
- Other forms of interaction  
- Systemic immunosuppression  The use of systemic corticosteroids and other immunosuppressant s at baseline, before starting nivolumab, should be avoided because of their potential interference wit h the pharmacodynamic activity. However, systemic corticosteroids and other immunosuppressant s can be used after starting nivolumab to treat immune -related  adverse reactions. The preliminary results show that systemic immunosuppression after starting nivolumab treatment does not appear to preclude the response on nivolumab.  
+ Patient alert card All prescribers of OPDIVO must be familiar with the physician i nformation and m anagement guidelines. The prescriber must discuss the risks of OPDIVO therapy with the patient. The patient will be provided with the p atient a lert card with each prescription.  
  
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Nivolumab is a human monoclonal antibody , as such pharmacokinetic interaction studies have not been conducted. As monoclonal antibodies are not metabolised by cytochrome P450 (CYP) enzymes or other drug metabolising enzymes, inhibition or i nduction of these enzymes by co -administered medicinal products is not anticipated to affect the pharmacokinetics of nivolumab. 
+ Other forms of interaction  
+ Systemic immunosuppression  The use of systemic corticosteroids and other immunosuppressant s at baseline, before starting nivolumab, should be avoided because of their potential interference with the pharmacodynamic activity. However, systemic corticosteroids and other immunosuppressant s can be used after starting nivolumab to treat immune -related  adverse reactions. The preliminary results show that systemic immunosuppression after starting nivolumab treatment does not appear to preclude the response on nivolumab.  

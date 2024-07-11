@@ -1,9 +1,9 @@
 4.5 Interaction with other medicinal products and other forms of interaction  
  Effects of other medicinal products on binimetinib  
- Binimetinib is primarily metabolised through UGT1A1 mediated glucuronidation. The extent  of drug interactions mediated by UGT1A1 is unlikely to be clinically relevant (see section 5.2) ; however, as this has  not been evaluated in a formal clinical study, UGT1A1 inducers (such as rifampicin and phenobarbital) and inhibitors (such as indinavir, atazanavir, sorafenib) should be co- administered with caution.  
+ Binimetinib is primarily metabolised through UGT1A1 mediated glucuronidation. The extent  of drug interactions mediated by UGT1A1 is unlikely to be clinically relevant (see section 5.2) ; however, as this has  not been evaluated in a formal clinical study, UGT1A1 inducers (such as rifampicin and phenobarbital) and inhibitors (such as indinavir, atazanavir, sorafenib) should be c o-administered with caution.  
  While encorafenib is a relatively potent reversible inhibitor of UGT1A1, no differences in binimetinib exposure have been observed clinically when binimetinib is co- administered with encorafenib  (see section  5.2). 
  Inducers of CYP1A2 enzymes (such as carbamazepine and rifamp icin) and inducers of Pgp transport (such as Saint John's wort or phenytoin) may decrease binimetinib exposure, which could result in a decrease of efficacy.  
- Effects of binimetinib on other medicinal products  
+ Effects of binimetinib on other medic inal products  
  Binimetinib is a potential in ducer of CYP1A2, and caution should be taken when it is used with sensitive substrates (such as duloxetine or  theophyllin e). 
  Binimetinib is a weak inhibitor of OAT3, and caution should be taken when it is used with sensitive substrates (such as pravastat in or ciprofloxacin).  
  

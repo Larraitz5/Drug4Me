@@ -1,7 +1,7 @@
 4.5 Interaction with other medicinal products and other forms of interaction  
  Substances that may increase ribociclib plasma concentrations  
  Ribociclib is primarily metabolised by CYP3A 4. Therefore, medicinal products that can influence CYP3A4 enzyme activity may alter the pharmacokinetics of ribociclib. Co-administration of the strong CYP3A4 inhibitor ritonavir  (100 mg twice daily for 14  days) with a single 400  mg dose of ribociclib increased ribociclib exposure (AUC inf) and the peak concentration (C max) in healthy subjects 
-3.2 and 1.7 -fold, respectively, relative to a single 400  mg ribociclib dose given alone . Cmax and AUC last for LEQ803 (a prominent metabolite of ribociclib accounting for less than 10% of parent exposure) decreased by 96% and 98%, respectively.  Physiologically -based pharmacokinetic (PBPK) simulation estimated that co -administration of ritonavir (100  mg twice daily) with multiple daily doses of ribociclib may increase ribociclib steady -state C max and AUC 0-24h by 1. 5- and 1. 8-fold, respectively.  
+3.2 and 1.7 -fold, respectively, relative to a single 400  mg ribociclib dose given alone . Cmax and AUC last for LEQ803 (a prominent metabolite of ribociclib accounting f or less than 10% of parent exposure) decreased by 96% and 98%, respectively.  Physiologically -based pharmacokinetic (PBPK) simulation estimated that co -administration of ritonavir (100  mg twice daily) with multiple daily doses of ribociclib may increase ribociclib steady -state C max and AUC 0-24h by 1. 5- and 1. 8-fold, respectively.  
  The concomitant use of strong CYP3A 4 inhibitors including, but not limited to,  the following must be avoided:  clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir,  ritonavir, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, verapamil and voriconazole (see section 4.4). Alternative concomitant medic inal products  with less potential to inhibit CYP3A 4 should be considered and patients should be monitored for ribociclib -related ARs (see sections  4.2, 4.4 and 
 5.2). 
  If co-administration of Kisqali with a strong CYP3A 4 inhibitor cannot be avoided, the dose of Kisqali should be reduced as described in section  4.2. However, there are no clinical data with these dose adjustment s. Due to inter -patient variability, the recommended dose adjustments may n ot be optimal in all patients , therefore close monitoring for ribociclib -related A Rs is recommended. In the event  of ribociclib -related toxicity, the dose should be modified or treatment should be interrupted until toxicity is resolved  (see sections  4.2 and 5.2) . If the strong CYP3A4 inhibitor is discontinued, and after at least 
@@ -9,12 +9,13 @@
  PC of the CYP3A4 inhibitor in question) , Kisqali should be resumed at the same dose used prior to the initiation of the strong CYP3A4 inhibitor.  
  Physiologically -based  pharmacokinetic simulations  suggested that for a 600  mg dose of ribociclib, a  moderate CYP3A4 inhibitor (erythromycin) may increase ribociclib steady -state Cmax and AUC 
 1.1-fold and 1. 1-fold, respectively.  For patients who had their ribociclib dose reduced to 400  mg once daily, the increase of the steady -state C max and AUC was estimated to be 1. 1- and 1.2-fold, respectively. The effect at the 200  mg once -daily dose was predicted to be a 1. 3- and 1.5-fold increase, respectively. No dose adjustments of ribociclib are required  at initiation of treatment with  mild or moderate CYP3A4 inhibitors.  However, monitoring of ribociclib -related A Rs is recommended.  
- Patients should be instructed to avoid grapefruit or grapefruit juice . These  are known to inhibit cytochrome CYP3A 4 enzymes and may increase the exposure to ribociclib.  
+ 
+  10 Patients should be instructed to avoid grapefruit or grapefruit juice . These  are known to inhibit cytochrome CYP3A 4 enzymes and may increase the exposure to ribociclib.  
  Substances that may decrease ribociclib plasma concentrations  
  Co-administration of the strong CYP3A4 inducer rifampi cin (600 mg daily for 14  days) with a single 
 600 mg dose of ribociclib decreased the ribociclib AUC inf and C max by 89% and 81%, respectively, relative to a single 600  mg ribociclib dose given alone in healthy subjects. LEQ803 C max increased 
-1.7-fold and AUC inf decreased by 27%, respectively. The concomitant use of strong CYP3A 4 inducers may therefore lead to decreased exposure and consequently a risk for lack of efficacy. The concomitant use of strong CYP3A 4 inducers should be avoided, including, but not limite d to, phenytoin, rifampi cin, carbamazepine and St John’s Wort  (Hypericum perforatum) . An alternative concomitant medicinal product with no or minimal potential to induce CYP3A 4 should be considered.  
- 11 The effect of a moderate CYP3A4 inducer on ribociclib exposure has not been studied.  Physiologically -based pharmacokinetic simulations suggested that a moderate CYP3A 4 inducer (efavirenz) may decrease steady -state ribociclib C max and AUC by 51% and 70%, respectively.  The concomitant use of moderate CYP3A4 inducers may therefore lead to decreased exposure and consequently a risk for impaired efficacy, in particular in patients treated with ribociclib at 400  mg or 
+1.7-fold and AUC inf decreased by 27%, respectively. The concomitant use of strong CYP3A 4 inducers may therefore lead to decreased exposure and consequently a risk for lack of efficacy. The concomitant use of strong CYP3A 4 inducers should be avoided, including, but not limited to, phenytoin, rifampi cin, carbamazepine and St John’s Wort  (Hypericum perforatum) . An alternative concomitant medicinal product with no or minimal potential to induce CYP3A 4 should be considered.  
+ The effect of a moderate CYP3A4 inducer on ribociclib exposure has not been studied.  Physiologically -based pharmacokinetic simulations suggested that a moderate CYP3A 4 inducer (efavirenz) may decrease steady -state ribociclib C max and AUC by 51% and 70%, respectively.  The concomitant use of moderate CYP3A4 inducers may therefore lead to decreased exposure and consequently a risk for impaired efficacy, in particular in patients treated with ribociclib at 400  mg or 
 200 mg once daily.  
  Substances  that may have plasma concentrations altered by Kisqali  
  Ribociclib is a moderate to strong CYP3A4 inhibitor and may interact with medicinal substrates that are metabolised via CYP3A4 , which can lead to increased serum concentrations of the concomitantly used medicinal  product.  
@@ -24,7 +25,7 @@
  Co-administration of caffeine (CYP1A2 substrate) with multiple doses of Kisqali (400 mg) increased the caffeine exposure by 20% (1.20 -fold) in healthy subjects, compared with administration of caffeine alone. At the clinically relevant dose of 600  mg, simulations using PBPK models predicted only weak inhibitory effects of ribociclib on CYP1A2 substrates (<2 -fold increase in AUC).  
  Substances that are substrates of transporters  
  In vitro  evaluations indicated that ribociclib  has a potential to inhibit the activities of drug transporters P-gp, BCRP, OATP1B1/ 1B3, OCT1 , OCT2, MATE1 and BSEP. Caution and monitoring for toxicity are advised during concomitant treatment with sensitive substrates of these transporters which exhibit a narrow therapeutic index, including but not limited to  digoxin,  pitavastatin , pravastatin , rosuvastatin and metformin . 
- Drug -food interactions  
+ 11 Drug -food interactions  
  Kisqali  can be administered with or without food (see section s 4.2 and 5.2 ). 
  Medicinal products that elevate g astric p 
  H  
@@ -32,15 +33,15 @@
  H  4.5 and in bio -relevant media (at p 
  H  5.0 and 6.5) . Co-administration of ribociclib with medicinal products  that elevate the gastric p 
  H was not evaluated in a clinical study ; however, altered ribociclib absorption was not observed in population pharmacokinetic  and non –compartmental pharmacokinetic analys es. 
- 12 Drug -drug interaction between ribociclib and letrozole  
+ Drug -drug interaction between ribociclib and letrozole  
  Data from a clinical study in patients with breast cancer and population pharmacokinetic analysis indicated no drug interaction between ribociclib and letrozole following co -administration of these medicinal products.  
  Drug -drug interaction between ribociclib and anastrozole  
  Data from a clinical study in patients with breast cancer indicated no clinically relevant drug interaction between ribociclib and anastrozole following co -administration of these medicinal products.  
  Drug -drug interaction between ribociclib and fulvestrant  
  Data from a clinical study in patients with breast cancer indic ated no clinically relevant effects of  fulvestrant  on ribociclib exposure  following co -administration of these medicinal products.  
  Drug -drug interaction between ribociclib and tamoxifen  
- Data from a clinical study in patients with breast cancer indicated that tamoxifen exposure was increased approximately 2 -fold following co -administration o f ribociclib and tamoxifen.  
- Drug -drug interactions between ribociclib  and oral contraceptives  
+ Data from a clinical study in patients with breast cancer indicated that tamoxifen exposure was increased approximately 2 -fold following co -administration o f ribociclib  and tamoxifen.  
+ Drug -drug interactions between ribociclib and oral contraceptives  
  Drug -drug interaction studies between ribociclib and oral contraceptives have not been conducted (see section  4.6). 
  Anticipated interactions  
  Anti-arrhythmic medicin al products  and other medicinal products  that may prolong the QT interval  Co-administ ration  of Kisqali  with medicinal products with a known potential to prolong  the QT interval  such as anti -arrhythmic medicin al products  (including, but not limited to, amiodarone, disopyramide, procainamide, quinidine and sotalol), and other medicinal products that are known to prolong the QT interval (including, but not limited to, chloroquine, halofantrine, clarithromycin,  ciprofloxacin, levofloxacin, azithromycin,  haloperidol, methadone, moxifloxacin, bepridil, pimozide and i ntravenous  ondansetron) should  be avoided  (see section  4.4). Kisqali is also not recommended to be used in combination with tamoxifen (see sections  4.1, 4.4 and 5.1 ). 

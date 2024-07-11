@@ -6,6 +6,7 @@
  Drug -laboratory test interactions  (see sections 4.3 and 4.4)  
  Oritavancin  binds to and prevents the action of the phospholipid reagents which activate coagulation in commonly used laboratory coagulation tests. Oritavancin concentrations achieved in the blood after 
 1 200 mg doses may produce falsely elevated results from certain  laboratory tests (see Table 2). 
- Table 2: Coagulation t ests a ffected by oritavancin Assay  Duration of interference  Prothrombin time (PT)  Up to 12 hours  International normalized ratio (INR) Up to 12 hours Activated partial thromboplastin time (a 
+ Table 2: Coagulation t ests a ffected by oritavancin Assay
+ Duration of interference  Prothrombin time (PT)  Up to 12 hours  International normalized ratio (INR) Up to 12 hours Activated partial thromboplastin time (a 
  PTT)  Up to 120 hours  Activated clotting time (ACT)  Up to 24 hours Silica clot time (SCT)   Up to 18 hours Dilute Russell’s viper venom time (DRVVT)  Up to 72 hours 
  

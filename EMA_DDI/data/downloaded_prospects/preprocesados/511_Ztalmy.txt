@@ -3,11 +3,11 @@
  Coadministration with a strong CYP3A4 inducer will decrease ganaxolone exposure . 
  Concomitant use of rifampicin decreased the AUC 0-inf of ganaxolone by approximately 57- 68%. Enzyme  inducing antiepileptics (e.g., carbamazepine, phenytoin, phenobarbital, and primidone)  and St. John’s Wort may  result in similarly  lower plasma exposures of ganaxolone. In patients on a stable dose of ganaxolone or in patients  initiating or increasing the dose of concomitant enzyme -inducing antiepileptic drugs  or St. John’s Wort a  dose increase may be necessary; however, do not exceed the maximum daily dose (see section  4.4).  
  CYP3A4 inhibitors  
- Coadministration of ganaxolone with itraconazole, a strong CYP3A4 inhibitor, increased the ganaxolone AUC by 17% in healthy subjects (the C max was unchanged). The changes in ganaxolone exposur es when coadministered with strong, moderate, or weak CYP3A4 inhibitors are not expected to be clinically significant.  
+ Coadministration of ganaxolone with itraconazole, a strong CYP3A4 inhibitor, increased the ganaxolone AUC by 17% in healthy subjects (the C max was unchanged). The changes in ganaxolone exposures when coadministered with strong, moderate, or weak CYP3A4 inhibitors are not expected to be clinically significant.  
  UGT inhibitors  
  Ganaxolone is a substrate for UGT1A3, UGT1A6, UGT1A9, and UGT2B15. No formal drug- drug interaction studies have been conducted with ganaxolone in combination with UGT inhibitor s such as valproate . Dose reduction of ganaxolone and/or the  UGT  inhibitor may be necessary when given in combination.  
  7 Oral contraceptives  
- The potential interaction of ganaxolone with oral contra ceptives has not been investigated.  
+ The potential interaction of ganaxolone with oral contraceptives has not been investigated.  
  Ethanol i nteraction  
  Concomitant use  with CNS depressants (including alcohol) may increase the risk of sedation and somnolence  (see section  4.4). Patients should be prohibited from drinking alcohol during treatment.  
  

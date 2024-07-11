@@ -3,11 +3,7 @@ import pandas as pd
 from db_funciones import read_json_file, solicitud_downloadzip_url
 
 # Insertar los datos de PharmGKB: asociaciones
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["relationships"]
+properties = read_json_file("properties/properties.json")["relationships"]
 
 
 def insert_relationships_db(session, db):

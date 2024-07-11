@@ -3,11 +3,7 @@ import pandas as pd
 from db_funciones import read_json_file, solicitud_downloadzip_url
 
 # Insertar los datos de PharmGKB: fármacos biomarcadores
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["drugslabel"]
+properties = read_json_file("properties/properties.json")["drugslabel"]
 
 
 def insert_drugslabel_db(session, db):

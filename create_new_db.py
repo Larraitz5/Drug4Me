@@ -46,6 +46,7 @@ engine = create_engine(f'sqlite:///{db_path}', echo=True)
 Base = declarative_base()
 
 
+
 # Definir las tablas
 
 class Drugscima(Base):

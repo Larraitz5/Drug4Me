@@ -1049,7 +1049,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1448636930	rs10515074	PIK3R1	3			5.0	Toxicity	1	2	everolimus	Breast Neoplasms;Hyperglycemia;Leukopenia	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1448636930	
 1451407329	rs6313	HTR2A	3			1.0	Toxicity	3	5	citalopram	Depressive Disorder, Major;Sexual Dysfunctions, Psychological	2023-03-27	https://www.pharmgkb.org/clinicalAnnotation/1451407329	
 1451407321	rs6313	HTR2A	4			-3.0	Toxicity	4	5	sertraline	Depressive Disorder, Major;Sexual Dysfunctions, Psychological	2023-03-27	https://www.pharmgkb.org/clinicalAnnotation/1451407321	Pediatric
-1448999385	CYP2D6*1, CYP2D6*24	CYP2D6	3		Tier 1 VIP	0.0	Metabolism/PK	2	3	codeine;dextromethorphan;n-desmethyltamoxifen		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1448999385	
+1448999385	CYP2D6*1, CYP2D6*24	CYP2D6	3		Tier 1 VIP	0.0	Metabolism/PK	2	3	codeine;dextromethorphan;N-desmethyltamoxifen		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1448999385	
 1448999559	CYP2D6*1, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*97, CYP2D6*98	CYP2D6	3		Tier 1 VIP	0.0	Metabolism/PK	1	3	atomoxetine		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1448999559	
 1449003934	rs652888	EHMT2	3			0.0	Toxicity	1	1	Antithyroid Preparations	Agranulocytosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449003934	
 1449003956	rs11125883	XPO1	3			0.75	Toxicity	2	2	isoniazid	drug-induced liver injury;Toxic liver disease	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449003956	
@@ -1350,7 +1350,6 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 655385969	rs13058338	RAC2	3			2.25	Toxicity	5	5	doxorubicin;idarubicin	Neoplasms	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385969	
 655385973	rs17222723	ABCC2	3			2.25	Toxicity	1	1	doxorubicin	Arrhythmias, Cardiac;Drug Toxicity;Lymphoma, Non-Hodgkin	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385973	
 655385977	rs1883112	NCF4	3			3.75	Toxicity	5	5	doxorubicin;idarubicin	Neoplasms	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385977	
-655385981	rs45511401	ABCC1	3			3.25	Toxicity	1	1	doxorubicin	Arrhythmias, Cardiac;Drug Toxicity;Lymphoma, Non-Hodgkin	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385981	
 655385985	rs4673	CYBA	3			5.25	Toxicity	3	3	doxorubicin;idarubicin	Neoplasms	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385985	
 655385989	rs1051740	EPHX1	3			2.0	Toxicity	1	1	phenytoin	Congenital Abnormalities;Craniofacial Abnormalities	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385989	
 655385993	rs2234922	EPHX1	3			2.0	Toxicity	1	1	phenytoin	Congenital Abnormalities;Craniofacial Abnormalities	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385993	
@@ -1359,6 +1358,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 655385495	rs1800497	ANKK1;DRD2	3		Tier 1 VIP	2.25	Toxicity	3	3	risperidone	Hyperprolactinemia;Schizophrenia	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385495	
 655385674	rs1414334	HTR2C	3			6.875	Toxicity	5	5	clozapine	Metabolic Syndrome;Schizophrenia	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655385674	
 655385384	rs5443	GNB3	3			2.0	Efficacy	1	1	hmg coa reductase inhibitors	Hypercholesterolemia;Myocardial Infarction	2021-06-10	https://www.pharmgkb.org/clinicalAnnotation/655385384	
+655385981	rs45511401	ABCC1	3			3.25	Toxicity	1	1	doxorubicin	Arrhythmias, Cardiac;Drug Toxicity;Lymphoma, Non-Hodgkin	2024-06-28	https://www.pharmgkb.org/clinicalAnnotation/655385981	
 655386421	rs1051266	SLC19A1	3		Tier 1 VIP	7.5	Toxicity	6	6	methotrexate	Arthritis, Rheumatoid;Drug Toxicity	2021-12-16	https://www.pharmgkb.org/clinicalAnnotation/655386421	Pediatric
 655386436	rs1801131	MTHFR	3		Tier 1 VIP	4.75	Toxicity	9	9	methotrexate	Arthritis, Rheumatoid	2021-12-16	https://www.pharmgkb.org/clinicalAnnotation/655386436	Pediatric
 655386002	rs6539870		3			1.25	Toxicity	1	1	etoposide		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/655386002	
@@ -4588,7 +4588,6 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1450934500	rs869312136	GLA;HNRNPH2	3			0.0	Efficacy	1	1	migalastat	Fabry Disease	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450934500	
 1450934662	rs398123217	GLA	3			0.0	Efficacy	1	1	migalastat	Fabry Disease	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450934662	
 1450936314	rs552524124	SULT1A1	3		Rare Variant	0.0	Metabolism/PK	1	1	acetaminophen		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450936314	
-1450936557	rs1049305	AQP1	3			2.5	Toxicity	1	1	cisplatin	Mesothelioma;Thrombocytopenia	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450936557	
 1450936586	rs1049305	AQP1	3			2.0	Toxicity	1	1	cisplatin	Alopecia;Mesothelioma	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450936586	
 1452003988	rs6686529	KCNK2	3			2.5	Efficacy	1	1	sevoflurane	sedation	2023-02-08	https://www.pharmgkb.org/clinicalAnnotation/1452003988	
 1449003875	rs2233945	PSORS1C1	3			2.5	Efficacy	1	1	etanercept	Arthritis, Rheumatoid	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449003875	
@@ -4596,6 +4595,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1449003918	rs199564443	FOXF2	3			0.0	Toxicity	1	1	Antithyroid Preparations	Agranulocytosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449003918	
 1449003926	rs1071816	HLA-B	3		Tier 1 VIP	0.0	Toxicity	1	1	Antithyroid Preparations	Agranulocytosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449003926	
 1450812223	rs3766951	OPRD1	3			6.0	Toxicity	2	2	heroin	Heroin Dependence	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1450812223	
+1450936557	rs1049305	AQP1	3			2.5	Toxicity	1	1	cisplatin	Mesothelioma;Thrombocytopenia	2024-06-13	https://www.pharmgkb.org/clinicalAnnotation/1450936557	
 1449191764	rs34911792	CFTR	3		Rare Variant; Tier 1 VIP	0.0	Efficacy	1	1	ivacaftor	Cystic Fibrosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449191764	
 1449191874	rs397508453	CFTR	3		Rare Variant; Tier 1 VIP	2.0	Efficacy	1	1	ivacaftor	Cystic Fibrosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449191874	Pediatric
 1449192420	rs74551128	CFTR	3		Rare Variant; Tier 1 VIP	0.25	Efficacy	1	1	ivacaftor / lumacaftor	Cystic Fibrosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449192420	
@@ -4653,7 +4653,6 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451103280	rs7311358	SLCO1B3	3			2.5	Efficacy	1	1	mycophenolic acid	lung transplantation;overall survival	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451103280	
 1451105206	rs4148323	UGT1A1	3		Rare Variant; Tier 1 VIP	1.75	Metabolism/PK	1	1	letermovir		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1451105206	
 1451105228	rs12364283	DRD2	3		Tier 1 VIP	3.5	Toxicity	1	1	heroin	Heroin Dependence	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1451105228	
-1451985181	rs2242480	CYP3A4	3		Tier 1 VIP	3.5	Dosage	5	5	sufentanil	Pain	2023-01-17	https://www.pharmgkb.org/clinicalAnnotation/1451985181	
 1451985268	rs2242480	CYP3A4	3		Tier 1 VIP	2.0	Metabolism/PK	1	1	sufentanil		2023-01-17	https://www.pharmgkb.org/clinicalAnnotation/1451985268	
 1452004092	rs2307116	FASTKD3;MTRR	3			2.0	Efficacy	1	1	sevoflurane		2023-02-08	https://www.pharmgkb.org/clinicalAnnotation/1452004092	
 1450826987	rs1799971	OPRM1	3			7.0	Dosage	8	9	opioids	Pain;Pain, Postoperative	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1450826987	
@@ -4709,6 +4708,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451118940	rs114077267	MCOLN1	3			1.5	Toxicity	1	1	opioids	Overdose	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451118940	
 1451118960	rs116181528	MCOLN1	3			1.5	Toxicity	1	1	opioids	Overdose	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451118960	
 1451120561	rs28404156	BST1	3			1.75	Efficacy	1	1	Beta blocking agents, selective	Hypertension	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451120561	
+1451985181	rs2242480	CYP3A4	3		Tier 1 VIP	3.5	Dosage	6	6	sufentanil	Pain	2024-06-14	https://www.pharmgkb.org/clinicalAnnotation/1451985181	
 1451126312	rs616147	MOBP	3			2.0	Efficacy	1	1	creatine	Amyotrophic Lateral Sclerosis	2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1451126312	
 1449163324	rs7439366	UGT2B7	4			-1.25	Dosage	3	4	morphine		2021-03-24	https://www.pharmgkb.org/clinicalAnnotation/1449163324	
 1452004080	rs3733784	FASTKD3;MTRR	3			2.5	Efficacy	1	1	sevoflurane		2023-02-08	https://www.pharmgkb.org/clinicalAnnotation/1452004080	
@@ -4876,7 +4876,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451566760	rs1800497	ANKK1;DRD2	3		Tier 1 VIP	1.5	Efficacy	1	1	bupropion;naltrexone	Obesity	2021-10-29	https://www.pharmgkb.org/clinicalAnnotation/1451566760	
 1451567040	CYP3A4*1, CYP3A4*2, CYP3A4*3, CYP3A4*4, CYP3A4*5, CYP3A4*6, CYP3A4*7, CYP3A4*8, CYP3A4*9, CYP3A4*10, CYP3A4*11, CYP3A4*12, CYP3A4*13, CYP3A4*14, CYP3A4*15, CYP3A4*16, CYP3A4*17, CYP3A4*18, CYP3A4*19, CYP3A4*20, CYP3A4*21, CYP3A4*22, CYP3A4*23, CYP3A4*24, CYP3A4*26, CYP3A4*28, CYP3A4*29, CYP3A4*30, CYP3A4*31, CYP3A4*32, CYP3A4*33, CYP3A4*34	CYP3A4	3		Tier 1 VIP	2.5	Metabolism/PK	2	3	oxycodone		2022-01-13	https://www.pharmgkb.org/clinicalAnnotation/1451567040	
 1184757183	CYP2D6*1, CYP2D6*7, CYP2D6*10, CYP2D6*12, CYP2D6*14, CYP2D6*17, CYP2D6*18, CYP2D6*27, CYP2D6*29, CYP2D6*36, CYP2D6*37, CYP2D6*39, CYP2D6*40, CYP2D6*47, CYP2D6*48, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*53, CYP2D6*54, CYP2D6*55, CYP2D6*62, CYP2D6*71, CYP2D6*72, CYP2D6*75, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*92, CYP2D6*93, CYP2D6*94, CYP2D6*95, CYP2D6*96, CYP2D6*97, CYP2D6*98, CYP2D6*114	CYP2D6	3		Tier 1 VIP	0.0	Other	14	43	bufuralol;dextromethorphan		2023-08-31	https://www.pharmgkb.org/clinicalAnnotation/1184757183	
-1449000354	CYP2D6*1, CYP2D6*7, CYP2D6*9, CYP2D6*10, CYP2D6*12, CYP2D6*14, CYP2D6*17, CYP2D6*18, CYP2D6*22, CYP2D6*23, CYP2D6*24, CYP2D6*25, CYP2D6*26, CYP2D6*27, CYP2D6*28, CYP2D6*29, CYP2D6*30, CYP2D6*31, CYP2D6*32, CYP2D6*33, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*43, CYP2D6*45, CYP2D6*46, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*61, CYP2D6*62, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*70, CYP2D6*71, CYP2D6*114	CYP2D6	3		Tier 1 VIP	0.0	Metabolism/PK	1	6	n-desmethyltamoxifen		2023-08-31	https://www.pharmgkb.org/clinicalAnnotation/1449000354	
+1449000354	CYP2D6*1, CYP2D6*7, CYP2D6*9, CYP2D6*10, CYP2D6*12, CYP2D6*14, CYP2D6*17, CYP2D6*18, CYP2D6*22, CYP2D6*23, CYP2D6*24, CYP2D6*25, CYP2D6*26, CYP2D6*27, CYP2D6*28, CYP2D6*29, CYP2D6*30, CYP2D6*31, CYP2D6*32, CYP2D6*33, CYP2D6*36, CYP2D6*37, CYP2D6*40, CYP2D6*43, CYP2D6*45, CYP2D6*46, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*52, CYP2D6*54, CYP2D6*55, CYP2D6*61, CYP2D6*62, CYP2D6*63, CYP2D6*64, CYP2D6*65, CYP2D6*70, CYP2D6*71, CYP2D6*114	CYP2D6	3		Tier 1 VIP	0.0	Metabolism/PK	1	6	N-desmethyltamoxifen		2023-08-31	https://www.pharmgkb.org/clinicalAnnotation/1449000354	
 1452273581	rs145837941	CALCA	3			7.0	Dosage	3	3	fentanyl	Pain, Postoperative	2023-10-17	https://www.pharmgkb.org/clinicalAnnotation/1452273581	
 1183704238	rs7853758	SLC28A3	2B			10.5	Toxicity	5	5	anthracyclines and related substances	cardiotoxicity	2023-10-19	https://www.pharmgkb.org/clinicalAnnotation/1183704238	Pediatric
 1444667175	rs28360521	CYP2D6	3		Tier 1 VIP	0.0	Toxicity	1	1	aspirin		2023-10-24	https://www.pharmgkb.org/clinicalAnnotation/1444667175	
@@ -4980,10 +4980,10 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1449004487	rs1059698		3			1.5	Toxicity	1	2	Platinum compounds;radiotherapy	Anemia;Dermatitis;mucositis;Myelosuppression;Nasopharyngeal Neoplasms;Neutropenia;Thrombocytopenia	2024-05-08	https://www.pharmgkb.org/clinicalAnnotation/1449004487	
 1452467567	rs899494	ABCC4	4			-1.5	Toxicity	3	3	tenofovir	Drug Toxicity;HIV Infections	2024-05-09	https://www.pharmgkb.org/clinicalAnnotation/1452467567	
 1452463506	rs73189762	MED4;NUDT15	3		Tier 1 VIP	4.75	Dosage	2	2	mercaptopurine		2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1452463506	Pediatric
-1451282440	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*17	CYP2C19	1A		Tier 1 VIP	380.0	Efficacy;Toxicity	63	118	clopidogrel	Acute coronary syndrome;Cardiovascular Diseases;Ischemic Attack, Transient;Stroke	2024-05-14	https://www.pharmgkb.org/clinicalAnnotation/1451282440	
 1452474573	rs3745274	CYP2A7P1;CYP2B6	3		Tier 1 VIP	3.0	Efficacy	1	1	cyclophosphamide	Lupus Nephritis	2024-05-15	https://www.pharmgkb.org/clinicalAnnotation/1452474573	
 1452474640	rs3745274	CYP2A7P1;CYP2B6	4		Tier 1 VIP	-3.5	Toxicity	2	5	cyclophosphamide	Diarrhea;Drug Toxicity;Infection;Lupus Nephritis;Toxic liver disease	2024-05-15	https://www.pharmgkb.org/clinicalAnnotation/1452474640	
 1452476420	rs6166	FSHR	3			0.0	Dosage	1	1	follitropin beta;menotropins;thyrotropin alfa;urofollitropin	Infertility	2024-05-17	https://www.pharmgkb.org/clinicalAnnotation/1452476420	
+1451282440	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*17	CYP2C19	1A		Tier 1 VIP	378.0	Efficacy;Toxicity	62	117	clopidogrel	Acute coronary syndrome;Cardiovascular Diseases;Ischemic Attack, Transient;Stroke	2024-05-14	https://www.pharmgkb.org/clinicalAnnotation/1451282440	
 655387938	rs4149081	SLCO1B1	3		Tier 1 VIP	2.25	Toxicity	1	1	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma	2021-04-01	https://www.pharmgkb.org/clinicalAnnotation/655387938	
 1184986763	rs1045642	ABCB1	3		Tier 1 VIP	1.75	Other	1	1	opioids	Opioid-Related Disorders	2022-07-28	https://www.pharmgkb.org/clinicalAnnotation/1184986763	
 1444703619	rs3740065	ABCC2	3			1.25	Toxicity	2	2	methotrexate	Carcinoma, Non-Small-Cell Lung;Drug Toxicity;Leukemia, B-Cell, Acute;Lymphoma;mucositis;Osteosarcoma;Precursor Cell Lymphoblastic Leukemia-Lymphoma	2022-01-04	https://www.pharmgkb.org/clinicalAnnotation/1444703619	Pediatric
@@ -5009,7 +5009,6 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451678225	rs2231142	ABCG2	1A		Tier 1 VIP	98.0	Toxicity	1	2	rosuvastatin	statin-related myopathy	2022-02-14	https://www.pharmgkb.org/clinicalAnnotation/1451678225	
 1451679319	rs73568641		3			0.0	Dosage	1	1	methadone	Opioid-Related Disorders	2022-02-11	https://www.pharmgkb.org/clinicalAnnotation/1451679319	
 1451679340	rs3745274	CYP2A7P1;CYP2B6	3		Tier 1 VIP	0.0	Efficacy	1	1	methadone	Opioid-Related Disorders	2022-02-11	https://www.pharmgkb.org/clinicalAnnotation/1451679340	
-1451679365	rs73568641		3			0.0	Efficacy	1	1	methadone	Opioid-Related Disorders	2022-02-11	https://www.pharmgkb.org/clinicalAnnotation/1451679365	
 1451679820	rs55944529	DAO	3			3.25	Efficacy	1	1	methadone		2022-02-11	https://www.pharmgkb.org/clinicalAnnotation/1451679820	
 1451699360	rs2231142	ABCG2	1A		Tier 1 VIP	102.5	Dosage	1	2	allopurinol	Gout	2022-03-01	https://www.pharmgkb.org/clinicalAnnotation/1451699360	
 1451737609	rs201441480	KRTAP10-4;TSPEAR	2B		Rare Variant	3.5	Efficacy	1	1	aspirin;clopidogrel	Acute coronary syndrome;major adverse cardiac events (mace)	2022-03-31	https://www.pharmgkb.org/clinicalAnnotation/1451737609	
@@ -5017,6 +5016,7 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451749620	TPMT*1, TPMT*2, TPMT*3A, TPMT*3C, TPMT*9	TPMT	1A		Tier 1 VIP	203.5	Dosage	1	5	thioguanine	Precursor Cell Lymphoblastic Leukemia-Lymphoma	2022-04-13	https://www.pharmgkb.org/clinicalAnnotation/1451749620	Pediatric
 1451751260	TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4, TPMT*5, TPMT*6, TPMT*7, TPMT*8, TPMT*9, TPMT*12, TPMT*14, TPMT*15, TPMT*16, TPMT*23	TPMT	1A		Tier 1 VIP	207.875	Metabolism/PK	41	57	mercaptopurine		2022-04-14	https://www.pharmgkb.org/clinicalAnnotation/1451751260	Pediatric
 1452486780	rs6166	FSHR	3			0.75	Dosage	1	1	menotropins		2024-05-29	https://www.pharmgkb.org/clinicalAnnotation/1452486780	
+1451679365	rs73568641		4			-1.25	Efficacy	2	2	methadone	Opioid-Related Disorders	2024-06-18	https://www.pharmgkb.org/clinicalAnnotation/1451679365	
 1451398100	rs1801253	ADRB1	4		Tier 1 VIP	-2.0	Efficacy	5	5	atenolol	Atrial Fibrillation;Essential hypertension;Tachycardia	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451398100	
 1451398040	rs1801253	ADRB1	4		Tier 1 VIP	-1.0	Efficacy	7	7	carvedilol	Heart Failure	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451398040	
 637879879	rs339097	CALU	3			4.25	Dosage	3	5	warfarin		2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/637879879	
@@ -5141,3 +5141,10 @@ Clinical Annotation ID	Variant/Haplotypes	Gene	Level of Evidence	Level Override	
 1451989360	rs2242480	CYP3A4	2A		Tier 1 VIP	24.0	Metabolism/PK	11	14	tacrolimus	Kidney Transplantation;liver transplantation	2024-05-28	https://www.pharmgkb.org/clinicalAnnotation/1451989360	Pediatric
 1451214480	CYP3A5*1, CYP3A5*3, CYP3A5*6, CYP3A5*7	CYP3A5	1A		Tier 1 VIP	422.5	Metabolism/PK	144	167	tacrolimus	heart transplantation;hematopoietic stem cell transplantation;Kidney Transplantation;lung transplantation	2024-06-04	https://www.pharmgkb.org/clinicalAnnotation/1451214480	Pediatric
 1452488120	rs6166	FSHR	3			2.0	Dosage	1	1	gonadotropin,chorionic		2024-05-30	https://www.pharmgkb.org/clinicalAnnotation/1452488120	
+1452473160	rs28363170	SLC6A3	3			0.25	Toxicity	1	1	ethanol	Alcoholism	2024-05-14	https://www.pharmgkb.org/clinicalAnnotation/1452473160	
+1452476360	rs6166	FSHR	3			0.0	Efficacy	1	1	follitropin beta;menotropins;thyrotropin alfa;urofollitropin	Infertility	2024-05-17	https://www.pharmgkb.org/clinicalAnnotation/1452476360	
+1452502940	rs1799971	OPRM1	4			-4.25	Efficacy	5	5	methadone	Heroin Dependence;Opioid-Related Disorders;Substance-Related Disorders	2024-06-18	https://www.pharmgkb.org/clinicalAnnotation/1452502940	
+1452504420	rs130060	HTR1B	3		Rare Variant	0.0	PD	1	1	dihydroergotamine		2024-06-19	https://www.pharmgkb.org/clinicalAnnotation/1452504420	
+1452504430	rs130060	HTR1B	3		Rare Variant	0.0	PD	1	1	methysergide		2024-06-19	https://www.pharmgkb.org/clinicalAnnotation/1452504430	
+1452504467	rs130060	HTR1B	3		Rare Variant	0.0	PD	1	1	ketanserin		2024-06-19	https://www.pharmgkb.org/clinicalAnnotation/1452504467	
+1452504437	rs130060	HTR1B	3		Rare Variant	0.0	PD	2	3	sumatriptan		2024-06-27	https://www.pharmgkb.org/clinicalAnnotation/1452504437	

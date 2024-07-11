@@ -1,3 +1,4 @@
-> Co-administration of NUVAXOVID with inactivated INFLUENZA VACCINES has been evaluated in a limited number of participants in an exploratory clinical trial sub -study, see section 4.8 and section 5.1. 
-> V-2 was lower when NUVAXOVID was given concomitantly with inactivated influenza vaccine. The clinical significance of this is unknown. 
-> Concomitant administration of NUVAXOVID with OTHER VACCINES has not been studied. 
+> Co-administration of NUVAXOVID with inactivated INFLUENZA VACCINES has been evaluated in a limited number of participants in an exploratory clinical trial sub- study, see section 4.8 and section 5.1. 
+> V -2 was lower when NUVAXOVID was given concomitantly with inactivated influenza vaccine. The clinical significance of this is unknown.
+> Concomitant administration of NUVAXOVID with OTHER VACCINES has not been studied.  
+

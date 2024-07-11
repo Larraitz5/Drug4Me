@@ -1,4 +1,4 @@
 4.5 Interaction with other medicinal products and other forms of interaction  
- It is unlikely that atosiban is involved in cytochrome P450 mediated drug -drug interactions as in vitro investigatio ns have shown that atosiban is not a substrate for the cytochrome P450 system, and does not inhibit the medicinal product  metabolising cytochrome P450 enzymes.  
+ It is unlikely that atosiban is involved in cytochrome P450 mediated drug- drug interactions as in vitro investigatio ns have shown that atosiban is not a substrate for the cytochrome P450 system, and does not inhibit the medicinal product  metabolising cytochrome P450 enzymes. 
  Interaction studies have been performed with labetalol and betamethasone in healthy, female volunteers. No clinically relevant interaction was found between atosiban and bethamethasone or labetalol.  
  

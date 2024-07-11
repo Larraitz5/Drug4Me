@@ -1,3 +1,6 @@
-4.5 Interaction with other medicinal products and other forms of interaction 
- No interaction studies have been performed.  Based on the potential inhibitory effect of ravulizumab on complement -dependent cytotoxicity of rituximab, ravulizumab may reduce the expected pharmacodynamic effects of rituximab.  See section 4.2 for guidance in case of concomitant PE, PP, or IVIg treatment.  
+4.5 Interaction with other medicinal products and other forms o f interaction  
+ No interaction studies have been performed. Based on the potential inhibitory effect of ravulizumab on complement -dependent cytotoxicity of rituximab, ravulizumab may reduce the expected pharmacodynamic effects of rituximab.  
+ Chronic intravenous human immunoglobulin (IVIg) treatment may interfere with the endosomal neonatal Fc receptor (Fc 
+ Rn) recycling mechanism of monoclonal antibodies such as ravulizumab and thereby decrease serum ravulizumab concentrations.  
+ See section 4.2 for guidance in case of concomitant PE, PP, or IVIg treatment.  
  

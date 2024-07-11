@@ -1,7 +1,8 @@
 import os
 from db_tables import *
 from app_funciones_funcionalidades import *
-from ddi_funciones_EMA import read_json_file2
+from db_funciones import read_json_file
+
 
 # Funcionalidad 1: Indicaciones PGX para el fármaco
 
@@ -34,8 +35,6 @@ def set_indicaciones_farmaco_page():
 
                 # Mostrar información de los principios activos seleccionados:
                 # Si no están disponibles en la EMA ni con la API RxNORM, se cogen de PharmGKB
-                if paselected_ema == "- " and name_drug_gkb == "-":
-                    med_en = "-"
                 if paselected_ema == "-":
                     paselected_ema = name_drug_gkb
                 if name_drug_gkb == "-":
@@ -57,7 +56,7 @@ def set_indicaciones_farmaco_page():
                 # Checkbox: seleccionar el nivel de evidencia de las indicaciones
                 st.subheader("INDICACIONES FARMACOGENÉTICAS:")
                 tab1, tab2 = st.tabs(["**Asociaciones VARIANTE GÉNETICA-FÁRMACO**", "**Asociaciones FÁRMACO-FÁRMACO**"])
-                with ((tab1)):  # VARIANTE GENÉTICA-FÁRMACO
+                with (tab1):  # VARIANTE GENÉTICA-FÁRMACO
                     tab3_gkb, tab2_ema, tab1_esp = st.tabs(["**PharmGKB**", "**EMA**", "**Panel Genético de España**"])
                     with tab1_esp:  # Panel Genético de España
                         data_panel = get_panelesp_info(paselected_esp)
@@ -126,11 +125,10 @@ def set_indicaciones_farmaco_page():
                             st.subheader(f"**{emoji_flechazul} ANOTACIONES CLÍNICAS**")
                             # Buscar el nombre del fármaco selecciona en clinical annotations.
                             data_clinnan_part1 = []
-                            data_clinann_detalles = []   # Para la segunda parte (anotacioens en detalle)
-                            clinann_drug = session.query(ClinicalAnnGkb
-                                                         ).filter(or_(ClinicalAnnGkb.drug_clinann_gkb == paselected_ema,
-                                                                      ClinicalAnnGkb.drug_clinann_gkb == name_drug_gkb)
-                                ).all()
+                            data_clinann_detalles = []  # Para la segunda parte (anotacioens en detalle)
+                            clinann_drug = session.query(ClinicalAnnGkb).filter(
+                                or_(ClinicalAnnGkb.drug_clinann_gkb == paselected_ema,
+                                    ClinicalAnnGkb.drug_clinann_gkb == name_drug_gkb)).all()
                             if len(clinann_drug) > 0:
                                 for label in clinann_drug:
                                     data_clinnan_part1.append([label.clinical_annotation_id_var, label.gene_clinann_gkb,
@@ -236,10 +234,9 @@ def set_indicaciones_farmaco_page():
                                     st.warning(
                                         """
                                         **Seleccione una fila si quiere obtener más información de cómo la variante 
-                                        puede influir en la respuesta al fármaco (fenotipo).**""")
+                                        puede influir en la respuesta al fármaco (fenotipo).**
 
-                                        # **Nota:** "None" indica que no hay información correspondiente.
-
+                                        **Nota:** "None" indica que no hay información correspondiente.""")
 
                                 # Mostrar la tabla y mensajes de niveles 1 y 2:
                                 if len(df_clinann12) > 0:
@@ -273,7 +270,7 @@ def set_indicaciones_farmaco_page():
                                         st.markdown(" ##### &nbsp;&nbsp;&nbsp;&nbsp; **Las anotaciones clínicas con "
                                                     "el nivel de evidencia más :green[ALTO (1A)] indican:**")
                                         for annotation in anotaciones_altonivel:  # Se limita a 4.
-                                            st.markdown(annotation)   # Si no, en algunos casos puede ser demasiado.
+                                            st.markdown(annotation)  # Si no, en algunos casos puede ser demasiado.
                                 else:
                                     st.write("")
 
@@ -632,7 +629,7 @@ def set_indicaciones_farmaco_page():
 
                 with tab2:  # FÁRMACO-FÁRMACO
                     existe_ema = False  # Comprobar que el fármaco seleccionado existe en la EMA
-                    hay_prospecto = False   # Comprobar que su prospecto contiene ddi
+                    hay_prospecto = False  # Comprobar que su prospecto contiene ddi
                     # Obtener el nombre del fármaco (medicine_name de la EMA). Los prospectos están guardados así
                     pa_ema_selected = session.query(EmaTable).filter(EmaTable.active_substance_ema == paselected_ema,
                                                                      EmaTable.atc_code_ema == atcselected_esp).all()
@@ -648,11 +645,9 @@ def set_indicaciones_farmaco_page():
 
                         # Obtener la ruta a los prospectos
                         ddi_prospecto_nombres = []
-                        json_file_ema = "EMA_DDI/properties_ema/properties_ema.json"
-                        data = read_json_file2(json_file_ema)
-                        base_path = data["base_path"]["base_path"]
-                        properties_ema = read_json_file2(os.path.join(base_path, "properties_ema",
-                                                                      "properties_ema.json"))["ema"]
+
+                        properties_ema = read_json_file("EMA_DDI/properties_ema/properties_ema.json")["ema"]
+
                         # Obtener una lista, con tuplas (medicine_name, nombre_archivo)
                         for archivo in (os.listdir(properties_ema["path_ddi"])):
                             partes = archivo.split("_", 1)
@@ -668,12 +663,12 @@ def set_indicaciones_farmaco_page():
                                 hay_prospecto = True
 
                     ddinter_tab, prospect_tab = st.tabs(
-                            ["**DDinter**", "**Prospecto EMA**"])
+                        ["**DDinter**", "**Prospecto EMA**"])
                     with prospect_tab:
                         if existe_ema:
                             if hay_prospecto:
                                 with open(os.path.join(properties_ema["path_ddi"], nombre_file_prospectddi), "r",
-                                          encoding ="utf-8") as f:
+                                          encoding="utf-8") as f:
                                     contenido_prospecto = f.readlines()
                                     st.markdown(f"**Nombre del medicamento:** {nombre_medicine_prospectddi}, "
                                                 f"**Principio Activo:** {pa_file_prospectddi}")

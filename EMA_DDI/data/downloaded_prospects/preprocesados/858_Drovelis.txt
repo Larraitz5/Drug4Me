@@ -1,32 +1,31 @@
-4.5 Interaction with ot her medicinal products and other forms of interaction  
- Note:  The prescribing information of concomitant medicinal products should be consulted t o identify potential interactions.  
- Pharmacokinetic interactions  
- Effects of other medicinal products on Droveli s 
- Interactions can occur with medicinal products  that induce microsomal enzymes , result ing in increased clearance of sex hor mones, which may le ad to breakthrough bleeding and/or contraceptive failure.  
+4.5 Interaction with other medicinal products and other forms of interaction  
+ Note:  The prescribing information of concomitant medicinal products should be consulte d to identify potential interactions.  
+ Pharmacokinetic interactions 
+ Effects of other medicinal products on Drovelis  
+ Interactions can occur with medicinal products  that induce microsomal enzymes , result ing in increased clearance of sex hormones, which may lead to breakthrough bleeding and/or contraceptive failure.  
  
-- Management  Enzyme induction can already be observed after a few days of treatment. Maximum enzyme induction is generally observed  within a few we eks. After the cessation of med icinal product  therapy, enzyme induction may be sustained for about 4 weeks.  
+- Management  Enzyme induction can already be observed after a few days of treatment. Maximum enzyme induction is generally observed  within a few weeks. After the cessation of medicinal product  therapy, enzyme induction may be sustained for about 4 weeks.  
  
-- Short -term treatment  Women on treatment with enzyme -inducing medicinal products  should temporarily use a barrier method or another method of cont raception in addition to the C HC. The barrier meth od must be used during the whole time of the concomitant medicinal product  therapy and for 28 days after its discontinuation. If the medicinal product  therapy runs beyond the end of the  pink  active tablets in the CHC pack, the white plac ebo tablets must be  discarded and the next C HC pack should be started right away. 
- 
-- Long- term treatment  In women on long- term trea tment with hepatic enzyme- inducing active substances, another reliable, non-hormonal, method o f contraception is recommended.  
- The following int eractions have been reported in the literature.  
- Medicinal  produc ts increasing the clearance of C HCs (enzyme- induction), e.g.:  barbiturates, bosentan, carbamazepine, phenytoin, primidone, rifampicin and HI V medicinal products  (e.g. ritonavir, nevirapine a nd efavirenz ) and possibly also felbamate, griseofulvin, oxcarbazepine, topiramate and products containing the herbal St. John's wort ( Hypericum perforatum ).  
- Medicinal products  with variable effects on th e clearance of C HCs: When co -administered with C HCs, many combi nations of HIV protease inhibitors and non- nucleoside reverse transcriptase inhibitors, including c ombinations with HCV inhibitors can increase or decrease plasma concentrations of oestrogens and progestogens . The effect of these changes may be clinically relevant in some cases.  
- Therefore, the prescr ibing information of concomitant HIV/HCV medicinal pr oducts  should be consulted to identify potential interactions and any related recommendations.  In case of any doubt, an addit ional barrier metho d of contraception  should be used by women on protease inhi bitor or non-nucleoside reverse transcriptase inhibit or therapy.  
- Medicinal products  decreasing the clearance of C HCs (enzyme inhibitors):  The clin ical relevance of potential int eractions with enzy me inhibitors remains unknown. Concomitant administration of strong CYP3A4 inhibitors can increase plasma concen trations of oestrogens or progestogens  or both.  
-13  
-- Potential interactions with drospirenone  In a multiple dose study with a dro spirenone (3 mg/day ) / ethinylestradiol (0.02 mg/day) combination, co-administration of the strong CYP3A4 inhibitor ketoconazole for 10  days increased the area under the curve during a 24- hour period ( AUC (0-24 h)) of drospire none (and ethinylestradiol ) 2.7- fold (and 
+- Short -term treatment  Women on treatment with enzyme -inducing medicinal products  should temporarily use a barrier method or another method of contraception in addition to the C HC. The barrier method must be used during the whole time of the concomitant medi cinal product  therapy and for 28 days after its discontinuation. If the medicinal product  therapy runs beyond the end of the  pink  active tablets in the CHC pack, the white placebo tablets must be discarded and the next C HC pack should be started right away . 
+ - Long- term treatment  In women on long- term treatment with hepatic enzyme- inducing active substances, another reliable, non-hormonal, method of contraception is recommended.  
+ The following interactions have been reported in the literature .  
+ Medicinal products  increasing the clearance of C HCs (enzyme- induction), e.g.:  barbiturates, bosentan, carbamazepine, phenytoin, primidone, rifampicin and HIV medicinal products  (e.g. ritonavir, nevirapine and efavirenz ) and possibly also felbamate, griseof ulvin, oxcarbazepine, topiramate and products containing the herbal St. John's wort ( Hypericum perforatum ).  
+ Medicinal products  with variable effects on the clearance of C HCs: When co -administered with C HCs, many combinations of HIV protease inhibitors and non- nucleoside reverse transcriptase inhibitors, including combinations with HCV inhibitors can increase or decrease plasma concentrations of oestrogens and progestogens . The effect of these changes may be clinically relevant in some cases.  
+ Therefore, the prescribing information of concomitant HIV/HCV medicinal products  should be consulted to identify potential interactions and any related recommendations. In case of any doubt, an additional barrier method of contraception  should be used by w omen on protease inhibitor or non-nucleoside reverse transcriptase inhibitor therapy.  
+ Medicinal products  decreasing the clearance of C HCs (enzyme inhibitors):   
+13 The clinical relevance of potential interactions with enzyme inhibitors remains unknown. Concomi tant administration of strong CYP3A4 inhibitors can increase plasma concentrations of oestrogens or progestogens  or both. 
+ - Potential interactions with drospirenone  In a multiple dose study with a drospirenone (3 mg/day)  / ethinylestradiol (0.02 mg/day) combination, co-administration of the strong CYP3A4 inhibitor ketoconazole for 10 days increased the area under the curve during a 24- hour period ( AUC(0-24 h)) of drospirenone (and ethinylestradiol ) 2.7- fold (and 
 1.4-fold, respectively).  
  
-- Potential interactions with estetrol  Estetrol is predominantly glucuronised by UDP -glucuronosy ltransferase ( UGT ) 2B7 enzyme (see section 5.2 ‘Pharmacokinetic properties ’). No clinical ly relevant  interaction was observed  with estetrol and the strong UGT inhibitor valproic acid.  
- Effects of Droveli s on other medicinal products  
- Oral contraceptives may affect the metabolism of certain other active substances. Accordingly, plasma and tissue concentrations may either increase (e.g., ciclosporin) or decrease (e.g., lamotrigine).  
- Based on in vitro  inhib ition studies and in vivo  interaction studies in fema le volunteers using omeprazole, simvastatin and midazolam as marker substrate, an  interaction of drospirenone at doses of 
+- Potential interactions with estetrol  Estetrol is predominantly glucuronised by UDP -glucuronosyltransferase ( UGT ) 2B7 enzyme (see section 5.2 ‘Pharmacokinetic properties ’). No clinical ly relevant  interaction was observed with estetrol and the strong UGT inhibitor valproic acid.  
+ Effects of Drovelis on other medicinal products  
+ Oral contraceptives may affect the metabolism of certain other active substances. Accordingly, plasma and tissue concentrations may either increase (e.g., ciclosporin) or decrease ( e.g., lamotrigine).  
+ Based on in vitro  inhibition studies and in vivo  interaction studies in female volunteers using omeprazole, simvastatin and midazolam as marker substrate, an interaction of drospirenone at doses of 
 3 mg with the metabolism of other active substances is unlikely.  
- Based on in vit ro inhibition studies, an interaction of estetrol con tained in Drovelis  with the metabolism of other active substances is unlikely.   
- Pharmacodynam ic interactions  
- Concomitant us e with the HCV medi cinal products containing ombitasvir/paritaprevir/ritonavir  and dasabuvir, with or without ribavirin, may increase the risk of ALT  elevations in women using ethinylestradiol containing  medicinal products  such as CHCs  (see section  4.4). Women using medicina l products containing oestrogens other than ethinyle stradio l, had a rate of ALT elevation similar to those not receiving any oestr ogens; however, due to the limited number of women taking these other oestro gens, caution is warranted for co -administration w ith the combination therapeuti c regimen ombitasvir/paritapr evir/ritonavir and dasabuvir with or without ribavirin and also the regim en with glecaprevir/pibrentasvir  or sofosbuvir/velpatasvir/voxilaprevir  (see section 4.4) . 
- In patients w ithout r enal impairment , the concomitant use of drospirenone and angiotensin converting enzyme ( ACE )-inhibitors or non- steroida l anti- inflammatory drugs ( NSAIDs ) did not show a significant effect on serum potassium. Nevertheless, concomitant use of Droveli s with a ldosterone antagonists or potassium -sparing diuretics has not  been studied. In this case, serum potassium sho uld be tes ted during the first treatment cycle. See also section  4.4. 
+ Based on in vitro  inhibition studies, an interaction of estetrol contained in Drovelis  with the metabolism of other active substances is unlikely.   
+ Pharmacodynamic interactions  
+ Concomitant use with the HCV medicinal products containing ombitasvir/paritaprevir/ritonavir and dasabuvir, with or without ribavirin, may increase the risk of ALT elevations in women using ethinylestradiol containing  medicinal products  such as CHCs (see section  4.4). Women using medicinal products containing oestrogens other than ethinylestradiol, had a rate of ALT elevation similar to those not receiving any oestrogens; however, due to the limited number of women taking these other oestrogen s, caution is warranted for co -administration with the combination therapeutic regimen ombitasvir/paritaprevir/ritonavir and dasabuvir with or without ribavirin and also the regimen with glecaprevir/pibrentasvir  or sofosbuvir/velpatasvir/voxilaprevir  (see section 4.4) . 
+ In patients without renal impairment , the concomitant use of drospirenone and angiotensin converting enzyme ( ACE )-inhibitors or non- steroidal anti -inflammatory drugs ( NSAIDs ) did not show a significant effect on serum potassium. Nevertheless, concomitant use of Drovelis  with aldosterone antagonists or potassium -sparing diuretics has not been studied. In this case, serum potassium should be tested during the first treatment cyc le. See also section  4.4. 
  Paediatric population  
- Interaction studies have only been performed in adult s. 
+ Interaction studies have only been performed in adults.  
  

@@ -3139,8 +3139,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385973	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385977	2018-01-29	Update	Added idarubicin study
 655385977	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-655385981	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-655385981	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385985	2018-01-29	Update	Added idarubicin study
 655385985	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385989	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -3157,6 +3155,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385674	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385384	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385384	2021-06-10	Update	Corrected typo and minor edits to phenotype descriptions
+655385981	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+655385981	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+655385981	2024-06-28	Update	fixed typo
 655386421	2018-01-30	Update	
 655386421	2020-04-15	Update	Added PMID 31099054 to evidence
 655386421	2020-08-13	Update	Limiting to toxicity and RA and methotrexate and creating separate CA for efficacy and RA. There are also separate methotrexate and cancer CAs for this variant.
@@ -12226,8 +12227,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450934662	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450936314	2019-12-18	Create	Created
 1450936314	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1450936557	2019-12-18	Create	Created
-1450936557	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450936586	2019-12-18	Create	Created
 1450936586	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1452003988	2023-02-08	Create	Created
@@ -12246,6 +12245,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450812223	2021-02-09	Update	Minor edits to phenotype descriptions
 1450812223	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450812223	2024-05-28	Update	Updated score
+1450936557	2019-12-18	Create	Created
+1450936557	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450936557	2024-06-13	Update	fixed typos
 1449191764	2018-03-23	Create	
 1449191764	2021-03-10	Update	Minor edits to phenotype descriptions
 1449191764	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -12380,8 +12382,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451105206	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451105228	2020-04-07	Create	Created
 1451105228	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451985181	2023-01-17	Update	CYP3A4*36 as a named allele has been retired by PharmVar. CYP3A4*36 content is moved to rs2242480. This CA replaces PA1449715423 with *36=T (variant) and *1=C (reference).
-1451985181	2023-01-17	Create	Created
 1451985268	2023-01-17	Update	CYP3A4*36 as a named allele has been retired by PharmVar. CYP3A4*36 content is moved to rs2242480. This CA replaces PA1451237820 with *36=T (variant) and *1=C (reference).
 1451985268	2023-01-17	Create	Created
 1452004092	2023-02-08	Create	Created
@@ -12501,6 +12501,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451120561	2020-04-27	Create	Created
 1451120561	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451120561	2024-05-28	Update	Updated score
+1451985181	2023-01-17	Update	CYP3A4*36 as a named allele has been retired by PharmVar. CYP3A4*36 content is moved to rs2242480. This CA replaces PA1449715423 with *36=T (variant) and *1=C (reference).
+1451985181	2023-01-17	Create	Created
+1451985181	2024-06-14	Update	Added PMID 37962984 to evidence. Minor updates to phenotype descriptions.
 1451126312	2020-05-01	Create	Created
 1451126312	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449163324	2018-01-17	Create	
@@ -13267,6 +13270,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1452467567	2024-05-09	Create	Created
 1452463506	2024-05-06	Create	Created
 1452463506	2024-05-28	Update	Updated score
+1452474573	2024-05-15	Create	Created
+1452474640	2024-05-15	Create	Created
+1452476420	2024-05-17	Create	Created
 1451282440	2020-10-22	Update	combined clopidogrel only and 'aspirin and clopidogrel' VAs given that clopidogrel is generally given in combination with aspirin; PA982028896; PA981201917, PA655384520 are merged into this annotation
 1451282440	2020-10-22	Create	Created
 1451282440	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
@@ -13274,9 +13280,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451282440	2022-01-19	Update	changed cardiovascular events to cardiac and cerebrovascular events
 1451282440	2022-01-19	Update	combined with CA 1446900036 (clopidogrel; Ischemic Attack, Transient and Stroke; risk for secondary events)
 1451282440	2024-05-14	Update	PMID 37607302 added to evidence
-1452474573	2024-05-15	Create	Created
-1452474640	2024-05-15	Create	Created
-1452476420	2024-05-17	Create	Created
 655387938	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655387938	2021-04-01	Update	Removed duplicate VA from PMID 19901119
 655387938	2021-04-01	Update	Changed CA to be on toxicity only. Moved PK VAs to a new CA.
@@ -13338,7 +13341,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451678225	2022-02-14	Note	Second curator check
 1451679319	2022-02-11	Create	Created
 1451679340	2022-02-11	Create	Created
-1451679365	2022-02-11	Create	Created
 1451679820	2022-02-11	Create	Created
 1451699360	2022-03-01	Create	Created
 1451737609	2022-03-31	Create	Created
@@ -13346,6 +13348,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451749620	2022-04-13	Create	Created
 1451751260	2022-04-14	Create	Created
 1452486780	2024-05-29	Create	Created
+1451679365	2022-02-11	Create	Created
+1451679365	2024-06-18	Update	Added PMID 38009933 to evidence and changed phenotype descriptions to LOE 4 template.
 1451398100	2021-03-26	Create	Created
 1451398100	2024-05-28	Update	Updated score
 1451398040	2021-03-26	Create	Created
@@ -13841,3 +13845,11 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451214480	2024-05-28	Update	Updated score
 1451214480	2024-06-04	Update	Added PMID 37906625 to evidence
 1452488120	2024-05-30	Create	Created
+1452473160	2024-05-14	Create	Created
+1452476360	2024-05-17	Create	Created
+1452502940	2024-06-18	Create	Created
+1452504420	2024-06-19	Create	Created
+1452504430	2024-06-19	Create	Created
+1452504467	2024-06-19	Create	Created
+1452504437	2024-06-19	Create	Created
+1452504437	2024-06-27	Update	Added PMID 11037806 to evidence and edited phenotype descriptions.

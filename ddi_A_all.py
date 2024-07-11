@@ -1,3 +1,5 @@
+import os.path
+
 from ddi_funciones_prospects import *
 from ddi_ema_get_all_drugs import get_drugs
 
@@ -12,11 +14,23 @@ palabras_a_buscar = ["decrease", "decreases", "decreased", "decreasing",
                      "co-administration", "concurrent", "concomitant",
                      "combination", "interaction with"]
 
+
+def initialize_folders():
+
+    paths = read_json_file("EMA_DDI/properties_ema/properties_ema.json")["paths"]
+    for path in paths:
+        if not os.path.exists(path):
+            os.makedirs(path)
+
+
 if __name__ == "__main__":
+    initialize_folders()
     # Descargar y obtener el excel de medicamentos desde el EMA y se itera sobre los medicamentos
     df_ema = get_ema_data()
     for index, row in df_ema.iterrows():
         url = row['URL']
+        if index == 2:
+            pass
         medicine_name_1 = row['Medicine_name']
         medicine_name = medicine_name_1.replace("/", "_").replace(":", "_")
         pa_1 = row['Active_substance']
@@ -24,6 +38,7 @@ if __name__ == "__main__":
 
         # Descargar y obtener prospectos mediante URL
         file_name_final = f"{index}_{medicine_name}.pdf"
+        print(f"{index}: {file_name_final}")
         results = download_prosp(url, medicine_name, file_name_final)
         if results is not None:
             file_name_pdf, medicine_name_pdf = results

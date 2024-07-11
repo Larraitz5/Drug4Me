@@ -1,7 +1,7 @@
-4.5 Interaction with other medicinal products and other forms of interaction  
- Clinical studies indicate that deucravacitinib does not have clinically relevant drug interactions upon coadministration with the following other medicinal products and therefore no do se adjustments are needed.  
+4.5 Interaction with other medicinal products and other forms of interaction 
+ Clinical studies indicate that deucravacitinib does not have clinically relevant drug interactions upon coadministration with the following other medicinal products and therefore no dose adjustments are needed.  
  Effect of deucravacitinib on other medicinal products  
- Deucravacitinib does not meaningfully impact plasma exposures of rosuvastatin (BCRP and OATP  substrate ), methotrexate  (substrate  of BCRP and renal transporters ), mycophenolate mofetil (MMF)  (CES1 and CES2 substrate ), or oral contraceptives (norethindrone acetate and ethinyl estradiol).  
- Effect of  other  medicinal products on deucravacitinib  
- Medicinal products that are inhibitors or inducers of CYP enzymes or transporters such as cyclosporine (dual P -gp/breast cancer resistance protein [BCRP] inhibitor), fluvoxamine (strong CYP  1A2 inhibitor), ritonavir (moderate CYP  1A2 inducer), diflunisal (UGT  1A9 inhibitor), pyrimeth amine (OCT1 inhibitor), famotidine (H2 receptor antagonist) or rabeprazole (proton pump inhibitor) do not meaningfully affect plasma deucravacitinib exposures (see section  5.2). 
+ Deucravacitinib does not meaningfully impact plasma exposures of rosuvastatin (BCRP and OATP  substrate), methotrexate (substrate of BCRP and renal transporters ), mycophenolate mofetil (MMF)  (CES1 and CES2 substrate ), or oral contraceptives (norethindrone acetate and ethinyl estradiol).  
+ Effect of  other  medicinal products on deucravacitinib 
+ Medicinal products that are inhibitors or inducers of CYP enzymes or transporters such as cyclosporine (dual P -gp/breast cancer resistance protein [BCRP] inhibitor), fluvoxamine (strong CYP  1A2 inhibitor), ritonavir (moderate CYP  1A2 inducer), diflunisal (UGT  1A9 inhibitor), pyrimeth amine (OCT1 inhibitor), famotidine (H2 receptor antagonist) or rabeprazole (proton pump inhibitor) do not meaningfully affect plasma deucravacitinib exposures (see section 5.2). 
  5 

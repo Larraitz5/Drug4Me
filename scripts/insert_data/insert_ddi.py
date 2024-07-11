@@ -1,14 +1,9 @@
-import os
 import csv
 import pandas as pd
 from db_funciones import read_json_file, solicitud_downloadfile_url
 
 # Insertar los datos de la base de datos DDinter (drug-drug interactions)
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["ddi"]
+properties = read_json_file("properties/properties.json")["ddi"]
 
 
 def read_csv(path):

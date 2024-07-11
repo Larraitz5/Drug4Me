@@ -1,13 +1,8 @@
-import os
 import pandas as pd
 from db_funciones import read_json_file, solicitud_downloadfile_url
 
 # Insertar los datos del CIMA
-
-json_file = "properties/properties.json"
-data = read_json_file(json_file)
-base_path = data["base_path"]
-properties = read_json_file(os.path.join(base_path, "properties", "properties.json"))["cima_esp"]
+properties = read_json_file("properties/properties.json")["cima_esp"]
 
 
 def insert_data_db(session, db):

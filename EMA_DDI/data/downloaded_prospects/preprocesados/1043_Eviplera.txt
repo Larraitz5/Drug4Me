@@ -1,127 +1,129 @@
-4.5 Interaction with other medicinal products and other forms of interaction  
+4.5 Interaction with other medicinal products and other forms of interaction 
  As Eviplera contains emtricitabine, rilpivirine hydrochloride and tenofovir disoproxil, any interactions that have been identified with these active substances individually may occur with Eviplera.  Interaction studies with these active substances have only been performed in adults.  
  Rilpivirine is primarily metabolised by CYP3A  Medicinal products that induce or inhibit CYP3A may thus affect the clearance of rilpivirine (see section  5.2). 
  Concomitant use contraindicated  
  Co-administration of Eviplera and medicinal products that induce CYP3A has been observed to decrease the plasma concentrations of rilpivirine which could potentially lead to loss of therapeutic effect of Eviplera (see section  4.3). 
- Co-administration of Ev iplera with proton pump inhibitors has been observed to decrease the plasma concentrations of rilpivirine (due to an increase in gastric p 
+ Co-administration of Eviplera with proton pump inhibitors has been observed to decrease the plasma concentrations of rilpivirine (due to an increase in gastric p 
  H) which could potentially lead to loss of therapeutic effect of Eviplera (see section  4.3). 
- Concomitant use not recommended  
- Eviplera should not be administered concomitantly with other medicinal products containing emtricitabine, tenofovir disoproxil or tenofovir alafenamide.  Eviplera should not be administered concomitantly with rilpivirine hydrochloride unless neede d for dose adjustment with rifabutin (see section  4.2). 
+ Concomitant use not recommended 
+ Eviplera should not be administered concomitantly with other medicinal products containing emtricitabine, tenofovir disoproxil or tenofovir alafenamide.  Eviplera should not be administered concomitantly with rilpivirine hydrochloride unless needed for dos e adjustment with rifabutin (see section  4.2). 
  Due to similarities with emtricitabine, Eviplera should not be administered concomitantly with other cytidine analogues, such as lamivudine (see section  4.4).  Eviplera should not be administered concomitantly with adefovir dipivoxil.  
  Didanosine  The co -administration of Eviplera and didanosine is not recommended (see section  4.4 and Table  1). 
  Renally eliminated medicinal products  Since emtricitabine and tenofovir are primarily eliminated by the kidneys, co -administration of Eviplera with medicinal products that reduce renal function or compete for active tubular secretion (e.g. cidofovir) may increase serum concentrations of emtricitabine, tenofovir and/or the co-administered medicinal products.  
- 9 Use of Eviplera should be avoided with concurrent or recent use of a nephrotoxic medicinal product.  Some examples include, but are not limited to, aminoglycosides, amphotericin  B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2 (a lso called aldesleukin).  
+ Use of Eviplera should be avoided with concurrent or recent use of a nephrotoxic medicinal product.  Some examples include, but are not limited to, aminoglycosides, amphotericin  B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2 (also called aldesleukin).  
  Other NNRTIs It is not recommended to co -administer Eviplera with other NNRTIs.  
- Concomitant use where caution is recommended  
- Cytochrome P450 enzyme inhibitors  Co-administration of Eviplera with medicinal products that inhibit CY P3A enzyme activity has been observed to increase rilpivirine plasma concentrations.  
- QT prolonging medicinal products  Eviplera should be used with caution when co-administered with a medicinal product with a known risk of Torsade de Pointes.  There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and medicinal products that prolong the QTc interval of the electrocardiogram.  In a study of healthy subjects, supratherapeutic doses of rilpivirine (75  mg once daily and 300 mg once daily) have been shown to prolong the QTc  interval of the ECG (see section  5.1). 
+ 9 Concomitant use where caution is recommended  
+ Cytochrome P450 enzyme inhibitors  Co-administration of Eviplera with medicinal products that inhibit CYP3A enzyme activity has been observed to increase rilpivirine plasma concentrations.  
+ QT prolonging medicinal products  Eviplera should be used with caution when co-administered with a medicinal product with a known risk of Torsade de Pointes.  There is limited information available on the potential for a pharmacodynamic interaction between rilpivirine and medicinal product s that prolong the QTc interval of the electrocardiogram.  In a study of healthy subjects, supratherapeutic doses of rilpivirine (75  mg once daily and 300 mg once daily) have been shown to prolong the QTc  interval of the ECG (see section  5.1). 
  P-glycoprotein substrates Rilpivirine inhibits P-glycoprotein (P-gp) in vitro  (IC
-50 is 9.2  µM).  In a clinical study rilpivirine did not significantly affect the pharmacokinetics of digoxin.  However, it may not be completely excluded that rilpivirine can increase the exposure to other medicinal products  transported by P- gp that are more sensitive to intestinal P-gp inhibition (e.g. dabigatran etexilate). 
- Rilpivirine is an in vitro  inhibitor of the transporter MATE-2K with an IC 50 of < 2.7 n 
+50 is 9.2  µM).  In a clinical study rilpivirine did not significantly affect the pharmacokinetics of digoxin.  However, it may not be completely excluded that rilpivirine can increase the exposure to other medicinal products transported by P -gp that are more sensitive to intestinal P -gp inhibition (e.g. dabigatran etexilate). 
+ Rilpivirine is an in vitro  inhibitor of the transporter MATE-2K with an IC
+50 of < 2.7 n 
  M.  The clinical implications of this finding are currently unknown.  
  Other interactions 
- Interactions between Eviplera or its individual component(s) and co-administered medicinal products are listed in Table  1 below (increase is indicated as “↑”, decrease as “↓” and no change as “↔”).  
- 10 Table  1: Interactions between E viplera or its individual component(s) and other medicinal products  
+ Interactions between Eviplera or its individual component(s) and co-administered medicinal products are listed in Table  1 below (increase is indicated as “↑”, decrease as “↓” and no change as “↔ ”). 
+ 10 Table  1: Interactions between Eviplera or its individual component(s) and other medicinal products  
  Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  ANTI -INFECTIVES  Antiretrovirals  Nucleoside or nucleotide reverse transcriptase inhibitors (NRTIs/N[t]RTIs)  Didanosine/Emtricitabine  Interaction not studied.  Co-administration of Eviplera and didanosine is not recommended (see section  4.4). 
- Increased sy stemic exposure to didanosine may increase didanosine related adverse reactions.  Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.  Co-administration of tenofovir disoproxil and didanosine at a dose of 400  mg daily has been associated with a significant decrease in CD4+ cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine.  A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV -1 infection.  Didanosine (400  mg once daily)/  Rilpivirine1 Didanosine:  AUC: ↑  12% Cmin: N/A Cmax: ↔ 
- Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ Didanosine/Tenofovir disoproxil  Co-administration of tenofovir disoproxil and didanosine results in a 40-60% increase in systemic exposure to didanosine . 
+ Increased systemic exposure to didanosine may increase didanosine related adverse reactions.  Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.  Co-administration of tenofovir disoproxil and didanosine at a dose of 400  mg daily  has been associated with a significant decrease in CD4+ cell count, possibly due to an intracellular interaction increasing phosphorylated (i.e. active) didanosine.  A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil therapy  has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV -1 infection.  Didanosine (400  mg once daily)/  Rilpivirine1 Didanosine:  AUC: ↑  12% Cmin: N/A Cmax: ↔ 
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↔ Didanosine/Tenofovir disoproxil  Co-administration of tenofovir disoproxil and didanosine results in a 40-60% increase in systemic exposure to didanosine . 
 11 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Protease inhibitors (PI s) - boosted (with co -administration of low -dose ritonavir)  Atazanavir/Ritonavir/Emtricitabine  Interaction not studied.  Concomitant use of Eviplera with ritonavir -boosted PIs causes an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes).  
- No dose adjustment is required.  Atazanavir/Ri tonavir/Rilpivirine  Interaction not studied.  Atazanavir (300  mg once daily)/ Ritonavir (100  mg once daily)/ Tenofovir disoproxil ( 245 mg once daily)  Atazanavir:  AUC: ↓  25% Cmax: ↓ 28% Cmin: ↓ 26% 
- Tenofovir:  AUC: ↑  37% Cmax: ↑ 34% Cmin: ↑ 29% Darunavir/Ritonavir/Emtricitabine  Interaction not studied.  Darunavir (800  mg once daily)/ Ritonavir (100  mg once daily)/ Rilpivirine1 Darunavir:  AUC: ↔  Cmin: ↓ 11% Cmax: ↔ 
- Rilpivirine:  AUC: ↑  130%  Cmin: ↑ 178%  Cmax: ↑ 79% Darunavir (300  mg once daily)/ Ritonavir (100  mg once daily)/ Tenofovir disoproxil  (245 mg once daily)  Darunavir:  AUC: ↔  Cmin: ↔ 
- Tenofovir:  AUC: ↑  22% Cmin: ↑ 37% Lopinavir/Ritonavir/Emtricitabine  Interaction not studied.  Lopinavir (400  mg twice daily)/ Ritonavir (100 mg twice daily)/ Rilpivirine1 (soft capsule)  Lopinavir:  AUC: ↔  Cmin: ↓ 11% Cmax: ↔ 
- Rilpivirine:  AUC: ↑  52% Cmin: ↑ 74% Cmax: ↑ 29% Lopinavir (400  mg twice daily)/ Ritonavir (100  mg twice daily)/ Tenofovir disoproxil  (245 mg once daily)  Lopinavir/Ritonavir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+ No dose adjustment is required.  Atazanavir/Ritonavir/Rilpivirine  Interaction not studied.  Atazanavir (300  mg once daily)/ Ritonavir (100  mg once daily)/ Tenofovir disoproxil ( 245 mg once daily)  Atazanavir:  AUC: ↓  25% Cmax: ↓ 28% Cmin: ↓ 26% 
+ Tenofovir:  AUC: ↑  37% Cmax: ↑ 34% Cmin: ↑ 29% Darunavir/Ritonavir/Emtricitabine  Interaction not studied.  Darunavir (800  mg once daily)/ Ritonavir (100  mg once daily)/ Rilpivirine1 Darunavir:  AUC: ↔ Cmin: ↓ 11% Cmax: ↔ 
+ Rilpivirine:  AUC: ↑  130%  Cmin: ↑ 178%  Cmax: ↑ 79% Darunavir (300  mg once daily)/ Ritonavir (100  mg once daily)/ Tenofovir disoproxil  (245 mg once daily)  Darunavir:  AUC: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  22% Cmin: ↑ 37% Lopinavir/Ritonavir/Emtricitabine  Interaction not studied.  Lopinavir (400  mg twice daily)/ Ritonavir (100  mg twice daily)/ Rilpivirine1 (soft capsule)  Lopinavir:  AUC: ↔ Cmin: ↓ 11% Cmax: ↔ 
+ Rilpivirine:  AUC: ↑  52% Cmin: ↑ 74% Cmax: ↑ 29% Lopinavir (400  mg twice daily)/ Ritonavir (100  mg twice daily)/ Tenofovir disoproxil  (245 mg once daily)  Lopinavir/Ritonavir:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
  Tenofovir:  AUC: ↑  32% Cmax: ↔ Cmin: ↑ 51% CCR5 antagonists  Maraviroc/Emtricitabine  Interaction not studied.  No clinically relevant drug -drug interaction is expected.  
- No dose adjustment is required.  Maraviroc/Rilpivirine  Interaction not studied.  Maraviroc ( 300 mg twice daily)/ Tenofovir disoproxil (245 mg once daily)  AUC: ↔  Cmax: ↔ Tenofovir concentrations not measured, no effect is expected . 
+ No dose adjustment is required.  Maraviroc/Rilpivirine  Interaction not studied.  Maraviroc ( 300 mg twice daily)/ Tenofovir disoproxil (245 mg once daily)  AUC: ↔ Cmax: ↔ Tenofovir concentrations not measured, no effect is expected . 
 12 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Integrase strand transfer inhibitors  Raltegravir/Emtricitabine  Interaction not studied.  No clinically relevant drug -drug interaction is expected.  
  No dose adjustment is required.  Raltegravir/Rilpivirine  Raltegravir:  AUC: ↑  9% Cmin: ↑ 27% Cmax: ↑ 10% 
- Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ Raltegravir ( 400 mg twice daily )/ Tenofovir disoproxil  Raltegravir:  AUC: ↑  49% C12h: ↑ 3% Cmax: ↑ 64% (mechanism of interaction unknown)  
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↔ Raltegravir ( 400 mg twice daily )/ Tenofovir disoproxil  Raltegravir:  AUC: ↑ 49% C12h: ↑ 3% Cmax: ↑ 64% (mechanism of interaction unknown)  
  Tenofovir:  AUC: ↓  10% C
-12h: ↓ 13% Cmax: ↓ 23% Other antiviral agents  Ledipasvir/Sofosbuvir (90 mg/400 mg once daily)/ Emtricitabine/Rilpivirine/ Tenofovir disoproxil (200 mg/25  mg/245 mg once daily)  Ledipasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+12h: ↓ 13% Cmax: ↓ 23% Other antiviral agents  Ledipasvir/Sofosbuvir (90 mg/400 mg once daily)/ Emtricitabine/Rilpivirine/ Tenofovir disoproxil (200 mg/25  mg/245 mg once daily)  Ledipasvir:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Sofosbuvir:  AUC: ↔ Cmax: ↔ 
  GS-331007
-4: AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Rilpivirine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Tenofovir:  AUC: ↑  40% Cmax: ↔ Cmin: ↑ 91% No dose adjustment is recommended.  The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders.  Rena l function should be closely monitored (see section  4.4). 13 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Sofosbuvir/Velpatasvir  (400 mg/100  mg once daily )/ Emtricitabine/Rilpivirine/Tenofovir disoproxil  (200 mg/25  mg/245 mg once daily)  Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+4: AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Rilpivirine:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑  40% Cmax: ↔ Cmin: ↑ 91% No dose adjustment is recommended.  The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders.  Renal function should be closely monitored (see section  4.4). 13 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Sofosbuvir/Velpatasvir  (400 mg/100  mg once daily )/ Emtricitabine/Rilpivirine/Tenofovir disoproxil  (200 mg/25  mg/245 mg once daily)  Sofosbuvir:  AUC: ↔ Cmax: ↔ 
  GS-331007
-4: AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Rilpivirine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
+4: AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Emtricitabine:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Rilpivirine:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
  Tenofovir:  AUC: ↑  40% Cmax: ↑ 44% Cmin: ↑ 84% No dose adjustment is recommended.  The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders.  Renal function should be closely monitored  (see section  4.4). 14 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Sofosbuvir/Velpatasvir/  Voxilaprevir (400  mg/100 mg/ 
 100 mg + 100 mg once daily)5/ Rilpivirine /Emtricitabine  (25 mg/200 mg once daily)6 Interaction not studied with Eviplera.  
- Expected:  Sofosbuvir:  AUC: ↔  Cmax: ↔ 
+ Expected:  Sofosbuvir:  AUC: ↔ Cmax: ↔ 
  GS-331007
-4: AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Velpatasvir:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Voxilaprevir  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
- Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: ↔ 
- Tenofovir:  AUC: ↑   Cmax: ↑  Cmin: ↑  No dose adjustment is recommended.  The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders.  Renal function should be closely monitored (see section  4.4). Sofosbuvir/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Sofosbuvir (400  mg once daily)/ Rilpivirine (25  mg once daily)  Sofosbuvir:  AUC: ↔  Cmax: ↑ 21% 
+4: AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Velpatasvir:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Voxilaprevir  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Emtricitabine:  AUC: ↔ Cmax: ↔ Cmin: ↔ 
+ Tenofovir:  AUC: ↑   Cmax: ↑  Cmin: ↑  No dose adjustment is recommended.  The increased exposure of tenofovir could potentiate adverse reactions associated with tenofovir disoproxil, including renal disorders.  Renal function should be closely monitored (see section  4.4). Sofosbuvir/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Sofosbuvir (400  mg once daily)/ Rilpivirine (25  mg once daily)  Sofosbuvir:  AUC: ↔ Cmax: ↑ 21% 
  GS-331007
-4: AUC: ↔  Cmax: ↔ 
- Rilpivirine:  AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir/Tenofovir disoproxil  Interaction not studied.  Ribavirin/Tenofovir disoproxil  Ribavirin:  AUC: ↔  Cmax: ↔ Cmin: N/A No dose adjustment is required.  15 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Herpesvirus antiviral agents  Famciclovir/Emtricitabine  Famciclovir:  AUC: ↔  Cmax: ↔ Cmin: N/A 
- Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: N/A No dose adjustment is required.  Antifungals  Ketoconazole/Emtricitabine  Interaction not studied.  Concomitant use of Eviplera with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes).  
- At a dose of 25 mg of rilpivirine, no dose adjustment is required.  Ketoconazole (400  mg once daily)/  Rilpivirine1 
-   Fluconazole
+4: AUC: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↔ Cmax: ↔ Cmin: ↔ Sofosbuvir/Tenofovir disoproxil  Interaction not studied.  Ribavirin/Tenofovir disoproxil  Ribavirin:  AUC: ↔ Cmax: ↔ Cmin: N/A No dose adjustment is required.  15 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Herpesvirus antiviral agents  Famciclovir/Emtricitabine  Famciclovir:  AUC: ↔ Cmax: ↔ Cmin: N/A 
+ Emtricitabine:  AUC: ↔ Cmax: ↔ Cmin: N/A No dose adjustment is required.  Antifungals  Ketoconazole/Emtricitabine  Interaction not studied.  Concomitant use of Eviplera with azole antifungal agents may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes).  
+ At a dose of 25 mg of rilpivirine, no dose adjustment is required.  Ketoconazole (400  mg once daily)/ Rilpivirine1 
+  
+ Fluconazole
 2 Itraconazole2 Posaconazole2 Voriconazole2 Ketoconazole:  AUC: ↓  24% Cmin: ↓ 66% Cmax: ↔ 
- Rilpivirine:  AUC: ↑  49% Cmin: ↑ 76% Cmax: ↑ 30% Ketoconazole/Tenofovir disoproxil  Interaction not studied.  Antimycobacterials  Rifabutin/Emtricitabine  Interaction not studied.  Co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  When Eviplera is co -administered with rifabutin, an addition al 25  mg tablet of rilpivirine per day is recommended to be taken concomitantly with Eviplera, for the duration of the rifabutin co -administration.  Rifabutin (300  mg once daily) / Rilpivirine3 
+ Rilpivirine:  AUC: ↑  49% Cmin: ↑ 76% Cmax: ↑ 30% Ketoconazole/Tenofovir disoproxil  Interaction not studied.  Antimycobacterials  Rifabutin/Emtricitabine  Interaction not studied.  Co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  When Eviplera is co -administered with rifabutin, an additional 25  mg tablet of rilpivirine per day is recommended to be taken concom itantly with Eviplera, for the duration of the rifabutin co -administration.  Rifabutin (300  mg once daily) / Rilpivirine3 
   
  
  
  
  
-  Rifabutin (300  mg once daily) / Rilpivirine (25  mg once daily)  
+ 
+ Rifabutin (300  mg once daily) / Rilpivirine (25  mg once daily)  
  
  
- Rifabutin (300  mg once daily) / Rilpivirine (50  mg once daily)  Rifabutin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+ Rifabutin (300  mg once daily) / Rilpivirine (50  mg once daily)  Rifabutin:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
  
-25-O-desacetyl -rifabutin:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
+25-O-desacetyl -rifabutin:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
  Rilpivirine:  AUC: ↓  42% Cmin: ↓ 48% Cmax: ↓ 31% 
- Rilpivirine:  AUC: ↑  16%* Cmin: ↔*  Cmax: ↑ 43%*  
+ Rilpivirine:  AUC: ↑  16%* Cmin: ↔* Cmax: ↑ 43%*  
 *compared to 25  mg once daily rilpivirine alone  Rifabutin/Tenofovir disoproxil  Interaction not studied.  
-16 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Rifampicin/Emtricitabine  Interaction not studied.  Eviplera must not be used in combination with rifampicin as co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). Rifampicin (600  mg once daily) / Rilpivirine1 Rifampicin:  AUC: ↔  Cmin: N/A Cmax: ↔ 
+16 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Rifampicin/Emtricitabine  Interaction not studied.  Eviplera must not be used in combination with rifampicin as co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). Rifampicin (600  mg once daily) / Rilpivirine1 Rifampicin:  AUC: ↔ Cmin: N/A Cmax: ↔ 
  
 25-desacetyl -rifampicin:  AUC: ↓  9% Cmin: N/A Cmax: ↔ 
- Rilpivirine:  AUC: ↓  80% Cmin: ↓ 89% Cmax: ↓ 69% Rifampicin (600  mg once daily)/ Tenofovir disoproxil ( 245 mg once daily)  Rifampicin:  AUC: ↔  Cmax: ↔ 
- Tenofovir:  AUC: ↔  Cmax: ↔ Rifapentine2 Interaction not studied with any components of Eviplera.  Eviplera must not be used in combination with rifapentine as co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).   This may result in loss of therapeutic effect of Eviplera (see section  4.3). Macrolide antibiotics  Clarithromycin  Erythromycin  Interaction not studied with any components of Eviplera.  The combination of Eviplera with these macrolide antibiotics may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes).  
- Where possible, alternatives such as azithromycin should be considered.  ANTICONVULSANTS  Carbamazepine  Oxcarbazepine  Phenobarbital  Phenytoin  Interaction not studied with any components of Eviplera.  Eviplera must not be used in combination with these anticonvulsants as co-administration may cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). 17 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  GLUCOCORTICOIDS  Dexamethasone (systemic, except for single dose use)  Interaction not studied with any components of Eviplera.  Eviplera should not be used in combination with systemic dexamethasone (except as a single dose) as co -administration may cause significant dose dependent decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Evipl era (see section  4.3). 
+ Rilpivirine:  AUC: ↓  80% Cmin: ↓ 89% Cmax: ↓ 69% Rifampicin (600  mg once daily)/ Tenofovir disoproxil ( 245 mg once daily)  Rifampicin:  AUC: ↔ Cmax: ↔ 
+ Tenofovir:  AUC: ↔ Cmax: ↔ Rifapentine2 Interaction not studied with any components of Eviplera.  Eviplera must not be used in combination with rifapentine as co-administration is likely to cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see secti on 4.3). Macrolide antibiotics  Clarithromycin  Erythromycin  Interaction not studied with any components of Eviplera.  The combination of Eviplera with these macrolide antibiotics may cause an increase in the plasma concentrations of rilpivirine (inhibition of CYP3A enzymes).  
+ Where possible, alternatives such as azithromycin should be considered.  ANTICONVULSANTS  Carbamazepine  Oxcarbazepine  Phenobarbital  Phenytoin  Interaction not studied with any components of Eviplera.  Eviplera must not be used in combination with these anticonvulsants as co-administration may cause significant decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see sect ion 4.3). 17 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  GLUCOCORTICOIDS  Dexamethasone (systemic, except for single dose use)  Interaction not studied with any components of Eviplera.  Eviplera should not be used in combination with systemic dexamethasone (except as a single dose) as co -administration may cause significant dose dependent decreases in rilpivirine plasma concentrations (induction of CYP3A enzymes).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). 
  Alternatives should be considered, particularly for long -term use.  PROTON PUMP INHIBITORS  Omeprazole/Emtricitabine  Interaction not studied.  Eviplera must not be used in combination with proton pump inhibitors as co -administration is likely to cause significant decreases in rilpivirine plasma concentrations (reduced absorption, increase in gastric p 
- H).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). Omeprazole (20  mg once daily)/ Rilpivi rine1 
+ H).  This may result in loss of therapeutic effect of Eviplera (see section  4.3). Omeprazole (20  mg once daily)/ Rilpivirine1 
  
  
   Lansoprazole
 2 Rabeprazole2 Pantoprazole2 Esomeprazole2 Omeprazole:  AUC: ↓  14% Cmin: N/A Cmax: ↓ 14% 
  Rilpivirine:  AUC: ↓  40% Cmin: ↓ 33% Cmax: ↓ 40% Omeprazole/Tenofovir disoproxil  Interaction not studied.  H2-RECEPTOR ANTAGONISTS  Famotidine/Emtricitabine  Interaction not studied.  The combination of Eviplera and H2-receptor antagonists should be used with particular caution as co-administration may cause significant decreases in rilpivirine plasma concentrations (reduced absorption, increase in gastric p 
  H).  Only H
-2-receptor antagonists that can be dosed once daily should be used.  A strict dosing schedule with intake of the H
-2-receptor antagonists at least 12  hours before or at least 4  hours after Eviplera should be used.  Famotidine ( 40 mg single dose taken 12  hours before rilpivirine)/ Rilpivirine1 
+2-receptor antagonists that can be dosed once daily should be used.  A strict dosing schedule with intake of the H 2-receptor antagonists at least 12  hours before or at least 4  hours after Eviplera should be used.  Famotidine ( 40 mg single dose taken 12  hours before rilpivirine)/ Rilpivirine1 
  Cimetidine2 Nizatidine2 Ranitidine2 Rilpivirine:  AUC: ↓  9% Cmin: N/A Cmax: ↔ Famotidine ( 40 mg single dose taken 2  hours before rilpivirine)/ Rilpivirine1 Rilpivirine:  AUC: ↓  76% Cmin: N/A Cmax: ↓ 85% Famotidine ( 40 mg single dose taken 4  hours after rilpivirine)/ Rilpivirine1 Rilpivirine:  AUC: ↑  13% Cmin: N/A Cmax: ↑ 21% Famotidine/Tenofovir disoproxil  Interaction not studied.  ANTACIDS  Antacids (e.g. aluminium or magnesium hydroxide, calcium carbonate)  Interaction not studied with any of the components of Eviplera.  The combination of Eviplera and antacids should be used with caution as co -administration may cause significant decreases in rilpivirine plasma concentrations (reduced absorption, gastric p 
- H increase).  Antacids should only be administered either at least 2  hours before or at least 4  hours after Eviplera.  18 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  NARCOTIC ANALGESICS  Methadone/Emtricitabine  Interaction not studied.  No dose adjustments are required when initiating co -administration of methadone with Eviplera.  However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some pa tients.  Methadone (60 -100 mg once daily, individualised dose )/Rilpivirine  R(-) methadone:  AUC: ↓  16% Cmin: ↓ 22% Cmax: ↓ 14% 
- Rilpivirine:  AUC: ↔*  Cmin: ↔*  Cmax: ↔*  
-*based on historic controls  Methadone/Tenofovir disoproxil  Methadone:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
- Tenofovir:  AUC: ↔  Cmin: ↔ Cmax: ↔ ANALGESICS  Paracetamol/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Paracetamol (500  mg single dose)/ Rilpivirine1 Paracetamol:  AUC: ↔  Cmin: N/A Cmax: ↔ 
- Rilpivirine:  AUC: ↔  Cmin: ↑ 26% Cmax: ↔ Paracetamol/Tenofovir disoproxil  Interaction not studied.  ORAL CONTRACEPTIVES  Ethinylestradiol/Norethindrone/  Emtricitabine  Interaction not studied.  No dose adjustment is required.  Ethinylestradiol (0.035  mg once daily)/Rilpivirine  
- Norethindrone (1  mg once daily)/ Rilpivirine  Ethinylestradiol:  AUC: ↔  Cmin: ↔ Cmax: ↑ 17% 
- Norethindrone:  AUC: ↔  Cmin: ↔ Cmax: ↔ 
- Rilpivirine:  AUC: ↔*  Cmin: ↔*  Cmax: ↔*  
-*based on historic controls  Ethinylestradiol/Norethindrone/  Tenofovir disoproxil  Ethinylestradiol:  AUC: ↔  Cmax: ↔ 
- Tenofovir:  AUC: ↔  Cmax: ↔ 
-19 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Norgestimate/Ethinylestradiol / Tenofovir disoproxil  Norgestimate:  AUC: ↔  Cmax: ↔ Cmin: N/A 
- Ethinylestradiol:  AUC: ↔  Cmax: ↔ Cmin: ↔ No dose adjustment is required.  ANTIARRHYTHMICS  Digoxin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Digoxin/Rilpivirine  Digoxin:  AUC: ↔  Cmin: N/A Cmax: ↔ Digoxin/ Tenofovir disoproxil  Interaction not studied.  ANTICOAGULANTS  Dabigatran etexilate  Interaction not studied with any of the components of Eviplera.  A risk for increases in dabigatran plasma concentrations cannot be excluded (inhibition of intestinal P-gp. 
- The combination of Eviplera and dabigatran ete xilate should be used with caution.  IMMUNOSUPPRESSANTS  Tacrolimus /Tenofovir disoproxil/  Emtricitabine  Tacrolimus:  AUC: ↔  Cmax: ↔ Cmin: N/A 
- Emtricitabine:  AUC: ↔  Cmax: ↔ Cmin: N/A 
- Tenofovir:  AUC: ↔  Cmax: ↔ Cmin: N/A No dose adjustment is required.  ANTIDIABETICS  Metformin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Metformin (850  mg single dose)/ Rilpivirine  Metformin:  AUC: ↔  Cmin: N/A Cmax: ↔ Metformin/Tenofovir disoproxil  Interaction not studied.  HERBAL PRODUCTS  St. John’s wort  (Hypericum perforatum ) Interaction not studied with any of the components of Eviplera.  Eviplera must not be used in combination with products containing St . John’s wort as co -administration may cause significant decreases in rilpivirine plasma concentrations .  This may result in loss of therapeutic effect of Eviplera (see section  4.3). 20 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  HMG  CO-A REDUCTASE INHIBITORS  Atorvastatin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Atorvastatin (40  mg once daily)/ Rilpivirine1 Atorvastatin:  AUC: ↔  Cmin: ↓ 15% Cmax: ↑ 35% 
- Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↓ 9% Atorvastatin/Tenofovir disoproxil  Interaction not studied.  PHOSPHODIESTERASE TYPE  5 (PDE -5) INHIBITORS  Sildenafil/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Sildenafil (50  mg single dose)/ Rilpivirine1 
+ H increase).  Antacids should only be administered either at least 2  hours before or at least 4  hours after Eviplera.  18 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  NARCOTIC ANALGESICS  Methadone/Emtricitabine  Interaction not studied.  No dose adjustments are required when initiating co -administration of methadone with Eviplera.  However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients.  Methadone (60 -100 mg once daily, individualised dose )/Rilpivirine  R(-) methadone:  AUC: ↓  16% Cmin: ↓ 22% Cmax: ↓ 14% 
+ Rilpivirine:  AUC: ↔* Cmin: ↔* Cmax: ↔* 
+*based on historic controls  Methadone/Tenofovir disoproxil  Methadone:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Tenofovir:  AUC: ↔ Cmin: ↔ Cmax: ↔ ANALGESICS  Paracetamol/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Paracetamol (500  mg single dose)/ Rilpivirine1 Paracetamol:  AUC: ↔ Cmin: N/A Cmax: ↔ 
+ Rilpivirine:  AUC: ↔ Cmin: ↑ 26% Cmax: ↔ Paracetamol/Tenofovir disoproxil  Interaction not studied.  ORAL CONTRACEPTIVES  Ethinylestradiol/Norethindrone/  Emtricitabine  Interaction not studied.  No dose adjustment is required.  Ethinylestradiol (0.035  mg once daily)/Rilpivirine  
+ Norethindrone (1  mg once daily)/ Rilpivirine  Ethinylestradiol:  AUC: ↔ Cmin: ↔ Cmax: ↑ 17% 
+ Norethindrone:  AUC: ↔ Cmin: ↔ Cmax: ↔ 
+ Rilpivirine:  AUC: ↔* Cmin: ↔* Cmax: ↔* 
+*based on historic controls  Ethinylestradiol/Norethindrone/  Tenofovir disoproxil  Ethinylestradiol:  AUC: ↔ Cmax: ↔ 
+ Tenofovir:  AUC: ↔ Cmax: ↔ 
+19 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  Norgestimate/Ethinylestradiol / Tenofovir disoproxil  Norgestimate:  AUC: ↔ Cmax: ↔ Cmin: N/A 
+ Ethinylestradiol:  AUC: ↔ Cmax: ↔ Cmin: ↔ No dose adjustment is required.  ANTIARRHYTHMICS  Digoxin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Digoxin/Rilpivirine  Digoxin:  AUC: ↔ Cmin: N/A Cmax: ↔ Digoxin/ Tenofovir disoproxil  Interaction not studied.  ANTICOAGULANTS  Dabigatran etexilate  Interaction not studied with any of the components of Eviplera.  A risk for increases in dabigatran plasma concentrations cannot be excluded (inhibition of intestinal P-gp. 
+ The combination of Eviplera and dabigatran etexilate should be used with caution.  IMMUNOSUPPRESSANTS  Tacrolimus /Tenofovir disoproxil/  Emtricitabine  Tacrolimus:  AUC: ↔ Cmax: ↔ Cmin: N/A 
+ Emtricitabine:  AUC: ↔ Cmax: ↔ Cmin: N/A 
+ Tenofovir:  AUC: ↔ Cmax: ↔ Cmin: N/A No dose adjustment is required.  ANTIDIABETICS  Metformin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Metformin (850  mg single dose)/ Rilpivirine  Metformin:  AUC: ↔ Cmin: N/A Cmax: ↔ Metformin/Tenofovir disoproxil  Interaction not studied.  HERBAL PRODUCTS  St. John’s wort  (Hypericum perforatum ) Interaction not studied with any of the components of Eviplera.  Eviplera must not be used in combination with products containing St . John’s wort as co -administration may cause significant decreases in rilpivirine plasma concentrations .  This may result in loss of therapeutic effect of Eviplera (see section  4.3). 20 Medicinal product by therapeutic areas  Effects on medicinal product levels.  Mean percent change in AUC, Cmax, C min Recommendation concerning co-administration with Eviplera  HMG  CO-A REDUCTASE INHIBITORS  Atorvastatin/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Atorvastatin (40  mg once daily)/ Rilpivirine1 Atorvastatin:  AUC: ↔ Cmin: ↓ 15% Cmax: ↑ 35% 
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↓ 9% Atorvastatin/Tenofovir disoproxil  Interaction not studied.  PHOSPHODIESTERASE TYPE  5 (PDE -5) INHIBITORS  Sildenafil/Emtricitabine  Interaction not studied.  No dose adjustment is required.  Sildenafil (50  mg single dose)/ Rilpivirine1 
    
  
  Vardenafil
-2 Tadalafil2 Sildenafil:  AUC: ↔  Cmin: N/A Cmax: ↔ 
- Rilpivirine:  AUC: ↔  Cmin: ↔ Cmax: ↔ Sildenafil/Tenofovir disoproxil  Interaction not studied.  N/A = not applicable  
+2 Tadalafil2 Sildenafil:  AUC: ↔ Cmin: N/A Cmax: ↔ 
+ Rilpivirine:  AUC: ↔ Cmin: ↔ Cmax: ↔ Sildenafil/Tenofovir disoproxil  Interaction not studied.  N/A = not applicable  
 1 This interaction study has been performed with a dose higher than the recommended dose for rilpivirine hydrochloride assessing the maximal effect on the co -administered medicinal product.  The dosing recommendation is applicable to the recommended dose of rilpivirine of 25  mg once daily.  
 2 These are medicinal products within class where similar interactions could be predicted.  
-3 This interaction study has been performed with a dose higher than the recommended dose for rilpivirine hydrochloride assessing the  maximal effect on the co -administered medicinal product.  
+3 This interaction study has been performed with a dose higher than the recommended dose for rilpivirine hydrochloride assessing the maximal effect on the co -administered medicinal product.  
 4 The predominant circulating metabolite of sofosbuvir.  
 5 Study conducted with additional voxilaprevir 100  mg to achieve voxilaprevir exposures expected in hepatitis C virus (HCV)  infected patients.  
 6 Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide fixed-dose combination tablet.  

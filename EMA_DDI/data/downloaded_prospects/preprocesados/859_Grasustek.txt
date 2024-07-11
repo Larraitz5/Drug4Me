@@ -1,7 +1,8 @@
-4.5 Interaction with other medicinal products and other forms of interaction  
- Due to the potential sensitivity of rapidly div iding myeloid cells to cytotoxic chemotherapy‚ pegfilgrastim should be administered at least 24  hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgras tim has been safely administered 14 days before chemotherapy. Concomitant us e of pegfilgrastim with any chemotherapy  has not been evaluated in patients. In animal models , concomitant administration of pegfilgrastim and 5- fluorouracil (5- FU) or other antimetabolites has been shown to potentiate myelosuppression.   6 
-  Possible interac tions with other haematopoietic growth factors and cytokines have not been specifically investigated in clinical trials.  
- The potential for interaction with lithium, which also promotes the release of neutrophils, has not been specifically investigated. Th ere is no evidence that such an interaction would be harmful.  
- The safety and efficacy of Grasustek  have not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression e.g., nitrosoureas.  
- Specific in teraction or metabolism studies have not been performed;  however, clinical trials have not indicated an interaction of pegfilgrastim with any other medicinal products.  
+4.5 Interaction with other medicinal pr oducts and other fo rms of interaction 
+ Due to the potential sensitivity of rapidly divi ding myeloid cells to cytotoxic chemotherapy‚ pegfilgrastim should be administered at least 24 hours after administration of cytotoxic chemotherapy. In clinical trials, pegfilgrastim has been safe ly administered 14 days before chemotherapy. Concomitant use of pegfilgrastim with any chemotherapy  has not been evaluated in patients. In animal models, concomitant administration of pegfilgrastim and 5-fluorouracil (5-FU) or other antimetabolites has been shown to potentiate myel osuppression.  
+ Possible interactions with othe r haematopoietic growth factors and cytokines have not been specifically investigated  in clinical trials. 
+ 6 
+ The potential for interaction with lithium, which also promotes  the release of neutrophils, has not been specifically investigated. There is no evidence that such an interaction woul d be harmful. 
+ The safety and efficacy of Grasustek have not been evaluated in patients receiving chemotherapy associated with delayed myelosuppression e.g., nitrosoureas. 
+ Specific interaction or metabolism st udies have not been performed; ho wever, clinical trials have not indicated an interaction of  pegfilgrastim with any other medicinal products. 
  

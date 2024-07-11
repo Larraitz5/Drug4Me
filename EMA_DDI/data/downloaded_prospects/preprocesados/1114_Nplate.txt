@@ -1,5 +1,5 @@
 4.5 Interaction with other medicinal products and other forms of interaction  
  No interaction studies have been performed. The potential interactions of romiplostim with co-administered medicinal products due to binding to plasma proteins remain unknown.  
  Medicinal products used in the treatment of ITP in combination with romiplostim in clinical trials included corticosteroids, danazol, and/or azathioprine, intravenous immunoglobulin  (IVIG), and anti-D immunoglobulin. Platelet counts should be monitored when combining romiplostim with other medicinal products for the treatment of ITP in order to avoid platelet counts outside of the recommended range (see section  4.2). 
- Corticosteroids, danazol, and azathioprine use may be reduced or discontinued when given in combination with romiplostim (see section  5.1). Platelet counts should be monitored when reducing or discontinuing other ITP treatments in order to avoid platelet c ounts below the recom mended range (see section  4.2). 
+ Corticosteroids, danazol, and azathioprine use may be reduced or discontinued when given in combination with romiplostim (see section  5.1). Platelet counts should be monitored when reducing or discontinuing other ITP treatments in order to avoid platelet counts below the recom mended range (see section  4.2). 
  

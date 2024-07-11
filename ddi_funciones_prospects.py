@@ -1,18 +1,15 @@
 import os
+import time
 import re
 import PyPDF2
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from ddi_funciones_EMA import read_json_file2, solicitud_downloadfile_url
+from db_funciones import read_json_file
+from ddi_funciones_EMA import solicitud_downloadfile_url
 
 # Funciones para el proceso de obtención de ddi a partir de los prospectos de la EMA
-
-json_file = "EMA_DDI/properties_ema/properties_ema.json"
-data = read_json_file2(json_file)
-base_path = data["base_path"]["base_path"]
-
-properties_ema = read_json_file2(os.path.join(base_path, "properties_ema", "properties_ema.json"))["ema"]
+properties_ema = read_json_file("EMA_DDI/properties_ema/properties_ema.json")["ema"]
 
 
 # Paso 1: Obtener el excel de todos los medicamento desde la EMA, procesarlo y filtrarlo
@@ -69,9 +66,40 @@ def download_prosp(url, medicine_name, nombre_archivo):
                             return None, None
                         else:
                             return nombre_archivo, medicine_name
-                except (Exception,):
+                except (Exception,) as e:
+                    print(e)
                     continue
         else:
+            print(f"Outside link - Status code: {response.status_code} - Retry after: {float(response.headers["Retry-After"])}")
+            time.sleep(float(response.headers["Retry-After"]))
+            response = requests.get(url, verify=False)
+            # Verificar si la solicitud fue exitosa (código de estado 200)
+
+            if response.status_code == 200:
+                # Obtener el contenido de la respuesta
+                html_content = response.text
+
+                # Crear un objeto BeautifulSoup para analizar el HTML
+                soup = BeautifulSoup(html_content, 'html.parser')
+                # Filtrar los links buscando textos clave
+                links = soup.find_all('a', target="_blank",
+                                      class_='standalone align-self-top d-inline-block mt-3-5 mt-md-0 flex-shrink-0')
+
+                # Iterar sobre los enlaces encontrados para encontrar el PDF específico
+                for link in links:
+                    try:
+                        href = link.get('href', '')
+                        if 'product-information' in href:
+                            file_path_save = properties_ema["output_path_prospects"] + nombre_archivo
+                            href_file = "https://www.ema.europa.eu" + href
+                            descarga = solicitud_downloadfile_url(href_file, file_path_save)
+                            if descarga is None:
+                                return None, None
+                            else:
+                                return nombre_archivo, medicine_name
+                    except (Exception,) as e:
+                        print(e)
+                        continue
             return None, None
     except (Exception,):
         return None, None

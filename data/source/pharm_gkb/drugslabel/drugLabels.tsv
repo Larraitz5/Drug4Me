@@ -143,7 +143,7 @@ PA166184239	Annotation of Swissmedic Label for vortioxetine and CYP2D6	Swissmedi
 PA166184386	Annotation of Swissmedic Label for letermovir and SLCO1B1, UGT1A1	Swissmedic		Informative PGx							letermovir	SLCO1B1; UGT1A1	rs2306283; rs4148323; rs4149032; rs4149056; UGT1A1*28	
 PA166122967	Annotation of EMA Label for fesoterodine and CYP2D6	EMA		Actionable PGx							fesoterodine	CYP2D6		2014-08-07
 PA166119823	Annotation of EMA Label for afatinib and EGFR	EMA		Testing Required					Cancer Genome		afatinib	EGFR		2024-04-15
-PA166286161	Annotation of HCSC Label for allopurinol and HLA-B	HCSC		Testing Recommended	Prescribing Info					Prescribing	allopurinol	HLA-B	HLA-B*58:01	
+PA166286161	Annotation of HCSC Label for allopurinol and HLA-B	HCSC		Testing Recommended	Prescribing Info		Alternate Drug			Prescribing	allopurinol	HLA-B	HLA-B*58:01	2024-06-18
 PA166184422	Annotation of Swissmedic Label for tetrabenazine and CYP2D6	Swissmedic		Testing Required	Prescribing Info					Prescribing	tetrabenazine	CYP2D6		
 PA166122947	Annotation of EMA Label for ranolazine and CYP2D6	EMA		Actionable PGx							ranolazine	CYP2D6		
 PA166122966	Annotation of EMA Label for darifenacin and CYP2D6	EMA		Actionable PGx							darifenacin	CYP2D6		2014-08-07
@@ -402,7 +402,6 @@ PA166104826	Annotation of FDA Label for cetuximab and BRAF, EGFR, KRAS, NRAS	FDA
 PA166104783	Annotation of FDA Label for rasburicase and CYB5R1, CYB5R2, CYB5R3, CYB5R4	FDA	On FDA Biomarker List	Informative PGx							rasburicase	CYB5R1; CYB5R2; CYB5R3; CYB5R4		2016-03-21
 PA166104863	Annotation of FDA Label for dexlansoprazole and CYP2C19	FDA	On FDA Biomarker List	Actionable PGx							dexlansoprazole	CYP2C19		2013-10-25
 PA166104820	Annotation of FDA Label for doxepin and CYP2C19, CYP2D6	FDA	On FDA Biomarker List	Actionable PGx							doxepin	CYP2C19; CYP2D6		2013-10-25
-PA166104810	Annotation of FDA Label for mercaptopurine and NUDT15, TPMT	FDA	On FDA Biomarker List	Testing Recommended	Prescribing Info	Dosing Info				Prescribing	mercaptopurine	NUDT15; TPMT	NUDT15*2; NUDT15*3; TPMT*2; TPMT*3A; TPMT*3C	2023-10-24
 PA166104812	Annotation of FDA Label for protriptyline and CYP2D6	FDA	On FDA Biomarker List	Actionable PGx							protriptyline	CYP2D6		2013-10-25
 PA166104777	Annotation of FDA Label for clopidogrel and CYP2C19	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	clopidogrel	CYP2C19		2023-08-21
 PA166104851	Annotation of FDA Label for ticagrelor and CYP2C19	FDA	On FDA Biomarker List	Informative PGx							ticagrelor	CYP2C19		2017-03-16
@@ -426,6 +425,7 @@ PA166104802	Annotation of FDA Label for capecitabine and DPYD	FDA	On FDA Biomark
 PA166104815	Annotation of FDA Label for clozapine and CYP2D6	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info	Dosing Info				Prescribing	clozapine	CYP2D6		2023-08-23
 PA166104816	Annotation of FDA Label for esomeprazole and CYP2C19	FDA	On FDA Biomarker List	Actionable PGx							esomeprazole	CYP2C19		2013-10-25
 PA166104798	Annotation of FDA Label for propranolol and CYP2D6	FDA	On FDA Biomarker List	Informative PGx							propranolol	CYP2D6		2013-10-25
+PA166104810	Annotation of FDA Label for mercaptopurine and NUDT15, TPMT	FDA	On FDA Biomarker List	Testing Recommended	Prescribing Info	Dosing Info				Prescribing	mercaptopurine	NUDT15; TPMT	NUDT15*2; NUDT15*3; TPMT*2; TPMT*3A; TPMT*3C	2024-06-06
 PA166104864	Annotation of FDA Label for paroxetine and CYP2D6	FDA	On FDA Biomarker List								paroxetine	CYP2D6		2023-09-07
 PA166104836	Annotation of FDA Label for metoprolol and CYP2D6	FDA	On FDA Biomarker List	Actionable PGx							metoprolol	CYP2D6		2023-09-07
 PA166104808	Annotation of FDA Label for nelfinavir and CYP2C19, CYP3A	FDA	Formerly on FDA Biomarker List								nelfinavir	CYP2C19; CYP3A		2023-08-15
@@ -792,9 +792,9 @@ PA166169912	Annotation of FDA Label for enflurane	FDA	Formerly on FDA Biomarker 
 PA166182747	Annotation of FDA Label for lorlatinib and ROS1	FDA	On FDA Biomarker List	Informative PGx					Cancer Genome		lorlatinib	ROS1		2023-12-05
 PA166224341	Annotation of FDA Label for encorafenib and HRAS, KRAS, NRAS	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info				Cancer Genome	Prescribing	encorafenib	HRAS; KRAS; NRAS		2023-10-25
 PA166182746	Annotation of FDA Label for ceftriaxone and CYB5R3, G6PD	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info			Other Prescribing Guidance		Prescribing	ceftriaxone	CYB5R3; G6PD		2019-10-24
+PA166151882	Annotation of FDA Label for carbamazepine and HLA-A	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info			Other Prescribing Guidance		Prescribing	carbamazepine	HLA-A	HLA-A*31:01	2023-10-05
 PA166185151	Annotation of FDA Label for amifampridine and NAT2	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info	Dosing Info				Prescribing	amifampridine	NAT2		2024-05-10
 PA166104903	Annotation of FDA Label for nitrofurantoin and G6PD	FDA	On FDA Biomarker List	Actionable PGx							nitrofurantoin	G6PD		2013-12-18
-PA166151882	Annotation of FDA Label for carbamazepine and HLA-A	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info					Prescribing	carbamazepine	HLA-A	HLA-A*31:01	2023-10-05
 PA166122972	Annotation of FDA Label for fesoterodine and CYP2D6	FDA	On FDA Biomarker List	Actionable PGx							fesoterodine	CYP2D6		2017-03-15
 PA166122970	Annotation of FDA Label for succinylcholine and BCHE, CACNA1S, RYR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug	Other Prescribing Guidance		Prescribing	succinylcholine	BCHE; CACNA1S; RYR1		2023-04-01
 PA166104837	Annotation of FDA Label for propafenone and CYP2D6	FDA	On FDA Biomarker List	Informative PGx							propafenone	CYP2D6		2023-09-25
@@ -909,8 +909,6 @@ PA166235901	Annotation of FDA Label for margetuximab and FCGR2A, FCGR2B, FCGR3A	
 PA166251601	Annotation of FDA Label for viloxazine and CYP2D6	FDA	On FDA Biomarker List	Actionable PGx							viloxazine	CYP2D6		
 PA166316321	Annotation of FDA Label for amikacin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	amikacin	MT-RNR1	rs267606617	
 PA166184754	Annotation of FDA Label for procainamide and NAT2	FDA	On FDA Biomarker List	Actionable PGx							procainamide	NAT2		2023-09-07
-PA166316381	Annotation of FDA Label for gentamicin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	gentamicin	MT-RNR1	rs267606617	
-PA166316361	Annotation of FDA Label for streptomycin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	streptomycin	MT-RNR1	rs267606617	
 PA166316341	Annotation of FDA Label for tobramycin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	tobramycin	MT-RNR1	rs267606617	
 PA166317521	Annotation of EMA Label for asciminib and ABL1, BCR	EMA		Testing Required					Cancer Genome		asciminib	ABL1; BCR		
 PA166317541	Annotation of EMA Label for ganaxolone and CDKL5	EMA		Testing Required							ganaxolone	CDKL5		
@@ -927,6 +925,8 @@ PA166159964	Annotation of FDA Label for olaparib and BRCA1, BRCA2, ERBB2	FDA	On 
 PA166251522	Annotation of FDA Label for cabotegravir / rilpivirine and HLA-B	FDA	On FDA Biomarker List								cabotegravir / rilpivirine	HLA-B		2023-12-05
 PA166268882	Annotation of FDA Label for belzutifan and CYP2C19, UGT2B17	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info			Other Prescribing Guidance		Prescribing	belzutifan	CYP2C19; UGT2B17	CYP2C19*2; CYP2C19*3	2023-09-28
 PA166182722	Annotation of FDA Label for erdafitinib and CYP2C9	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info			Other Prescribing Guidance		Prescribing	erdafitinib	CYP2C9	CYP2C9*3	2019-10-09
+PA166316381	Annotation of FDA Label for gentamicin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	gentamicin	MT-RNR1	rs267606617	
+PA166316361	Annotation of FDA Label for streptomycin and MT-RNR1	FDA	On FDA Biomarker List	Actionable PGx	Prescribing Info		Alternate Drug			Prescribing	streptomycin	MT-RNR1	rs267606617	
 PA166317442	Annotation of EMA Label for Ascorbic acid (vitamin C), plain	EMA									Ascorbic acid (vitamin C), plain			
 PA166317443	Annotation of EMA Label for desmopressin	EMA									desmopressin			
 PA166317444	Annotation of EMA Label for levothyroxine	EMA									levothyroxine			
@@ -981,8 +981,8 @@ PA166317964	Annotation of HCSC Label for viltolarsen	HCSC									viltolarsen
 PA166317950	Annotation of HCSC Label for voxelotor	HCSC									voxelotor			
 PA166318001	Annotation of HCSC Label for setmelanotide and LEPR, PCSK1, POMC	HCSC		Testing Required							setmelanotide	LEPR; PCSK1; POMC		
 PA166318021	Annotation of HCSC Label for tremelimumab	HCSC									tremelimumab			
-PA166294083	Annotation of HCSC Label for durvalumab and CD274	HCSC							Cancer Genome		durvalumab	CD274		2023-08-15
 PA166319021	Annotation of FDA Label for mepolizumab and FIP1L1, PDGFRA	FDA	On FDA Biomarker List								mepolizumab	FIP1L1; PDGFRA		
+PA166294083	Annotation of HCSC Label for durvalumab and CD274	HCSC							Cancer Genome		durvalumab	CD274		2023-08-15
 PA166317221	Annotation of FDA Label for rozanolixizumab and CHRNA1, CHRNA3, CHRNA4, CHRNA5, CHRNA6, CHRNA7, CHRNB1, CHRNE, MUSK	FDA	On FDA Biomarker List								rozanolixizumab	CHRNA1; CHRNA3; CHRNA4; CHRNA5; CHRNA6; CHRNA7; CHRNB1; CHRNE; MUSK		
 PA166317281	Annotation of FDA Label for leniolisib and PIK3CD, PIK3R1	FDA	On FDA Biomarker List								leniolisib	PIK3CD; PIK3R1		
 PA166317948	Annotation of HCSC Label for rimegepant and CYP2C9	HCSC		Informative PGx							rimegepant	CYP2C9	CYP2C9*2; CYP2C9*3	2024-03-13
@@ -1144,3 +1144,7 @@ PA166340121	Annotation of EMA Label for amphetamine	EMA									amphetamine
 PA166340141	Annotation of HCSC Label for amphetamine and CYP2D6	HCSC		Informative PGx							amphetamine	CYP2D6		
 PA166340161	Annotation of FDA Label for axitinib and CYP2C19, UGT1A1	FDA		Informative PGx							axitinib	CYP2C19; UGT1A1		
 PA166340181	Annotation of HCSC Label for axitinib and CYP2C19, UGT1A1	HCSC		Informative PGx							axitinib	CYP2C19; UGT1A1		
+PA166336561	Annotation of EMA Label for teclistamab	EMA									teclistamab			
+PA166336562	Annotation of HCSC Label for teclistamab	HCSC									teclistamab			
+PA166341881	Annotation of HCSC Label for dostarlimab	HCSC		Testing Required					Cancer Genome		dostarlimab			
+PA166341882	Annotation of EMA Label for dostarlimab	EMA									dostarlimab			

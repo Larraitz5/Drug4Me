@@ -1,9 +1,9 @@
-4.5 Interaction with other medicinal products and other forms of interaction  
- No clinical drug-drug interactions studies have been conducted with Artesunate Amivas. 
- Effect of other medicinal products on a rtesunate and/or dihydroartemisinin ( DHA ) 
- After intravenous administration, artesunate is converted to DHA by esterases and by CYP2A6.  DHA is converted to inactive glucuronide conjugates primarily by UGT1A9.  
- 5 Co-administration of intravenous artesunate with strong inhib itors of UGT enzymes (e.g. axitinib, vandetanib, imatinib, diclofenac ) may increase plasma exposures to DHA. Co -administration should be avoided if possible. 
- Co-administration of Artesunate Amivas  with UGT inducers (e.g. nevirapine, ritonavir, rifampicin, carbamazepine, phenytoin) may decrease DHA  exposures, leading to a reduction in, or loss of, efficacy. Co -administration should be avoided.  
- Effect of artesunate and/or DHA on other medicinal products 
- Limited data from in -vitro studies and fr om clinical drug -drug interaction studies with oral artesunate and/or oral DHA have indicated that DHA induces CYP3A and inhibits CYP1A2. Caution is advised when co-administering intravenous artesunate with substrates of CYP3A4 or CYP1A2 that have narrow therapeutic windows.  
+4.5 Interaction with other medicinal products and other forms of interaction 
+ No clinical drug -drug interactions studies have been conducted with Artesunate Amivas.  
+ Effect of other medicinal products on artesunate and/or dihydroartemisinin ( DHA ) 
+ After intravenous administration, artesunate is converted to DHA by esterases and by CYP2A6.  DHA is converted to inactive glucuronide conjugates primarily by UGT1A9.   
+ 5 Co-administration of intravenous artesunate with strong inhibitors of UGT enzymes (e.g. axitinib, vandetanib, imatinib, diclofenac ) may increase plasma exposures to DHA. Co -administration should be avoided if possible.  
+ Co-administration of Artesunate Amivas  with UGT inducers (e.g.  nevirapine, ritonavir, rifampicin, carbamazepine, phenytoin) may decrease DHA exposures, leading to a reduction in, or loss of, efficacy. Co -administration should be avoided.  
+ Effect of artesunate and/or DHA on other medicinal products  
+ Limited data from in -vitro studies and from clinical drug-drug interaction studies with oral artesunate and/or oral DHA have indicated that DHA induces CYP3A and inhibits CYP1A2. Caution is advised when co -administering intravenous artesunate with substrates of CYP3A4 or CYP1A2 that have narrow therapeutic windows.  
  
