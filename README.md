@@ -30,4 +30,4 @@ python .\create_new_db.py.
 
 
 ## Contact
-Larraitz Larrañga - larraitz.larranaga@udc.es
+Larraitz Larrañaga - larraitz.larranaga@udc.es
