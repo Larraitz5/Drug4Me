@@ -20,12 +20,21 @@ Python 3.9+ is requiered to launch the system.
  streamlit run app.py
 ```
 
+
+
 ### Database Updating:
 1. If the app is opened, close the app.
 2. Run:
+
+On windows:
 ```bash
-python .\create_new_db.py.
+python .\create_new_db.py
 ```
+On MacOs or Linux:
+```bash
+python ./create_new_db.py
+```
+
 3. Wait until the execution is finished and restart the app.
 
 
