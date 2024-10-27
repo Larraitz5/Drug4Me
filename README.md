@@ -41,4 +41,5 @@ Python 3.9+ is requiered to launch the system.
 
 
 ## Contact
-Larraitz Larrañaga - larraitz.larranaga@udc.es
+Larraitz Larrañaga - larraitzmuguruza1@gmail.com
+
